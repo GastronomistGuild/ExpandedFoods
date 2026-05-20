@@ -141,6 +141,7 @@ MISC:
 - Superfuels Resumed compatibility actually works now - DONE!!!
 - Latin American Spanish translation added (thanks to Gloo_57) - DONE!!!
 - Soymilk description updated (thanks to origami79) - DONE!!!
+- French translation updated (thanks to MiahNelah) - DONE!!!
 
 Whiskey Sunshine updates:
 - Fix outdated patching method to fix modded ingredients being invalid in porridge recipe when EF is installed, removed duplicate vanilla ingredient entries from patches
@@ -155,6 +156,9 @@ Whiskey Sunshine updates:
 - Removed EF olive mash (now returns vanilla olive mash)
 - Fixed bad patches due to vanilla structure changes
 - Added correct side to some trough patches to clean up client-debug logs, other small assorted things
+- Spoil timers rebalanced around vanilla default balancing of 9-day months
+- Candied fruit standardized to last 30 days
+- Condensed winevinegar barrel recipes and change amount per recipe to match juice to wine recipe (0.01L instead of 0.1L)
 
 
 2.0.0-dev.7
