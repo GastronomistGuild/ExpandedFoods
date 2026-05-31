@@ -506,12 +506,12 @@
 			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
 			"scale": 3.4
 		},
-      "dehydratedfruit-*": {
-        "translation": { "x": 0, "y": 0, "z": 0 },
-        "rotation": { "x": 2, "y": 0, "z": 0 },
-        "origin": { "x": 0.5, "y": -0, "z": 0.5 },
-        "scale": 4
-      }
+        "dehydratedfruit-*": {
+          "translation": { "x": 0, "y": 0, "z": 0 },
+          "rotation": { "x": 2, "y": 0, "z": 0 },
+          "origin": { "x": 0.5, "y": -0, "z": 0.5 },
+          "scale": 4
+        }
 	},
     "heldRightReadyAnimationByType": {
       "@*(blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|cherry|lychee|beautyberry|blackberry|cactusfruit|cloudberry|gooseberry|plumnatal|raspberry|strawberry|kumquat)": "holdbothhands"

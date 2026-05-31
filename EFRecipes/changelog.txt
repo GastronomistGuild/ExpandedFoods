@@ -82,13 +82,13 @@ On hiatus until Wildcraft Herbs & Spices is updated
 -- Dried fruit - DONE!!!
 -- Candied fruit
 -- Barrel textures
-- Old fruit models still used for GUI via "shapeInventoryByType" (see blocktypes/plant/flower.json)
 - Do stuff with bamboo shoots? idk
 - New mushrooms added
 - Lard / olive oil figured out
 - New language strings added to meals
 - Hardened resin/lard comes out of buckets properly
 - Reviewed cooked veggie perish timers?
+- MEALS REMOVED FROM EF; SPLIT OUT INTO A SEPARATE MODULE!!! - DONE!!!
 
 
 GENERAL:
