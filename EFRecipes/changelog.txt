@@ -80,8 +80,14 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - New fruit added for:
 -- Dehydrated fruit - DONE!!!
 -- Dried fruit - DONE!!!
--- Candied fruit
+-- Candied fruit - DONE!!!
+-- Fruit bread - DONE!!!
+-- Muffins - DONE!!!
+-- Fruit bar - DONE!!!
+-- Pemmican - DONE!!!
 -- Barrel textures
+-- Alcohols
+-- Yogurt
 - Do stuff with bamboo shoots? idk
 - New mushrooms added
 - Lard / olive oil figured out

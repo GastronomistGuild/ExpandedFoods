@@ -60,13 +60,20 @@
         "peanut": { "base": "expandedfoods:item/food/candy/peanut" },
         "sunflower": { "base": "expandedfoods:item/food/candy/sunflower" },
         "appleF": { "base": "game:item/gelatin/apple" },
+        "beautyberryF": { "base": "game:item/gelatin/beautyberry" },
         "birchF": { "base": "game:item/gelatin/birch" },
+        "blackberryF": { "base": "game:item/gelatin/blackberry" },
         "blackcurrantF": { "base": "game:item/gelatin/blackcurrant" },
         "blueberryF": { "base": "game:item/gelatin/blueberry" },
         "breadfruitF": { "base": "game:item/gelatin/breadfruit" },
+        "cactusfruitF": { "base": "game:item/gelatin/cactusfruit" },
         "cherryF": { "base": "game:item/gelatin/cherry" },
+        "cloudberryF": { "base": "game:item/gelatin/cloudberry" },
         "cranberryF": { "base": "game:item/gelatin/cranberry" },
         "honeyF": { "base": "game:item/gelatin/honey" },
+        "gooseberryF": { "base": "game:item/gelatin/gooseberry" },
+        "guavaF": { "base": "game:item/gelatin/guava" },
+        "kumquatF": { "base": "game:item/gelatin/kumquat" },
         "lycheeF": { "base": "game:item/gelatin/lychee" },
         "mangoF": { "base": "game:item/gelatin/mango" },
         "mapleF": { "base": "game:item/gelatin/maple" },
@@ -74,58 +81,60 @@
         "peachF": { "base": "game:item/gelatin/peach" },
         "pearF": { "base": "game:item/gelatin/pear" },
         "pineappleF": { "base": "game:item/gelatin/pineapple" },
+        "plumnatalF": { "base": "game:item/gelatin/plumnatal" },
         "plainF": { "base": "game:item/gelatin/plain" },
         "pomegranateF": { "base": "game:item/gelatin/pomegranate" },
         "pumpkinF": { "base": "game:item/gelatin/pumpkin" },
+        "raspberryF": { "base": "game:item/gelatin/raspberry" },
         "redcurrantF": { "base": "game:item/gelatin/redcurrant" },
         "saguaroF": { "base": "game:item/gelatin/saguaro" },
+        "strawberryF": { "base": "game:item/gelatin/strawberry" },
         "whitecurrantF": { "base": "game:item/gelatin/whitecurrant" },
         "pinkappleO": { "base": "expandedfoods:item/food/grain/overlays/apple" },
         "redappleO": { "base": "expandedfoods:item/food/grain/overlays/apple" },
         "yellowappleO": { "base": "expandedfoods:item/food/grain/overlays/apple" },
         "appleO": { "base": "expandedfoods:item/food/grain/overlays/apple" },
+        "beautyberryO": { "base": "expandedfoods:item/food/grain/overlays/beautyberry" },
+        "blackberryO": { "base": "expandedfoods:item/food/grain/overlays/blackberry" },
         "blackcurrantO": { "base": "expandedfoods:item/food/grain/overlays/blackcurrant" },
         "blueberryO": { "base": "expandedfoods:item/food/grain/overlays/blueberry" },
         "breadfruitO": { "base": "expandedfoods:item/food/grain/overlays/breadfruit" },
+        "cactusfruitO": { "base": "expandedfoods:item/food/grain/overlays/cactusfruit" },
         "cherryO": { "base": "expandedfoods:item/food/grain/overlays/cherry" },
+        "cloudberryO": { "base": "expandedfoods:item/food/grain/overlays/cloudberry" },
         "cranberryO": { "base": "expandedfoods:item/food/grain/overlays/cranberry" },
+        "gooseberryO": { "base": "expandedfoods:item/food/grain/overlays/gooseberry" },
+        "guavaO": { "base": "expandedfoods:item/food/grain/overlays/guava" },
+        "kumquatO": { "base": "expandedfoods:item/food/grain/overlays/kumquat" },
         "lycheeO": { "base": "expandedfoods:item/food/grain/overlays/lychee" },
         "mangoO": { "base": "expandedfoods:item/food/grain/overlays/mango" },
         "orangeO": { "base": "expandedfoods:item/food/grain/overlays/orange" },
         "peachO": { "base": "expandedfoods:item/food/grain/overlays/peach" },
         "pearO": { "base": "expandedfoods:item/food/grain/overlays/pear" },
         "pineappleO": { "base": "expandedfoods:item/food/grain/overlays/pineapple" },
+        "plumnatalO": { "base": "expandedfoods:item/food/grain/overlays/plumnatal" },
         "pomegranateO": { "base": "expandedfoods:item/food/grain/overlays/pomegranate" },
         "pumpkinO": { "base": "expandedfoods:item/food/grain/overlays/pumpkin" },
+        "raspberryO": { "base": "expandedfoods:item/food/grain/overlays/raspberry" },
         "redcurrantO": { "base": "expandedfoods:item/food/grain/overlays/redcurrant" },
         "saguaroO": { "base": "expandedfoods:item/food/grain/overlays/saguaro" },
+        "strawberryO": { "base": "expandedfoods:item/food/grain/overlays/strawberry" },
         "whitecurrantO": { "base": "expandedfoods:item/food/grain/overlays/whitecurrant" }
     },
     "transitionablePropsByType": {
-		"*": [
-			{
-				"type": "Perish",
-				"freshHours": { "avg": 648 },
-				"transitionHours": { "avg": 72 },
-				"transitionedStack": {
-					"type": "item",
-					"code": "game:rot"
-				},
-				"transitionRatio": 0.25
-			}
-		]
+		"*": [{
+            "type": "Perish",
+            "freshHours": { "avg": 648 },
+            "transitionHours": { "avg": 72 },
+            "transitionedStack": { "type": "item", "code": "game:rot" },
+            "transitionRatio": 0.25
+        }]
 	},
 	"materialDensity": 600,
 	"nutritionPropsByType": {
-			"*-raw": {
-				"saturation": 100,
-				"health": 0.5,
-				"foodcategory": "Fruit"
-			}
+        "*-raw": { "saturation": 100, "health": 0.5, "foodcategory": "Fruit" }
 	},
-	"heldTpIdleAnimationByType": {
-			"*": "holdbothhands"
-	},
+	"heldTpIdleAnimationByType": { "*": "holdbothhands" },
 	"guiTransformByType": {
 			"*": {
 				"translation": { "x": 0, "y": 0, "z": 0 },
