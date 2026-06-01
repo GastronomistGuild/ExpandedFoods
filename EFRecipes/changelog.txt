@@ -97,6 +97,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Reviewed cooked veggie perish timers?
 - MEALS REMOVED FROM EF; SPLIT OUT INTO A SEPARATE MODULE!!! - DONE!!!
 - Washed seaweed texture added back in - DONE!!!
+- Hardened lard/resin can be removed from bowls in the crafting grid - DONE!!!
 
 
 GENERAL:

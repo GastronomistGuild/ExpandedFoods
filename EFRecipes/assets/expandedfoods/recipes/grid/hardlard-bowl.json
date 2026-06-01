@@ -1,0 +1,15 @@
+{
+	"ingredientPattern": "S",
+	"ingredients": {
+		"S": { "type": "block", "code": "game:bowl-*-fired" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+		    "requiresContent": { "type": "item", "code": "expandedfoods:hardlardliquid" },
+			"requiresLitres": 0.1
+		}
+	},		
+	"width": 1,
+	"height": 1,
+	"output": { "type": "block", "code": "expandedfoods:hardlard" }
+}
