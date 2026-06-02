@@ -302,6 +302,27 @@
   },
   {
     "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-apple",
+    "value": [ "topping", "applesyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-beautyberry",
+    "value": [ "topping", "beautyberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-blackberry",
+    "value": [ "topping", "blackberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-blackcurrant",
     "value": [ "topping", "blackcurrantsyrup" ],
     "side": "server",
@@ -316,41 +337,6 @@
   },
   {
     "op": "addmerge",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-cranberry",
-    "value": [ "topping", "cranberrysyrup" ],
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-redcurrant",
-    "value": [ "topping", "redcurrantsyrup" ],
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-whitecurrant",
-    "value": [ "topping", "whitecurrantsyrup" ],
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-pineapple",
-    "value": [ "topping", "pineapplesyrup" ],
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-apple",
-    "value": [ "topping", "applesyrup" ],
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
     "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-breadfruit",
     "value": [ "topping", "breadfruitsyrup" ],
     "side": "server",
@@ -358,8 +344,50 @@
   },
   {
     "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-cactusfruit",
+    "value": [ "topping", "cactusfruitsyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-cherry",
     "value": [ "topping", "cherrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-cloudberry",
+    "value": [ "topping", "cloudberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-cranberry",
+    "value": [ "topping", "cranberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-gooseberry",
+    "value": [ "topping", "gooseberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-guava",
+    "value": [ "topping", "guavasyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-kumquat",
+    "value": [ "topping", "kumquatsyrup" ],
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },
@@ -400,8 +428,57 @@
   },
   {
     "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-pineapple",
+    "value": [ "topping", "pineapplesyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-plumnatal",
+    "value": [ "topping", "plumnatalsyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-pomegrante",
     "value": [ "topping", "pomegranatesyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-raspberry",
+    "value": [ "topping", "raspberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-redcurrant",
+    "value": [ "topping", "redcurrantsyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-saguaro",
+    "value": [ "topping", "saguarosyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-strawberry",
+    "value": [ "topping", "strawberrysyrup" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:fruitsyrupportion-whitecurrant",
+    "value": [ "topping", "whitecurrantsyrup" ],
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },
@@ -435,6 +512,27 @@
   },
   {
     "op": "addmerge",
+    "path": "/textures/applesyrup",
+    "value": { "base": "item/gelatin/apple" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/beautyberrysyrup",
+    "value": { "base": "item/gelatin/beautyberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/blackberrysyrup",
+    "value": { "base": "item/gelatin/blackberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/textures/blackcurrantsyrup",
     "value": { "base": "item/gelatin/blackcurrant" },
     "side": "server",
@@ -449,41 +547,6 @@
   },
   {
     "op": "addmerge",
-    "path": "/textures/cranberrysyrup",
-    "value": { "base": "item/gelatin/cranberry" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/redcurrantsyrup",
-    "value": { "base": "item/gelatin/redcurrant" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/whitecurrantsyrup",
-    "value": { "base": "item/gelatin/whitecurrant" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/pineapplesyrup",
-    "value": { "base": "item/gelatin/pineapple" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/applesyrup",
-    "value": { "base": "item/gelatin/apple" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
     "path": "/textures/breadfruitsyrup",
     "value": { "base": "item/gelatin/breadfruit" },
     "side": "server",
@@ -491,8 +554,50 @@
   },
   {
     "op": "addmerge",
+    "path": "/textures/cactusfruitsyrup",
+    "value": { "base": "item/gelatin/cactusfruit" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/textures/cherrysyrup",
     "value": { "base": "item/gelatin/cherry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/cloudberrysyrup",
+    "value": { "base": "item/gelatin/cloudberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/cranberrysyrup",
+    "value": { "base": "item/gelatin/cranberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/gooseberrysyrup",
+    "value": { "base": "item/gelatin/gooseberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/guavasyrup",
+    "value": { "base": "item/gelatin/guava" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/kumquatsyrup",
+    "value": { "base": "item/gelatin/kumquat" },
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },
@@ -533,8 +638,57 @@
   },
   {
     "op": "addmerge",
+    "path": "/textures/pineapplesyrup",
+    "value": { "base": "item/gelatin/pineapple" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/plumnatalsyrup",
+    "value": { "base": "item/gelatin/plumnatal" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/textures/pomegranatesyrup",
     "value": { "base": "item/gelatin/pomegranate" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/raspberrysyrup",
+    "value": { "base": "item/gelatin/raspberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/redcurrantsyrup",
+    "value": { "base": "item/gelatin/redcurrant" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/saguarosyrup",
+    "value": { "base": "item/gelatin/saguaro" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/strawberrysyrup",
+    "value": { "base": "item/gelatin/strawberry" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/whitecurrantsyrup",
+    "value": { "base": "item/gelatin/whitecurrant" },
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },
@@ -871,13 +1025,6 @@
     "op": "addmerge",
     "path": "/textures/pomegranatewine",
     "value": { "base": "game:block/food/pie/fill-pomegranate" },
-    "side": "server",
-    "file": "blocktypes/clay/fired/pot.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/saguarosyrup",
-    "value": { "base": "game:block/food/pie/fill-saguaro" },
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },

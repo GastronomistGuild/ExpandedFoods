@@ -82,6 +82,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Hardened resin/lard comes out of buckets properly
 - Reviewed cooked veggie perish timers?
 - Fruit textures updated for barrel
+- Meal compatibility patches pushed out to EF Meals module - DONE!!!
 
 GENERAL:
 - Meathook placements adjusted yet again
@@ -135,7 +136,7 @@ MISC:
 
 2.0.0-dev.9
 
-1.22 Update shit (lord have mercy):
+1.22 Update: (lord have mercy):
 - New fruit added for:
 -- Dehydrated fruit 
 -- Dried fruit
