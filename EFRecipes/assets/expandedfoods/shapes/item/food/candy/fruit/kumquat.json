@@ -1,0 +1,427 @@
+{
+	"editor": {
+		"collapsedPaths": "Root/origin/fruit3-3,Root/origin/fruit2-4,Root/origin/fruit3-4,Root/origin/fruit1-1,Root/origin/fruit2-2,Root/origin/fruit2-1",
+		"allAngles": true,
+		"entityTextureMode": false
+	},
+	"textureWidth": 4,
+	"textureHeight": 4,
+	"textureSizes": {
+		"kumquat": [4,4],
+		"fill-kumquat": [16,16],
+		"kumquatsyrup": [4,4]
+	},
+	"textures": {
+		"kumquatsyrup": "game:item/gelatin/kumquat",
+		"fill-kumquat": "game:block/food/pie/fill-kumquat",
+		"kumquat": "game:item/food/fruit/kumquat"
+	},
+	"elements": [
+		{
+			"name": "origin",
+			"from": [ 8.5, 0.0, 8.0 ],
+			"to": [ 8.5, 0.0, 8.0 ],
+			"rotationOrigin": [ 8.5, 0.0, 8.0 ],
+			"faces": {
+			},
+			"children": [
+				{
+					"name": "fruit1-1",
+					"from": [ -2.1, 0.0, -0.9 ],
+					"to": [ -0.85, 3.0, 0.35 ],
+					"rotationOrigin": [ -0.85, 1.5, 0.35 ],
+					"rotationX": -90.0,
+					"rotationZ": 31.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 1.75, 0.5, 3.0, 3.5 ], "autoUv": false },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.5, 5.0, 4.5, 8.0 ] },
+						"south": { "texture": "#fill-kumquat", "uv": [ 2.5, 4.0, 3.5, 7.0 ] },
+						"west": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 0.0, 3.5, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup1",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit1-2",
+					"from": [ 0.45, 0.0, -2.6 ],
+					"to": [ 1.7, 3.0, -1.35 ],
+					"rotationOrigin": [ 1.7, 1.5, -1.35 ],
+					"rotationX": -90.0,
+					"rotationZ": 83.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 0.5, 0.5, 1.75, 3.5 ], "autoUv": false, "windMode": [-1,-1,-1,-1] },
+						"east": { "texture": "#kumquat", "uv": [ 2.25, 0.5, 3.5, 3.5 ], "autoUv": false },
+						"south": { "texture": "#fill-kumquat", "uv": [ 9.5, 9.0, 10.5, 12.0 ] },
+						"west": { "texture": "#fill-kumquat", "uv": [ 4.0, 8.0, 5.0, 11.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 0.0, 2.25, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup2",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationX": 0.0,
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit1-3",
+					"from": [ 0.6, -1.25, 2.75 ],
+					"to": [ 1.85, 1.75, 4.0 ],
+					"rotationOrigin": [ 1.85, 0.25, 4.0 ],
+					"rotationX": 90.0,
+					"rotationZ": 63.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.5, 3.0, 14.5, 6.0 ] },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.0, 9.5, 4.0, 12.5 ] },
+						"south": { "texture": "#kumquat", "uv": [ 0.0, 0.0, 1.25, 3.0 ], "autoUv": false },
+						"west": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 1.25, 1.75, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 1.25, 3.5, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup3",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit1-4",
+					"from": [ -0.75, -1.25, -5.25 ],
+					"to": [ 0.5, 1.75, -4.0 ],
+					"rotationOrigin": [ 0.5, 0.25, -4.0 ],
+					"rotationX": 90.0,
+					"rotationZ": -57.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.0, 11.0, 14.0, 14.0 ] },
+						"east": { "texture": "#kumquat", "uv": [ 1.0, 0.5, 2.25, 3.5 ], "autoUv": false },
+						"south": { "texture": "#kumquat", "uv": [ 1.25, 0.0, 2.5, 3.0 ], "autoUv": false },
+						"west": { "texture": "#fill-kumquat", "uv": [ 6.0, 12.0, 7.0, 15.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 1.25, 3.0, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 1.25, 2.25, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup4",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationX": 0.0,
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit2-1",
+					"from": [ -4.2, 0.0, 2.1 ],
+					"to": [ -2.95, 3.0, 3.35 ],
+					"rotationOrigin": [ -2.95, 1.5, 3.35 ],
+					"rotationX": -90.0,
+					"rotationZ": -129.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 1.75, 0.5, 3.0, 3.5 ], "autoUv": false },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.5, 5.0, 4.5, 8.0 ] },
+						"south": { "texture": "#fill-kumquat", "uv": [ 2.5, 4.0, 3.5, 7.0 ] },
+						"west": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 0.0, 3.5, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup5",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit2-2",
+					"from": [ -4.55, 0.0, -1.9 ],
+					"to": [ -3.3, 3.0, -0.65 ],
+					"rotationOrigin": [ -3.3, 1.5, -0.65 ],
+					"rotationX": -90.0,
+					"rotationZ": -31.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 0.5, 0.5, 1.75, 3.5 ], "autoUv": false, "windMode": [-1,-1,-1,-1] },
+						"east": { "texture": "#kumquat", "uv": [ 2.25, 0.5, 3.5, 3.5 ], "autoUv": false },
+						"south": { "texture": "#fill-kumquat", "uv": [ 9.5, 9.0, 10.5, 12.0 ] },
+						"west": { "texture": "#fill-kumquat", "uv": [ 4.0, 8.0, 5.0, 11.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 0.0, 2.25, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup6",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationX": 0.0,
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit2-3",
+					"from": [ -0.8, -0.13, -0.15 ],
+					"to": [ 0.45, 2.87, 1.1 ],
+					"rotationOrigin": [ 0.45, 1.33, 1.1 ],
+					"rotationX": 40.0,
+					"rotationY": -54.0,
+					"rotationZ": -137.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.5, 3.0, 14.5, 6.0 ] },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.0, 9.5, 4.0, 12.5 ] },
+						"south": { "texture": "#kumquat", "uv": [ 0.0, 0.0, 1.25, 3.0 ], "autoUv": false },
+						"west": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 1.25, 1.75, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 1.25, 3.5, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup7",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit2-4",
+					"from": [ -1.05, -0.25, -3.05 ],
+					"to": [ 0.2, 2.75, -1.8 ],
+					"rotationOrigin": [ 0.2, 1.25, -1.8 ],
+					"rotationX": 37.0,
+					"rotationY": 49.0,
+					"rotationZ": -37.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.0, 11.0, 14.0, 14.0 ] },
+						"east": { "texture": "#kumquat", "uv": [ 1.0, 0.5, 2.25, 3.5 ], "autoUv": false },
+						"south": { "texture": "#kumquat", "uv": [ 1.25, 0.0, 2.5, 3.0 ], "autoUv": false },
+						"west": { "texture": "#fill-kumquat", "uv": [ 6.0, 12.0, 7.0, 15.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 1.25, 3.0, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 1.25, 2.25, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup8",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit3-1",
+					"from": [ 1.7, 1.751, -2.9 ],
+					"to": [ 2.95, 4.751, -1.65 ],
+					"rotationOrigin": [ 2.95, 3.251, -1.65 ],
+					"rotationX": -90.0,
+					"rotationZ": 20.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 1.75, 0.5, 3.0, 3.5 ], "autoUv": false },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.5, 5.0, 4.5, 8.0 ] },
+						"south": { "texture": "#fill-kumquat", "uv": [ 2.5, 4.0, 3.5, 7.0 ] },
+						"west": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 0.0, 1.75, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 0.0, 3.5, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup9",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit3-2",
+					"from": [ -3.45, 0.51, -2.4 ],
+					"to": [ -2.2, 3.51, -1.15 ],
+					"rotationOrigin": [ -2.2, 2.01, -1.15 ],
+					"rotationX": 91.0,
+					"rotationZ": 29.0,
+					"faces": {
+						"north": { "texture": "#kumquat", "uv": [ 0.5, 0.5, 1.75, 3.5 ], "autoUv": false, "windMode": [-1,-1,-1,-1] },
+						"east": { "texture": "#kumquat", "uv": [ 2.25, 0.5, 3.5, 3.5 ], "autoUv": false },
+						"south": { "texture": "#fill-kumquat", "uv": [ 9.5, 9.0, 10.5, 12.0 ] },
+						"west": { "texture": "#fill-kumquat", "uv": [ 4.0, 8.0, 5.0, 11.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 1.25 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 0.0, 2.25, 1.25 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup10",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit3-3",
+					"from": [ -2.0, 0.51, -0.05 ],
+					"to": [ -0.75, 3.51, 1.2 ],
+					"rotationOrigin": [ -0.75, 2.01, 1.2 ],
+					"rotationX": 90.0,
+					"rotationZ": 11.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.5, 3.0, 14.5, 6.0 ] },
+						"east": { "texture": "#fill-kumquat", "uv": [ 3.0, 9.5, 4.0, 12.5 ] },
+						"south": { "texture": "#kumquat", "uv": [ 0.0, 0.0, 1.25, 3.0 ], "autoUv": false },
+						"west": { "texture": "#kumquat", "uv": [ 1.75, 0.0, 3.0, 3.0 ], "autoUv": false },
+						"up": { "texture": "#kumquat", "uv": [ 0.5, 1.25, 1.75, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 2.25, 1.25, 3.5, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup11",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				},
+				{
+					"name": "fruit3-4",
+					"from": [ -0.15, 2.0, -2.45 ],
+					"to": [ 1.1, 5.0, -1.2 ],
+					"rotationOrigin": [ 1.1, 3.5, -1.2 ],
+					"rotationX": 83.0,
+					"rotationY": -9.0,
+					"rotationZ": -14.0,
+					"faces": {
+						"north": { "texture": "#fill-kumquat", "uv": [ 13.0, 11.0, 14.0, 14.0 ] },
+						"east": { "texture": "#kumquat", "uv": [ 1.0, 0.5, 2.25, 3.5 ], "autoUv": false },
+						"south": { "texture": "#kumquat", "uv": [ 1.25, 0.0, 2.5, 3.0 ], "autoUv": false },
+						"west": { "texture": "#fill-kumquat", "uv": [ 6.0, 12.0, 7.0, 15.0 ] },
+						"up": { "texture": "#kumquat", "uv": [ 1.75, 1.25, 3.0, 2.5 ], "autoUv": false },
+						"down": { "texture": "#kumquat", "uv": [ 1.0, 1.25, 2.25, 2.5 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "syrup12",
+							"from": [ -0.25, -0.25, -0.25 ],
+							"to": [ 1.5, 3.25, 1.5 ],
+							"rotationOrigin": [ -0.25, -0.25, -0.25 ],
+							"rotationX": 0.0,
+							"rotationY": 0.0,
+							"faces": {
+								"north": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"east": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"south": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"west": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"up": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false },
+								"down": { "texture": "#kumquatsyrup", "uv": [ 0.0, 0.0, 4.0, 4.0 ], "autoUv": false }
+							}
+						}
+					]
+				}
+			]
+		}
+	]}

@@ -74,22 +74,15 @@ On hiatus until Wildcraft Herbs & Spices is updated
 -- pomace wine no longer crashes
 
 
-2.0.0-dev.9
-
-1.22 Update shit (lord have mercy):
-- New fruit added for:
--- Dehydrated fruit - DONE!!!
--- Dried fruit - DONE!!!
--- Candied fruit
--- Barrel textures
-- Old fruit models still used for GUI via "shapeInventoryByType" (see blocktypes/plant/flower.json)
+2.0.0-dev.10
 - Do stuff with bamboo shoots? idk
 - New mushrooms added
 - Lard / olive oil figured out
 - New language strings added to meals
 - Hardened resin/lard comes out of buckets properly
 - Reviewed cooked veggie perish timers?
-
+- Fruit textures updated for barrel
+- Meal compatibility patches pushed out to EF Meals module - DONE!!!
 
 GENERAL:
 - Meathook placements adjusted yet again
@@ -121,7 +114,6 @@ BUG FIXES:
 - Oven transforms reviewed for all items
 - Peanut butter fixed so it gives nutrients when in bowl/bucket
 - Acorn muffin recipe fixed so it stops crashing in handbook
-- Dried and washed seaweed textures re-added back in (not sure how they vanished) - DONE!!!
 
 NEW FOOD:
 - added meatloaf?
@@ -142,7 +134,23 @@ MISC:
 - Aged spirit/cider text and visuals revised and updated
 
 
+2.0.0-dev.9
 
+1.22 Update: (lord have mercy):
+- New fruit added for:
+-- Dehydrated fruit 
+-- Dried fruit
+-- Candied fruit 
+-- Fruit bread 
+-- Muffins
+-- Fruit bar 
+-- Pemmican
+-- Alcohols
+-- Yogurt
+
+- MEALS REMOVED FROM EF; SPLIT OUT INTO A SEPARATE MODULE!!!
+- Dried and washed seaweed textures re-added back in (not sure how they vanished)
+- Hardened lard/resin can be removed from bowls in the crafting grid
 
 2.0.0-dev.8
 - Lots of little things changed to get Expanded Foods semi-operational on 1.22

@@ -61,9 +61,13 @@
             "origin": { "x": 0.5, "y": -0, "z": 0.5 },
             "scale": 0.35
           },
+          "*-guava": {
+            "origin": { "x": 0.5, "y": -0, "z": 0.5 },
+            "scale": 0.4
+          },
           "candiedfruit-*": {
             "origin": { "x": 0.5, "y": -0, "z": 0.5 },
-            "scale": 0.45
+            "scale": 0.55
           }
         }
     },
@@ -153,12 +157,54 @@
 			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
 			"scale": 2.6
 		},
-		"@*-(peach|pear)": {
+		"@*-(peach|pear|guava|kumquat)": {
             "translation": { "x": 1, "y": 0, "z": 0 },
             "rotation": { "x": 171, "y": -63, "z": 33 },
             "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 2.0
-		}
+            "scale": 2.3
+		},
+        "@*-(beautyberry|blackberry|cloudberry|gooseberry)": {
+          "translation": { "x": 5, "y": 0, "z": 0 },
+          "rotation": { "x": 149, "y": 90, "z": -1 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 3.2
+        },
+        "*-gooseberry": {
+            "translation": { "x": 3, "y": 0, "z": 0 },
+            "rotation": { "x": 148, "y": 140, "z": -1 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 3.2
+        },
+        "*-cactusfruit": {
+            "translation": { "x": 3, "y": 0, "z": 0 },
+            "rotation": { "x": 138, "y": 0, "z": -1 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 3.2
+        },
+        "*-guava": {
+            "translation": { "x": 3, "y": 0, "z": 0 },
+            "rotation": { "x": 171, "y": -63, "z": 33 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 2.3
+        },
+        "*-plumnatal": {
+            "translation": { "x": 3, "y": 0, "z": 0 },
+            "rotation": { "x": 138, "y": 0, "z": -1 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 2.3
+        },
+        "@*-(raspberry|strawberry)": {
+          "translation": { "x": 0, "y": 0, "z": 0 },
+          "rotation": { "x": 138, "y": 0, "z": -1 },
+          "origin": { "x": 0.48, "y": 0.1, "z": 0.5 },
+          "scale": 3.2
+        },
+        "candiedfruit-*": {
+          "translation": { "x": 0, "y": 0, "z": 0 },
+          "rotation": { "x": 138, "y": 0, "z": -1 },
+          "origin": { "x": 0.48, "y": 0.1, "z": 0.5 },
+          "scale": 2.0
+        }
 	},
 	"tpHandTransformByType": {
 		"*-pomegranate": {
@@ -210,7 +256,28 @@
           "translation": { "x": -1.9, "y": -0.3, "z": -1.34 },
           "rotation": { "x": 0, "y": 14, "z": -90 },
           "origin": { "x": 0.5, "y": 0.1, "z": 0.5 }
-		}
+		},
+        "*-beautyberry": {
+          "translation": { "x": -1.9, "y": -0.3, "z": -1.3 },
+          "rotation": { "x": 0, "y": 24, "z": -89 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 }
+        },
+        "*-blackberry": {
+          "translation": { "x": -2.25, "y": -1.5, "z": -1.2 },
+          "rotation": { "x": -2, "y": 15, "z": -90 }
+        },
+        "*-cactusfruit": {
+            "translation": { "x": -2.3, "y": -1.55, "z": -1.2 },
+            "rotation": { "x": 0, "y": 13, "z": -90 }
+        },
+        "@*-(cloudberry|gooseberry)": {
+            "translation": { "x": -2.25, "y": -1.6, "z": -1.1 },
+            "rotation": { "x": 0, "y": 22, "z": -90 }
+        },
+        "candiedfruit-*": {
+          "translation": { "x": -2.25, "y": -1.6, "z": -1.1 },
+          "rotation": { "x": 0, "y": 22, "z": -90 }
+        }
 	},
 	"groundTransformByType": {
 		"*-pomegranate": {
@@ -260,8 +327,21 @@
 			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
 			"scale": 2.3
 		},
-		"candiedfruit-*": { 
-			"scale": 2.2
+        "*-beautyberry": {
+            "translation": { "x": 0, "y": 0, "z": 0 },
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+            "scale": 2.8
+        },
+        "@*-(blackberry|cactusfruit|cloudberry|gooseberry)": {
+            "translation": { "x": 0, "y": 0.3, "z": 0 },
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "scale": 2.8
+        },
+		"candiedfruit-*": {
+            "translation": { "x": 0, "y": 0.3, "z": 0 },
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "scale": 2.8
 		}
 	},
     "heldRightReadyAnimationByType": {
