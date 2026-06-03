@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/ingredients/1/inputs/7",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:pickledvegetable-bellpepper",
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/dumpling.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/3/ingredients/1/inputs/7",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:pickledvegetable-bellpepper",
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/dumpling.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]

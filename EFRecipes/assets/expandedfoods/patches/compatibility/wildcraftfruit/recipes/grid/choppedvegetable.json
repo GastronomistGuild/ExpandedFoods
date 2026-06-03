@@ -1,0 +1,62 @@
+[
+  {
+    "op": "add",
+    "path": "/-",
+    "value": {
+      "ingredientPattern": "KV",
+      "recipeGroup": 1,
+      "ingredients": {
+        "K": {
+          "type": "item",
+          "code": "game:knife-*",
+          "isTool": true
+        },
+        "V": {
+          "type": "item",
+          "code": "wildcraftfruit:vegetable-*",
+          "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+          "name": "type"
+        }
+      },
+      "width": 2,
+      "height": 1,
+      "output": {
+        "type": "item",
+        "code": "choppedvegetable-bellpepper"
+      }
+    },
+    "file": "expandedfoods:recipes/grid/choppedvegetable.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "add",
+    "path": "/-",
+    "value": {
+      "ingredientPattern": "KV",
+      "recipeGroup": 2,
+      "ingredients": {
+        "K": {
+          "type": "item",
+          "code": "game:cleaver-*",
+          "isTool": true
+        },
+        "V": {
+          "type": "item",
+          "code": "wildcraftfruit:vegetable-*",
+          "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+          "name": "type"
+        }
+      },
+      "width": 2,
+      "height": 1,
+      "output": {
+        "type": "item",
+        "code": "choppedvegetable-bellpepper"
+      }
+    },
+    "file": "expandedfoods:recipes/grid/choppedvegetable.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]

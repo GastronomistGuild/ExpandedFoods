@@ -1,0 +1,24 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes/renderIngredientsByType/*-raw/wildcraftfruit:vegetable-*",
+    "value": {
+      "shape": "expandedfoods:shapes/item/food/stuffedbellpepper/stuffedbellpepper.json",
+      "name": "bellpepper",
+      "textureMap": { "bellpepper": "wildcraftfruit:items/fruit/{bellpepper}" }
+    },
+    "file": "expandedfoods:itemtypes/food/mixing/stuffedpepper.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/renderIngredientsByType/*/wildcraftfruit:vegetable-*",
+    "value": {
+      "shape": "expandedfoods:shapes/item/food/stuffedbellpepper/stuffedbellpepper.json",
+      "name": "bellpepper",
+      "textureMap": { "bellpepper": "wildcraftfruit:items/fruit/{bellpepper}" }
+    },
+    "file": "expandedfoods:itemtypes/food/mixing/stuffedpepper.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]

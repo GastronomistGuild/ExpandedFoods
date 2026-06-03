@@ -1,0 +1,119 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/1/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/2/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/3/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/4/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/5/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/6/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/7/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/8/ingredients/0/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/stuffedpepper.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]

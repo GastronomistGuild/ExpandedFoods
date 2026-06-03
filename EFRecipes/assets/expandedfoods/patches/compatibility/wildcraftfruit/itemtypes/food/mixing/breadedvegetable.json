@@ -1,0 +1,16 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/variantgroups/1/states",
+    "value": ["redbellpepper, orangebellpepper, yellowbellpepper, greenbellpepper"],
+    "file": "expandedfoods:itemtypes/food/mixing/breadedvegetable.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/renderIngredientsByType/*/wildcraftfruit:vegetable-*",
+    "value": "expandedfoods:shapes/item/food/veggies/bellpepper.json",
+    "file": "expandedfoods:itemtypes/food/mixing/breadedvegetable.json",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]
