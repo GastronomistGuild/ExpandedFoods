@@ -83,6 +83,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Reviewed cooked veggie perish timers?
 - Fruit textures updated for barrel
 - Meal compatibility patches pushed out to EF Meals module - DONE!!!
+- Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module
 
 GENERAL:
 - Meathook placements adjusted yet again
