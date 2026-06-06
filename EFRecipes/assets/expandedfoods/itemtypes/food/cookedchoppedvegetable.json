@@ -163,7 +163,7 @@
     		"transitionedStack": { "type": "item", "code": "game:rot" },
     		"transitionRatio": 1
     	}],
-    	"@*-(partbaked|perfect)": [{
+    	"@cookedchoppedvegetable-.*-(partbaked|perfect)": [{
     		"type": "Perish",
     		"freshHours": { "avg": 504 },
     		"transitionHours": { "avg": 96 },

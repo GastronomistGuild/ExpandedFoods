@@ -512,13 +512,13 @@
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 0.5
 		}],
-		"@*-(partbaked|perfect)": [{
-			"type": "Perish",
-			"freshHours": { "avg": 504 },
-			"transitionHours": { "avg": 96 },
-			"transitionedStack": { "type": "item", "code": "game:rot" },
-			"transitionRatio": 1
-		}],
+        "@cookedveggie-.*-(partbaked|perfect)": [{
+          "type": "Perish",
+          "freshHours": { "avg": 504 },
+          "transitionHours": { "avg": 96 },
+          "transitionedStack": { "type": "item", "code": "game:rot" },
+          "transitionRatio": 1
+        }],
 		"*-pumpkin-charred": [{
 			"type": "Perish",
 			"freshHours": { "avg": 756 },
