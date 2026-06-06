@@ -78,12 +78,12 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Do stuff with bamboo shoots? idk
 - New mushrooms added
 - Lard / olive oil figured out
-- New language strings added to meals
-- Hardened resin/lard comes out of buckets properly
 - Reviewed cooked veggie perish timers?
 - Fruit textures updated for barrel
 - Meal compatibility patches pushed out to EF Meals module - DONE!!!
-- Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module
+- Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module - DONE!!!
+- Hardened resin/lard bowl grid recipes removed - DONE!!!
+- Mushrooms partially updated to 1.22 (still need visuals) - DONE!!!
 
 GENERAL:
 - Meathook placements adjusted yet again

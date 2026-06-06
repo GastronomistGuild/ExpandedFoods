@@ -11,20 +11,46 @@
 			"satiety": 120,
 			"foodcategory": "Vegetable",
 			"healthByType": {
-			"*-earthball": -4,
-			"*-deathcap": -25,
-			"*-funeralbell": -20,
-			"*-elfinsaddle": -3.5,
-			"*-jackolantern": -3,
-			"*-devilbolete": -5,
-			"*-pinkbonnet":	-10,
-			"*-flyagaric": -3.25,
-			"*-bitterbolete": -1.5,
-			"*-devilstooth": -1,
-			"*-golddropmilkcap": -1.25,
-			"choppedmushroom-*": 0
-			}	
-		},
+                "*-flyagaric": -3.25,
+			    "*-earthball": -4,
+			    "*-deathcap": -25,
+                "*-elfinsaddle": -3.5,
+                "*-jackolantern": -3,
+                "*-devilbolete": -5,
+                "*-bitterbolete": -0.5,
+                "*-devilstooth": -1,
+                "*-golddropmilkcap": -1.25,
+			    "*-funeralbell": -20,
+			    "*-pinkbonnet":	-5,
+			    "choppedmushroom-*": 0
+			},
+            "psychedelicByType": {
+                "*-flyagaric-*": 0.4,
+                "*-goldcap-*": 1,
+                "*-libertycap-*": 1.4,
+                "*-wavycap-*": 0.8,
+                "*-bluemeanie-*": 2,
+                "*-laughingjim-*": 0.6
+            },
+            "eatHealthEffectDurationSec": 10,
+            "eatHealthEffectTicks": 10,
+            "inTrapTransform": {
+                "small": {
+                    "translation": { "x": -0.05, "y": -0.2, "z": 0.26 },
+                    "rotation": { "x": 70, "y": 0, "z": 0 }
+                },
+                "large": {
+                    "translation": { "x": -0.25, "y": 0.2, "z": 0.36 },
+                    "rotation": { "x": 101, "y": 0, "z": 0 }
+                }
+            },
+            "displayable": {
+                "shelf": {
+                    "size": { "width": 4, "height": 4, "length": 4 },
+                    "shape": { "base": "item/food/mushroom/chopped/{type}" }
+                }
+            }
+        },
 		"handbook": { 
           "groupBy": [ "choppedmushroom-*" ],
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-choppedmushroom", "text": "expandedfoods:item-handbooktext-choppedmushroom" }]
@@ -43,33 +69,39 @@
 		},
 		"inPiePropertiesByType": {
 			"*-blacktrumpet": { "texture": "game:block/food/pie/fill-mushroomblack", "partType": "Filling" },
-			"@*-(chanterelle|chickenofthewoods|golddropmilkcap|jackolantern|saffronmilkcap)": { "texture": "game:block/food/pie/fill-mushroomyellow", "partType": "Filling" },
+			"@*-(chanterelle|chickenofthewoods|goldcap|golddropmilkcap|honeymushroom|jackolantern|laughingjim|libertycap|saffronmilkcap|wavycap)": { "texture": "game:block/food/pie/fill-mushroomyellow", "partType": "Filling" },
 			"@*-(beardedtooth|deathcap|livermushroom|puffball|whiteoyster)": { "texture": "game:block/food/pie/fill-mushroomoffwhite", "partType": "Filling" },
 			"@*-(deerear|devilbolete|funeralbell|orangeoakbolete)": { "texture": "game:block/food/pie/fill-mushroomorange", "partType": "Filling" },
 			"*-devilstooth": { "texture": "game:block/food/pie/fill-mushroomdevilstooth", "partType": "Filling" },
-			"@*-(elfinsaddle|flyagaric|redwinecap|witchhat)": { "texture": "game:block/food/pie/fill-mushroomred", "partType": "Filling" },
+			"@*-(elfinsaddle|flyagaric|redwinecap|sickener|witchhat)": { "texture": "game:block/food/pie/fill-mushroomred", "partType": "Filling" },
 			"*-greencrackedrussula": { "texture": "game:block/food/pie/fill-mushroomgreen", "partType": "Filling" },
-			"@*-(indigomilkcap|tinderhoof)": { "texture": "game:block/food/pie/fill-mushroomblue", "partType": "Filling" },
+			"@*-(indigomilkcap|tinderhoof|bluemeanie)": { "texture": "game:block/food/pie/fill-mushroomblue", "partType": "Filling" },
 			"*-lobster": { "texture": "game:block/food/pie/fill-mushroomlobster", "partType": "Filling" },
 			"@*-(pinkbonnet|pinkoyster)": { "texture": "game:block/food/pie/fill-mushroompink", "partType": "Filling" },
-			"@*-(bitterbolete|blackmushroom|bolete|commonmorel|dryadsaddle|earthball|kingbolete|reishi|sagemushroom|shiitake)": { "texture": "game:block/food/pie/fill-mushroombrown", "partType": "Filling" },
+			"@*-(bitterbolete|blackmushroom|bolete|commonmorel|dryadsaddle|foolsconecap|earthball|kingbolete|reishi|sagemushroom|shiitake)": { "texture": "game:block/food/pie/fill-mushroombrown", "partType": "Filling" },
 			"@*-(almondmushroom|fieldmushroom|paddystraw)": { "texture": "game:block/food/pie/fill-mushroomwhite", "partType": "Filling" },
 			"*-violetwebcap": { "texture": "game:block/food/pie/fill-mushroompurple", "partType": "Filling" }
 		}
 	},
-	"shape": { "base": "item/food/mushroom/chopped/{type}"
-	},
+	"shape": { "base": "item/food/mushroom/chopped/{type}" },
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
 	"nutritionPropsByType": {
+        "*-flyagaric": { "saturation": 80, "health": -6.5, "foodcategory": "Vegetable" },
 		"*-earthball": { "saturation": 80, "health": -8, "foodcategory": "Vegetable" },
 		"*-deathcap": { "saturation": 80, "health": -50, "foodcategory": "Vegetable" },
 		"*-elfinsaddle": { "saturation": 80, "health": -7, "foodcategory": "Vegetable" },
 		"*-jackolantern": { "saturation": 80, "health": -6, "foodcategory": "Vegetable" },
 		"*-devilbolete": { "saturation": 80, "health": -10, "foodcategory": "Vegetable" },
-		"*-flyagaric": { "saturation": 80, "health": -6.5, "foodcategory": "Vegetable" },
-		"*-bitterbolete": { "saturation": 80, "health": -3, "foodcategory": "Vegetable" },
+		"*-bitterbolete": { "saturation": 80, "health": -1, "foodcategory": "Vegetable" },
 		"*-devilstooth": { "saturation": 80, "health": -2, "foodcategory": "Vegetable" },
 		"*-golddropmilkcap": { "saturation": 80, "health": -2.5, "foodcategory": "Vegetable" },
+        "*-goldcap": { "satiety": 80, "foodcategory": "Vegetable", "psychedelic": 1 },
+        "*-libertycap": { "satiety": 80, "foodcategory": "Vegetable", "psychedelic": 1.4 },
+        "*-wavycap": { "satiety": 80, "foodcategory": "Vegetable", "psychedelic": 0.8 },
+        "*-bluemeanie": { "satiety": 80, "foodcategory": "Vegetable", "psychedelic": 2 },
+        "*-laughingjim": { "satiety": 80, "health": -10, "foodcategory": "Vegetable", "psychedelic": 0.6 },
+        "*-foolsconecap": { "saturation": 80, "health": -20, "foodcategory": "Vegetable" },
+        "*-sickener": { "saturation": 80, "health": -7, "foodcategory": "Vegetable" },
 		"*-funeralbell": { "saturation": 80, "health": -40, "foodcategory": "Vegetable" },
 		"*-pinkbonnet": { "saturation": 80, "health": -10, "foodcategory": "Vegetable" },
 		"choppedmushroom-*": { "saturation": 80, "foodcategory": "Vegetable" }
