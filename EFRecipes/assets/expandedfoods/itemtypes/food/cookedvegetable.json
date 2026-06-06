@@ -512,7 +512,7 @@
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 0.5
 		}],
-		"@cookedveggie-*-(partbaked|perfect)": [{
+		"@*-(partbaked|perfect)": [{
 			"type": "Perish",
 			"freshHours": { "avg": 504 },
 			"transitionHours": { "avg": 96 },

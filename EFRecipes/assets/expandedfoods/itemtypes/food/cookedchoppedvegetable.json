@@ -163,9 +163,9 @@
     		"transitionedStack": { "type": "item", "code": "game:rot" },
     		"transitionRatio": 1
     	}],
-    	"@cookedchoppedvegetable-*-(partbaked|perfect)": [{
+    	"@*-(partbaked|perfect)": [{
     		"type": "Perish",
-    		"freshHours": { "avg":  504 },
+    		"freshHours": { "avg": 504 },
     		"transitionHours": { "avg": 96 },
     		"transitionedStack": { "type": "item", "code": "game:rot" },
     		"transitionRatio": 1
@@ -193,7 +193,7 @@
 		}],
 		"cookedchoppedvegetable-*-charred": [{
 			"type": "Perish",
-			"freshHours": { "avg":  1764 },
+			"freshHours": { "avg": 1764 },
 			"transitionHours": { "avg": 160 },
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 1
