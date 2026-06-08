@@ -113,7 +113,7 @@ BUG FIXES:
 - Oven transforms reviewed for all items
 - Peanut butter fixed so it gives nutrients when in bowl/bucket
 - Acorn muffin recipe fixed so it stops crashing in handbook
-- Raw gelatin is inedible and cannot be used in pies
+- Raw gelatin is inedible and cannot be used in pies - DONE!!!
 
 NEW FOOD:
 - added meatloaf?
