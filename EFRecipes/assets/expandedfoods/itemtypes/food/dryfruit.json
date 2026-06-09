@@ -27,14 +27,17 @@
 			"healthByType":  { "*-saguaro": 0.5 },
 			"foodcategory": "Fruit" 
 		},
-		"bakingProperties": {
-			"temp": 100,
-			"levelFrom": 0.5,
-			"levelTo": 1.0,
-			"startScaleY": 0.8,
-			"endScaleY": 0.8,
-			"initialCode": "game:fruit-{fruit}"
-		},
+		"bakingPropertiesByType": {
+            "@*-(guava|kumquat|plumnatal|gooseberry|cactusfruit)": null,
+            "*":  {
+                "temp": 100,
+                "levelFrom": 0.5,
+                "levelTo": 1.0,
+                "startScaleY": 0.8,
+                "endScaleY": 0.8,
+                "initialCode": "game:fruit-{fruit}"
+            }
+        },
 		"inPiePropertiesByType": {
 			"*-pinkapple": { "texture": "game:block/food/pie/fill-apple", "partType": "Filling" },
 			"*-redapple": { "texture": "game:block/food/pie/fill-apple", "partType": "Filling" },
