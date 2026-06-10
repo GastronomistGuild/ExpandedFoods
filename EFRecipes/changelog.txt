@@ -78,7 +78,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Do stuff with bamboo shoots? idk
 - Lard / olive oil figured out
 - Cooked veggie perish timers fixed - DONE!!!
-- Fruit textures updated for barrel
+- All fruit textures updated for barrel - DONE!!!
 - Meal compatibility patches pushed out to EF Meals module - DONE!!!
 - Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module - DONE!!!
 - Hardened resin/lard bowl grid recipes removed - DONE!!!

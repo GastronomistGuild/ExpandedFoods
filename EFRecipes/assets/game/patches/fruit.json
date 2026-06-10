@@ -66,7 +66,6 @@
     "op": "addmerge",
     "path": "/attributes/inContainerTextureByType",
     "value": {
-      "@*-(redapple|pinkapple|yellowapple)": { "base": "game:block/barrel/apple" },
       "*": { "base": "game:block/barrel/{fruit}" }
     },
     "side": "server",
