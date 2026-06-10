@@ -6,8 +6,7 @@
 	"textureWidth": 8,
 	"textureHeight": 8,
     "textures": {
-      "pineapple": "item/food/dryfruit/pineapple",
-      "fill-pineapple": "item/food/dryfruit/fill-pineapple"
+      "pineapple": "item/food/dryfruit/pineapple"
     },
 	"elements": [
 		{
