@@ -94,6 +94,7 @@ GENERAL:
 - Variant groups removed from various foods to reduce bloat
 - Porridge recipe patch streamlined to use proper patch methods
 - Stink bait recipes have EF meats added to them
+- Raw and plain gelatin textures updated - DONE!!!
 
 HANDBOOK THINGS:
 - Muffins and fruit bread have default visuals in the handbook
