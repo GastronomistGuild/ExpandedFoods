@@ -1,0 +1,28 @@
+[
+  {
+    "op": "replace",
+    "path": "/22/ingredients/3/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/breadedvegetable.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  },
+  {
+    "op": "replace",
+    "path": "/23/ingredients/3/inputs/0",
+    "value": {
+      "type": "item",
+      "code": "wildcraftfruit:vegetable-*",
+      "allowedVariants": [ "redbellpepper", "orangebellpepper", "yellowbellpepper", "greenbellpepper" ],
+      "quantity": 1
+    },
+    "file": "expandedfoods:recipes/kneading/breadedvegetable.json",
+    "side": "server",
+    "dependsOn": [ { "modid": "wildcraftfruit" } ]
+  }
+]
