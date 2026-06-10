@@ -16,7 +16,7 @@
   {
     "Ingredients": [
       { "type": "item", "code": "waterportion", "quantity": 100 },
-      { "type": "item", "code": "game:bone-tiny", "quantity": 1 }
+      { "type": "item", "code": "game:bone-*", "quantity": 1 }
     ],
     "Simmering": {
       "meltingPoint": 200,

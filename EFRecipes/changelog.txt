@@ -76,7 +76,6 @@ On hiatus until Wildcraft Herbs & Spices is updated
 
 2.0.0-dev.10
 - Do stuff with bamboo shoots? idk
-- New mushrooms added
 - Lard / olive oil figured out
 - Cooked veggie perish timers fixed - DONE!!!
 - Fruit textures updated for barrel
@@ -84,6 +83,8 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module - DONE!!!
 - Hardened resin/lard bowl grid recipes removed - DONE!!!
 - Mushrooms partially updated to 1.22 (still need visuals) - DONE!!!
+- Cooked chopped mushroom shapes eliminated - DONE!!!
+- Chopped mushroom shapes overhauled
 
 GENERAL:
 - Meathook placements adjusted yet again
@@ -107,7 +108,7 @@ REBALANCING:
 - Hardtack & pemmican can be added to soup/stews
 - Trail mix changed to work like pemmican; outputs 2 items at 1/2 nutrition
 - Base nutrition for expanded food items nerfed?
-- All bones can be used for bone broth
+- All bones can be used for bone broth - DONE!!!
 - Sunflower grain can be used for trail mix - DONE!!!
 
 BUG FIXES:
