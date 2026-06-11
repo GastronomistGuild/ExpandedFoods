@@ -1,5 +1,8 @@
 {
 	"code": "peanut",
+    "behaviors": [
+      { "name": "GroundStorable", "properties": { "layout": "messy12", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
+    ],
 	"maxstacksize": 32,
 	"variantgroups": [
 		{
@@ -17,6 +20,11 @@
 		"shelvable": true,
         "handbook": {
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-peanut", "text": "expandedfoods:item-handbooktext-peanut" }]
+        },
+        "groundStorageTransform": {
+            "translation": { "x": 0, "y": -0.25, "z": 0 },
+            "rotation": { "x": 1, "y": 0, "z": 0 },
+            "scale": 0.5
         },
 		"inContainerTexture": { "base": "block/wood/barrel/raw-soybean" },
 		"foodTags": ["peanut"],
@@ -117,10 +125,10 @@
 	},
 	"guiTransformByType": {
           "*": {
-				"translation": { "x": -1, "y": 1, "z": 0 },
+				"translation": { "x": -2, "y": 1, "z": 0 },
 				"rotation": { "x": -43, "y": 60, "z": -180 },
 				"origin": { "x": 0.6, "y": 0.1, "z": 0.5 },
-				"scale": 2.0
+				"scale": 2.5
           }
 	},
 	"groundTransformByType": {

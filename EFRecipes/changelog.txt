@@ -95,6 +95,9 @@ GENERAL:
 - Porridge recipe patch streamlined to use proper patch methods
 - Stink bait recipes have EF meats added to them
 - Raw and plain gelatin textures updated - DONE!!!
+- Mushrooms need to be washed before they can be processed?
+- Chopped fennel added
+- Peanut models updated - DONE!!!
 
 HANDBOOK THINGS:
 - Muffins and fruit bread have default visuals in the handbook
