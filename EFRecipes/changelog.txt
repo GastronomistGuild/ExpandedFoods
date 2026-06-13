@@ -84,7 +84,8 @@ On hiatus until Wildcraft Herbs & Spices is updated
 - Hardened resin/lard bowl grid recipes removed - DONE!!!
 - Mushrooms partially updated to 1.22 (still need visuals) - DONE!!!
 - Cooked chopped mushroom shapes eliminated - DONE!!!
-- Chopped mushroom shapes overhauled
+- Chopped mushroom shapes overhauled - DONE!!!
+- Hallucinogenic mushrooms can be cooked to remove poison, keep trippy effects
 
 GENERAL:
 - Meathook placements adjusted yet again
@@ -114,6 +115,7 @@ REBALANCING:
 - Base nutrition for expanded food items nerfed?
 - All bones can be used for bone broth - DONE!!!
 - Sunflower grain can be used for trail mix - DONE!!!
+- Seaweed changed to dry transition instead of bake?
 
 BUG FIXES:
 - Oven transforms reviewed for all items

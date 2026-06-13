@@ -6,32 +6,27 @@
 	"textureWidth": 16,
 	"textureHeight": 16,
 	"textureSizes": {
+		"witchhat": [16,16]
 	},
-	"textures": {
-		"witchhat": "game:block/plant/mushroom/witchhat"
-	},
+    "textures": {
+      "witchhat": "game:block/plant/mushroom/witchhat"
+    },
 	"elements": [
 		{
 			"name": "origin",
-			"from": [ 7.5, 0.0, 8.0 ], 
-			"to": [ 7.5, 0.0, 8.0 ], 
+			"from": [ 7.5, 0.0, 8.0 ],
+			"to": [ 7.5, 0.0, 8.0 ],
 			"rotationOrigin": [ 7.5, 0.0, 8.0 ],
 			"faces": {
-				"north": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false },
-				"east": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false },
-				"south": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false },
-				"west": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false },
-				"up": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false },
-				"down": { "texture": "#witchhat", "uv": [ 0.0, 0.0, 0.5, 0.5 ], "enabled": false }
 			},
 			"children": [
 				{
 					"name": "stem1",
-					"from": [ 3.0, 0.0, 0.0 ], 
-					"to": [ 3.4, 2.0, 0.4 ], 
-					"rotationOrigin": [ 3.0, 0.0, 0.0 ],
+					"from": [ 1.0, 0.0, -2.0 ],
+					"to": [ 1.4, 2.0, -1.6 ],
+					"rotationOrigin": [ 1.0, 0.0, -2.0 ],
 					"rotationX": -90.0,
-					"rotationZ": 22.0,
+					"rotationZ": 109.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 11.0, 11.5, 11.5, 13.5 ] },
 						"east": { "texture": "#witchhat", "uv": [ 11.5, 12.0, 12.0, 14.0 ] },
@@ -43,11 +38,11 @@
 				},
 				{
 					"name": "stem10",
-					"from": [ 0.5, 0.0, 2.5 ], 
-					"to": [ 0.9, 1.5, 2.9 ], 
-					"rotationOrigin": [ 0.5, 0.0, 2.5 ],
+					"from": [ 1.0, 0.0, 2.2 ],
+					"to": [ 1.4, 1.5, 2.6 ],
+					"rotationOrigin": [ 1.0, 0.0, 2.2 ],
 					"rotationX": -90.0,
-					"rotationZ": 58.0,
+					"rotationZ": 69.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 12.5, 12.0, 13.0, 13.5 ] },
 						"east": { "texture": "#witchhat", "uv": [ 12.0, 10.5, 12.5, 12.0 ] },
@@ -59,9 +54,9 @@
 				},
 				{
 					"name": "stem18",
-					"from": [ -2.0, 0.0, 0.0 ], 
-					"to": [ -1.8, 1.0, 0.2 ], 
-					"rotationOrigin": [ -2.0, 0.0, 0.0 ],
+					"from": [ -1.4, 0.0, 0.3 ],
+					"to": [ -1.2, 1.0, 0.5 ],
+					"rotationOrigin": [ -1.4, 0.0, 0.3 ],
 					"rotationX": -90.0,
 					"rotationZ": -30.0,
 					"faces": {
@@ -75,8 +70,8 @@
 				},
 				{
 					"name": "stem20",
-					"from": [ 2.0, 0.0, 0.0 ], 
-					"to": [ 2.2, 1.0, 0.2 ], 
+					"from": [ 2.0, 0.0, 0.0 ],
+					"to": [ 2.2, 1.0, 0.2 ],
 					"rotationOrigin": [ 2.0, 0.0, 0.0 ],
 					"rotationX": -90.0,
 					"rotationZ": 47.0,
@@ -91,9 +86,9 @@
 				},
 				{
 					"name": "cap1",
-					"from": [ -1.5, 0.0, 0.5 ], 
-					"to": [ -0.5, 1.0, 1.5 ], 
-					"rotationOrigin": [ -1.5, 0.0, 0.5 ],
+					"from": [ -0.3, 0.0, -0.2 ],
+					"to": [ 0.7, 1.0, 0.8 ],
+					"rotationOrigin": [ -0.3, 0.0, -0.2 ],
 					"rotationY": -53.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 1.5, 4.5, 2.5, 5.5 ] },
@@ -106,9 +101,9 @@
 				},
 				{
 					"name": "cap11",
-					"from": [ -1.0, 0.0, 0.0 ], 
-					"to": [ 0.0, 1.0, 1.0 ], 
-					"rotationOrigin": [ -1.0, 0.0, 0.0 ],
+					"from": [ -0.7, 0.0, -0.5 ],
+					"to": [ 0.3, 1.0, 0.5 ],
+					"rotationOrigin": [ -0.7, 0.0, -0.5 ],
 					"rotationY": 69.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 12.5, 4.0, 13.5, 5.0 ] },
@@ -121,10 +116,9 @@
 				},
 				{
 					"name": "cap19",
-					"from": [ 2.0, 0.0, 0.5 ], 
-					"to": [ 2.6, 0.8, 1.1 ], 
-					"rotationOrigin": [ 2.0, 0.0, 0.5 ],
-					"rotationX": 2.3020612306315278E-7,
+					"from": [ 1.1, 0.0, -0.1 ],
+					"to": [ 1.7, 0.8, 0.5 ],
+					"rotationOrigin": [ 1.1, 0.0, -0.1 ],
 					"rotationY": -19.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 11.5, 2.0, 12.0, 2.5 ] },
@@ -137,10 +131,9 @@
 				},
 				{
 					"name": "cap21",
-					"from": [ 1.0, 0.0, -2.0 ], 
-					"to": [ 1.6, 0.7, -1.4 ], 
-					"rotationOrigin": [ 1.0, 0.0, -2.0 ],
-					"rotationX": 6.706847051513671E-9,
+					"from": [ 1.3, 0.0, -1.6 ],
+					"to": [ 1.9, 0.7, -1.0 ],
+					"rotationOrigin": [ 1.3, 0.0, -1.6 ],
 					"rotationY": -105.0,
 					"faces": {
 						"north": { "texture": "#witchhat", "uv": [ 12.0, 2.5, 12.5, 3.0 ] },
@@ -153,9 +146,9 @@
 				},
 				{
 					"name": "tip1",
-					"from": [ 2.0, 0.0, 2.0 ], 
-					"to": [ 2.6, 1.0, 2.6 ], 
-					"rotationOrigin": [ 2.0, 0.0, 2.0 ],
+					"from": [ 0.5, 0.0, -0.5 ],
+					"to": [ 1.1, 1.0, 0.1 ],
+					"rotationOrigin": [ 0.5, 0.0, -0.5 ],
 					"rotationX": -90.0,
 					"rotationZ": -55.0,
 					"faces": {
@@ -169,8 +162,8 @@
 				},
 				{
 					"name": "tip12",
-					"from": [ 1.0, 0.0, 1.5 ], 
-					"to": [ 1.6, 1.0, 2.1 ], 
+					"from": [ 1.0, 0.0, 1.5 ],
+					"to": [ 1.6, 1.0, 2.1 ],
 					"rotationOrigin": [ 1.0, 0.0, 1.5 ],
 					"rotationX": -90.0,
 					"rotationZ": 47.0,
