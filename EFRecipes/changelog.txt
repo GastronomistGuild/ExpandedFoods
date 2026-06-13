@@ -73,18 +73,9 @@ On hiatus until Wildcraft Herbs & Spices is updated
 -- herbal soft dough added
 -- pomace wine no longer crashes
 
-
-2.0.0-dev.10
+2.0.0-dev.11
 - Do stuff with bamboo shoots? idk
 - Lard / olive oil figured out
-- Cooked veggie perish timers fixed - DONE!!!
-- All fruit textures updated for barrel - DONE!!!
-- Meal compatibility patches pushed out to EF Meals module - DONE!!!
-- Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module - DONE!!!
-- Hardened resin/lard bowl grid recipes removed - DONE!!!
-- Mushrooms partially updated to 1.22 (still need visuals) - DONE!!!
-- Cooked chopped mushroom shapes eliminated - DONE!!!
-- Chopped mushroom shapes overhauled - DONE!!!
 - Hallucinogenic mushrooms can be cooked to remove poison, keep trippy effects
 
 GENERAL:
@@ -95,10 +86,8 @@ GENERAL:
 - Variant groups removed from various foods to reduce bloat
 - Porridge recipe patch streamlined to use proper patch methods
 - Stink bait recipes have EF meats added to them
-- Raw and plain gelatin textures updated - DONE!!!
 - Mushrooms need to be washed before they can be processed?
 - Chopped fennel added
-- Peanut models updated - DONE!!!
 
 HANDBOOK THINGS:
 - Muffins and fruit bread have default visuals in the handbook
@@ -113,16 +102,14 @@ REBALANCING:
 - Hardtack & pemmican can be added to soup/stews
 - Trail mix changed to work like pemmican; outputs 2 items at 1/2 nutrition
 - Base nutrition for expanded food items nerfed?
-- All bones can be used for bone broth - DONE!!!
-- Sunflower grain can be used for trail mix - DONE!!!
+
+REBALANCING:
 - Seaweed changed to dry transition instead of bake?
 
 BUG FIXES:
 - Oven transforms reviewed for all items
 - Peanut butter fixed so it gives nutrients when in bowl/bucket
 - Acorn muffin recipe fixed so it stops crashing in handbook
-- Raw gelatin is inedible and cannot be used in pies - DONE!!!
-- Fixed dryfruit handbook crash - DONE!!!
 
 NEW FOOD:
 - added meatloaf?
@@ -142,6 +129,29 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
+
+
+2.0.0-dev.10
+- Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module
+- Meal compatibility patches pushed out to EF Meals module
+- Cooked veggie perish timers fixed
+- All fruit textures updated for barrel
+- Hardened resin/lard bowl grid recipes removed
+- Mushrooms fully updated to 1.22
+- Cooked chopped mushroom shapes eliminated
+- Chopped mushroom shapes overhauled
+
+GENERAL:
+- Raw and plain gelatin textures updated
+- Peanut models updated
+
+REBALANCING:
+- All bones can be used for bone broth
+- Sunflower grain can be used for trail mix
+
+BUG FIXES:
+- Raw gelatin is inedible and cannot be used in pies 
+- Fixed dryfruit handbook crash
 
 2.0.0-dev.9
 

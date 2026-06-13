@@ -1,7 +1,7 @@
 ﻿{
 	"code": "choppedmushroom",
     "behaviors": [
-      { "name": "GroundStorable", "properties": { "layout": "messy12", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
+        { "name": "GroundStorable", "properties": { "layout": "messy12", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
     ],
 	"maxstacksize": 64,
 	"variantgroups": [
@@ -335,10 +335,10 @@
 	},
 	"groundTransformByType": {
 		"*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 0 },
-			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
-			"scale": 2
+            "translation": { "x": 0, "y": 0.02, "z": 0 },
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+            "scale": 3.5
 		}
 	}
 }
