@@ -220,7 +220,7 @@
             "scale": 3,
             "rotate":  true
         },
-		"@*-(almondmushroom|blacktrumpet|chanterelle|lobster|paddystraw|redwinecap|funeralbell)": {
+		"@*-(almondmushroom|blacktrumpet|chanterelle|lobster|paddystraw|funeralbell)": {
             "translation": { "x": 5, "y": 3, "z": 0 },
             "rotation": { "x": -59, "y": 32, "z": -176 },
             "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },

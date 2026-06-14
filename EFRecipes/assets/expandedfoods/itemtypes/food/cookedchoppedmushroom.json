@@ -81,7 +81,7 @@
                 "rotation": { "x": 0, "y": 90, "z": 0 },
                 "scale": 0.8
             },
-            "choppedmushroom-*": {
+            "cookedchoppedmushroom-*": {
                 "translation": { "x": 0, "y": -0.1, "z": 0 },
                 "scale": 0.8
             }
@@ -225,192 +225,458 @@
 	},
 	"materialDensity": 600,
     "guiTransformByType": {
-        "@*-(pinkbonnet|witchhat)": {
-            "rotation": { "x": -43, "y": -48, "z": -175 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 4.25,
-            "rotate":  true
+        "*-witchhat-*": {
+          "rotation": { "x": -43, "y": -48, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 4.25,
+          "rotate":  true
         },
-        "@*-(deerear|livermushroom)": {
-            "translation": { "x": 3, "y": 0, "z": 0 },
-            "rotation": { "x": -84, "y": 32, "z": -170 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 2.75,
-            "rotate":  true
+        "*-pinkbonnet-*": {
+          "rotation": { "x": -43, "y": -48, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 4.25,
+          "rotate":  true
         },
-        "*-greencrackedrussula": {
-            "translation": { "x": 3, "y": 3, "z": 0 },
-            "rotation": { "x": -61, "y": 18, "z": -175 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 2.75,
-            "rotate":  true
+        "*-deerear-*": {
+          "translation": { "x": 3, "y": 0, "z": 0 },
+          "rotation": { "x": -84, "y": 32, "z": -170 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "@*-(dryadsaddle|reishi)": {
-            "translation": { "x": 4, "y": 4, "z": 0 },
-            "rotation": { "x": -16, "y": 21, "z": 160 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 2.5,
-            "rotate":  true
+        "*-livermushroom-*": {
+          "translation": { "x": 3, "y": 0, "z": 0 },
+          "rotation": { "x": -84, "y": 32, "z": -170 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "*-chickenofthewoods": {
-            "translation": { "x": 3, "y": 2, "z": 0 },
-            "rotation": { "x": -48, "y": 1, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 2.5,
-            "rotate":  true
+        "*-greencrackedrussula-*": {
+          "translation": { "x": 3, "y": 3, "z": 0 },
+          "rotation": { "x": -61, "y": 18, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "*-shiitake": {
-            "translation": { "x": 3, "y": 0, "z": 0 },
-            "rotation": { "x": -53, "y": 16, "z": -177 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 2.75,
-            "rotate":  true
+        "*-dryadsaddle-*": {
+          "translation": { "x": 4, "y": 4, "z": 0 },
+          "rotation": { "x": -16, "y": 21, "z": 160 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 2.5,
+          "rotate":  true
         },
-        "@*-(elfinsaddle|golddropmilkcap|indigomilkcap|pinkoyster|redwinecap|saffronmilkcap|violetwebcap|whiteoyster)": {
-            "translation": { "x": 2, "y": 0, "z": 0 },
-            "rotation": { "x": -44, "y": 14, "z": -175 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 2.75,
-            "rotate":  true
+        "*-reishi-*": {
+          "translation": { "x": 4, "y": 4, "z": 0 },
+          "rotation": { "x": -16, "y": 21, "z": 160 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 2.5,
+          "rotate":  true
         },
-        "@*-(beardedtooth|earthball|puffball|tinderhoof)": {
-            "translation": { "x": 2, "y": 0, "z": 0 },
-            "rotation": { "x": -48, "y": 33, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 2.25,
-            "rotate":  true
+        "*-chickenofthewoods-*": {
+          "translation": { "x": 3, "y": 2, "z": 0 },
+          "rotation": { "x": -48, "y": 1, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.5,
+          "rotate":  true
         },
-        "@*-(commonmorel|devilstooth)": {
-            "rotation": { "x": -59, "y": 32, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3.5,
-            "rotate":  true
+        "*-shiitake-*": {
+          "translation": { "x": 3, "y": 0, "z": 0 },
+          "rotation": { "x": -53, "y": 16, "z": -177 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "@*-(bitterbolete|devilbolete|kingbolete|orangeoakbolete)": {
-            "translation": { "x": 1, "y": 0, "z": 0 },
-            "rotation": { "x": -53, "y": 39, "z": 168 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 2.75,
-            "rotate":  true
+        "*-elfinsaddle-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "*-deathcap": {
-            "translation": { "x": 5, "y": 0, "z": 0 },
-            "rotation": { "x": -59, "y": 32, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-golddropmilkcap-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "@*-(almondmushroom|blacktrumpet|chanterelle|lobster|paddystraw|redwinecap|funeralbell)": {
-            "translation": { "x": 5, "y": 3, "z": 0 },
-            "rotation": { "x": -59, "y": 32, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-indigomilkcap-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "*-bluemeanie": {
-            "rotation": { "x": -49, "y": 0, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-pinkoyster-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "@*-(libertycap|sickener|wavycap)": {
-            "rotation": { "x": -49, "y": 34, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-redwinecap-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "@*-(jackolantern|honeymushroom|laughingjim)": {
-            "rotation": { "x": -49, "y": 14, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-saffronmilkcap-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "*-foolsconecap": {
-            "rotation": { "x": -49, "y": 39, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-violetwebcap-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
         },
-        "choppedmushroom-*": {
-            "translation": { "x": 5, "y": 4, "z": 0 },
-            "rotation": { "x": -49, "y": 18, "z": -176 },
-            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-            "scale": 3,
-            "rotate":  true
+        "*-whiteoyster-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -44, "y": 14, "z": -175 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
+        },
+        "*-beardedtooth-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -48, "y": 33, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.25,
+          "rotate":  true
+        },
+        "*-earthball-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -48, "y": 33, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.25,
+          "rotate":  true
+        },
+        "*-puffball-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -48, "y": 33, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.25,
+          "rotate":  true
+        },
+        "*-tinderhoof-*": {
+          "translation": { "x": 2, "y": 0, "z": 0 },
+          "rotation": { "x": -48, "y": 33, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.25,
+          "rotate":  true
+        },
+        "*-commonmorel-*": {
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3.5,
+          "rotate":  true
+        },
+        "*-devilstooth-*": {
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3.5,
+          "rotate":  true
+        },
+        "*-bitterbolete-*": {
+          "translation": { "x": 1, "y": 0, "z": 0 },
+          "rotation": { "x": -53, "y": 39, "z": 168 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
+        },
+        "*-devilbolete-*": {
+          "translation": { "x": 1, "y": 0, "z": 0 },
+          "rotation": { "x": -53, "y": 39, "z": 168 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
+        },
+        "*-kingbolete-*": {
+          "translation": { "x": 1, "y": 0, "z": 0 },
+          "rotation": { "x": -53, "y": 39, "z": 168 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
+        },
+        "*-orangeoakbolet-*": {
+          "translation": { "x": 1, "y": 0, "z": 0 },
+          "rotation": { "x": -53, "y": 39, "z": 168 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 2.75,
+          "rotate":  true
+        },
+        "*-deathcap-*": {
+          "translation": { "x": 5, "y": 0, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-almondmushroom-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-blacktrumpet-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-chanterelle-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-lobster-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-paddystraw-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-funeralbell-*": {
+          "translation": { "x": 5, "y": 3, "z": 0 },
+          "rotation": { "x": -59, "y": 32, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-bluemeanie-*": {
+          "rotation": { "x": -49, "y": 0, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-libertycap-*": {
+          "rotation": { "x": -49, "y": 34, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-sickener-*": {
+          "rotation": { "x": -49, "y": 34, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-wavycap-*": {
+          "rotation": { "x": -49, "y": 34, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-jackolantern-*": {
+          "rotation": { "x": -49, "y": 14, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-honeymushroom-*": {
+          "rotation": { "x": -49, "y": 14, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-laughingjim-*": {
+          "rotation": { "x": -49, "y": 14, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "*-foolsconecap-*": {
+          "rotation": { "x": -49, "y": 39, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
+        },
+        "cookedchoppedmushroom-*": {
+          "translation": { "x": 5, "y": 4, "z": 0 },
+          "rotation": { "x": -49, "y": 18, "z": -176 },
+          "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+          "scale": 3,
+          "rotate":  true
         }
     },
     "tpHandTransformByType": {
-        "@*-(pinkbonnet|witchhat)": {
-            "translation": { "x": -1.225, "y": -0.35, "z": -1 },
-            "rotation": { "x": -1, "y": 0, "z": -152 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-pinkbonnet-*": {
+          "translation": { "x": -1.225, "y": -0.35, "z": -1 },
+          "rotation": { "x": -1, "y": 0, "z": -152 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*-chickenofthewoods": {
-            "translation": { "x": -1.5, "y": -0.4, "z": -1.3 },
-            "rotation": { "x": 7, "y": -13, "z": -162 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.4
+        "*-witchhat-*": {
+          "translation": { "x": -1.225, "y": -0.35, "z": -1 },
+          "rotation": { "x": -1, "y": 0, "z": -152 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*-commonmorel": {
-            "translation": { "x": -1.175, "y": -0.225, "z": -1 },
-            "rotation": { "x": 1, "y": 1, "z": 27 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-chickenofthewoods-*": {
+          "translation": { "x": -1.5, "y": -0.4, "z": -1.3 },
+          "rotation": { "x": 7, "y": -13, "z": -162 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.4
         },
-        "*-deerear": {
-            "translation": { "x": -1.175, "y": -0.3, "z": -1 },
-            "rotation": { "x": 71, "y": -54, "z": -31 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-commonmorel-*": {
+          "translation": { "x": -1.175, "y": -0.225, "z": -1 },
+          "rotation": { "x": 1, "y": 1, "z": 27 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "@*-(dryadsaddle|reishi)": {
-            "translation": { "x": -1.1, "y": -0.25, "z": -1.075 },
-            "rotation": { "x": 128, "y": 43, "z": -95 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-deerear-*": {
+          "translation": { "x": -1.175, "y": -0.3, "z": -1 },
+          "rotation": { "x": 71, "y": -54, "z": -31 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "@*-(deathcap|foolsconecap|funeralbell|jackolantern|honeymushroom|laughingjim|libertycap|paddystraw|pinkoyster|wavycap|whiteoyster)": {
-            "translation": { "x": -1.2, "y": -0.3, "z": -1 },
-            "rotation": { "x": 0, "y": 1, "z": -163 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-dryadsaddle-*": {
+          "translation": { "x": -1.1, "y": -0.25, "z": -1.075 },
+          "rotation": { "x": 128, "y": 43, "z": -95 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "@*-(devilstooth|elfinsaddle)": {
-            "translation": { "x": -1.25, "y": -0.325, "z": -1 },
-            "rotation": { "x": 62, "y": -35, "z": -92 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-reishi-*": {
+          "translation": { "x": -1.1, "y": -0.25, "z": -1.075 },
+          "rotation": { "x": 128, "y": 43, "z": -95 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "@*-(beardedtooth|earthball|puffball)": {
-            "translation": { "x": -1.25, "y": -0.25, "z": -1.1 },
-            "rotation": { "x": 22, "y": -90, "z": 180 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-deathcap-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*-flyagaric": {
-            "translation": { "x": -1.13, "y": -0.325, "z": -0.95 },
-            "rotation": { "x": 65, "y": 0, "z": -91 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-foolsconecap-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*-greencrackedrussula": {
-            "translation": { "x": -1.25, "y": -0.3, "z": -1.1 },
-            "rotation": { "x": 91, "y": -35, "z": -92 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-funeralbell-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*-shiitake": {
-            "translation": { "x": -1.25, "y": -0.25, "z": -1 },
-            "rotation": { "x": 122, "y": -47, "z": -53 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-jackolantern-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         },
-        "*": {
-            "translation": { "x": -1.25, "y": -0.35, "z": -1 },
-            "rotation": { "x": 103, "y": -35, "z": -92 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 0.5
+        "*-honeymushroom-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-laughingjim-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-libertycap-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-paddystraw-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-pinkoyster-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-wavycap-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-whiteoyster-*": {
+          "translation": { "x": -1.2, "y": -0.3, "z": -1 },
+          "rotation": { "x": 0, "y": 1, "z": -163 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-devilstooth-*": {
+          "translation": { "x": -1.25, "y": -0.325, "z": -1 },
+          "rotation": { "x": 62, "y": -35, "z": -92 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-elfinsaddle-*": {
+          "translation": { "x": -1.25, "y": -0.325, "z": -1 },
+          "rotation": { "x": 62, "y": -35, "z": -92 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-beardedtooth-*": {
+          "translation": { "x": -1.25, "y": -0.25, "z": -1.1 },
+          "rotation": { "x": 22, "y": -90, "z": 180 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-earthball-*": {
+          "translation": { "x": -1.25, "y": -0.25, "z": -1.1 },
+          "rotation": { "x": 22, "y": -90, "z": 180 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-puffball-*": {
+          "translation": { "x": -1.25, "y": -0.25, "z": -1.1 },
+          "rotation": { "x": 22, "y": -90, "z": 180 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-flyagaric-*": {
+          "translation": { "x": -1.13, "y": -0.325, "z": -0.95 },
+          "rotation": { "x": 65, "y": 0, "z": -91 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-greencrackedrussula-*": {
+          "translation": { "x": -1.25, "y": -0.3, "z": -1.1 },
+          "rotation": { "x": 91, "y": -35, "z": -92 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "*-shiitake-*": {
+          "translation": { "x": -1.25, "y": -0.25, "z": -1 },
+          "rotation": { "x": 122, "y": -47, "z": -53 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
+        },
+        "cookedchoppedmushroom-*": {
+          "translation": { "x": -1.25, "y": -0.35, "z": -1 },
+          "rotation": { "x": 103, "y": -35, "z": -92 },
+          "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+          "scale": 0.5
         }
     },
     "groundTransformByType": {
