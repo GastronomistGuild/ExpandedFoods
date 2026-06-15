@@ -73,7 +73,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 -- herbal soft dough added
 -- pomace wine no longer crashes
 
-2.0.0-dev.11
+2.0.0-dev.12
 - Do stuff with bamboo shoots? idk
 - Lard / olive oil figured out
 - Hallucinogenic mushrooms can be cooked to remove poison, keep trippy effects
@@ -129,6 +129,10 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
+
+2.0.0-dev.12
+- Simplified Chinese translation added (Thanks to Aimli!)  
+- Brine patch removed; pushed out into EF Chef's Tricks
 
 2.0.0-dev.11
 - Breadcrumb animal feed trough patches moved from EF Core to EF Chef's Tricks (whoops)
