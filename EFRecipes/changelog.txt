@@ -130,6 +130,8 @@ MISC:
 - Aged spirit/cider text and visuals revised and updated
 
 
+2.0.0-dev.11
+- Breadcrumb animal feed trough patches moved from EF Core to EF Chef's Tricks (whoops)
 
 2.0.0-dev.10
 - Breadcrumb feed, salt processing, eggshell lime production, resin tapping, oil machinery recipes split into new Chef's Tricks module

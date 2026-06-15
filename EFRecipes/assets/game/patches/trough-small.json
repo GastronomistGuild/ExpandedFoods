@@ -166,36 +166,6 @@
     "op": "addmerge",
     "path": "/attributes/contentConfig/-",
     "value": {
-      "code": "breadcrumbs-feed",
-      "content": { "type": "item", "code": "expandedfoods:breadcrumbfeed" },
-      "quantityPerFillLevel": 1,
-      "maxFillLevels": 8,
-      "shapesPerFillLevel": [
-        "block/wood/trough/small/eggfill1",
-        "block/wood/trough/small/eggfill1",
-        "block/wood/trough/small/eggfill2",
-        "block/wood/trough/small/eggfill2",
-        "block/wood/trough/small/eggfill3",
-        "block/wood/trough/small/eggfill3",
-        "block/wood/trough/small/eggfill4",
-        "block/wood/trough/small/eggfill4"
-      ],
-      "textureCode": "contents-expandedfoods:breadcrumbs-spelt"
-    },
-    "side": "server",
-    "file": "blocktypes/wood/trough-small.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/textures/contents-breadcrumbfeed",
-    "value": { "base": "block/wood/trough/small/crumbs-spelt" },
-    "side": "server",
-    "file": "blocktypes/wood/trough-small.json"
-  },
-  {
-    "op": "addmerge",
-    "path": "/attributes/contentConfig/-",
-    "value": {
       "code": "acornbreadcrumbs",
       "content": { "type": "item", "code": "expandedfoods:acornbreadcrumbs-*" },
       "quantityPerFillLevel": 1,
