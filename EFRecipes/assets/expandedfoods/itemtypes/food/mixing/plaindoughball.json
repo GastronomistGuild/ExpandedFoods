@@ -15,6 +15,9 @@
           "groupBy": [ "plaindoughball-*" ],
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-plaindoughball", "text": "expandedfoods:item-handbooktext-plaindoughball" }]
         },
+		"nutritionPropsWhenInMealByType": {
+			"*-dough": { "satiety": 130, "foodcategory": "Grain" }
+		},
 		"inPiePropertiesByType": {
 			"*-dough": { "texture": "game:block/food/pie/rice{bakeLevel}", "partType": "Crust"  }
 		},
@@ -135,10 +138,13 @@
 	},
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
 	"materialDensity": 200,
-	"nutritionPropsByType": {
-		"*-partbaked": { "satiety": 145, "foodcategory": "Grain" },
-		"*-bread": { "satiety": 160, "foodcategory": "Grain" },
-		"*-charred": { "satiety": 130, "foodcategory": "Grain" }
+	"nutritionProps": {
+		"foodcategory": "Grain",
+		"satietyByType": {
+			"*-partbaked": 145,
+			"*-bread": 160,
+			"*-charred": 130
+		}
 	},
 	"combustiblePropsByType": {
 		"@*-(dough|partbaked|bread)": {

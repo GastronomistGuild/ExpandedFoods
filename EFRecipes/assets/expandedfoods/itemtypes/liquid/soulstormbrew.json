@@ -51,7 +51,8 @@
 		"inPiePropertiesByType": {
 			"@*-(slop|refinedslop)": {
 				"texture": "game:item/liquid/soulstormbrew/{type}",
-				"partType": "Filling"
+				"partType": "Filling",
+				"mixingCodes": [ "soulstormbrew-slop" ]
 			}
 		}
 	},
