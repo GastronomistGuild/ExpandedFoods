@@ -6,8 +6,11 @@
 		"displaycaseable": true,
 		"shelvable": true,
         "nutritionPropsWhenInMealByType": {
-          "*-(edible)": {"satiety": 45, "foodcategory": "Vegetable"}
+        	"*-edible": { "satiety": 45, "foodcategory": "Vegetable" }
         },
+		"inPiePropertiesByType": {
+			"*-edible": { "texture": "game:block/food/pie/fill-seaweed", "partType": "Filling" }
+		},
 		"bakingPropertiesByType": {
 			"*-dried": {
 				"temp": 100,
@@ -35,8 +38,7 @@
         },
         "handbook": {
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-driedseaweed", "text": "expandedfoods:item-handbooktext-driedseaweed" }]
-        },
-    	"inPieProperties": { "texture": "game:block/food/pie/fill-seaweed", "partType": "Filling" }
+        }
     },
 	"nutritionPropsByType": {
 		"*-edible": { "satiety": 30, "foodcategory": "Vegetable" }

@@ -31,6 +31,9 @@
 				"game:cheese-blue-1slice" : {"saturation": 200, "foodcategory": "Dairy" }
 			}
 		},
+		"nutritionPropsWhenInMealByType": {
+			"@*-(raw|dried|cured)": { "satiety": 80, "foodcategory": "Protein" }
+		},
     	"inPiePropertiesByType": {
       		"@*-(bushmeat|bushmeatcheese)-(raw|dried|cured)": { "texture": "game:block/food/pie/fill-bushmeat", "partType": "Filling" },
       		"@*-(poultry|poultrycheese)-(raw|dried|cured)": { "texture": "game:block/food/pie/fill-poultry", "partType": "Filling" },
@@ -164,14 +167,17 @@
     		"cured": {"base": "game:item/food/meat/cured" }
 		}
   	},
-	"nutritionPropsByType": {
-		"*-partbaked": { "saturation": 90, "foodcategory": "Protein"},
-		"*-cooked": { "saturation": 100, "foodcategory": "Protein"},
-		"*-charred": { "saturation": 80, "foodcategory": "Protein"},
-		"*-driedpartbaked": { "saturation": 90, "health": 0.5, "foodcategory": "Protein"},
-		"*-driedcooked": { "saturation": 100, "health": 0.5, "foodcategory": "Protein"},
-		"*-driedcharred": { "saturation": 80, "health": 0.5, "foodcategory": "Protein"},
-		"*-cured": { "saturation": 75, "foodcategory": "Protein"}
+	"nutritionProps": {
+		"foodcategory": "Protein",
+		"satietyByType": {
+			"*-partbaked": 90,
+			"*-cooked": 100,
+			"*-charred": 80,
+			"*-driedpartbaked": 90,
+			"*-driedcooked": 100,
+			"*-driedcharred": 80,
+			"*-cured": 75
+		}
 	},
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
 	"transitionablePropsByType": {

@@ -13,17 +13,6 @@
 			"*-refinedslop": { "distilledStack": { "type": "item", "code": "expandedfoods:soulstormbrew-basic" }, "ratio": 0.5 }
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMealByType": {
-			"@-(slop|refinedslop)": {
-				"health": -10,
-				"foodcategory": "NoNutrition"
-			},
-			"*-basic": {
-				"satiety": -100,
-				"health": 10,
-				"foodcategory": "NoNutrition"
-			}
-		},
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -39,12 +28,23 @@
 			"nutritionPropsPerLitreByType": {
 				"@*-(slop|refinedslop)": {
 					"health": -100,
-					"foodcategory": "NoNutrition"
+					"foodcategory": "Unknown"
 				},
 				"*-basic": {
 					"saturation": -1000,
 					"health": 100,
-					"foodcategory": "NoNutrition"
+					"foodcategory": "Unknown"
+				}
+			},
+			"nutritionPropsPerLitreWhenInMealByType": {
+				"@*-(slop|refinedslop)": {
+					"health": -100,
+					"foodcategory": "Unknown"
+				},
+				"*-basic": {
+					"saturation": -1000,
+					"health": 100,
+					"foodcategory": "Unknown"
 				}
 			}
 		},
@@ -83,10 +83,6 @@
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "aculinaryartillery:bottle-glass-green-corked", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:soulstormbrew-{type}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
 	"materialDensity": 200,
-	"nutritionPropsByType": {
-		"@*-(slop|refinedslop)": { "health": -1, "foodcategory": "NoNutrition" },
-		"*-basic": { "saturation": -10, "health": 1, "foodcategory": "NoNutrition" }
-	},
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
