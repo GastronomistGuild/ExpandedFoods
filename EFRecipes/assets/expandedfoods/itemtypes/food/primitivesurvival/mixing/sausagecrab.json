@@ -27,6 +27,9 @@
     	"renderIngredients": {
 			"expandedfoods:crabnugget-raw": "expandedfoods:shapes/item/food/meat/sausage-poultry.json"
 		},
+		"nutritionPropsWhenInMealByType": {
+			"@*-(raw|dried|cured)": { "satiety": 80, "foodcategory": "Protein" }
+		},
     	"inPiePropertiesByType": {
       		"@*-(raw|dried|cured)": { "texture": "game:block/food/pie/fill-crab", "partType": "Filling" }
     	},
