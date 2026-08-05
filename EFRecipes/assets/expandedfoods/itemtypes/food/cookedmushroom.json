@@ -147,7 +147,7 @@
         "*-sickener-partbaked": { "satiety": 90, "health": -5.25, "foodcategory": "Vegetable" },
         "*-funeralbell-partbaked": { "satiety": 90, "health": -30, "foodcategory": "Vegetable" },
         "*-pinkbonnet-partbaked": { "satiety": 90, "health": -7.5, "foodcategory": "Vegetable" },
-        "cookedchoppedmushroom-*-partbaked": { "satiety": 90, "foodcategory": "Vegetable" },
+        "cookedmushroom-*-partbaked": { "satiety": 90, "foodcategory": "Vegetable" },
   
         "*-flyagaric-perfect": { "satiety": 110, "health": -3.25, "foodcategory": "Vegetable" },
         "*-earthball-perfect": { "satiety": 110, "health": -4, "foodcategory": "Vegetable" },
@@ -167,7 +167,7 @@
         "*-sickener-perfect": { "satiety": 110, "health": -3.5, "foodcategory": "Vegetable" },
         "*-funeralbell-perfect": { "satiety": 110, "health": -20, "foodcategory": "Vegetable" },
         "*-pinkbonnet-perfect": { "satiety": 110, "health": -5, "foodcategory": "Vegetable" },
-        "cookedchoppedmushroom-*-perfect": { "satiety": 110, "foodcategory": "Vegetable" },
+        "cookedmushroom-*-perfect": { "satiety": 110, "foodcategory": "Vegetable" },
   
         "*-earthball-charred": { "satiety": 100, "health": -2, "foodcategory": "Vegetable" },
         "*-deathcap-charred": { "satiety": 100, "health": -12.25, "foodcategory": "Vegetable" },
@@ -187,7 +187,7 @@
         "*-sickener-charred": { "satiety": 100, "health": -1.75, "foodcategory": "Vegetable" },
         "*-funeralbell-charred": { "satiety": 100, "health": -10, "foodcategory": "Vegetable" },
         "*-pinkbonnet-charred": { "satiety": 100, "health": -2.5, "foodcategory": "Vegetable" },
-        "cookedchoppedmushroom-*-charred": { "satiety": 100, "foodcategory": "Vegetable" }
+        "cookedmushroom-*-charred": { "satiety": 100, "foodcategory": "Vegetable" }
 	},
 	"guiTransformByType": {
 		"*": {
