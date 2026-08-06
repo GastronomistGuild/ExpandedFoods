@@ -8,8 +8,8 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-soymilk", "text": "expandedfoods:item-handbooktext-soymilk" }]
 		},
 		"inBowlShape": { "base": "game:block/meal/liquid" },
-		"nutritionPropsWhenInMealByType": {
-			"*-edible": { "satiety": 12, "health": 0.1, "foodcategory": "Protein" }
+		"nutritionPropsPerLitreWhenInMealByType": {
+			"*-edible": { "satiety": 120, "health": 1, "foodcategory": "Protein" }
 		},
 		"waterTightContainerPropsByType": {
 			"*-edible": {

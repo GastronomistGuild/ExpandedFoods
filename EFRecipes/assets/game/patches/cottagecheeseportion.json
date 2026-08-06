@@ -1,8 +1,8 @@
 [
   {
     "op": "addmerge",
-    "path": "/attributes/nutritionPropsWhenInMeal",
-    "value": { "satiety": 100, "foodcategory": "Dairy" },
+    "path": "/attributes/nutritionPropsPerLitreWhenInMeal",
+    "value": { "satiety": 210, "foodcategory": "Dairy" },
     "side": "server",
     "file": "itemtypes/liquid/dairy/cottagecheeseportion.json"
   }

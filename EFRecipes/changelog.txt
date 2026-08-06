@@ -134,8 +134,10 @@ MISC:
 - Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
 - Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!)
 
-- Liquid nutrition updated to use nutritionPropsPerLitre
-- Alcohol now gets you drunk when used in meals
+- Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation
+- Alcohol meal nutrition nerfed from 150 satiety per L to 120 per L
+- Dairy meal nutrition given +50% buff
+- Alcohol now intoxicates you when in meals
 - Cooked mushrooms can be eaten again (oops) - DONE!!!
 - New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
 

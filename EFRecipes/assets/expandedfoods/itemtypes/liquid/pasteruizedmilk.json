@@ -18,8 +18,8 @@
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "pasteurizedmilkportion" } 
 			},
-			"nutritionPropsPerLitre": {
-				"saturation": 115,
+			"nutritionPropsPerLitreWhenInMeal": {
+				"saturation": 175,
 				"health": 1,
 				"foodcategory": "Dairy"
 			}
