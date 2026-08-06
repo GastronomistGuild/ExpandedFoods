@@ -78,15 +78,19 @@
 		"*-basic": [ 22, 6, 2 ]
 	},
 	"glowLevel": 30,
-	"shape": { "base": "game:item/liquid" },
+	"shapeByType": {
+      "@*-(slop|refinedslop)": { "base": "aculinaryartillery:item/goop" },
+      "*-basic": { "base": "game:item/liquid" }
+    },
 	"texture": {"base": "game:item/liquid/soulstormbrew/{type}" },
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "aculinaryartillery:bottle-glass-green-corked", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:soulstormbrew-{type}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
 	"materialDensity": 200,
 	"guiTransform": {
-		"rotation": { "x": 128, "y": 40, "z": 7 },
-		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
-		"scale": 1.4
+        "translation": { "x": 3, "y": 1, "z": 0 },
+        "rotation": { "x": 128, "y": 40, "z": 7 },
+        "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+        "scale": 1.4
 	},
 	"tpHandTransform": {
 		"translation": { "x": -1.5, "y": -1.15, "z": -1.4 },

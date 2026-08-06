@@ -41,7 +41,7 @@
 	"variantgroups": [
 		{ "code": "type", "states": ["starter", "ferment", "plain", "birch", "maple", "honey", "apple", "blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal"] }
 	],
-	"shape": { "base": "game:item/liquid" },
+    "shape": { "base": "aculinaryartillery:item/goop" },
 	"texture": { "base": "game:item/liquid/yogurt/{type}" },
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:yogurt-{type}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
@@ -85,11 +85,13 @@
 	},
 	"nutritionProps": { "saturation": 3, "Health": 0.1, "foodcategory": "Dairy" },
 	"guiTransform": {
-		"rotation": { "x": 123, "y": -33, "z": -13 },
-		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
-		"scale": 1.4
+        "translation": { "x": 0, "y": 1, "z": 0 },
+        "rotation": { "x": 123, "y": -33, "z": -13 },
+        "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+        "scale": 1.4
 	},
 	"tpHandTransform": {
-		"translation": { "x": -1.5, "y": -1, "z": -1.4 }
+        "translation": { "x": -1.5, "y": -1.175, "z": -1.4 },
+        "rotation": { "x": 0, "y": -93, "z": 3 }
 	}
 }

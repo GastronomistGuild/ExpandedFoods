@@ -73,7 +73,7 @@ On hiatus until Wildcraft Herbs & Spices is updated
 -- herbal soft dough added
 -- pomace wine no longer crashes
 
-2.0.0-dev.12
+2.0.0-dev.1X
 - Do stuff with bamboo shoots? idk
 - Lard / olive oil figured out
 - Hallucinogenic mushrooms can be cooked to remove poison, keep trippy effects
@@ -131,11 +131,13 @@ MISC:
 
 2.0.0-dev.13
 - Fruit leather finally fucking added like forreal this time
-- Egg patch for ACA removed (thanks to Lazula!)
+- Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
 - Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!)
 
 - Liquid nutrition updated to use nutritionPropsPerLitre
 - Alcohol now gets you drunk when used in meals
+- Cooked mushrooms can be eaten again (oops) - DONE!!!
+- New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
 
 
 
@@ -143,7 +145,6 @@ MISC:
 2.0.0-dev.12
 - Simplified Chinese translation added (Thanks to Aimli!)  
 - Brine patch removed; pushed out into EF Chef's Tricks
-- Cooked mushrooms can be eaten again (oops)
 
 2.0.0-dev.11
 - Breadcrumb animal feed trough patches moved from EF Core to EF Chef's Tricks (whoops)

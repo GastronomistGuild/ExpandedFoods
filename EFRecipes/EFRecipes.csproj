@@ -19,6 +19,9 @@
     <None Update="assets\expandedfoods\patches\compatibility\ancienttools\pasta.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="assets\expandedfoods\itemtypes\food\fruitleather.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>    
   <ItemGroup>
     <None Update="**\*.json">
