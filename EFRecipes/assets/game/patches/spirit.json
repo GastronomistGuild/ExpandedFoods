@@ -16,13 +16,11 @@
   },
   {
     "op": "addmerge",
-    "path": "/attributes/nutritionPropsWhenInMeal",
+    "path": "/attributes/nutritionPropsPerLitreWhenInMeal",
     "value": {
-        "saturation": 15,
-        "foodcategoryByType": {
-            "@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "grain", 
-            "*": "fruit"
-        }
+        "satiety": 120,
+        "foodcategory": "NoNutrition",
+        "intoxication": 1.5
     },
     "side": "server",
     "file": "itemtypes/liquid/spirit.json"

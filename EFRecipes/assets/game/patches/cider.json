@@ -23,13 +23,14 @@
   },
   {
     "op": "addmerge",
-    "path": "/attributes/nutritionPropsWhenInMeal",
+    "path": "/attributes/nutritionPropsPerLitreWhenInMeal",
     "value": {
-        "saturation": 15,
+        "satiety": 120,
         "foodcategoryByType": {
             "@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "grain", 
             "*": "fruit"
-        }
+        },
+        "intoxication": 0.15
     },
     "side": "server",
     "file": "itemtypes/liquid/cider.json"

@@ -17,7 +17,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-alcoholagingguide", "text": "expandedfoods:item-handbooktext-alcoholagingguide" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMeal": { "satiety": 25, "health": 1, "foodcategory": "Fruit" },
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 150, "health": 10, "foodcategory": "Fruit", "intoxication": 0.45 },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -40,13 +40,13 @@
 				}
 			},
 			"nutritionPropsPerLitre": {
-				"saturation": 100,
+				"satiety": 100,
 				"intoxication":  0.45,
 				"health": 1,
 				"foodcategoryByType": {
 					"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "Grain",
 					"*": "Fruit"
-			}
+			  }
 			}
 		},
 		"distillationPropsbytype": {
@@ -109,8 +109,8 @@
 	"maxstacksize": 5000,
 	"materialDensity": 200,
 	"nutritionPropsByType": { 
-		"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": {"saturation": 1, "health": 0.01, "foodcategory": "Grain"},
-		"*": {"saturation": 1, "health": 0.01, "foodcategory": "Fruit"}
+		"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": {"satiety": 1, "health": 0.01, "foodcategory": "Grain", "intoxication":  0.045 },
+		"*": {"satiety": 1, "health": 0.01, "foodcategory": "Fruit", "intoxication":  0.045 }
 	},
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },

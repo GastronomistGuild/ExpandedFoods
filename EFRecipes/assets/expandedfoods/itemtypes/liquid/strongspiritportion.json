@@ -21,7 +21,7 @@
 			"ratio": 0.75
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMeal": { "satiety": 20, "health": 0.5, "foodcategory": "NoNutrition" },
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 135, "health": 5, "foodcategory": "NoNutrition", "intoxication": 2.0 },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -41,7 +41,7 @@
 				"stack": { "type": "item", "code": "expandedfoods:strongspiritportion-{type}" }
 			},
 			"nutritionPropsPerLitre": {
-				"saturation": 90,
+				"satiety": 90,
 				"intoxication": 2.0,
 				"health": 0.5,
 				"foodcategory": "NoNutrition"
@@ -69,7 +69,7 @@
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:strongspiritportion-{type}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
 	"materialDensity": 200,
-	"nutritionProps": { "saturation": 0.9, "health": 0.005, "foodcategory": "NoNutrition" },
+	"nutritionProps": { "satiety": 0.9, "health": 0.005, "foodcategory": "NoNutrition", "intoxication": 0.2 },
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
