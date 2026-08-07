@@ -19,7 +19,7 @@
 				"stack": { "type": "item", "code": "pasteurizedmilkportion" } 
 			},
 			"nutritionPropsPerLitreWhenInMeal": {
-				"saturation": 175,
+				"satiety": 175,
 				"health": 1,
 				"foodcategory": "Dairy"
 			}
@@ -38,7 +38,7 @@
 		"transitionRatio": 0.002
 	}],
 	"nutritionProps": {
-		"saturation": 1.15, "health": 0.01, "foodcategory": "Dairy"
+		"satiety": 1.15, "health": 0.01, "foodcategory": "Dairy"
 	},
 	"guiTransform": {
 		"rotation": { "x": 123, "y": -33, "z": -13 },

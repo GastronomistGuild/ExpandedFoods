@@ -29,29 +29,29 @@
 				}
 			},
 			"nutritionPropsPerLitreByType": {
-				"*-paste":  {	"saturation": 3200, "foodcategory": "Protein" },
-				"*":  {	"saturation": 0, "foodcategory": "Protein" }
+				"*-paste":  {	"satiety": 3200, "foodcategory": "Protein" },
+				"*":  {	"satiety": 0, "foodcategory": "Protein" }
 			}
 		},
 		"expandedNutritionPropsByType": {
 			"*-sauce": {
-				"expandedfoods:peanutliquid-paste": { "saturation": 16, "foodcategory": "Protein" },
-				"game:salt": { "saturation": 10, "health": 0.5, "foodcategory": "Protein"	},
-      			"game:honeyportion" : { "saturation": 2, "foodcategory": "Fruit" },
-      			"expandedfoods:fruitsyrupportion-saguaro" : { "saturation": 6, "health": 0.2, "foodcategory": "Fruit" }, 
-      			"expandedfoods:fruitsyrupportion-*" : { "saturation": 6, "health": 0.1, "foodcategory": "Fruit" },
-      			"expandedfoods:treesyrupportion-*" : { "saturation": 4.8, "health": 0.1, "foodcategory": "Fruit" },
-                "expandedfoods:fishsauce" : { "saturation": 2.5, "health": 0.1, "foodcategory": "Protein" },
-      			"expandedfoods:soysauce" : { "saturation": 3, "health": 0.1, "foodcategory": "Protein" }
+				"expandedfoods:peanutliquid-paste": { "satiety": 16, "foodcategory": "Protein" },
+				"game:salt": { "satiety": 10, "health": 0.5, "foodcategory": "Protein"	},
+      			"game:honeyportion" : { "satiety": 2, "foodcategory": "Fruit" },
+      			"expandedfoods:fruitsyrupportion-saguaro" : { "satiety": 6, "health": 0.2, "foodcategory": "Fruit" }, 
+      			"expandedfoods:fruitsyrupportion-*" : { "satiety": 6, "health": 0.1, "foodcategory": "Fruit" },
+      			"expandedfoods:treesyrupportion-*" : { "satiety": 4.8, "health": 0.1, "foodcategory": "Fruit" },
+                "expandedfoods:fishsauce" : { "satiety": 2.5, "health": 0.1, "foodcategory": "Protein" },
+      			"expandedfoods:soysauce" : { "satiety": 3, "health": 0.1, "foodcategory": "Protein" }
 			},
 			"*-butter": {
-				"expandedfoods:peanutliquid-paste": { "saturation": 24, "foodcategory": "Protein" },
-				"game:salt": { "saturation": 10, "health": 0.5, "foodcategory": "Protein"	},
-      			"game:honeyportion" : { "saturation": 3, "foodcategory": "Fruit" },
-      			"expandedfoods:fruitsyrupportion-saguaro" : { "saturation": 9, "health": 0.2, "foodcategory": "Fruit" }, 
-      			"expandedfoods:fruitsyrupportion-*" : { "saturation": 9, "health": 0.1, "foodcategory": "Fruit" },
-      			"expandedfoods:treesyrupportion-*" : { "saturation": 7.2, "health": 0.1, "foodcategory": "Fruit" }, 
-      			"expandedfoods:foodoilportion-*" : { "saturation": 4.5, "health": 0.1, "foodcategory": "Vegetable" }
+				"expandedfoods:peanutliquid-paste": { "satiety": 24, "foodcategory": "Protein" },
+				"game:salt": { "satiety": 10, "health": 0.5, "foodcategory": "Protein"	},
+      			"game:honeyportion" : { "satiety": 3, "foodcategory": "Fruit" },
+      			"expandedfoods:fruitsyrupportion-saguaro" : { "satiety": 9, "health": 0.2, "foodcategory": "Fruit" }, 
+      			"expandedfoods:fruitsyrupportion-*" : { "satiety": 9, "health": 0.1, "foodcategory": "Fruit" },
+      			"expandedfoods:treesyrupportion-*" : { "satiety": 7.2, "health": 0.1, "foodcategory": "Fruit" }, 
+      			"expandedfoods:foodoilportion-*" : { "satiety": 4.5, "health": 0.1, "foodcategory": "Vegetable" }
 			}
 		}
 	},
@@ -61,8 +61,8 @@
 	"maxstacksize": 5000,
 	"materialDensity": 200,
 	"nutritionPropsByType": {
-		"*-paste": { "saturation": 32, "foodcategory": "Protein" },
-		"*": { "saturation": 0, "foodcategory": "Protein" }
+		"*-paste": { "satiety": 32, "foodcategory": "Protein" },
+		"*": { "satiety": 0, "foodcategory": "Protein" }
 	},
 	"transitionablePropsByType": {
 		"*-butter":[{

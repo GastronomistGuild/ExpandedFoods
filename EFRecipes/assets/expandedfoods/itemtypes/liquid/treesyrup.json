@@ -12,7 +12,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-treesyrupportion", "text": "expandedfoods:item-handbooktext-treesyrupportion" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMeal": { "satiety": 96, "health": 1, "foodcategory": "Fruit" },
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 960, "health": 10, "foodcategory": "Fruit" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,

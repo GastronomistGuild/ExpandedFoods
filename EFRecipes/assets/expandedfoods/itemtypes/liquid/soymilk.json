@@ -23,7 +23,7 @@
 					"stack": { "type": "item", "code": "expandedfoods:soymilk-edible" } 
 				},
 				"nutritionPropsPerLitre": {
-					"saturation": 75,
+					"satiety": 75,
 					"health": 1,
 					"foodcategory": "Protein"
 				}
@@ -82,7 +82,7 @@
   		}]
 	},
 	"nutritionPropsByType": {
-		"*-edible": { "saturation": 0.75, "health": 0.01, "foodcategory": "Protein" }
+		"*-edible": { "satiety": 0.75, "health": 0.01, "foodcategory": "Protein" }
 	},
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },

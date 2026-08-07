@@ -31,7 +31,7 @@
 					"foodcategory": "Unknown"
 				},
 				"*-basic": {
-					"saturation": -1000,
+					"satiety": -1000,
 					"health": 100,
 					"foodcategory": "Unknown"
 				}
@@ -42,7 +42,7 @@
 					"foodcategory": "Unknown"
 				},
 				"*-basic": {
-					"saturation": -1000,
+					"satiety": -1000,
 					"health": 100,
 					"foodcategory": "Unknown"
 				}

@@ -12,7 +12,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-vegetablejuiceportion", "text": "expandedfoods:item-handbooktext-vegetablejuiceportion" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMeal": { "satiety": 300, "foodcategory": "Vegetable" },
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 3000, "foodcategory": "Vegetable" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -23,7 +23,7 @@
 				"stack": { "type": "item", "code": "expandedfoods:vegetablejuiceportion-{type}" }
 			},
 			"nutritionPropsPerLitre": {
-				"saturation": 200,
+				"satiety": 200,
 				"foodcategory": "Vegetable"
 			}
 		}
@@ -38,7 +38,7 @@
 	"shape": { "base": "game:item/liquid" },
 	"texture": { "base": "game:item/liquid/{type}" },
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:vegetablejuiceportion-{type}", "makefull": true } ] } } ] } ],
-	"nutritionProps": { "saturation": 2, "foodcategory": "Vegetable" },
+	"nutritionProps": { "satiety": 2, "foodcategory": "Vegetable" },
 	"maxstacksize": 5000,
 	"materialDensity": 200,
 	"guiTransform": {

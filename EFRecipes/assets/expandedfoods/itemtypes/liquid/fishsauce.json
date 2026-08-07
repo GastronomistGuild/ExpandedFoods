@@ -8,7 +8,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fishsauce", "text": "expandedfoods:item-handbooktext-fishsauce" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMeal": { "satiety": 50, "foodcategory": "Protein" },
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 500, "foodcategory": "Protein" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,

@@ -8,7 +8,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-lard", "text": "expandedfoods:item-handbooktext-lard" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-        "nutritionPropsWhenInMeal": { "satiety": 100, "health": 0.5, "foodcategory": "Protein" },
+        "nutritionPropsPerLitreWhenInMeal": { "satiety": 1000, "health": 5, "foodcategory": "Protein" },
         "waterTightContainerProps": {
             "containable": true,
             "itemsPerLitre": 100,

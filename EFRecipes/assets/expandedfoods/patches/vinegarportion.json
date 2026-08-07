@@ -23,10 +23,10 @@
   },
   {
     "op": "addmerge",
-    "path": "/attributes/nutritionPropsWhenInMeal",
+    "path": "/attributes/nutritionPropsPerLitreWhenInMeal",
     "value": {
-      "satiety": 5,
-      "health": 0.25,
+      "satiety": 50,
+      "health": 2.5,
       "foodcategory": "NoNutrition"
     },
     "side": "server",

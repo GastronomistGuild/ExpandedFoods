@@ -16,7 +16,11 @@
 			"whenSpilled": {
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:maplesapportion" }
-			}
+			},
+            "nutritionPropsPerLitre": {
+              "satiety": 160,
+              "foodcategory": "Fruit"
+            }
 		}
 	},
 	"shape": { "base": "game:item/liquid" },

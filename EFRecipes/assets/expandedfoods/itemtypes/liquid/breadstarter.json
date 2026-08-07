@@ -19,7 +19,7 @@
 				"stack": { "type": "item", "code": "expandedfoods:breadstarter-wild" }
 			}
 		},
-		"nutritionPropsWhenInMeal": { "satiety": 2.5, "health": 0.15, "foodcategory": "Grain" }
+		"nutritionPropsPerLitreWhenInMeal": { "satiety": 25, "health": 1.5, "foodcategory": "Grain" }
 	},
 	"variantgroups": [
 		{ "code": "type", "states": ["wild"] }

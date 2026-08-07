@@ -12,20 +12,20 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-broth", "text": "expandedfoods:item-handbooktext-broth" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsWhenInMealByType": {
+		"nutritionPropsPerLitreWhenInMealByType": {
 			"@*-(bone|fish)": {
-				"satiety": 130,
-				"health": 2,
+				"satiety": 1300,
+				"health": 20,
 				"foodcategory": "Protein"
 			},
 			"*-vegetable": {
-				"satiety": 130,
-				"health": 2,
+				"satiety": 1300,
+				"health": 20,
 				"foodcategory": "Vegetable"
 			},
 			"*-meat": {
-				"satiety": 155,
-				"health": 2,
+				"satiety": 1550,
+				"health": 20,
 				"foodcategory": "Protein"
 			}
 		},
@@ -39,9 +39,9 @@
 				"stack": { "type": "item", "code": "expandedfoods:clarifiedbrothportion-{type}" }
 			},
 			"nutritionPropsPerLitreByType": {
-				"@*-(bone|fish)": { "saturation": 130, "health": 2, "foodcategory": "Protein" },
-				"*-vegetable": { "saturation": 130, "health": 2, "foodcategory": "Vegetable" },
-				"*-meat": { "saturation": 155, "health": 2, "foodcategory": "Protein" }
+				"@*-(bone|fish)": { "satiety": 130, "health": 2, "foodcategory": "Protein" },
+				"*-vegetable": { "satiety": 130, "health": 2, "foodcategory": "Vegetable" },
+				"*-meat": { "satiety": 155, "health": 2, "foodcategory": "Protein" }
 			}
 		}
 	},
