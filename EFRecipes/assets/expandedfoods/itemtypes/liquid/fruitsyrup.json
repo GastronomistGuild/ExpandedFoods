@@ -17,17 +17,19 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fruitsyrupportion", "text": "expandedfoods:item-handbooktext-fruitsyrupportion" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMealByType": { 
-			"*-saguaro": { "satiety": 1200, "health": 20, "foodcategory": "Fruit" },
-			"fruitsyrupportion-*": { "satiety": 1200, "health": 10, "foodcategory": "Fruit" }
-		},
-		"inPiePropertiesByType": { 
-			"fruitsyrupportion-*": {
-				"texture": "game:block/food/pie/fill-{type}",
-				"partType": "Filling"
-			}
+		"inPieProperties": { 
+            "texture": "game:block/food/pie/fill-{type}",
+            "partType": "Filling"
 		},
 		"waterTightContainerProps": {
+            "nutritionPropsPerLitreWhenInMeal": {
+                "satiety": 1200,
+                "healthByType": {
+                    "*-saguaro": 20,
+                    "*": 10
+                },
+                "foodcategory": "Fruit"
+            },
 			"containable": true,
 			"itemsPerLitre": 100,
 			"texturebytype": {
