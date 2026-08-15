@@ -1,0 +1,38 @@
+[
+    {
+        "ingredientPattern": "KF",
+        "recipeGroup": 1,
+        "ingredients": {
+            "K": {
+                "type": "item",
+                "code": "game:knife-*",
+                "isTool": true
+            },
+            "F": {
+                "type": "item",
+                "code": "expandedfoods:fruitleather-dried"
+            }
+        },
+        "width": 2,
+        "height": 1,
+        "output": { "type": "item", "code": "fruitleather-sliced", "quantity": 4 }
+    },
+    {
+        "ingredientPattern": "KF",
+        "recipeGroup": 2,
+        "ingredients": {
+            "K": {
+                "type": "item",
+                "code": "game:cleaver-*",
+                "isTool": true
+            },
+            "F": {
+                "type": "item",
+              "code": "expandedfoods:fruitleather-dried"
+            }
+        },
+        "width": 2,
+        "height": 1,
+        "output": { "type": "item", "code": "fruitleather-sliced", "quantity": 4  }
+    }
+]

@@ -1,0 +1,212 @@
+{
+    "code": "fruitleather",
+    "class": "ExpandedFood",
+    "maxstacksize": 64,
+    "behaviors": [
+        { "name": "GroundStorable", "properties": { "layout": "messy12", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
+    ],
+    "variantgroups": [
+        { "code": "state",  "states": [ "wet", "dried", "sliced" ] }
+    ],
+    "materialDensityByType": { "*" : 600 },
+    "attributes": {
+        "displaycaseable": true,
+        "shelvable": true,
+        "handbook": {
+            "groupBy": [ "fruitleather-*" ],
+            "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fruitleather", "text": "expandedfoods:item-handbooktext-fruitleather" }]
+        },
+        "nutritionPropsWhenInMealByType": {
+            "*-sliced": { "satiety": 40, "foodcategory": "Fruit" }
+        },
+        "expandedNutritionProps": {
+            "game:pressedmash-breadfruit" : { "saturation": 520, "foodcategory": "Fruit" },
+            "game:pressedmash-cherry" : { "saturation": 10, "foodcategory": "Fruit" },
+            "game:pressedmash-cranberry" : { "saturation": 60, "foodcategory": "Fruit" },
+            "game:pressedmash-lychee" : { "saturation": 10, "foodcategory": "Fruit" },
+            "game:pressedmash-saguaro" : { "saturation": 60, "health": 0.5, "foodcategory": "Fruit" },
+            "game:pressedmash-*" : { "saturation": 135, "foodcategory": "Fruit" },
+            "game:honeyportion" : { "saturation": 4, "foodcategory": "Fruit" },
+            "expandedfoods:fruitsyrupportion-saguaro" : { "saturation": 12, "health": 0.2, "foodcategory": "Fruit" },
+            "expandedfoods:fruitsyrupportion-*" : { "saturation": 12, "health": 0.1, "foodcategory": "Fruit" },
+            "expandedfoods:treesyrupportion-*" : { "saturation": 9.6, "health": 0.1, "foodcategory": "Fruit" }
+        },
+        "renderIngredientsByType": {
+            "*-wet": {
+                "game:pressedmash-*": { "shape": "expandedfoods:shapes/item/food/fruitleather/wet.json", "name": "type", "textureMap": { "fruit": "{type}", "juice": "{type}juice" } }
+            },
+            "*-dried": {
+                "game:pressedmash-*": { "shape": "expandedfoods:shapes/item/food/fruitleather/dried.json", "name": "type", "textureMap": { "fruit": "{type}" } }
+            },
+            "*-sliced": {
+                "game:pressedmash-*": { "shape": "expandedfoods:shapes/item/food/fruitleather/sliced.json", "name": "type", "textureMap": { "fruit": "{type}" } }
+            }
+        },
+        "bakingPropertiesByType": {
+            "*-wet": {
+              "LargeItem": true,
+              "temp": 100,
+              "levelFrom": 0.0,
+              "levelTo": 0.75,
+              "startScaleX": 1.0,
+              "endScaleX": 0.9,
+              "startScaleY": 1.0,
+              "endScaleY": 0.9,
+              "startScaleZ": 1.0,
+              "endScaleZ": 0.9,
+              "resultCode": "expandedfoods:fruitleather-dried"
+            },
+            "*-dried": {
+              "LargeItem": true,
+              "temp": 100,
+              "levelFrom": 0.75,
+              "levelTo": 1,
+              "startScaleX": 0.9,
+              "endScaleX": 0.75,
+              "startScaleY": 0.9,
+              "endScaleY": 0.75,
+              "startScaleZ": 0.9,
+              "endScaleZ": 0.75,
+              "initialCode": "expandedfoods:fruitleather-wet"
+            }
+        },
+        "groundStorageTransformByType": {
+            "fruitleather-*": { "origin": { "x": 0.5, "y": -0, "z": 0.5 } }
+        },
+        "displayable": {
+            "shelf": { "size": { "width": 4, "height": 4, "length": 4 } }
+        },
+        "onDisplayTransformByType": {
+            "fruitleather-*": {
+                "translation": { "x": 0, "y": -0.1, "z": 0 },
+                "scale": 0.8
+            }
+        }
+    },
+    "texturesByType": {
+        "*-wet": {
+            "fruit" : {"base": "expandedfoods:item/food/fruitleather/blueberry" },
+            "apple" : {"base": "expandedfoods:item/food/fruitleather/apple" },
+            "beautyberry" : {"base": "expandedfoods:item/food/fruitleather/beautyberry" },
+            "blackberry" : {"base": "expandedfoods:item/food/fruitleather/blackberry" },
+            "blackcurrant" : {"base": "expandedfoods:item/food/fruitleather/blackcurrant" },
+            "blueberry" : {"base": "expandedfoods:item/food/fruitleather/blueberry" },
+            "cactusfruit" : {"base": "expandedfoods:item/food/fruitleather/cactusfruit" },
+            "cherry" : {"base": "expandedfoods:item/food/fruitleather/cherry" },
+            "cloudberry" : {"base": "expandedfoods:item/food/fruitleather/cloudberry" },
+            "cranberry" : {"base": "expandedfoods:item/food/fruitleather/cranberry" },
+            "gooseberry" : {"base": "expandedfoods:item/food/fruitleather/gooseberry" },
+            "guava" : {"base": "expandedfoods:item/food/fruitleather/guava" },
+            "kumquat" : {"base": "expandedfoods:item/food/fruitleather/kumquat" },
+            "lychee" : {"base": "expandedfoods:item/food/fruitleather/lychee" },
+            "mango" : {"base": "expandedfoods:item/food/fruitleather/mango" },
+            "orange" : {"base": "expandedfoods:item/food/fruitleather/orange" },
+            "peach" : {"base": "expandedfoods:item/food/fruitleather/peach" },
+            "pear" : {"base": "expandedfoods:item/food/fruitleather/pear" },
+            "pineapple" : {"base": "expandedfoods:item/food/fruitleather/pineapple" },
+            "plumnatal" : {"base": "expandedfoods:item/food/fruitleather/plumnatal" },
+            "pomegranate" : {"base": "expandedfoods:item/food/fruitleather/pomegranate" },
+            "raspberry" : {"base": "expandedfoods:item/food/fruitleather/raspberry" },
+            "redcurrant" : {"base": "expandedfoods:item/food/fruitleather/redcurrant" },
+            "saguaro" : {"base": "expandedfoods:item/food/fruitleather/saguaro" },
+            "strawberry" : {"base": "expandedfoods:item/food/fruitleather/strawberry" },
+            "whitecurrant" : {"base": "expandedfoods:item/food/fruitleather/whitecurrant" }
+        },
+        "@*-(dried|sliced)": {
+            "fruit" : {"base": "expandedfoods:item/food/fruitleather/blueberry", "overlays": ["game:item/liquid/syrup"]  },
+            "apple" : {"base": "expandedfoods:item/food/fruitleather/apple", "overlays": ["game:item/liquid/syrup"]  },
+            "beautyberry" : {"base": "expandedfoods:item/food/fruitleather/beautyberry", "overlays": ["game:item/liquid/syrup"]  },
+            "blackberry" : {"base": "expandedfoods:item/food/fruitleather/blackberry", "overlays": ["game:item/liquid/syrup"]  },
+            "blackcurrant" : {"base": "expandedfoods:item/food/fruitleather/blackcurrant", "overlays": ["game:item/liquid/syrup"]  },
+            "blueberry" : {"base": "expandedfoods:item/food/fruitleather/blueberry", "overlays": ["game:item/liquid/syrup"]  },
+            "cactusfruit" : {"base": "expandedfoods:item/food/fruitleather/cactusfruit", "overlays": ["game:item/liquid/syrup"]  },
+            "cherry" : {"base": "expandedfoods:item/food/fruitleather/cherry", "overlays": ["game:item/liquid/syrup"]  },
+            "cloudberry" : {"base": "expandedfoods:item/food/fruitleather/cloudberry", "overlays": ["game:item/liquid/syrup"]  },
+            "cranberry" : {"base": "expandedfoods:item/food/fruitleather/cranberry", "overlays": ["game:item/liquid/syrup"]  },
+            "gooseberry" : {"base": "expandedfoods:item/food/fruitleather/gooseberry", "overlays": ["game:item/liquid/syrup"]  },
+            "guava" : {"base": "expandedfoods:item/food/fruitleather/guava", "overlays": ["game:item/liquid/syrup"]  },
+            "kumquat" : {"base": "expandedfoods:item/food/fruitleather/kumquat", "overlays": ["game:item/liquid/syrup"]  },
+            "lychee" : {"base": "expandedfoods:item/food/fruitleather/lychee", "overlays": ["game:item/liquid/syrup"]  },
+            "mango" : {"base": "expandedfoods:item/food/fruitleather/mango", "overlays": ["game:item/liquid/syrup"]  },
+            "orange" : {"base": "expandedfoods:item/food/fruitleather/orange", "overlays": ["game:item/liquid/syrup"]  },
+            "peach" : {"base": "expandedfoods:item/food/fruitleather/peach", "overlays": ["game:item/liquid/syrup"]  },
+            "pear" : {"base": "expandedfoods:item/food/fruitleather/pear", "overlays": ["game:item/liquid/syrup"]  },
+            "pineapple" : {"base": "expandedfoods:item/food/fruitleather/pineapple", "overlays": ["game:item/liquid/syrup"]  },
+            "plumnatal" : {"base": "expandedfoods:item/food/fruitleather/plumnatal", "overlays": ["game:item/liquid/syrup"]  },
+            "pomegranate" : {"base": "expandedfoods:item/food/fruitleather/pomegranate", "overlays": ["game:item/liquid/syrup"]  },
+            "raspberry" : {"base": "expandedfoods:item/food/fruitleather/raspberry", "overlays": ["game:item/liquid/syrup"]  },
+            "redcurrant" : {"base": "expandedfoods:item/food/fruitleather/redcurrant", "overlays": ["game:item/liquid/syrup"]  },
+            "saguaro" : {"base": "expandedfoods:item/food/fruitleather/saguaro", "overlays": ["game:item/liquid/syrup"]  },
+            "strawberry" : {"base": "expandedfoods:item/food/fruitleather/strawberry", "overlays": ["game:item/liquid/syrup"]  },
+            "whitecurrant" : {"base": "expandedfoods:item/food/fruitleather/whitecurrant", "overlays": ["game:item/liquid/syrup"]  }
+        }
+    },
+    "shape": { "base": "expandedfoods:item/food/fruitleather/{state}" },
+    "creativeinventoryStacksByType": {
+        "*-wet": [
+            {
+                "tabs": [ "general", "items", "expandedfoods" ],
+                "stacks": [
+                  { "type": "item", "code": "expandedfoods:fruitleather-wet", "attributes": { "madeWith": ["game:honeyportion", "game:pressedmash-raspberry", "game:waterportion"], "expandedSats": [0, 40, 0, 0, 0, 0] } },
+                  { "type": "item", "code": "expandedfoods:fruitleather-dried", "attributes": { "madeWith": ["game:honeyportion", "game:pressedmash-blackberry", "game:waterportion"], "expandedSats": [0, 40, 0, 0, 0, 0] } },
+                  { "type": "item", "code": "expandedfoods:fruitleather-sliced", "attributes": { "madeWith": ["expandedfoods:fruitsyrupportion-saguaro", "game:pressedmash-saguaro", "game:waterportion"], "expandedSats": [0.625, 45, 0, 0, 0, 0] } }
+                ]
+            }
+        ]
+    },
+    "nutritionPropsByType": {
+        "*-sliced": {"saturation": 20, "foodcategory": "Fruit" }
+    },
+    "transitionablePropsByType": {
+        "*-wet": [{
+            "type": "Perish",
+            "freshHours": { "avg": 36 },
+            "transitionHours": { "avg": 12 },
+            "transitionedStack": { "type": "item", "code": "game:rot" },
+            "transitionRatio": 0.25
+        },{
+            "type": "Dry",
+            "freshHours": { "avg": 8 },
+            "transitionHours": { "avg": 16 },
+            "transitionedStack": { "type": "item", "code": "expandedfoods:fruitleather-dried" },
+            "transitionRatio": 1
+        }],
+        "@*-(dried|sliced)": [{
+          "type": "Perish",
+          "freshHours": { "avg": 360 },
+          "transitionHours": { "avg": 12 },
+          "transitionedStack": { "type": "item", "code": "game:rot" },
+          "transitionRatio": 0.25
+        }]
+    },
+    "guiTransformByType": {
+        "*-sliced": {
+            "translation": { "x": 2, "y": -1, "z": 0 },
+            "rotation": { "x": 146, "y": 27, "z": -19 },
+            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+            "scale": 4.25
+        },
+        "*": {
+            "rotation": { "x": 138, "y": 59, "z": -14 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.45 },
+            "scale": 1.4
+        }
+    },
+    "tpHandTransformByType": {
+        "fruitleather-*": {
+            "translation": { "x": -1, "y": -0.6, "z": -1 },
+            "rotation": { "x": 0, "y": 0, "z": 0 },
+            "scale": 0.5
+        }
+    },
+    "groundTransformByType": {
+        "fruitleather-*": {
+            "translation": { "x": 0, "y": 0, "z": 0 },
+            "rotation": { "x": 2, "y": 0, "z": 0 },
+            "origin": { "x": 0.5, "y": -0, "z": 0.5 },
+            "scale": 4
+        }
+    },
+    "heldRightReadyAnimationByType": { "@*-(wet|dried)": "holdbothhands" },
+    "heldTpIdleAnimationByType": { "@*-(wet|dried)": "holdbothhands" }
+}
