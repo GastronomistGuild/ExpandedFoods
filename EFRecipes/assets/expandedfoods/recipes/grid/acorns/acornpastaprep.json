@@ -3,16 +3,8 @@
 	"ingredientPattern": "K,P",
     "recipeGroup": 1,
 	"ingredients": {
-		"P": { 
-			"type": "item", 
-			"code": "acornpasta-flat", 
-			"name": "pasta"
-		},
-        "K": {
-        	"type": "item",
-        	"code": "game:knife-*",
-        	"isTool": true
-      	}
+        "K": { "type": "item", "tags": ["tool-knife"], "isTool": true  },
+		"P": { "type": "item", "code": "acornpasta-flat", "name": "pasta" }
 	},
 	"width": 2,
 	"height": 1,
@@ -23,16 +15,8 @@
     "ingredientPattern": "SP",
     "recipeGroup": 2,
     "ingredients": {
-      "S": {
-        "type": "item",
-        "code": "game:cleaver-*",
-        "isTool": true
-      },
-      "P": {
-        "type": "item",
-        "code": "acornpasta-flat",
-        "name": "pasta"
-      }
+        "S": { "type": "item", "tags": ["tool-cleaver"], "isTool": true },
+        "P": { "type": "item", "code": "acornpasta-flat", "name": "pasta" }
     },
     "width": 2,
     "height": 1,
@@ -40,56 +24,33 @@
     "output": { "type": "item", "code": "acornpasta-cut" }
    },
   {
-	"ingredientPattern": "R,M",
+	"ingredientPattern": "R,P",
     "recipeGroup": 3,
 	"ingredients": {
-		"R": { 
-			"type": "item", 
-			"code": "game:stone-*"
-		},
-		"M": { 
-			"type": "item", 
-			"code": "acornpasta-dough", 
-			"name": "pasta"
-		}
+		"R": { "type": "item", "code": "game:stone-*" },
+		"P": { "type": "item", "code": "acornpasta-dough", "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,
 	"output": { "type": "item", "code": "acornpasta-flat"  }
   },
   {
-	"ingredientPattern": "H,M",
+	"ingredientPattern": "H,P",
     "recipeGroup": 4,
 	"ingredients": {
-		"H": { 
-			"type": "item", 
-			"code": "game:hammer-*",
-			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "acornpasta-dough", 
-			"name": "pasta"
-		}
+		"H": { "type": "item", "tags": ["tool-hammer"], "isTool": true  },
+		"P": { "type": "item", "code": "acornpasta-dough", "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,
 	"output": { "type": "item", "code": "acornpasta-flat"  }
   },
   {
-	"ingredientPattern": "H,M",
+	"ingredientPattern": "H,P",
     "recipeGroup": 5,
 	"ingredients": {
-		"H": { 
-			"type": "item", 
-			"code": "acorns:mallet",
-			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "acornpasta-dough", 
-			"name": "meat"
-		}
+		"H": { "type": "item", "code": "acorns:mallet", "isTool": true },
+		"P": { "type": "item", "code": "acornpasta-dough", "name": "meat" }
 	},
 	"width": 1,
 	"height": 2,
@@ -97,19 +58,11 @@
 	"output": { "type": "item", "code": "acornpasta-flat"  }
   },
   {
-	"ingredientPattern": "H,M",
+	"ingredientPattern": "H,P",
     "recipeGroup": 6,
 	"ingredients": {
-		"H": { 
-			"type": "item", 
-			"code": "aculinaryartillery:rollingpin-*",
-       			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "acornpasta-dough", 
-			"name": "pasta"
-		}
+		"H": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
+		"P": { "type": "item", "code": "acornpasta-dough", "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,

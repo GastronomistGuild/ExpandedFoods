@@ -1,18 +1,11 @@
 {
-	"ingredientPattern": "H,M",
+	"ingredientPattern": "H,P",
 	"ingredients": {
-		"H": { 
-			"type": "item", 
-			"code": "acorns:mallet",
-			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "pasta-dough"
-		}
+		"H": { "type": "item", "code": "acorns:mallet", "isTool": true },
+		"P": { "type": "item", "code": "pasta-dough" }
 	},
 	"width": 1,
 	"height": 2,
-	"name": "bushmeatsmash",
+	"name": "pastasmash",
 	"output": { "type": "item", "code": "pasta-flat"  }
 }

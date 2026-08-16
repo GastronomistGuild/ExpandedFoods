@@ -4,18 +4,18 @@
     "recipeGroup": 1,
 	"ingredients": {
 		"M": { "type": "item", "code": "agedmeat-*-normal", "name": "meat" },
-        "K": { "type": "item", "code": "game:knife-*", "isTool": true }
-	},
+        "K": { "type": "item", "tags": ["tool-knife"], "isTool": true  }
+    },
 	"width": 1,
 	"height": 2,
     "shapeless": true,
-	"output": { "type": "item", "code": "agedmeat-{meat}-cut"  }
+	"output": { "type": "item", "code": "agedmeat-{meat}-cut" }
   },
   {
     "ingredientPattern": "SM",
     "recipeGroup": 1,
     "ingredients": {
-      "S": { "type": "item", "code": "game:knife-*", "isTool": true },
+      "S": { "type": "item", "tags": ["tool-knife"], "isTool": true },
       "M": { "type": "item", "code": "agedmeat-*-cut", "name": "meat" }
     },
     "width": 2,
@@ -27,7 +27,7 @@
     "ingredientPattern": "SM",
     "recipeGroup": 2,
     "ingredients": {
-      "S": { "type": "item", "code": "game:cleaver-*", "isTool": true },
+      "S": { "type": "item", "tags": ["tool-cleaver"], "isTool": true },
       "M": { "type": "item", "code": "agedmeat-*-cut", "name": "meat" }
     },
     "width": 2,
@@ -40,7 +40,7 @@
     "recipeGroup": 2,
 	"ingredients": {
 		"M": { "type": "item", "code": "agedmeat-*-normal", "name": "meat" },
-        "K": { "type": "item", "code": "game:cleaver-*", "isTool": true }
+        "K": { "type": "item", "tags": ["tool-cleaver"], "isTool": true }
 	},
 	"width": 1,
 	"height": 2,

@@ -130,19 +130,24 @@ MISC:
 - Aged spirit/cider text and visuals revised and updated
 
 2.0.0-dev.13
+GENERAL:
+- Alcohol now intoxicates you when in meals - DONE!!!
+- New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
 
 NEW FOOD:
 - Fruit leather finally fucking added like forreal this time - DONE!!!
 
-- Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
-- Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!) - DONE!!!
-
-- Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation - DONE!!!
+REBALANCING:
 - Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L - DONE!!!
 - Dairy meal nutrition given +50% buff - DONE!!!
-- Alcohol now intoxicates you when in meals - DONE!!!
+
+BUG FIXES:
+- Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!) - DONE!!!
 - Cooked mushrooms can be eaten again (oops) - DONE!!!
-- New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
+
+MISC:
+- Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
+- Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation - DONE!!!
 - Tags used in grid recipes
 
 

@@ -2,10 +2,7 @@
 {
 	"ingredientPattern": "A",
 	"ingredients": {
-		"A": { 
-			"type": "item", 
-			"code": "acorns:acorns-dry-leached"
-		}
+		"A": { "type": "item", "code": "acorns:acorns-dry-leached" }
 	},
 	"width": 1,
 	"height": 1,
@@ -15,10 +12,7 @@
 {
 	"ingredientPattern": "A",
 	"ingredients": {
-		"A": { 
-			"type": "item", 
-			"code": "expandedfoods:acorns-roasted"
-		}
+		"A": { "type": "item", "code": "expandedfoods:acorns-roasted" }
 	},
 	"width": 1,
 	"height": 1,
