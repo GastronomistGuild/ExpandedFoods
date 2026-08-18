@@ -133,10 +133,11 @@ MISC:
 GENERAL:
 - Alcohol now intoxicates you when in meals - DONE!!!
 - New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
-- Dehydrated fruit removed
+- Dehydrated fruit removed - DONE!!!
 
 NEW FOOD:
 - Fruit leather finally fucking added like forreal this time, can be used in trail mix - DONE!!!
+- Check fruit leather trail mix nutrition
 
 REBALANCING:
 - Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L - DONE!!!

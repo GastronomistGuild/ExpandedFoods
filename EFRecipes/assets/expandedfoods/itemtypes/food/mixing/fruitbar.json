@@ -45,7 +45,6 @@
 			"expandedfoods:peanut-kernels": { "shape": "expandedfoods:shapes/item/food/fruitbar/base.json", "name": "base", "textureMap": { "base": "peanut" } },
 			"game:grain-sunflower": { "shape": "expandedfoods:shapes/item/food/fruitbar/base.json", "name": "base", "textureMap": { "base": "sunflower" } },
 			"game:fruit-*": { "shape": "expandedfoods:shapes/item/food/fruitbar/overlay.json", "name": "overlay", "textureMap": { "overlay": "{overlay}O" } },
-			"expandedfoods:dehydratedfruit-*": { "shape": "expandedfoods:shapes/item/food/fruitbar/overlay.json", "name": "overlay", "textureMap": { "overlay": "{overlay}O" } },
 			"expandedfoods:dryfruit-*": { "shape": "expandedfoods:shapes/item/food/fruitbar/overlay.json", "name": "overlay", "textureMap": { "overlay": "{overlay}O" } },
 			"expandedfoods:candiedfruit-*": { "shape": "expandedfoods:shapes/item/food/fruitbar/overlay.json", "name": "overlay", "textureMap": { "overlay": "{overlay}O" } },
 			"expandedfoods:choppedvegetable-pumpkin": { "shape": "expandedfoods:shapes/item/food/fruitbar/overlay.json", "name": "overlay", "textureMap": { "overlay": "pumpkinO" } },
