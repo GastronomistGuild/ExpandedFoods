@@ -133,9 +133,11 @@ MISC:
 GENERAL:
 - Alcohol now intoxicates you when in meals - DONE!!!
 - New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
+- Dehydrated fruit removed
 
 NEW FOOD:
 - Fruit leather finally fucking added like forreal this time - DONE!!!
+- Fruit leather can be used in trail mix
 
 REBALANCING:
 - Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L - DONE!!!
@@ -148,7 +150,7 @@ BUG FIXES:
 MISC:
 - Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
 - Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation - DONE!!!
-- Tags used in grid recipes
+- Tags used in grid recipes - DONE!!!
 
 
 

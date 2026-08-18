@@ -3,17 +3,9 @@
 	"ingredientPattern": "K,P",
     "recipeGroup": 1,
 	"ingredients": {
-		"P": { 
-			"type": "item", 
-			"code": "pasta-flat", 
-			"name": "pasta"
-		},
-    		"K": {
-        		"type": "item",
-        		"code": "game:knife-*",
-        		"isTool": true
-      		}
-	},
+      "P": { "type": "item", "code": "pasta-flat", "name": "pasta" },
+      "K": { "type": "item", "tags": ["tool-knife"], "isTool": true  }
+    },
 	"width": 2,
 	"height": 1,
     "shapeless": true,
@@ -23,16 +15,8 @@
     "ingredientPattern": "SP",
     "recipeGroup": 2,
     "ingredients": {
-      "S": {
-        "type": "item",
-        "code": "game:cleaver-*",
-        "isTool": true
-      },
-      "P": {
-        "type": "item",
-        "code": "pasta-flat",
-        "name": "pasta"
-      }
+      "S": { "type": "item", "tags": ["tool-cleaver"], "isTool": true  },
+      "P": { "type": "item", "code": "pasta-flat", "name": "pasta" }
     },
     "width": 2,
     "height": 1,
@@ -43,15 +27,8 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 3,
 	"ingredients": {
-		"R": { 
-			"type": "item", 
-			"code": "game:stone-*"
-		},
-		"M": { 
-			"type": "item", 
-			"code": "pasta-dough", 
-			"name": "pasta"
-		}
+      "R": { "type": "item", "code": "game:stone-*" },
+      "M": {  "type": "item",  "code": "pasta-dough",  "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,
@@ -61,16 +38,8 @@
 	"ingredientPattern": "H,M",
     "recipeGroup": 4,
 	"ingredients": {
-		"H": { 
-			"type": "item", 
-			"code": "game:hammer-*",
-			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "pasta-dough", 
-			"name": "pasta"
-		}
+      "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true  },
+      "M": {  "type": "item",  "code": "pasta-dough",  "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,
@@ -80,16 +49,8 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 5,
 	"ingredients": {
-		"R": { 
-			"type": "item", 
-			"code": "aculinaryartillery:rollingpin-*",
-       			"isTool": true
-		},
-		"M": { 
-			"type": "item", 
-			"code": "pasta-dough", 
-			"name": "pasta"
-		}
+      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "M": {  "type": "item",  "code": "pasta-dough",  "name": "pasta" }
 	},
 	"width": 1,
 	"height": 2,

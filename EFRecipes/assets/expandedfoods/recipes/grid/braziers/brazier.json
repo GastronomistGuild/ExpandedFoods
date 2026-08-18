@@ -3,7 +3,7 @@
     	"ingredientPattern": "_H_,_WF,SLS",
 	    "recipeGroup": 1,
     	"ingredients": {
-    		"H": { "type": "item", "code": "game:hammer-*", "isTool": true },
+    		"H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
     		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
     		"S": { "type": "block", "code": "game:metal-scraps"},
 		    "F": { "type": "block", "code": "game:woodbucket" },
@@ -24,7 +24,7 @@
     	"ingredientPattern": "_H_,_WF,SLS",
 	    "recipeGroup": 2,
     	"ingredients": {
-    		"H": { "type": "item", "code": "game:hammer-*", "isTool": true },
+            "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
     		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
     		"S": { "type": "item", "code": "hqzlights:metalstrip-*", "name": "metal"},
 		    "F": { "type": "block", "code": "aculinaryartillery:bottle-*-fired" },
@@ -45,7 +45,7 @@
     	"ingredientPattern": "_H_,FWF,SLS",
 	    "recipeGroup": 1,
     	"ingredients": {
-    		"H": { "type": "item", "code": "game:hammer-*", "isTool": true },
+            "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
     		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
     		"S": { "type": "block", "code": "game:metal-scraps"},
 		    "F": { "type": "block", "code": "expandedfoods:hardlard" },
@@ -60,7 +60,7 @@
     	"ingredientPattern": "_H_,FWF,SLS",
 	    "recipeGroup": 2,
     	"ingredients": {
-    		"H": { "type": "item", "code": "game:hammer-*", "isTool": true },
+            "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
     		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
     		"S": { "type": "item", "code": "hqzlights:metalstrip-*", "name": "metal"},
 		    "F": { "type": "block", "code": "expandedfoods:hardlard" },
