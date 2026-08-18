@@ -14,7 +14,7 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fruitleather", "text": "expandedfoods:item-handbooktext-fruitleather" }]
         },
         "nutritionPropsWhenInMealByType": {
-            "*-sliced": { "satiety": 40, "foodcategory": "Fruit" }
+            "*-sliced": { "satiety": 30, "foodcategory": "Fruit" }
         },
         "expandedNutritionProps": {
             "game:pressedmash-breadfruit" : { "saturation": 520, "foodcategory": "Fruit" },

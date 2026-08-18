@@ -10376,6 +10376,8 @@
   "game:recipeingredient-item-pressedmash-saguaro": "saguaro mash",
   "game:recipeingredient-item-pressedmash-strawberry": "strawberry mash",
   "game:recipeingredient-item-pressedmash-whitecurrant": "white currant mash",
+  
+  "game:recipeingredient-item-fruitleather-sliced": "blueberry mash",
 
   "game:item-handbooktitle-fruitpress": "Fruitpress notes",
   "game:item-handbooktext-fruitpress": "You can only use the fruit press if it is at LEAST half-full. Anything less and the press will not squish any material. Be sure to check and see if your mash can be used for anything!",

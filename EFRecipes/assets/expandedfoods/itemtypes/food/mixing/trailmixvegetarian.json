@@ -5,6 +5,7 @@
 	"variantgroups": [
 		{ "code": "type", "states": ["fruity", "nutty", "beany", "cheesy"] }
 	],
+    "materialDensity": 300,
 	"attributes": {
 		"displaycaseable": true,
 		"shelvable": true,
@@ -21,9 +22,11 @@
 		"onDisplayTransform": {
 			"translation": {"x": 0, "y": -0.25, "z": 0},
 			"scale":  0.5
-		}
+		},
+        "expandedNutritionProps": {
+          "expandedfoods:fruitleather-sliced" : { "saturation": 30, "foodcategory": "Fruit" },
+        }
 	},
-	"materialDensity": 300,
 	"shape": { "base": "expandedfoods:item/food/trailmix" },
 	"textures": { "mix": { "base": "item/food/trailmix/vegetarian/{type}" }},
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
