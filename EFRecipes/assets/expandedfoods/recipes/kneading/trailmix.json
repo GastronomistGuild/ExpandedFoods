@@ -3,7 +3,7 @@
 	"ingredients": [
 		{"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]}
@@ -14,7 +14,7 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]}
 	],
@@ -24,7 +24,7 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]}
@@ -35,7 +35,7 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]}
     ],
@@ -45,7 +45,7 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]}
@@ -56,7 +56,7 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]}
 	],
@@ -66,10 +66,10 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]}
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]}
 	],
 	"output": { "type": "item", "code": "expandedfoods:trailmix-fruity", "stackSize": 1}
  },
@@ -77,9 +77,9 @@
 	"ingredients": [
         {"inputs": [{ "type": "item", "code": "game:legume-peanut", "quantity": 1 }, { "type": "item", "code": "expandedfoods:peanut-cooked", "quantity": 1 },{ "type": "item", "code": "expandedfoods:peanut-kernels", "quantity": 1 },{ "type": "item", "code": "game:grain-sunflower", "quantity": 1 }]},
 		{"inputs": [{ "type": "item", "code": "expandedfoods:fishnugget-curedchopped", "quantity": 2 }, { "type": "item", "code": "expandedfoods:meatnugget-*-cured", "quantity": 2 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]},
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]},
 		{"inputs": [{ "type": "item", "code": "game:cheese-cheddar-1slice", "quantity": 1 }, { "type": "item", "code": "game:cheese-blue-1slice", "quantity": 1 }]},
-		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:dehydratedfruit-*", "quantity": 3 }]}
+		{"inputs": [{ "type": "item", "code": "expandedfoods:dryfruit-*", "quantity": 3 }, { "type": "item", "code": "expandedfoods:fruitleather-sliced", "quantity": 3 }]}
 
 	],
 	"output": { "type": "item", "code": "expandedfoods:trailmix-fruity", "stackSize": 1}

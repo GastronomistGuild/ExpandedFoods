@@ -136,8 +136,7 @@ GENERAL:
 - Dehydrated fruit removed
 
 NEW FOOD:
-- Fruit leather finally fucking added like forreal this time - DONE!!!
-- Fruit leather can be used in trail mix
+- Fruit leather finally fucking added like forreal this time, can be used in trail mix - DONE!!!
 
 REBALANCING:
 - Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L - DONE!!!
