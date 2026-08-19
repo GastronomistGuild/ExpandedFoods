@@ -173,7 +173,14 @@
 		"@*-redmeat-(tendercharred|meatballcharred)": { "satiety": 300, "health": 0.5, "foodcategory": "Protein" }
 	},
 	"transitionablePropsByType": {
-		"@*-(normal|cut|raw)": [{
+        "*-normal": [{
+          "type": "Perish",
+          "freshHours": { "avg": 168 },
+          "transitionHours": { "avg": 108 },
+          "transitionedStack": { "type": "item", "code": "game:rot" },
+          "transitionRatio": 1
+        }],
+		"@*-(cut|raw)": [{
 			"type": "Perish",
 			"freshHours": { "avg": 36 },
 			"transitionHours": { "avg": 24 },

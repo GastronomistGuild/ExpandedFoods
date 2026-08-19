@@ -49,7 +49,7 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 5,
 	"ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": {  "type": "item",  "code": "pasta-dough",  "name": "pasta" }
 	},
 	"width": 1,

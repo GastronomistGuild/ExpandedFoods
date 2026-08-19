@@ -129,29 +129,41 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
-2.0.0-dev.13
-GENERAL:
-- Alcohol now intoxicates you when in meals - DONE!!!
-- New liquid shape added for goopy liquids (thanks to Fuego Fish!) - DONE!!!
-- Dehydrated fruit removed - DONE!!!
 
-NEW FOOD:
-- Fruit leather finally fucking added like forreal this time, can be used in trail mix - DONE!!!
+2.0.0-dev.14
+EF: Preserves Module begins...
 
 REBALANCING:
-- Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L - DONE!!!
-- Dairy meal nutrition given +50% buff - DONE!!!
+- Dry aged meat lasts longer (unless it's prepared) - DONE!!!
+- Pie recipes fixed, ACA changes necessitate specific pie recipes
 
 BUG FIXES:
-- Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!) - DONE!!!
-- Cooked mushrooms can be eaten again (oops) - DONE!!!
+- Grid recipes for tenderized cooked meat/fish & flattened pasta fixed - DONE!!!
 
 MISC:
-- Egg patch for ACA removed (thanks to Lazula!) - DONE!!!
-- Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation - DONE!!!
-- Tags used in grid recipes - DONE!!!
+- Fruit leather has handbook and flavor text, lol
 
+2.0.0-dev.13
+GENERAL:
+- Alcohol now intoxicates you when in meals
+- New liquid shape added for goopy liquids (thanks to Fuego Fish!)
+- Dehydrated fruit removed
 
+NEW FOOD:
+- Fruit leather finally fucking added like forreal this time, can be used in trail mix
+
+REBALANCING:
+- Alcohol meal nutrition nerfed from 150/200/250 satiety per L to 120/135/150 per L
+- Dairy meal nutrition given +50% buff
+
+BUG FIXES:
+- Nutrition props fixed for pie ingredients like dried seaweed, soft dough, sausage, and soulstorm brew (thanks to Lazula!)
+- Cooked mushrooms can be eaten again (oops)
+
+MISC:
+- Egg patch for ACA removed (thanks to Lazula!)
+- Liquid nutrition updated to use nutritionPropsPerLitre; satiety instead of saturation 
+- Tags used in grid recipes
 
 2.0.0-dev.12
 - Simplified Chinese translation added (Thanks to Aimli!)  

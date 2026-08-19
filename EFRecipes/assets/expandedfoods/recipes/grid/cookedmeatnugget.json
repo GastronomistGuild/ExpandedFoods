@@ -255,7 +255,7 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 8,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:bushmeat-cooked", "name": "meat" }
     },
     "width": 2,
@@ -267,7 +267,7 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 8,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:redmeat-cooked", "name": "meat" }
     },
     "width": 2,
@@ -279,7 +279,7 @@
 	"ingredientPattern": "R,M",
     "recipeGroup": 8,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:poultry-cooked", "name": "meat" }
     },
     "width": 2,
@@ -435,7 +435,7 @@
     "ingredientPattern": "R,M",
     "recipeGroup": 13,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:bushmeat-charred", "name": "meat" }
     },
     "width": 2,
@@ -447,7 +447,7 @@
     "ingredientPattern": "R,M",
     "recipeGroup": 13,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:redmeat-charred", "name": "meat" }
     },
     "width": 2,
@@ -459,7 +459,7 @@
     "ingredientPattern": "R,M",
     "recipeGroup": 13,
     "ingredients": {
-      "R": { "type": "item", "tags": ["tags-rollingpin"], "isTool": true },
+      "R": { "type": "item", "tags": ["tool-rollingpin"], "isTool": true },
       "M": { "type": "item", "code": "game:poultry-charred", "name": "meat" }
     },
     "width": 2,
