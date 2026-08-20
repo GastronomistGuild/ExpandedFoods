@@ -133,15 +133,18 @@ MISC:
 2.0.0-dev.14
 EF: Preserves Module begins...
 
+
 REBALANCING:
 - Dry aged meat lasts longer (unless it's prepared) - DONE!!!
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
 
 BUG FIXES:
 - Grid recipes for tenderized cooked meat/fish & flattened pasta fixed - DONE!!!
+- Fruit leather recipe tightened to only allow fruit mash, not just any mash - DONE!!!
+-
 
 MISC:
-- Fruit leather has handbook and flavor text, lol
+- Fruit leather has handbook and flavor text, lol - DONE!!!
 
 2.0.0-dev.13
 GENERAL:

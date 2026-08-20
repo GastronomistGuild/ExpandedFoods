@@ -3,7 +3,7 @@
         "Ingredients": [
             { "type": "item", "code": "waterportion", "quantity": 20 },
             { "type": "item", "code": "honeyportion", "quantity": 10 },
-            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit" }
+            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit", "allowedVariants": ["blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal"] }
         ],
         "Simmering": {
             "meltingPoint": 200,
@@ -18,7 +18,7 @@
         "Ingredients": [
             { "type": "item", "code": "waterportion", "quantity": 20 },
             { "type": "item", "code": "expandedfoods:fruitsyrupportion-*", "quantity": 10 },
-            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit" }
+            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit", "allowedVariants": ["blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal"] }
         ],
         "Simmering": {
             "meltingPoint": 200,
@@ -33,7 +33,7 @@
         "Ingredients": [
             { "type": "item", "code": "waterportion", "quantity": 20 },
             { "type": "item", "code": "expandedfoods:treesyrupportion-*", "quantity": 10 },
-            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit" }
+            { "type": "item", "code": "pressedmash-*", "quantity": 1, "name": "fruit", "allowedVariants": ["blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal"] }
         ],
         "Simmering": {
             "meltingPoint": 200,

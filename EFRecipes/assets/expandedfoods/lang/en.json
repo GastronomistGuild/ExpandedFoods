@@ -10347,8 +10347,14 @@
 
 
   "item-fruitleather-wet": "Fruit leather purée",
+  "itemdesc-fruitleather-wet": "A goopy and wet pile of puréed fruit. How are you holding this?",
   "item-fruitleather-dried": "Dried fruit leather",
+  "itemdesc-fruitleather-dried": "Too bad you can't tear into the entire sheet - cut it up first.",
   "item-fruitleather-sliced": "Fruit leather slices",
+  "itemdesc-fruitleather-sliced": "Soft, chewy, and sweet! Easy to travel with, too.",
+  "item-handbooktitle-fruitleather": "Fruit Leather",
+  "item-handbooktext-fruitleather": "Get more out of your fruit mash after making juice by simmering the mash with water and sweeterer into a puréed form, then let it dry in sheets until the texture is pliable. Finally, chop it up and enjoy!",
+
 
   "game:recipeingredient-item-pressedmash-apple": "apple mash",
   "game:recipeingredient-item-pressedmash-beautyberry": "beautyberry mash",
