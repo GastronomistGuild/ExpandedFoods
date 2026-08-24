@@ -209,29 +209,29 @@
   },
   {
     "op": "replace",
-    "path": "/guiTransformByType/*-cured/translation/x",
-    "value": 10.5,
+    "path": "/guiTransformByType/*-cured/origin/x",
+    "value": 0.45,
     "side": "server",
     "file": "itemtypes/food/redmeat.json"
   },
   {
     "op": "replace",
-    "path": "/guiTransformByType/*-cured/translation/y",
-    "value": 5,
+    "path": "/guiTransformByType/*-cured/origin/z",
+    "value": 0.56,
     "side": "server",
     "file": "itemtypes/food/redmeat.json"
   },
   {
     "op": "replace",
-    "path": "/guiTransformByType/*/translation/x",
-    "value": 10.5,
+    "path": "/guiTransformByType/*/origin/x",
+    "value": 0.45,
     "side": "server",
     "file": "itemtypes/food/redmeat.json"
   },
   {
     "op": "replace",
-    "path": "/guiTransformByType/*/translation/y",
-    "value": 5,
+    "path": "/guiTransformByType/*/origin/z",
+    "value": 0.56,
     "side": "server",
     "file": "itemtypes/food/redmeat.json"
   },

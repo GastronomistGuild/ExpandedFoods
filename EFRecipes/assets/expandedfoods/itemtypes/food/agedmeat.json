@@ -213,9 +213,9 @@
 		},
 		"@*-redmeat-(normal|cut|tenderpartbaked|tender|tendercharred)": {
 			"rotate": false,
-			"translation": { "x": 10.5, "y": 5, "z": 0 },
+			"translation": { "x": 0.5, "y": 0, "z": 0 },
 			"rotation": { "x": 171, "y": -122, "z": 33 },
-			"origin": { "x": 0.4, "y": 0.08, "z": 0.5 },
+			"origin": { "x": 0.45, "y": 0.08, "z": 0.56 },
 			"scale": 4.72
 		},
 		"*": {

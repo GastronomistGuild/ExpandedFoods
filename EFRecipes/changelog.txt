@@ -133,7 +133,6 @@ MISC:
 2.0.0-dev.15
 EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
-- Fix whatever's going on with the meat GUI
 - Prepping for lard removal?
 
 HANDBOOK STUFF:
@@ -142,6 +141,9 @@ HANDBOOK STUFF:
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
+
+MISC:
+- Meat and smashed meat GUI transforms tweaked - DONE!!!
 
 2.0.0-dev.14
 

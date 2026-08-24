@@ -192,12 +192,26 @@
 	},
 	"materialDensity": 600,
 	"guiTransformByType": {
-		"*": {
+        "*-bushmeat-*": {
+            "rotate": false,
+            "translation": { "x": 0.5, "y": 0, "z": 0 },
+            "rotation": { "x": 171, "y": -122, "z": 33 },
+            "origin": { "x": 0.475, "y": 0.08, "z": 0.575 },
+            "scale": 4.5
+        },
+        "*-redmeat-*": {
+            "rotate": false,
+            "translation": { "x": 0.5, "y": 0, "z": 0 },
+            "rotation": { "x": 171, "y": -122, "z": 33 },
+            "origin": { "x": 0.475, "y": 0.08, "z": 0.575 },
+            "scale": 4.5
+        },
+		"*-poultry-*": {
 			"rotate": false,
-			"translation": { "x": -2, "y": 0, "z": 0 },
-			"rotation": { "x": 171, "y": -122, "z": 33 },
-			"origin": { "x": 0.5, "y": 0.04, "z": 0.56 },
-			"scale": 5
+            "translation": { "x": 0.5, "y": 0, "z": 0 },
+            "rotation": { "x": 171, "y": -122, "z": 33 },
+            "origin": { "x": 0.5, "y": 0.02, "z": 0.52 },
+            "scale": 4.5
 		}
 	},
 	"tpHandTransformByType": {
