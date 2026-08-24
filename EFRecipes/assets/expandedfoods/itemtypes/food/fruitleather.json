@@ -139,18 +139,7 @@
         }
     },
     "shape": { "base": "expandedfoods:item/food/fruitleather/{state}" },
-    "creativeinventoryStacksByType": {
-        "*-wet": [
-            {
-                "tabs": [ "general", "items", "expandedfoods" ],
-                "stacks": [
-                  { "type": "item", "code": "expandedfoods:fruitleather-wet", "attributes": { "madeWith": ["game:honeyportion", "game:pressedmash-raspberry", "game:waterportion"], "expandedSats": [0, 40, 0, 0, 0, 0] } },
-                  { "type": "item", "code": "expandedfoods:fruitleather-dried", "attributes": { "madeWith": ["game:honeyportion", "game:pressedmash-blackberry", "game:waterportion"], "expandedSats": [0, 40, 0, 0, 0, 0] } },
-                  { "type": "item", "code": "expandedfoods:fruitleather-sliced", "attributes": { "madeWith": ["expandedfoods:fruitsyrupportion-saguaro", "game:pressedmash-saguaro", "game:waterportion"], "expandedSats": [0.625, 45, 0, 0, 0, 0] } }
-                ]
-            }
-        ]
-    },
+    "creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
     "nutritionPropsByType": {
         "*-sliced": {"saturation": 20, "foodcategory": "Fruit" }
     },

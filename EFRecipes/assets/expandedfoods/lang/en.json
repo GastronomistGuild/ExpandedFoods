@@ -10353,7 +10353,10 @@
   "item-fruitleather-sliced": "Fruit leather slices",
   "itemdesc-fruitleather-sliced": "Soft, chewy, and sweet! Easy to travel with, too.",
   "item-handbooktitle-fruitleather": "Fruit Leather",
-  "item-handbooktext-fruitleather": "Get more out of your fruit mash after making juice by simmering the mash with water and sweeterer into a puréed form, then let it dry in sheets until the texture is pliable. Finally, chop it up and enjoy!",
+  "item-handbooktext-fruitleather": "Get more out of your fruit mash after making juice by simmering the mash with sweetener and water into a puréed form, then let it dry in sheets until the texture is pliable. Finally, chop it up and enjoy!",
+
+  "item-handbooktitle-pressedfruitmash": "Mash Enhancements (Expanded Foods)",
+  "item-handbooktext-pressedfruitmash": "Simmer fruit mash in a saucepan with sweetener and water to get started on making <a href=\"handbook://item-expandedfoods:fruitleather-wet\">fruit leather</a>, a sweet and gummy fruit snack.",
 
 
   "game:recipeingredient-item-pressedmash-apple": "apple mash",
@@ -10398,7 +10401,7 @@
   "item-handbooktext-juiceprocessingguide": "Fruit juice is a base liquid with many resulting outputs.<br>If allowed to spoil, it ferments into <a href=\"handbook://item-vinegarportion\">vinegar</a> and acidifies.<br>When sealed into a barrel or <a href=\"handbook://block-aculinaryartillery:bottle-clay-blue-corked\">bottle</a>, juice cures over time into 'cider' (the exact name varies based on the fruit used).<br>Lastly, juice may be <a href=\"handbook://simmeringguide\">simmered</a> in a <a href=\"handbook://block-aculinaryartillery:saucepan-blue-fired\">saucepan</a> or <a href=\"handbook://block-aculinaryartillery:cauldron-iron\">cauldron</a> to concentrate it into fruit syrup.",
 
   "item-handbooktitle-dough": "Dough Enhancements (Expanded Foods)",
-  "item-handbooktext-dough": "Flour can be mixed with water from a liquid container like usual, but <a href=\"handbook://kneadingmixingguide\">kneading</a> allows more ingredients to be combined together. In addition to water, milk, lard, and broth may be used to create dough. Optionally, lard/cooking oil and yeast starter can be added in. Adding any liquids beyond water will add small amounts of nutrition and healing to the finished bread product (including pies).",
+  "item-handbooktext-dough": "Flour can be mixed with water from a liquid container like usual, but <a href=\"handbook://kneadingmixingguide\">kneading</a> allows more ingredients to be combined together. In addition to water, milk, lard, and broth may be used to create dough. Optionally, lard/cooking oil and yeast starter can be added in. Adding any liquids beyond water will add small amounts of nutrition and healing to the finished bread product (including pies)."
   
 
 }   
