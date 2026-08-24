@@ -187,5 +187,14 @@
     "path": "/attributes/juiceablePropertiesByType/*",
     "frompath": "/temp",
     "file": "game:itemtypes/resource/pressedmash.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/handbook/extraSectionsByType",
+    "value": {
+      "@*-(apple|beautyberry|blackberry|blackcurrant|blueberry|breadfruit|cactusfruit|cherry|cloudberry|cranberry|gooseberry|guava|kumquat|lychee|mango|orange|peach|pear|pineapple|plumnatal|pomegranate|raspberry|redcurrant|saguaro|strawberry|whitecurrant)": [{ "title": "expandedfoods:item-handbooktitle-pressedfruitmash", "text": "expandedfoods:item-handbooktext-pressedfruitmash" }]
+    },
+    "side": "server",
+    "file": "game:itemtypes/resource/pressedmash.json"
   }
 ]
