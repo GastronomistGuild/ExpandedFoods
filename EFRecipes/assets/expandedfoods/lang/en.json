@@ -10355,9 +10355,10 @@
   "item-handbooktitle-fruitleather": "Fruit Leather",
   "item-handbooktext-fruitleather": "Get more out of your fruit mash after making juice by simmering the mash with sweetener and water into a puréed form, then let it dry in sheets until the texture is pliable. Finally, chop it up and enjoy!",
 
+  "game:recipeingredient-item-fruitleather-sliced": "fruit leather slices",
+  
   "item-handbooktitle-pressedfruitmash": "Mash Enhancements (Expanded Foods)",
   "item-handbooktext-pressedfruitmash": "Simmer fruit mash in a saucepan with sweetener and water to get started on making <a href=\"handbook://item-expandedfoods:fruitleather-wet\">fruit leather</a>, a sweet and gummy fruit snack.",
-
 
   "game:recipeingredient-item-pressedmash-apple": "apple mash",
   "game:recipeingredient-item-pressedmash-beautyberry": "beautyberry mash",
@@ -10386,7 +10387,6 @@
   "game:recipeingredient-item-pressedmash-strawberry": "strawberry mash",
   "game:recipeingredient-item-pressedmash-whitecurrant": "white currant mash",
   
-  "game:recipeingredient-item-fruitleather-sliced": "blueberry mash",
 
   "game:item-handbooktitle-fruitpress": "Fruitpress notes",
   "game:item-handbooktext-fruitpress": "You can only use the fruit press if it is at LEAST half-full. Anything less and the press will not squish any material. Be sure to check and see if your mash can be used for anything!",
