@@ -1342,11 +1342,11 @@
   
   "item-birchsapportion" : "Birch sap portion",
   "item-handbooktitle-birchsapportion": "Birch Sap",
-  "item-handbooktext-birchsapportion": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into a birch log and a liquid container directly beneath it. The tree will only produce sap in April, May, and June.",
+  "item-handbooktext-birchsapportion": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into a birch log and a liquid container directly beneath it. The tree will produce sap in moderately cold to temperate conditions (-5°C to 27°C).",
   
   "item-maplesapportion" : "Maple sap portion",
   "item-handbooktitle-maplesapportion": "Maple Sap",
-  "item-handbooktext-maplesapportion": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into a maple log and a liquid container directly beneath it. The tree will only produce sap in January, Feburary, and March.",
+  "item-handbooktext-maplesapportion": "Collected by placing a <a href=\"handbook://block-aculinaryartillery:spile-steel-north\">spile</a> into a maple log and a liquid container directly beneath it. The tree will produce sap in cold conditions (-10°C to -5°C).",
   
   "item-treesyrupportion-birch" : "Birch syrup portion",
   "item-treesyrupportion-maple" : "Maple syrup portion",
