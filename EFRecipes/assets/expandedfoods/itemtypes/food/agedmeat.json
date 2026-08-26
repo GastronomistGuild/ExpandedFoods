@@ -233,12 +233,24 @@
 			"origin": { "x": 0.21, "y": -0.2, "z": 0.15 },
 			"scale": 1	
 		},
-		"*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 5, "y": 41, "z": -31 },
-			"origin": { "x": 0.23, "y": 0, "z": 0.13 },
-			"scale": 0.75
-		}
+        "@*-bushmeat-(normal|cut|tenderpartbaked|tender|tendercharred)": {
+            "translation": { "x": -0.04, "y": 0.26, "z": -0.04 },
+            "rotation": { "x": -78, "y": 15, "z": 0 },
+            "origin": { "x": 0.23, "y": 0, "z": 0.13 },
+            "scale": 0.92
+        },
+        "@*-poultry-(normal|cut|tenderpartbaked|tender|tendercharred)": {
+            "translation": { "x": -0.07, "y": -0.36, "z": -0.14 },
+            "rotation": { "x": 85, "y": 9, "z": 3 },
+            "origin": { "x": 0.23, "y": 0, "z": 0.13 },
+            "scale": 0.75
+        },
+        "@*-redmeat-(normal|cut|tenderpartbaked|tender|tendercharred)": {
+            "translation": { "x": -0.1, "y": 0.26, "z": -0.04 },
+            "rotation": { "x": -78, "y": 15, "z": 0 },
+            "origin": { "x": 0.23, "y": 0, "z": 0.13 },
+            "scale": 0.92
+        }
 	},
 	"groundTransformByType": {
 		"*": {
