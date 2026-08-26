@@ -40,35 +40,5 @@
     	"height": 3,
         "shapeless": true,
     	"output": { "type": "block", "code": "hqzlights:brazier-{metal}" }
-    },
-    {
-    	"ingredientPattern": "_H_,FWF,SLS",
-	    "recipeGroup": 1,
-    	"ingredients": {
-            "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
-    		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
-    		"S": { "type": "block", "code": "game:metal-scraps"},
-		    "F": { "type": "block", "code": "expandedfoods:hardlard" },
-    		"L": { "type": "block", "code": "game:oillamp-*-up" }
-    	},
-    	"width": 3,
-    	"height": 3,
-        "shapeless": true,
-    	"output": { "type": "block", "code": "hqzlights:brazier-scrap" }
-    },
-    {
-    	"ingredientPattern": "_H_,FWF,SLS",
-	    "recipeGroup": 2,
-    	"ingredients": {
-            "H": { "type": "item", "tags": ["tool-hammer"], "isTool": true },
-    		"W": { "type": "item", "code": "game:firewood", "quantity": 4},
-    		"S": { "type": "item", "code": "hqzlights:metalstrip-*", "name": "metal"},
-		    "F": { "type": "block", "code": "expandedfoods:hardlard" },
-    		"L": { "type": "block", "code": "game:oillamp-*-up" }
-    	},
-    	"width": 3,
-    	"height": 3,
-        "shapeless": true,
-    	"output": { "type": "block", "code": "hqzlights:brazier-{metal}" }
     }
 ]

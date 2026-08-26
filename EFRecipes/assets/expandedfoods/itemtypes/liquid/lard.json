@@ -34,9 +34,9 @@
       },{
     		"type": "Harden",
     		"freshHours": { "avg": 12 },
-    		"transitionHours": { "avg": 6},
+    		"transitionHours": { "avg": 6 },
     		"transitionedStack": { "type": "item", "code": "expandedfoods:hardlardliquid" },
-    		"transitionRatio": 0.1
+    		"transitionRatio": 0.05
   	}],
     "guiTransform": {
         "rotation": { "x": 128, "y": 40, "z": 7 },

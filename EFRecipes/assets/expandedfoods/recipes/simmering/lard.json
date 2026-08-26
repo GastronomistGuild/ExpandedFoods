@@ -2,7 +2,7 @@
 	{
 		"Ingredients": [
 			{ "type": "item", "code": "waterportion", "quantity": 20 },
-			{ "type": "item", "code": "game:fat", "quantity": 1 }
+			{ "type": "item", "code": "game:fat-rendered", "quantity": 1 }
 		],
 		"Simmering": {
 			"meltingPoint": 400,

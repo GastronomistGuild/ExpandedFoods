@@ -142,7 +142,6 @@ THE LARDENING:
 HANDBOOK STUFF:
 - Fruit leather handbook attributes removed so the links work properly - DONE!!!
 - Text added to fruit mash to indicate they can be made into fruit leather - DONE!!!
-- Alcohols grouped together
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!

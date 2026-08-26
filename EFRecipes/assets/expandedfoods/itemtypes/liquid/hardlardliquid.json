@@ -1,45 +1,45 @@
-﻿{
-    "code": "hardlardliquid",
-    "class": "ItemLiquidPortion",
-    "matterState": "liquid",
-    "attributes": {
-		"handbook": {
-			"ignoreCreativeInvStacks": true,
-            "extraSections": [{ "title": "expandedfoods:item-handbooktitle-hardlardliquid", "text": "expandedfoods:item-handbooktext-hardlardliquid" }]
-		},
-		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-        "waterTightContainerProps": {
-            "containable": true,
-            "itemsPerLitre": 10,
-            "texture": { "base": "game:block/fat" },
-            "allowSpill": true,
-			"maxStackSize": 32,
-            "whenSpilled": { 
-                "action": "DropContents",
-                "stack": { "type": "block", "code": "expandedfoods:hardlard" } 
-            }
-        }
+{
+  "code": "hardlardliquid",
+  "class": "ItemLiquidPortion",
+  "matterState": "liquid",
+  "attributes": {
+    "handbook": {
+      "ignoreCreativeInvStacks": true,
+      "extraSections": [{ "title": "expandedfoods:item-handbooktitle-hardlardliquid", "text": "expandedfoods:item-handbooktext-hardlardliquid" }]
     },
-    "shape": { "base": "aculinaryartillery:item/goop" },
-    "texture": { "base": "game:block/fat" },
-	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:hardlardliquid", "makefull": true } ] } } ] } ],
-    "maxstacksize": 32,
-    "materialDensity": 200,
-    "transitionableProps": [{
-      "type": "Perish",
-      "freshHours": { "avg": 1440 },
-      "transitionHours": { "avg": 1440 },
-      "transitionedStack": { "type": "item", "code": "game:rot" },
-      "transitionRatio": 0.1
-    }],
-    "guiTransform": {
-        "translation": { "x": 0, "y": 1, "z": 0 },
-        "rotation": { "x": 123, "y": -33, "z": -13 },
-        "origin": { "x": 0.5, "y": 0, "z": 0.5 },
-        "scale": 1.4
-    },
-    "tpHandTransform": {
-        "translation": { "x": -1.5, "y": -1.15, "z": -1.4 },
-        "rotation": { "x": 0, "y": -76, "z": 1 }
+    "inBowlShape": { "base": "game:block/food/meal/liquid" },
+    "waterTightContainerProps": {
+      "containable": true,
+      "itemsPerLitre": 5,
+      "texture": { "base": "game:block/fat" },
+      "allowSpill": true,
+      "maxStackSize": 32,
+      "whenSpilled": {
+        "action": "DropContents",
+        "stack": { "type": "item", "code": "game:fat-rendered" }
+      }
     }
+  },
+  "shape": { "base": "aculinaryartillery:item/goop" },
+  "texture": { "base": "game:block/fat" },
+  "creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:hardlardliquid", "makefull": true } ] } } ] } ],
+  "maxstacksize": 32,
+  "materialDensity": 200,
+  "transitionableProps": [{
+    "type": "Perish",
+    "freshHours": { "avg": 1440 },
+    "transitionHours": { "avg": 1440 },
+    "transitionedStack": { "type": "item", "code": "game:rot" },
+    "transitionRatio": 0.1
+  }],
+  "guiTransform": {
+    "translation": { "x": 0, "y": 1, "z": 0 },
+    "rotation": { "x": 123, "y": -33, "z": -13 },
+    "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+    "scale": 1.4
+  },
+  "tpHandTransform": {
+    "translation": { "x": -1.5, "y": -1.15, "z": -1.4 },
+    "rotation": { "x": 0, "y": -76, "z": 1 }
+  }
 }
