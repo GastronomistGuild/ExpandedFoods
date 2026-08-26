@@ -133,17 +133,24 @@ MISC:
 2.0.0-dev.15
 EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
-- Prepping for lard removal?
+
+THE LARDENING:
+- Lard is made from rendered fat instead of raw animal fat
+- Raw fat removed from all EF recipes in favor of rendered fat and/or lard
+- Hardened lard removed; lard hardens into rendered fat
 
 HANDBOOK STUFF:
 - Fruit leather handbook attributes removed so the links work properly - DONE!!!
 - Text added to fruit mash to indicate they can be made into fruit leather - DONE!!!
+- Alcohols grouped together
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
 
 MISC:
 - Meat and smashed meat GUI transforms tweaked - DONE!!!
+- Meat and smashed meat tpHandTransform tweaked
+- Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
 
 2.0.0-dev.14
 
