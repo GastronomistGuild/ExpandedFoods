@@ -26,12 +26,6 @@
     "maxstacksize": 5000,
     "materialDensity": 200,
     "transitionableProps": [{
-            "type": "Perish",
-            "freshHours": { "avg": 720 },
-            "transitionHours": { "avg": 720 },
-            "transitionedStack": { "type": "item", "code": "game:rot" },
-		    "transitionRatio": 0.005
-      },{
     		"type": "Harden",
     		"freshHours": { "avg": 12 },
     		"transitionHours": { "avg": 6 },
