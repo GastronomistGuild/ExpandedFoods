@@ -23,7 +23,7 @@
         "scale": 0.8
       },
       "*-saguaro": {
-        "translation": { "x": 0.4, "y": -0.25, "z": -0.4 },
+        "translation": { "x": -0.15, "y": -0.425, "z": 0.15 },
         "rotation": { "x": 0, "y": 45, "z": 90 },
         "scale": 0.75
       },
@@ -33,30 +33,20 @@
         "scale": 0.7
       },
       "*-lychee": {
-        "translation": { "x": 0.0, "y": -0.205, "z": 0.0 },
-        "scale": 0.6
+        "translation": { "x": 0, "y": -0.125, "z": -0.05 },
+        "scale": 0.75
       },
       "*-mango": {
-        "rotation": { "x": 0, "y": 45, "z": 0 },
-        "translation": { "x": 0.0, "y": -0.11, "z": 0.0 },
-        "scale": 0.8
+          "translation": { "x": -0.15, "y": -0.4, "z": 0.2 },
+          "rotation": { "x": 0, "y": 45, "z": 90 },
+          "scale": 0.8
       },
       "*-pineapple": {
-        "translation": { "x": 0.0, "y": -0.15, "z": 0.1 },
+        "translation": { "x": -0.05, "y": -0.15, "z": -0 },
         "scale": 0.7
       },
-      "@*-(redcurrant|whitecurrant|blackcurrant)": {
-        "translation": { "x": 0.0, "y": -0.12, "z": 0.05 },
-        "scale": 0.8
-      },
-      "*-blueberry": {
-        "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-        "rotation": { "x": 0, "y": 0, "z": 90 },
-        "scale": 0.8
-      },
       "*": {
-        "translation": { "x": 0.0, "y": -0.1, "z": 0.05 },
-        "scale": 0.8
+        "translation": { "x": 0.0, "y": -0, "z": 0.0 }
       }
     },
     "side": "server",
@@ -141,9 +131,7 @@
   {
     "op": "addmerge",
     "path": "/attributes",
-    "value": {
-      "shelvable": true
-    },
+    "value": { "shelvable": true },
     "side": "server",
     "file": "itemtypes/food/fruit.json"
   }

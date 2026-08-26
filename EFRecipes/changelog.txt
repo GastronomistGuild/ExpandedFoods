@@ -133,6 +133,7 @@ MISC:
 2.0.0-dev.15
 EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
+- Mixed pie textures used from Revariations on a Meal (thanks Lexical!)
 
 
 THE LARDENING:
@@ -153,7 +154,7 @@ BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
 
 MISC:
-- Fruit can be placed on shelves
+- Fruit can be placed on shelves - DONE!!!
 - Meat and smashed meat GUI transforms tweaked - DONE!!!
 - Meat and smashed meat tpHandTransform tweaked - DONE!!!
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
