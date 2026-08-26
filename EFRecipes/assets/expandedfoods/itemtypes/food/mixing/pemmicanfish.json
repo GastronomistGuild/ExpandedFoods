@@ -14,7 +14,7 @@
         },
         "expandedNutritionPropsByType": {
 			"*-raw": {
-				"game:fat" : {"saturation": 100, "foodcategory": "Protein"},
+				"game:fat-rendered" : {"saturation": 100, "foodcategory": "Protein"},
 				"expandedfoods:lard" : {"saturation": 5, "health":  0.025, "foodcategory": "Protein"},
                 "game:fruit-beautyberry" : { "saturation": 60, "foodcategory": "Fruit" },
                 "game:fruit-blackberry" : { "saturation": 60, "foodcategory": "Fruit" },

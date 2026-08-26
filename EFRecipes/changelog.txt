@@ -135,9 +135,10 @@ EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
 
 THE LARDENING:
-- Lard is made from rendered fat instead of raw animal fat
-- Raw fat removed from all EF recipes in favor of rendered fat and/or lard
-- Hardened lard removed; lard hardens into rendered fat
+- Lard is made from rendered fat instead of raw animal fat - DONE!!!
+- Raw fat removed from all EF recipes in favor of rendered fat and/or lard - DONE!!!
+- Hardened lard bricks removed; lard hardens into rendered fat - DONE!!!
+- Lard no longer has a perish timer - DONE!!!
 
 HANDBOOK STUFF:
 - Fruit leather handbook attributes removed so the links work properly - DONE!!!
