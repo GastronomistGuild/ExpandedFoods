@@ -222,65 +222,35 @@
 			"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
 			"scale": 2.6
 		},
-		"*-carrot-*": {
+		"@*-(carrot|pickledcarrot)-.*": {
 			"translation": { "x": 2, "y": 1, "z": 0 },
 			"rotation": { "x": 180, "y": 44, "z": 56 },
 			"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
 			"scale": 4.75
 		},
-		"*-pickledcarrot-*": {
-			"translation": { "x": 2, "y": 1, "z": 0 },
-			"rotation": { "x": 180, "y": 44, "z": 56 },
-			"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
-			"scale": 4.75
-		},
-		"*-onion-*": {
+		"@.*-(onion|pickledonion)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": -37, "y": 135, "z": -155 },
 			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
 			"scale": 5.35
 		},
-		"*-pickledonion-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": -37, "y": 135, "z": -155 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 5.35
-		},
-		"*-parsnip-*": {
+		"@.*-(parsnip|pickledparsnip)-.*": {
 			"translation": { "x": 2, "y": 2, "z": 0 },
 			"rotation": { "x": 180, "y": 158, "z": 38 },
 			"origin": { "x": 0.5, "y": 0.23, "z": 0.5 },
 			"scale": 3.6
 		},
-		"*-pickledparsnip-*": {
-			"translation": { "x": 2, "y": 2, "z": 0 },
+		"@.*-(turnip|pickledturnip)-.*": {
+			"translation": { "x": 1, "y": 2, "z": 0 },
 			"rotation": { "x": 180, "y": 158, "z": 38 },
-			"origin": { "x": 0.5, "y": 0.23, "z": 0.5 },
+			"origin": { "x": 0.5, "y": 0.18, "z": 0.5 },
+			"scale": 4.25
+		},
+		"@.*-(pumpkin|pickledpumpkin)-.*": {
+			"translation": { "x": 2, "y": 2, "z": 0 },
+			"rotation": { "x": 127, "y": 180, "z": 38 },
+			"origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
 			"scale": 3.6
-		},
-		"*-turnip-*": {
-			"translation": { "x": 1, "y": 2, "z": 0 },
-			"rotation": { "x": 180, "y": 158, "z": 38 },
-			"origin": { "x": 0.5, "y": 0.18, "z": 0.5 },
-			"scale": 4.25
-		},
-		"*-pickledturnip-*": {
-			"translation": { "x": 1, "y": 2, "z": 0 },
-			"rotation": { "x": 180, "y": 158, "z": 38 },
-			"origin": { "x": 0.5, "y": 0.18, "z": 0.5 },
-			"scale": 4.25
-		},
-		"*-pumpkin-*": {
-			"translation": { "x": 2, "y": 2, "z": 0 },
-			"rotation": { "x": 127, "y": 180, "z": 38 },
-			"origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-			"scale": 3.5999
-		},
-		"*-pickledpumpkin-*": {
-			"translation": { "x": 2, "y": 2, "z": 0 },
-			"rotation": { "x": 127, "y": 180, "z": 38 },
-			"origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
-			"scale": 3.5999
 		},
 		"*-cassava-*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
@@ -314,70 +284,40 @@
 			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
 			"scale": 0.79
 		},
-		"*-carrot-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
+        "@.*-(carrot|pickledcarrot)-.*": {
+            "translation": { "x": -0.57, "y": -0.14, "z": -0.56 },
+            "rotation": { "x": 0, "y": 0, "z": -89 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.88
+        },
+		"@.*-(onion|pickledonion)-.*": {
+            "translation": { "x": -0.75, "y": -0.13, "z": -0.57 },
+            "rotation": { "x": 0, "y": 0, "z": -67 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.84
 		},
-		"*-pickledcarrot-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
+		"@.*-(parsnip|pickledparsnip)-.*": {
+            "translation": { "x": -0.57, "y": -0.14, "z": -0.56 },
+            "rotation": { "x": 0, "y": 0, "z": -89 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.88
 		},
-		"*-onion-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
+		"@.*-(turnip|pickledturnip)-.*": {
+            "translation": { "x": -0.68, "y": -0.18, "z": -0.6 },
+            "rotation": { "x": 0, "y": 0, "z": -84 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.8
 		},
-		"*-pickledonion-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
-		},
-		"*-parsnip-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
-		},
-		"*-pickledparsnip-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
-		},
-		"*-turnip-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
-		},
-		"*-pickledturnip-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
-		},
-		"*-pumpkin-*": {
-			"translation": { "x": -0.75, "y": -0.13, "z": -0.71 },
-			"rotation": { "x": 45, "y": -42, "z": -65 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.75
-		},
-		"*-pickledpumpkin-*": {
-			"translation": { "x": -0.75, "y": -0.13, "z": -0.71 },
-			"rotation": { "x": 45, "y": -42, "z": -65 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.75
+		"@.*-(pumpkin|pickledpumpkin)-.*": {
+            "translation": { "x": -0.8, "y": -0.2, "z": -0.59 },
+            "rotation": { "x": 84, "y": 3, "z": 4 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.75
 		},
 		"*-cassava-*": {
-			"translation": { "x": -1.5, "y": -1.1, "z": -1.4 },
-			"rotation": { "x": -55, "y": -78, "z": 56 },
-			"scale": 0.36
+            "translation": { "x": -0.9, "y": -0.3, "z": -0.7 },
+            "rotation": { "x": 0, "y": -21, "z": 1 },
+            "scale": 0.69
 		},	
 		"*-cattailroot-*": {
 			"translation": { "x": -1, "y": -1.1, "z": -1 },
@@ -391,10 +331,10 @@
 			"scale": 0.59
 		},
 		"*-bellpepper-*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
+            "translation": { "x": -0.8, "y": -0.18, "z": -0.7 },
+            "rotation": { "x": 0, "y": 0, "z": -76 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.69
 		}	
 	},
 	"groundTransformByType": {
@@ -404,61 +344,13 @@
 			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
 			"scale": 3.5
 		},
-		"*-carrot-*": {
+		"@.*-(carrot|pickledcarrot|onion|pickledonion|parsnip|pickledparsnip)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 0, "y": 0, "z": 83 },
 			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
 			"scale": 4.3
 		},
-		"*-pickledcarrot-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 83 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 4.3
-		},
-		"*-onion-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 83 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 4.3
-		},
-		"*-pickledonion-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 83 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 4.3
-		},
-		"*-parsnip-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 83 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 4.3
-		},
-		"*-pickledparsnip-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 83 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 4.3
-		},
-		"*-turnip-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 75 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 3.8
-		},
-		"*-pickledturnip-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 75 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 3.8
-		},
-		"*-pumpkin-*": {
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"rotation": { "x": 0, "y": 0, "z": 75 },
-			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
-			"scale": 3.8
-		},
-		"*-pickledpumpkin-*": {
+		"@.*-(turnip|pickledturnip|pumpkin|pickledpumpkin)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 0, "y": 0, "z": 75 },
 			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
@@ -470,10 +362,7 @@
 			"origin": { "x": 0.5, "y": 0.5, "z": 0.5299 },
 			"scale": 2.8
 		},
-		"*-cattailroot-*": {
-			"scale": 2.5
-		},
-		"*-papyrusroot-*": {
+		"@.*-(cattailroot|papyrusroot)-.*": {
 			"scale": 2.5
 		},
 		"*-bellpepper-*": {

@@ -511,10 +511,10 @@
 	},
 	"tpHandTransformByType": {
 		"*": {
-			"translation": { "x": -0.6, "y": -0.18, "z": -0.6 },
-			"rotation": { "x": 0, "y": 0, "z": -42 },
-			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-			"scale": 0.8
+            "translation": { "x": -0.8, "y": -0.18, "z": -0.7 },
+            "rotation": { "x": 0, "y": 0, "z": -76 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 0.69
 		}
 	},
 	"groundTransformByType": {

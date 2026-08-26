@@ -151,7 +151,7 @@ MISC:
 - Meat and smashed meat GUI transforms tweaked - DONE!!!
 - Meat and smashed meat tpHandTransform tweaked - DONE!!!
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
-- Chopped cabbage GUI transforms and tpHandTransforms tweaked
+- Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked - DONE!!!
 
 2.0.0-dev.14
 
