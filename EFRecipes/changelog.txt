@@ -134,6 +134,7 @@ MISC:
 EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
 
+
 THE LARDENING:
 - Lard is made from rendered fat instead of raw animal fat - DONE!!!
 - Raw fat removed from all EF recipes in favor of rendered fat and/or lard - DONE!!!
@@ -145,10 +146,14 @@ HANDBOOK STUFF:
 - Text added to fruit mash to indicate they can be made into fruit leather - DONE!!!
 - Wildcraft compatibility mentions removed from handbook - DONE!!!
 
+REBALANCING:
+- Fruit dries into dried fruit - DONE!!!
+
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
 
 MISC:
+- Fruit can be placed on shelves
 - Meat and smashed meat GUI transforms tweaked - DONE!!!
 - Meat and smashed meat tpHandTransform tweaked - DONE!!!
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!

@@ -77,5 +77,74 @@
     "value": { "groupBy": ["fruit-*"] },
     "side": "server",
     "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/transitionablePropsByType/*-cranberry",
+    "value": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 96 },
+        "transitionedStack": { "type": "item", "code": "expandedfoods:dryfruit-cranberry" },
+        "transitionRatio": 1
+      }
+    ],
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/transitionablePropsByType/@*-(orange|mango|lychee|pomegranate)",
+    "value": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 360 },
+        "transitionedStack": { "type": "item", "code": "expandedfoods:dryfruit-{fruit}" },
+        "transitionRatio": 1
+      }
+    ],
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/transitionablePropsByType/@*-(pinkapple|redapple|yellowapple|pear|breadfruit)",
+    "value": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 960 },
+        "transitionedStack": { "type": "item", "code": "expandedfoods:dryfruit-{fruit}" },
+        "transitionRatio": 1
+      }
+    ],
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/transitionablePropsByType/*",
+    "value": [
+      {
+        "type": "Dry",
+        "freshHours": { "avg": 0 },
+        "transitionHours": { "avg": 48 },
+        "transitionedStack": { "type": "item", "code": "expandedfoods:dryfruit-{fruit}" },
+        "transitionRatio": 1
+      }
+    ],
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes",
+    "value": {
+      "shelvable": true
+    },
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
   }
 ]
