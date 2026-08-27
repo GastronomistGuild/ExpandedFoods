@@ -141,6 +141,7 @@ THE LARDENING:
 - Raw fat removed from all EF recipes in favor of rendered fat and/or lard - DONE!!!
 - Hardened lard bricks removed; lard hardens into rendered fat - DONE!!!
 - Lard no longer has a perish timer - DONE!!!
+- Lard now simmers at 300 degrees, not 400 - DONE!!!
 
 HANDBOOK STUFF:
 - Fruit leather handbook attributes removed so the links work properly - DONE!!!
@@ -149,6 +150,7 @@ HANDBOOK STUFF:
 
 REBALANCING:
 - Fruit dries into dried fruit - DONE!!!
+- Walnuts may be put into pies - DONE!!!
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
@@ -160,8 +162,9 @@ MISC:
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
 - Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked - DONE!!!
 
-2.0.0-dev.14
 
+
+2.0.0-dev.14
 REBALANCING:
 - Dry aged meat lasts longer (unless it's prepared)
 

@@ -5,7 +5,7 @@
 			{ "type": "item", "code": "game:fat-rendered", "quantity": 1 }
 		],
 		"Simmering": {
-			"meltingPoint": 400,
+			"meltingPoint": 300,
 			"meltingDuration": 24,
 			"smeltedRatio": 1,
 			"smeltingType": "bake",
@@ -19,7 +19,7 @@
 			{ "type": "block", "code": "expandedfoods:hardlard", "quantity": 1 }
 		],
 		"Simmering": {
-			"meltingPoint": 400,
+			"meltingPoint": 300,
 			"meltingDuration": 24,
 			"smeltedRatio": 1,
 			"smeltingType": "bake",
