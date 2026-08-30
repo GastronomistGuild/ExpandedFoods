@@ -18,6 +18,9 @@
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "pasteurizedmilkportion" } 
 			},
+			"nutritionPropsPerLitre": {
+				"satiety": 115, "health": 1, "foodcategory": "Dairy"
+			},
 			"nutritionPropsPerLitreWhenInMeal": {
 				"satiety": 175,
 				"health": 1,
@@ -37,9 +40,6 @@
 		"transitionedStack": { "type": "item", "code": "game:rot" },
 		"transitionRatio": 0.002
 	}],
-	"nutritionProps": {
-		"satiety": 1.15, "health": 0.01, "foodcategory": "Dairy"
-	},
 	"guiTransform": {
 		"rotation": { "x": 123, "y": -33, "z": -13 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },

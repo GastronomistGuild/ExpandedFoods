@@ -9,7 +9,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-yogurt", "text": "expandedfoods:item-handbooktext-yogurt" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMeal": { "satiety": 1500, "Health": 50, "foodcategory": "Dairy" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -23,6 +22,10 @@
 			"nutritionPropsPerLitreByType": {
 				"@*-(plain|birch|maple|honey|apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate)":
 				{ "satiety": 300, "health": 10, "foodcategory": "Dairy" }
+			},
+			"nutritionPropsPerLitreWhenInMealByType": {
+				"@*-(plain|birch|maple|honey|apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate)":
+				{ "satiety": 1500, "Health": 50, "foodcategory": "Dairy" }
 			}
 		},
 		"expandedNutritionPropsByType": {
@@ -83,7 +86,6 @@
     			"transitionRatio": 1
   		}]
 	},
-	"nutritionProps": { "satiety": 3, "Health": 0.1, "foodcategory": "Dairy" },
 	"guiTransform": {
         "translation": { "x": 0, "y": 1, "z": 0 },
         "rotation": { "x": 123, "y": -33, "z": -13 },

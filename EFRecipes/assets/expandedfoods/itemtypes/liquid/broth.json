@@ -12,23 +12,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-broth", "text": "expandedfoods:item-handbooktext-broth" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMealByType": {
-			"@*-(bone|fish)": {
-				"satiety": 1000,
-				"health": 10,
-				"foodcategory": "Protein"
-			},
-			"*-vegetable": {
-				"satiety": 1000,
-				"health": 10,
-				"foodcategory": "Vegetable"
-			},
-			"*-meat": {
-				"satiety": 1250,
-				"health": 10,
-				"foodcategory": "Protein"
-			}
-		},
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -42,6 +25,23 @@
 				"@*-(bone|fish)": { "satiety": 100, "health": 1, "foodcategory": "Protein" },
 				"*-vegetable": { "satiety": 100, "health": 1, "foodcategory": "Vegetable" },
 				"*-meat": { "satiety": 125, "health": 1, "foodcategory": "Protein" }
+			},
+			"nutritionPropsPerLitreWhenInMealByType": {
+				"@*-(bone|fish)": {
+					"satiety": 1000,
+					"health": 10,
+					"foodcategory": "Protein"
+				},
+				"*-vegetable": {
+					"satiety": 1000,
+					"health": 10,
+					"foodcategory": "Vegetable"
+				},
+				"*-meat": {
+					"satiety": 1250,
+					"health": 10,
+					"foodcategory": "Protein"
+			}
 			}
 		}
 	},
@@ -57,23 +57,6 @@
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:brothportion-{type}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
 	"materialDensity": 200,
-	"nutritionPropsByType": {
-		"@*-(bone|fish)": {
-			"satiety": 1,
-			"health": 0.01,
-			"foodcategory": "Protein"
-		},
-		"*-vegetable": {
-			"satiety": 1,
-			"health": 0.01,
-			"foodcategory": "Vegetable"
-		},
-		"*-meat": {
-			"satiety": 1.25,
-			"health": 0.01,
-			"foodcategory": "Protein"
-		}
-	},
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },

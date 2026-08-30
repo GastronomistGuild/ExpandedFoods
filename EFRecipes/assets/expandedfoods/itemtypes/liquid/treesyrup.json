@@ -12,7 +12,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-treesyrupportion", "text": "expandedfoods:item-handbooktext-treesyrupportion" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMeal": { "satiety": 960, "health": 10, "foodcategory": "Fruit" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -28,7 +27,8 @@
 			"whenSpilled": {
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:treesyrupportion-{type}" }
-			}
+			},
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 960, "health": 10, "foodcategory": "Fruit" }
 		}
 	},
     "shape": { "base": "aculinaryartillery:item/goop" },
