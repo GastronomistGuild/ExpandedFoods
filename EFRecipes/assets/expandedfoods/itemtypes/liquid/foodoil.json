@@ -12,7 +12,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-foodoilportion", "text": "expandedfoods:item-handbooktext-foodoilportion" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 5, "foodcategory": "Vegetable" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -21,7 +20,8 @@
 			"whenSpilled": {
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:foodoilportion-{type}" }
-			}
+			},
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 5, "foodcategory": "Vegetable" }
 		}
 	},
 	"shape": { "base": "game:item/liquid" },

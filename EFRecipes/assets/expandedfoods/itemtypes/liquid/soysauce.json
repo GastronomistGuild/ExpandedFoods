@@ -8,7 +8,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-soysauce", "text": "expandedfoods:item-handbooktext-soysauce" }]
 		},
 		"inBowlShape": { "base": "game:block/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 10, "foodcategory": "Protein" },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -17,7 +16,8 @@
 			"whenSpilled": { 
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:soysauce" } 
-			}
+			},
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 10, "foodcategory": "Protein" }
 		}
 	},
 	"shape": { "base": "game:item/liquid" },

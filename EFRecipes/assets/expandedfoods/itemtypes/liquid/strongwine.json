@@ -17,7 +17,6 @@
             "extraSections": [{ "title": "expandedfoods:item-handbooktitle-alcoholagingguide", "text": "expandedfoods:item-handbooktext-alcoholagingguide" }]
 		},
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
-		"nutritionPropsPerLitreWhenInMeal": { "satiety": 135, "health": 5, "foodcategory": "Fruit", "intoxication": 0.3 },
 		"waterTightContainerProps": {
 			"containable": true,
 			"itemsPerLitre": 100,
@@ -40,6 +39,15 @@
 				"satiety": 90,
 				"intoxication": 0.3,
 				"health": 0.5,
+				"foodcategoryByType": {
+					"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "Grain",
+					"*": "Fruit"
+				}
+			},
+			"nutritionPropsPerLitreWhenInMeal": {
+				"satiety": 135,
+				"intoxication": 0.3,
+				"health": 5,
 				"foodcategoryByType": {
 					"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "Grain",
 					"*": "Fruit"
@@ -105,10 +113,6 @@
 	"creativeinventoryStacks": [ { "tabs": ["general", "liquids", "expandedfoods"], "stacks": [ { "type": "block", "code": "game:woodbucket", "attributes": { "ucontents": [ { "type":"item", "code": "expandedfoods:strongwineportion-{fruit}", "makefull": true } ] } } ] } ],
 	"maxstacksize": 5000,
 	"materialDensity": 200,
-	"nutritionPropsByType": { 
-		"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": {"satiety": 0.9, "health": 0.005, "foodcategory": "Grain", "intoxication":  0.03 },
-		"satiety-*": {"saturation": 0.9, "health": 0.005, "foodcategory": "Fruit", "intoxication":  0.03 }
-	},
 	"guiTransform": {
 		"rotation": { "x": 128, "y": 40, "z": 7 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
