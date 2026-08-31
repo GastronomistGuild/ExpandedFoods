@@ -54,18 +54,19 @@
 	},
     "creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
     "transitionablePropsByType": {
-      "*-sheet": [{
-          "type": "Dry",
-          "freshHours": { "avg": 24 },
-          "transitionHours": { "avg": 72},
-          "transitionedStack": { "type": "item", "code": "expandedfoods:driedseaweed-dried" },
-          "transitionRatio": 1
-        },
+      "*-sheet": [
         {
           "type": "Perish",
           "freshHours": { "avg": 72 },
           "transitionHours": { "avg": 96},
           "transitionedStack": { "type": "item", "code": "game:rot" },
+          "transitionRatio": 1
+        },
+        {
+          "type": "Dry",
+          "freshHours": { "avg": 24 },
+          "transitionHours": { "avg": 72},
+          "transitionedStack": { "type": "item", "code": "expandedfoods:driedseaweed-dried" },
           "transitionRatio": 1
         }],
       "@*-(mash|washed)": [{

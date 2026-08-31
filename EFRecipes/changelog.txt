@@ -147,13 +147,16 @@ HANDBOOK STUFF:
 - Fruit leather handbook attributes removed so the links work properly - DONE!!!
 - Text added to fruit mash to indicate they can be made into fruit leather - DONE!!!
 - Wildcraft compatibility mentions removed from handbook - DONE!!!
+- Fish nutritionPropsByType changed to reflect vanilla values - DONE!!!
 
 REBALANCING:
+- Oak bark can be used to make vanilla tannins
 - Fruit dries into dried fruit - DONE!!!
 - Walnuts may be put into pies - DONE!!!
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
+- Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
 
 MISC:
 - Fruit can be placed on shelves - DONE!!!
