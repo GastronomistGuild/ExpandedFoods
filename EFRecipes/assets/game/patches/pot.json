@@ -1221,5 +1221,19 @@
     "value": { "base": "expandedfoods:item/food/dumpling/ricecooked" },
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:pasta-cut",
+    "value": [ "pasta", "pasta" ],
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/pasta",
+    "value": { "base": "expandedfoods:block/food/meal/pasta" },
+    "side": "server",
+    "file": "game:blocktypes/clay/fired/pot.json"
   }
 ]
