@@ -12,19 +12,5 @@
 			"smeltedStack": { "type": "item", "code": "expandedfoods:lard", "quantity": 20 },
 			"requiresContainer": false
 		}
-	},
-	{
-		"Ingredients": [
-			{ "type": "item", "code": "waterportion", "quantity": 20 },
-			{ "type": "block", "code": "expandedfoods:hardlard", "quantity": 1 }
-		],
-		"Simmering": {
-			"meltingPoint": 300,
-			"meltingDuration": 24,
-			"smeltedRatio": 1,
-			"smeltingType": "bake",
-			"smeltedStack": { "type": "item", "code": "expandedfoods:lard", "quantity": 10 },
-			"requiresContainer": false
-		}
 	}
 ]
