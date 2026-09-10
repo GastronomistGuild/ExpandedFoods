@@ -105,6 +105,7 @@ REBALANCING:
 
 REBALANCING:
 - Seaweed changed to dry transition instead of bake?
+- Fruit leather can go into fruit bars
 
 BUG FIXES:
 - Oven transforms reviewed for all items
@@ -115,6 +116,8 @@ NEW FOOD:
 - added meatloaf?
 - added walnut/sunflower butter?
 - Dehydrated yeast added (cook in cooking pot; grind result)
+- added boudin (like sausage, but with rice lol)
+- Roasted soybeans, like nuts?
 
 MISC:
 - Dialogue added to Kitchenware Trader; readjusted code to push text to en.json
@@ -153,10 +156,13 @@ REBALANCING:
 - Oak bark can be used to make vanilla tannins
 - Fruit dries into dried fruit - DONE!!!
 - Walnuts may be put into pies - DONE!!!
+- Pickled cabbage can be used in dumplings and other foods
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
 - Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
+- Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
+- Stones can be used to smash meat again - DONE!!!
 
 MISC:
 - Fruit can be placed on shelves - DONE!!!
@@ -164,6 +170,7 @@ MISC:
 - Meat and smashed meat tpHandTransform tweaked - DONE!!!
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
 - Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked - DONE!!!
+- Chinese localization updated (thanks to Aimli!) - DONE!!!
 
 
 

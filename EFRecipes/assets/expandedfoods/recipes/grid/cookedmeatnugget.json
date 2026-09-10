@@ -363,7 +363,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 11,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*"  },
       "M": { "type": "item", "code": "game:bushmeat-charred", "name": "meat" }
     },
     "width": 2,
@@ -375,7 +375,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 11,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:redmeat-charred", "name": "meat" }
     },
     "width": 2,
@@ -387,7 +387,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 11,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:poultry-charred", "name": "meat" }
     },
     "width": 2,
