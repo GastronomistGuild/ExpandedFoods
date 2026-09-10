@@ -3,7 +3,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 1,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:bushmeat-partbaked", "name": "meat" }
     },
     "width": 2,
@@ -15,7 +15,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 1,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:redmeat-partbaked", "name": "meat" }
     },
     "width": 2,
@@ -27,7 +27,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 1,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:poultry-partbaked", "name": "meat" }
     },
     "width": 2,
@@ -183,7 +183,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 6,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:bushmeat-cooked", "name": "meat" }
     },
     "width": 2,
@@ -195,7 +195,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 6,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:redmeat-cooked", "name": "meat" }
     },
     "width": 2,
@@ -207,7 +207,7 @@
     "ingredientPattern": "S,M",
     "recipeGroup": 6,
     "ingredients": {
-      "S": { "type": "item", "code": "game:stone-*", "isTool": true },
+      "S": { "type": "item", "code": "game:stone-*" },
       "M": { "type": "item", "code": "game:poultry-cooked", "name": "meat" }
     },
     "width": 2,
