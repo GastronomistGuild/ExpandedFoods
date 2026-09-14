@@ -1360,6 +1360,8 @@
   "incontainer-item-treesyrupportion-maple" : "Maple syrup",
   "game:incontainer-item-birchsapportion" : "Birch sap",
   "game:incontainer-item-maplesapportion" : "Maple sap",
+  "spile-product-birchsapportion": "birch sap",
+  "spile-product-maplesapportion": "maple sap",
   "game:incontainer-item-treesyrupportion-birch" : "Birch syrup",
   "game:incontainer-item-treesyrupportion-maple" : "Maple syrup",
   "game:recipeingredient-item-treesyrupportion-birch": "birch syrup",
