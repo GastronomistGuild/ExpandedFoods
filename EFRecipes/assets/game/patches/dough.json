@@ -59,63 +59,6 @@
         "file": "itemtypes/food/dough.json"
     },
   {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-flax-charred",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-flax-partbaked",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-flax-perfect",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-rice-charred",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-rice-partbaked",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "remove",
-    "path": "/nutritionPropsByType/*-rice-perfect",
-    "side": "server",
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "replace",
-    "path": "/nutritionPropsByType/*-charred/satiety",
-    "side": "server",
-    "value": 100,
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "replace",
-    "path": "/nutritionPropsByType/*-partbaked/satiety",
-    "side": "server",
-    "value": 70,
-    "file": "itemtypes/food/bread.json"
-  },
-  {
-    "op": "replace",
-    "path": "/nutritionPropsByType/*-perfect/satiety",
-    "side": "server",
-    "value": 160,
-    "file": "itemtypes/food/bread.json"
-  },
-  {
     "op": "addmerge",
     "path": "/attributes/handbook/groupBy",
     "value": ["dough-*"],
