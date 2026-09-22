@@ -136,7 +136,7 @@ MISC:
 2.0.0-dev.15
 EF: Preserves Module begins...
 - Pie recipes fixed, ACA changes necessitate specific pie recipes
-- Mixed pie textures used from Revariations on a Meal (thanks Lexical!)
+- One million pie mixing combinations added
 
 
 THE LARDENING:
@@ -163,6 +163,10 @@ BUG FIXES:
 - Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
 - Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
 - Stones can be used to smash meat again - DONE!!!
+- Salad dressing fixed so it has satiety in meals again
+
+NEW FOOD:
+- Toasted grain added (used to make pilaf, can be added to many foods)
 
 MISC:
 - Fruit can be placed on shelves - DONE!!!
@@ -171,6 +175,11 @@ MISC:
 - Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
 - Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked - DONE!!!
 - Chinese localization updated (thanks to Aimli!) - DONE!!!
+- Add sap names for spile display (thanks to Lazula!) - DONE!!!
+- Update sap properties for ACA spile changes (thanks to Lazula!) - DONE!!!
+- Bread has normal satiety and no extra nutrients from flour (thanks to Lazula!) - DONE!!!
+- Language file has been split into multiple files to hopefully make translating/expanding to it a little easier - DONE!!!
+
 
 
 

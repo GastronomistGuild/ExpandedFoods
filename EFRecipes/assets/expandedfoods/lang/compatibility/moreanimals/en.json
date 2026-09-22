@@ -1,0 +1,24 @@
+{
+  //Basic Ingredients - Grain
+    "item-acornbreadcrumbs-acornbirch": "Acorn-birch bread crumbs",
+    "item-acornbreadcrumbs-acornpine": "Acorn-pine bread crumbs",
+    "item-acornbreadcrumbs-acornmaple": "Acorn-maple bread crumbs",
+
+
+  //Basic Ingredients - Proteins
+  "moreanimals:item-egg-pheasant-boiled": "Boiled pheasant egg",
+  "moreanimals:item-egg-pheasant-pickled": "Pickled pheasant egg",
+  "item-limeegg-pheasant": "Water-glassed pheasant egg",
+  
+  "moreanimals:item-egg-goldenpheasant-boiled": "Boiled golden pheasant egg",
+  "moreanimals:item-egg-goldenpheasant-pickled": "Pickled golden pheasant egg",
+  "item-limeegg-goldenpheasant": "Water-glassed golden pheasant egg",
+  
+  "moreanimals:item-egg-capercaillie-boiled": "Boiled capercaillie egg",
+  "moreanimals:item-egg-capercaillie-pickled": "Pickled capercaillie egg",
+  "item-limeegg-capercaillie": "Water-glassed capercaillie egg",
+
+  "moreanimals:item-egg-wildturkey-boiled": "Boiled wild turkey egg",
+  "moreanimals:item-egg-wildturkey-pickled": "Pickled wild turkey egg",
+  "item-limeegg-wildturkey": "Water-glassed wild turkey egg"
+}

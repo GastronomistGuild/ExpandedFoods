@@ -1,0 +1,27 @@
+{
+  //Basic Pies - Quiches
+    "pie-single-moreanimals:egg-pheasant-raw-raw": "Quiche (raw)",
+    "pie-single-moreanimals:egg-pheasant-raw-partbaked": "Quiche (part-baked)",
+    "pie-single-moreanimals:egg-pheasant-raw-perfect": "Quiche",
+    "pie-single-moreanimals:egg-pheasant-raw-charred": "Quiche (charred)",
+  
+    "pie-single-moreanimals:egg-goldenpheasant-raw-raw": "Quiche (raw)",
+    "pie-single-moreanimals:egg-goldenpheasant-raw-partbaked": "Quiche (part-baked)",
+    "pie-single-moreanimals:egg-goldenpheasant-raw-perfect": "Quiche",
+    "pie-single-moreanimals:egg-goldenpheasant-raw-charred": "Quiche (charred)",
+  
+    "pie-single-moreanimals:egg-capercaillie-raw-raw": "Quiche (raw)",
+    "pie-single-moreanimals:egg-capercaillie-raw-partbaked": "Quiche (part-baked)",
+    "pie-single-moreanimals:egg-capercaillie-raw-perfect": "Quiche",
+    "pie-single-moreanimals:egg-capercaillie-raw-charred": "Quiche (charred)",
+
+    "pie-single-moreanimals:egg-wildturkey-raw-raw": "Quiche (raw)",
+    "pie-single-moreanimals:egg-wildturkey-raw-partbaked": "Quiche (part-baked)",
+    "pie-single-moreanimals:egg-wildturkey-raw-perfect": "Quiche",
+    "pie-single-moreanimals:egg-wildturkey-raw-charred": "Quiche (charred)",
+  
+    "pie-single-moreanimals:egg-wildturkey-boiled-raw": "Quiche (raw)",
+    "pie-single-moreanimals:egg-wildturkey-boiled-partbaked": "Quiche (part-baked)",
+    "pie-single-moreanimals:egg-wildturkey-boiled-perfect": "Quiche",
+    "pie-single-moreanimals:egg-wildturkey-boiled-charred": "Quiche (charred)"
+}

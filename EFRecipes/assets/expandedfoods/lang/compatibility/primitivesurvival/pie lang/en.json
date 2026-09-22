@@ -1,0 +1,68 @@
+{
+  //Protein Pies
+    "pie-single-expandedfoods:crabnugget-raw-raw": "Crab pie (raw)",
+    "pie-single-expandedfoods:crabnugget-raw-partbaked": "Crab pie (part-baked)",
+    "pie-single-expandedfoods:crabnugget-raw-perfect": "Crab pie",
+    "pie-single-expandedfoods:crabnugget-raw-charred": "Crab pie (charred)",
+
+    "pie-single-expandedfoods:snakenugget-raw-raw": "Snake pie (raw)",
+    "pie-single-expandedfoods:snakenugget-raw-partbaked": "Snake pie (part-baked)",
+    "pie-single-expandedfoods:snakenugget-raw-perfect": "Snake pie",
+    "pie-single-expandedfoods:snakenugget-raw-charred": "Snake pie (charred)",
+  
+    "pie-single-expandedfoods:sausagecrab-normal-raw-raw": "Crab sausage pie (raw)",
+    "pie-single-expandedfoods:sausagecrab-normal-dried-raw": "Vintage crab sausage pie (raw)",
+    "pie-single-expandedfoods:sausagecrab-normal-cured-raw": "Crab sausage pie (raw)",
+    "pie-single-expandedfoods:sausagecrab-cheese-raw-raw": "Crab cheese sausage pie (raw)",
+    "pie-single-expandedfoods:sausagecrab-cheese-dried-raw": "Vintage crab cheese sausage pie (raw)",
+    "pie-single-expandedfoods:sausagecrab-cheese-cured-raw": "Crab cheese sausage pie (raw)",
+  
+    "pie-single-expandedfoods:sausagecrab-normal-raw-partbaked": "Crab sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagecrab-normal-dried-partbaked": "Vintage crab  sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagecrab-normal-cured-partbaked": "Crab sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagecrab-cheese-raw-partbaked": "Crab cheese sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagecrab-cheese-dried-partbaked": "Vintage crab  cheese sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagecrab-cheese-cured-partbaked": "Crab cheese sausage pie (part-baked)",
+  
+    "pie-single-expandedfoods:sausagecrab-normal-raw-perfect": "Crab sausage pie",
+    "pie-single-expandedfoods:sausagecrab-normal-dried-perfect": "Vintage crab  sausage pie",
+    "pie-single-expandedfoods:sausagecrab-normal-cured-perfect": "Crab sausage pie",
+    "pie-single-expandedfoods:sausagecrab-cheese-raw-perfect": "Crab cheese sausage pie",
+    "pie-single-expandedfoods:sausagecrab-cheese-dried-perfect": "Vintage crab cheese sausage pie",
+    "pie-single-expandedfoods:sausagecrab-cheese-cured-perfect": "Crab cheese sausage pie",
+  
+    "pie-single-expandedfoods:sausagecrab-normal-raw-charred": "Crab sausage pie (charred)",
+    "pie-single-expandedfoods:sausagecrab-normal-dried-charred": "Vintage crab  sausage pie (charred)",
+    "pie-single-expandedfoods:sausagecrab-normal-cured-charred": "Crab sausage pie (charred)",
+    "pie-single-expandedfoods:sausagecrab-cheese-raw-charred": "Crab cheese sausage pie (charred)",
+    "pie-single-expandedfoods:sausagecrab-cheese-dried-charred": "Vintage crab  cheese sausage pie (charred)",
+    "pie-single-expandedfoods:sausagecrab-cheese-cured-charred": "Crab cheese sausage pie (charred)",
+  
+    "pie-single-expandedfoods:sausagesnake-normal-raw-raw": "Snake sausage pie (raw)",
+    "pie-single-expandedfoods:sausagesnake-normal-dried-raw": "Vintage snake sausage pie (raw)",
+    "pie-single-expandedfoods:sausagesnake-normal-cured-raw": "Snake sausage pie (raw)",
+    "pie-single-expandedfoods:sausagesnake-cheese-raw-raw": "Snake cheese sausage pie (raw)",
+    "pie-single-expandedfoods:sausagesnake-cheese-dried-raw": "Vintage snake cheese sausage pie (raw)",
+    "pie-single-expandedfoods:sausagesnake-cheese-cured-raw": "Snake cheese sausage pie (raw)",
+  
+    "pie-single-expandedfoods:sausagesnake-normal-raw-partbaked": "Snake sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagesnake-normal-dried-partbaked": "Vintage snake sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagesnake-normal-cured-partbaked": "Snake sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagesnake-cheese-raw-partbaked": "Snake cheese sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagesnake-cheese-dried-partbaked": "Vintage snake cheese sausage pie (part-baked)",
+    "pie-single-expandedfoods:sausagesnake-cheese-cured-partbaked": "Snake cheese sausage pie (part-baked)",
+  
+    "pie-single-expandedfoods:sausagesnake-normal-raw-perfect": "Snake sausage pie",
+    "pie-single-expandedfoods:sausagesnake-normal-dried-perfect": "Vintage snake sausage pie",
+    "pie-single-expandedfoods:sausagesnake-normal-cured-perfect": "Snake sausage pie",
+    "pie-single-expandedfoods:sausagesnake-cheese-raw-perfect": "Snake cheese sausage pie",
+    "pie-single-expandedfoods:sausagesnake-cheese-dried-perfect": "Vintage snake cheese sausage pie",
+    "pie-single-expandedfoods:sausagesnake-cheese-cured-perfect": "Snake cheese sausage pie",
+  
+    "pie-single-expandedfoods:sausagesnake-normal-raw-charred": "Snake sausage pie (charred)",
+    "pie-single-expandedfoods:sausagesnake-normal-dried-charred": "Vintage snake sausage pie (charred)",
+    "pie-single-expandedfoods:sausagesnake-normal-cured-charred": "Snake sausage pie (charred)",
+    "pie-single-expandedfoods:sausagesnake-cheese-raw-charred": "Snake cheese sausage pie (charred)",
+    "pie-single-expandedfoods:sausagesnake-cheese-dried-charred": "Vintage snake cheese sausage pie (charred)",
+    "pie-single-expandedfoods:sausagesnake-cheese-cured-charred": "Snake cheese sausage pie (charred)"
+}
