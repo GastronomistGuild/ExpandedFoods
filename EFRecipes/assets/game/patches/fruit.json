@@ -134,5 +134,307 @@
     "value": { "shelvable": true },
     "side": "server",
     "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "move",
+    "frompath": "/attributes/inPiePropertiesByType/*",
+    "path": "/temp",
+    "file": "itemtypes/food/fruit.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPiePropertiesByType",
+    "value": {
+        "*-pinkapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+          "walnutapple", "peanutapple", "nutfruit",
+          "bushmeatapple","poultryapple", "redmeatapple","fishapple","bugapple","bushmeatfruit", "poultryfruit", "redmeatfruit","fishfruit","bugfruit","meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "meatfruitveg",
+          "soyfruitnut",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-redapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+          "walnutapple", "peanutapple", "nutfruit",
+          "bushmeatapple", "poultryapple", "redmeatapple","fishapple","bugapple", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit","meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "meatfruitveg",
+          "soyfruitnut",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-yellowapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+          "walnutapple", "peanutapple", "nutfruit",
+          "bushmeatapple", "poultryapple","redmeatapple","fishapple","bugapple", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "meatfruitveg",
+          "soyfruitnut",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-beautyberry": { "texture": "game:block/food/pie/fill-beautyberry", "partType": "Filling", "mixingCodes": [ "cottagebeautyberry","cottagefruit",
+          "walnutbeautyberry", "peanutbeautyberry", "nutfruit",
+          "bushmeatbeautyberry", "poultrybeautyberry","redmeatbeautyberry","fishbeautyberry","bugbeautyberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "meatfruitveg",
+          "soyfruitnut",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-blackberry": { "texture": "game:block/food/pie/fill-blackberry", "partType": "Filling", "mixingCodes": [ "cottageblackberry","cottagefruit",
+          "walnutblackberry", "peanutblackberry", "nutfruit",
+          "bushmeatblackberry", "poultryblackberry","redmeatblackberry","fishblackberry","bugblackberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-blackcurrant": { "texture": "game:block/food/pie/fill-blackcurrant", "partType": "Filling", "mixingCodes": [ "cottageblackcurrant","cottagefruit",
+          "walnutblackcurrant", "peanutblackcurrant", "nutfruit",
+          "bushmeatblackcurrant", "poultryblackcurrant","redmeatblackcurrant","fishblackcurrant","bugblackcurrant", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-blueberry": { "texture": "game:block/food/pie/fill-blueberry", "partType": "Filling", "mixingCodes": [ "cottageblueberry","cottagefruit",
+          "walnutblueberry", "peanutblueberry", "nutfruit",
+          "bushmeatblueberry", "poultryblueberry","redmeatblueberry","fishblueberry","bugblueberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-breadfruit": { "texture": "game:block/food/pie/fill-breadfruit", "partType": "Filling", "mixingCodes": [ "cottagebreadfruit","cottagefruit",
+          "walnutbreadfruit", "peanutbreadfruit", "nutfruit",
+          "bushmeatbreadfruit", "poultrybreadfruit","redmeatbreadfruit","fishbreadfruit","bugbreadfruit", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-cactusfruit": { "texture": "game:block/food/pie/fill-blackcurrant", "partType": "Filling", "mixingCodes": [ "cottageblackcurrant","cottagefruit",
+          "walnutblackcurrant", "peanutblackcurrant", "nutfruit",
+          "bushmeatcactusfruit", "poultrycactusfruit","redmeatcactusfruit","fishcactusfruit","bugcactusfruit", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-cherry": { "texture": "game:block/food/pie/fill-cherry", "partType": "Filling", "portionSize": 4, "mixingCodes": [ "cottagecherry","cottagefruit",
+          "walnutcherry", "peanutcherry", "nutfruit",
+          "bushmeatcherry", "poultrycherry","redmeatcherry","fishcherry","bugcherry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-cloudberry": { "texture": "game:block/food/pie/fill-cloudberry", "partType": "Filling", "mixingCodes": [ "cottagecloudberry","cottagefruit",
+          "walnutcloudberry", "peanutcloudberry", "nutfruit",
+          "bushmeatcloudberry", "poultrycloudberry","redmeatcloudberry","fishcloudberry","bugcloudberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-cranberry": { "texture": "game:block/food/pie/fill-cranberry", "partType": "Filling", "mixingCodes": [  "cottagecranberry","cottagefruit",
+          "walnutcranberry", "peanutcranberry", "nutfruit",
+          "bushmeatcranberry", "poultrycranberry","redmeatcranberry","fishcranberry","bugcranberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-gooseberry": { "texture": "game:block/food/pie/fill-gooseberry", "partType": "Filling", "mixingCodes": [  "cottagegooseberry","cottagefruit",
+          "walnutgooseberry", "peanutgooseberry", "nutfruit",
+          "bushmeatgooseberry", "poultrygooseberry","redmeatgooseberry","fishgooseberry","buggooseberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-guava": { "texture": "game:block/food/pie/fill-guava", "partType": "Filling", "mixingCodes": [  "cottageguava","cottagefruit",
+          "walnutguava", "peanutguava", "nutfruit",
+          "bushmeatguava", "poultryguava","redmeatguava","fishguava","bugguava", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-kumquat": { "texture": "game:block/food/pie/fill-kumquat", "partType": "Filling","mixingCodes": [  "cottagekumquat","cottagefruit",
+          "walnutkumquat", "peanutkumquat", "nutfruit",
+          "bushmeatkumquat", "poultrykumquat","redmeatkumquat","fishkumquat","bugkumquat", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-lychee": { "texture": "game:block/food/pie/fill-lychee", "partType": "Filling","mixingCodes": [  "cottagelychee","cottagefruit",
+          "walnutlychee", "peanutlychee", "nutfruit",
+          "bushmeatlychee", "poultrylychee","redmeatlychee","fishlychee","buglychee", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-mango": { "texture": "game:block/food/pie/fill-mango", "partType": "Filling", "mixingCodes": [  "cottagemango","cottagefruit",
+          "walnutmango", "peanutmango", "nutfruit",
+          "bushmeatmango", "poultrymango","redmeatmango","fishmango","bugmango", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-orange": { "texture": "game:block/food/pie/fill-orange", "partType": "Filling", "mixingCodes": [  "cottageorange","cottagefruit",
+          "walnutorange", "peanutorange", "nutfruit",
+          "bushmeatorange", "poultryorange","redmeatorange","fishorange","bugorange", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-peach": { "texture": "game:block/food/pie/fill-peach", "partType": "Filling", "mixingCodes": [  "cottagepeach","cottagefruit",
+          "walnutpeach", "peanutpeach", "nutfruit",
+          "bushmeatpeach", "poultrypeach","redmeatpeach","fishpeach","bugpeach", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-pear": { "texture": "game:block/food/pie/fill-pear", "partType": "Filling", "mixingCodes": [ "cottagepear","cottagefruit",
+          "walnutpear", "peanutpear", "nutfruit",
+          "bushmeatpear", "poultrypear","redmeatpear","fishpear","bugpear", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-pineapple": { "texture": "game:block/food/pie/fill-pineapple", "partType": "Filling", "mixingCodes": [ "cottagepineapple","cottagefruit",
+          "walnutpineapple", "peanutpineapple", "nutfruit",
+          "bushmeatpineapple", "poultrypineapple","redmeatpineapple","fishpineapple","bugpineapple", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-plumnatal": { "texture": "game:block/food/pie/fill-plumnatal", "partType": "Filling", "mixingCodes": [ "cottageplumnatal","cottagefruit",
+          "walnutplumnatal", "peanutplumnatal", "nutfruit",
+          "bushmeatplumnatal", "poultryplumnatal","redmeatplumnatal","fishplumnatal","bugplumnatal", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-pomegranate": { "texture": "game:block/food/pie/fill-pomegranate", "partType": "Filling", "mixingCodes": [ "cottagepomegranate","cottagefruit",
+          "walnutpomegranate", "peanutpomegranate", "nutfruit",
+          "bushmeatpomegranate", "poultrypomegranate","redmeatpomegranate","fishpomegranate","bugpomegranate", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-raspberry": { "texture": "game:block/food/pie/fill-raspberry", "partType": "Filling", "mixingCodes": [ "cottageraspberry","cottagefruit",
+          "walnutraspberry", "peanutraspberry", "nutfruit",
+          "bushmeatraspberry", "poultryraspberry","redmeatraspberry","fishraspberry","bugraspberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-redcurrant": { "texture": "game:block/food/pie/fill-redcurrant", "partType": "Filling", "mixingCodes": [ "cottageredcurrant","cottagefruit",
+          "walnutredcurrant", "peanutredcurrant", "nutfruit",
+          "bushmeatredcurrant", "poultryredcurrant","redmeatredcurrant","fishredcurrant","bugredcurrant", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-saguaro": { "texture": "game:block/food/pie/fill-saguaro", "partType": "Filling", "mixingCodes": [ "cottagesaguaro","cottagefruit",
+          "walnutsaguaro", "peanutsaguaro", "nutfruit",
+          "bushmeatsaguaro", "poultrysaguaro","redmeatsaguaro","fishsaguaro","bugsaguaro", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-strawberry": { "texture": "game:block/food/pie/fill-strawberry", "partType": "Filling", "mixingCodes": [ "cottagestrawberry","cottagefruit",
+          "walnutstrawberry", "peanutstrawberry", "nutfruit",
+          "bushmeatstrawberry", "poultrystrawberry","redmeatstrawberry","fishstrawberry","bugstrawberry", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        },
+        "*-whitecurrant": { "texture": "game:block/food/pie/fill-whitecurrant", "partType": "Filling", "mixingCodes": [ "cottagewhitecurrant","cottagefruit",
+          "walnutwhitecurrant", "peanutwhitecurrant", "nutfruit",
+          "bushmeatwhitecurrant", "poultrywhitecurrant","redmeatwhitecurrant","fishwhitecurrant","bugwhitecurrant", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+          "fruitmushroom",
+          "soyfruit",
+          "soyfruitnut",
+          "meatfruitveg",
+          "nutfruitmeatveg"
+          ]
+        }
+    },
+    "side": "server",
+    "file": "itemtypes/food/fruit.json"
+  },
+  {
+    "op": "move",
+    "frompath": "/temp",
+    "path": "/attributes/inPiePropertiesByType/*",
+    "file": "itemtypes/food/fruit.json",
+    "side": "Server"
   }
 ]

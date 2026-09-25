@@ -12,5 +12,16 @@
     "value": { "groupBy": ["pickledlegume-*"] },
     "side": "server",
     "file": "itemtypes/food/pickledlegume.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties",
+    "value": { "mixingCodes": [ "soypeanut", "soywalnut", "soynut",
+      "soymushroomblack","soymushroomyellow","soymushroomoffwhite","soymushroomorange","soymushroomdevilstooth","soymushroomred","soymushroomgreen","soymushroomblue","soymushroomlobster","soymushroombrown","soymushroomwhite","soymushroompurple","soymushroompink","soymushroom",
+      "soybellpepper","soycabbage","soycassava","soycarrot","soyfennel","soyolive","soyonion","soyparsnip","soypumpkin","soyturnip","soywalnut","soyvegetable",
+      "soybushmeat", "soypoultry","soyredmeat","soyfish","soybugs","soymeat",
+      "soypotpie"] },
+    "side": "server",
+    "file": "itemtypes/food/pickledlegume.json"
   }
 ]

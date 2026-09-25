@@ -21,12 +21,6 @@
     "side": "Server"
   },
   {
-    "op": "remove",
-    "path": "/attributes/nutritionPropsWhenInMeal",
-    "file": "game:itemtypes/food/fishfillet.json",
-    "side": "Server"
-  },
-  {
     "op": "addmerge",
     "path": "/attributes/bakingPropertiesByType",
     "value": {
@@ -76,16 +70,61 @@
     "side": "Server"
   },
   {
+    "op": "remove",
+    "path": "/attributes/inPiePropertiesByType/*-raw/mixingCodes",
+    "value": ["potpie"],
+    "file": "game:itemtypes/food/fishfillet.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPiePropertiesByType/*-raw/mixingCodes",
+    "value": ["protein",
+      "soyfish", "soymeat",
+      "cheddarfish", "bluefish", "cottagefish", "cheddarmeat", "bluemeat", "cottagemeat","cheesemeat",
+      "fishmushroomblack","fishmushroomyellow","fishmushroomoffwhite","fishmushroomorange","fishmushroomdevilstooth","fishmushroomred","fishmushroomgreen","fishmushroomblue","fishmushroomlobster","fishmushroombrown","fishmushroomwhite","fishmushroompurple","fishmushroompink","fishmushroom","meatmushroom",
+      "fishpeanut", "fishwalnut", "fishnut", "meatnut",
+      "fishquiche","meatquiche",
+      "fishbellpepper","fishcabbage","fishcassava","fishcarrot","fishfennel","fisholive","fishonion","fishparsnip","fishpumpkin","fishturnip","fishveg","potpie",
+      "fishapple", "fishbeautyberry", "fishblackberry", "fishblackcurrant", "fishblueberry", "fishbreadfruit", "fishcactusfruit,", "fishcherry","fishcloudberry", "fishcranberry", "fishgooseberry", "fishguava", "fishkumquat", "fishlychee", "fishmango", "fishorange", "fishpeach", "fishpear", "fishpineapple", "fishplumnatal", "fishpomegranate", "fishraspberry", "fishredcurrant", "fishsaguaro", "fishstrawberry", "fishwhitecurrant", "fishfruit", "meatfruit",
+      "cheesemeatmushroom","cheesemeatveg",
+      "meatfruitveg",
+      "meatvegquiche",
+      "soypotpie",
+      "nutmeatveg",
+      "nutfruitmeatveg",
+      "cheesemeatvegmushroom"
+    ],
+    "file": "game:itemtypes/food/fishfillet.json",
+    "side": "Server"
+  },
+  {
     "op": "addmerge",
     "path": "/attributes/inPiePropertiesByType",
-    "value": { "@*-(raw|cured|smoked|cured-smoked)": { "texture": "game:block/food/pie/fill-fish", "partType": "Filling" } },
+    "value": { "@*-(raw|cured|smoked|cured-smoked)": { "texture": "game:block/food/pie/fill-fish", "partType": "Filling", "mixingCodes": ["protein",
+      "soyfish", "soymeat",
+      "cheddarfish", "bluefish", "cottagefish", "cheddarmeat", "bluemeat", "cottagemeat","cheesemeat",
+      "fishmushroomblack","fishmushroomyellow","fishmushroomoffwhite","fishmushroomorange","fishmushroomdevilstooth","fishmushroomred","fishmushroomgreen","fishmushroomblue","fishmushroomlobster","fishmushroombrown","fishmushroomwhite","fishmushroompurple","fishmushroompink","fishmushroom","meatmushroom",
+      "fishpeanut", "fishwalnut", "fishnut", "meatnut",
+      "fishquiche","meatquiche",
+      "fishbellpepper","fishcabbage","fishcassava","fishcarrot","fishfennel","fisholive","fishonion","fishparsnip","fishpumpkin","fishturnip","fishveg","potpie",
+      "fishapple", "fishbeautyberry", "fishblackberry", "fishblackcurrant", "fishblueberry", "fishbreadfruit", "fishcactusfruit,", "fishcherry","fishcloudberry", "fishcranberry", "fishgooseberry", "fishguava", "fishkumquat", "fishlychee", "fishmango", "fishorange", "fishpeach", "fishpear", "fishpineapple", "fishplumnatal", "fishpomegranate", "fishraspberry", "fishredcurrant", "fishsaguaro", "fishstrawberry", "fishwhitecurrant", "fishfruit", "meatfruit",
+      "cheesemeatmushroom","cheesemeatveg",
+      "meatfruitveg",
+      "meatvegquiche", "meatmushroomquiche",
+      "soypotpie",
+      "nutmeatveg",
+      "nutfruitmeatveg",
+      "cheesemeatvegmushroom"
+      ] }
+    },
     "file": "game:itemtypes/food/fishfillet.json",
     "side": "Server"
   },
   {
     "op": "addmerge",
     "path": "/attributes/nutritionPropsWhenInMealByType",
-    "value": { "*-raw": { "satiety": 375, "foodcategory": "Protein" } },
+    "value": { "*-raw": { "satiety": 375, "foodcategory": "Protein" }, "*-cured": { "satiety": 280, "foodcategory": "Protein" } },
     "file": "game:itemtypes/food/fishfillet.json",
     "side": "Server"
   },

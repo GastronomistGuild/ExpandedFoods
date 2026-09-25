@@ -153,7 +153,6 @@ HANDBOOK STUFF:
 - Fish nutritionPropsByType changed to reflect vanilla values - DONE!!!
 
 REBALANCING:
-- Oak bark can be used to make vanilla tannins
 - Fruit dries into dried fruit - DONE!!!
 - Walnuts may be put into pies - DONE!!!
 - Pickled cabbage can be used in dumplings and other foods

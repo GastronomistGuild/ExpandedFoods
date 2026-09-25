@@ -5,5 +5,24 @@
     "value": { "satiety": 210, "foodcategory": "Dairy" },
     "side": "server",
     "file": "itemtypes/liquid/dairy/cottagecheeseportion.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties",
+    "value": { "texture": "game:block/food/pie/fill-cottagecheese", "partType": "Filling", "foodCategory": "Dairy", "mixingCodes": [ "cottageapple", "cottagebeautyberry","cottageblackberry", "cottageblackcurrant", "cottageblueberry", "cottagebreadfruit", "cottagecactusfruit", "cottagecherry", "cottagecloudberry", "cottagecranberry", "cottagegooseberry", "cottageguava","cottagekumquat", "cottagelychee", "cottagemango", "cottageorange", "cottagepeach", "cottagepear", "cottagepineapple", "cottageplumnatal", "cottagepomegranate", "cottageraspberry", "cottageredcurrant", "cottagesaguaro", "cottagestrawberry", "cottagewhitecurrant", "cottagefruit",
+      "soycottage","soycheese",
+      "cottagemushroomblack","cottagemushroomyellow","cottagemushroomoffwhite","cottagemushroomorange","cottagemushroomdevilstooth","cottagemushroomred","cottagemushroomgreen","cottagemushroomblue","cottagemushroomlobster","cottagemushroombrown","cottagemushroomwhite","cottagemushroompurple","cottagemushroompink","cottagemushroom","cheesemushroom",
+      "cottagebellpepper","cottagecabbage","cottagecassava","cottagecarrot","cottagefennel","cottageolive","cottageonion","cottageparsnip","cottagepumpkin","cottageturnip","cottagewalnut","cottageveg","cheesevegmushroom","cheeseveg",
+      "cottagebushmeat", "cottagepoultry","cottageredmeat","cottagefish","cottagebug","cottagemeat","cheesemeat",
+      "cottagequiche","cheesequiche",
+      "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+      "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+      "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+      "cheesemeatmushroom","cheesemeatveg",
+      "soycheesemushroom","soycheeseveg",
+      "meatvegquiche", "meatmushroomquiche","vegmushroomquiche",
+      "cheesemeatvegmushroom","soycheesevegmushroom"] },
+    "side": "server",
+    "file": "itemtypes/liquid/dairy/cottagecheeseportion.json"
   }
 ]

@@ -247,7 +247,6 @@
     "pie-single-expandedfoods:fruitsyrupportion-whitecurrant-perfect": "White currant syrup pie",
     "pie-single-expandedfoods:fruitsyrupportion-whitecurrant-charred": "White currant syrup pie (charred)",
   
-  
   //Gelatin Pies
     "pie-single-expandedfoods:gelatin-plain-raw": "Jelly pie (raw)",
     "pie-single-expandedfoods:gelatin-apple-raw": "Apple jelly pie (raw)",
@@ -404,7 +403,6 @@
     "pie-single-expandedfoods:gelatin-strawberrt-charred": "Strawberry jelly pie (charred)",
     "pie-single-expandedfoods:gelatin-turnip-charred": "Turnip jelly pie (charred)",
     "pie-single-expandedfoods:gelatin-whitecurrant-charred": "White currant jelly pie (charred)",
-  
   
   //Meat Pies
     "game:pie-single-bushmeat-raw-raw": "Bushmeat pie (raw)",
@@ -638,8 +636,7 @@
     "game:pie-single-insect-grub-charred": "Grub pie (charred)",
     "game:pie-single-insect-termite-charred": "Termite pie (charred)",
     "game:pie-single-insect-termite-stick-charred": "Termite pie (charred)",
-
-
+  
   //Mushroom Pies
     "game:pie-single-mushroom-kingbolete-normal-free-raw": "King bolete pie (raw)",
     "game:pie-single-mushroom-fieldmushroom-normal-free-raw": "Field mushroom pie (raw)",
@@ -1119,20 +1116,6 @@
     "game:pie-single-egg-chicken-boiled-partbaked": "Quiche (part-baked)",
     "game:pie-single-egg-chicken-boiled-perfect": "Quiche",
     "game:pie-single-egg-chicken-boiled-charred": "Quiche (charred)",
-  
-    "pie-single-moreanimals:egg-pheasant-boiled-raw": "Quiche (raw)",
-    "pie-single-moreanimals:egg-pheasant-boiled-partbaked": "Quiche (part-baked)",
-    "pie-single-moreanimals:egg-pheasant-boiled-perfect": "Quiche",
-    "pie-single-moreanimals:egg-pheasant-boiled-charred": "Quiche (charred)",
-    "pie-single-moreanimals:egg-goldenpheasant-boiled-raw": "Quiche (raw)",
-    "pie-single-moreanimals:egg-goldenpheasant-boiled-partbaked": "Quiche (part-baked)",
-    "pie-single-moreanimals:egg-goldenpheasant-boiled-perfect": "Quiche",
-    "pie-single-moreanimals:egg-goldenpheasant-boiled-charred": "Quiche (charred)",
-    "pie-single-moreanimals:egg-capercaillie-boiled-raw": "Quiche (raw)",
-    "pie-single-moreanimals:egg-capercaillie-boiled-partbaked": "Quiche (part-baked)",
-    "pie-single-moreanimals:egg-capercaillie-boiled-perfect": "Quiche",
-    "pie-single-moreanimals:egg-capercaillie-boiled-charred": "Quiche (charred)",
-
 
   //Soulstorm Brew Pies
     "pie-single-expandedfoods:soulstormbrew-slop-raw": "Soulstorm slop pie (raw)",
@@ -1216,5 +1199,1822 @@
     "pie-single-expandedfoods:choppedvegetable-pickledpumpkin-charred": "Pickled pumpkin pie (charred)",
     "pie-single-expandedfoods:choppedvegetable-cassava-charred": "Cassava pie (charred)",
     "pie-single-expandedfoods:choppedvegetable-papyrusroot-charred": "Papyrus root pie (charred)",
-    "pie-single-expandedfoods:choppedvegetable-cattailroot-charred": "Cattail root pie (charred)"
+    "pie-single-expandedfoods:choppedvegetable-cattailroot-charred": "Cattail root pie (charred)",
+  
+  //Mixed 2 Ingredient Pies - Bushmeat-specific
+    "game:pie-mixed-soybushmeat-raw": "Bushmeat/soybean pie (raw)",
+    "game:pie-mixed-soybushmeat-partbaked": "Bushmeat/soybean pie (part-baked)",
+    "game:pie-mixed-soybushmeat-perfect": "Bushmeat/soybean pie",
+    "game:pie-mixed-soybushmeat-charred": "Bushmeat/soybean pie (charred)",
+
+    "game:pie-mixed-cheddarbushmeat-raw": "Bushmeat/cheddar pie (raw)",
+    "game:pie-mixed-cheddarbushmeat-partbaked": "Bushmeat/cheddar pie (part-baked)",
+    "game:pie-mixed-cheddarbushmeat-perfect": "Bushmeat/cheddar pie",
+    "game:pie-mixed-cheddarbushmeat-charred": "Bushmeat/cheddar pie (charred)",
+  
+    "game:pie-mixed-bluebushmeat-raw": "Bushmeat/blue cheese pie (raw)",
+    "game:pie-mixed-bluebushmeat-partbaked": "Bushmeat/blue cheese pie (part-baked)",
+    "game:pie-mixed-bluebushmeat-perfect": "Bushmeat/blue cheese pie",
+    "game:pie-mixed-bluebushmeat-charred": "Bushmeat/blue cheese pie (charred)",
+
+    "game:pie-mixed-cottagebushmeat-raw": "Bushmeat/cottage cheese pie (raw)",
+    "game:pie-mixed-cottagebushmeat-partbaked": "Bushmeat/cottage cheese pie (part-baked)",
+    "game:pie-mixed-cottagebushmeat-perfect": "Bushmeat/cottage cheese pie",
+    "game:pie-mixed-cottagebushmeat-charred": "Bushmeat/cottage cheese pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomblack-raw": "Bushmeat/black mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomblack-partbaked": "Bushmeat/black mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomblack-perfect": "Bushmeat/black mushroom pie",
+    "game:pie-mixed-bushmeatmushroomblack-charred": "Bushmeat/black mushroom pie (charred)",
+
+    "game:pie-mixed-bushmeatmushroomyellow-raw": "Bushmeat/yellow mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomyellow-partbaked": "Bushmeat/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomyellow-perfect": "Bushmeat/yellow mushroom pie",
+    "game:pie-mixed-bushmeatmushroomyellow-charred": "Bushmeat/yellow mushroom pie (charred)",
+
+    "game:pie-mixed-bushmeatmushroomoffwhite-raw": "Bushmeat/off-white mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomoffwhite-partbaked": "Bushmeat/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomoffwhite-perfect": "Bushmeat/off-white mushroom pie",
+    "game:pie-mixed-bushmeatmushroomoffwhite-charred": "Bushmeat/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomorange-raw": "Bushmeat/orange mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomorange-partbaked": "Bushmeat/orange mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomorange-perfect": "Bushmeat/orange mushroom pie",
+    "game:pie-mixed-bushmeatmushroomorange-charred": "Bushmeat/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomdevilstooth-raw": "Bushmeat/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomdevilstooth-partbaked": "Bushmeat/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomdevilstooth-perfect": "Bushmeat/devilstooth mushroom pie",
+    "game:pie-mixed-bushmeatmushroomdevilstooth-charred": "Bushmeat/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomred-raw": "Bushmeat/red mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomred-partbaked": "Bushmeat/red mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomred-perfect": "Bushmeat/red mushroom pie",
+    "game:pie-mixed-bushmeatmushroomred-charred": "Bushmeat/red mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomgreen-raw": "Bushmeat/green mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomgreen-partbaked": "Bushmeat/green mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomgreen-perfect": "Bushmeat/green mushroom pie",
+    "game:pie-mixed-bushmeatmushroomgreen-charred": "Bushmeat/green mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomblue-raw": "Bushmeat/blue mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomblue-partbaked": "Bushmeat/blue mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomblue-perfect": "Bushmeat/blue mushroom pie",
+    "game:pie-mixed-bushmeatmushroomblue-charred": "Bushmeat/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomlobster-raw": "Bushmeat/lobster mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomlobster-partbaked": "Bushmeat/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomlobster-perfect": "Bushmeat/lobster mushroom pie",
+    "game:pie-mixed-bushmeatmushroomlobster-charred": "Bushmeat/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroombrown-raw": "Bushmeat/brown mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroombrown-partbaked": "Bushmeat/brown mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroombrown-perfect": "Bushmeat/brown mushroom pie",
+    "game:pie-mixed-bushmeatmushroombrown-charred": "Bushmeat/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroomwhite-raw": "Bushmeat/white mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroomwhite-partbaked": "Bushmeat/white mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroomwhite-perfect": "Bushmeat/white mushroom pie",
+    "game:pie-mixed-bushmeatmushroomwhite-charred": "Bushmeat/white mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroompurple-raw": "Bushmeat/purple mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroompurple-partbaked": "Bushmeat/purple mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroompurple-perfect": "Bushmeat/purple mushroom pie",
+    "game:pie-mixed-bushmeatmushroompurple-charred": "Bushmeat/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroompink-raw": "Bushmeat/pink mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroompink-partbaked": "Bushmeat/pink mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroompink-perfect": "Bushmeat/pink mushroom pie",
+    "game:pie-mixed-bushmeatmushroompink-charred": "Bushmeat/pink mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatmushroom-raw": "Bushmeat/mushroom pie (raw)",
+    "game:pie-mixed-bushmeatmushroom-partbaked": "Bushmeat/mushroom pie (part-baked)",
+    "game:pie-mixed-bushmeatmushroom-perfect": "Bushmeat/mushroom pie",
+    "game:pie-mixed-bushmeatmushroom-charred": "Bushmeat/mushroom pie (charred)",
+  
+    "game:pie-mixed-bushmeatpeanut-raw": "Bushmeat/peanut pie (raw)",
+    "game:pie-mixed-bushmeatpeanut-partbaked": "Bushmeat/peanut pie (part-baked)",
+    "game:pie-mixed-bushmeatpeanut-perfect": "Bushmeat/peanut pie",
+    "game:pie-mixed-bushmeatpeanut-charred": "Bushmeat/peanut pie (charred)",
+  
+    "game:pie-mixed-bushmeatwalnut-raw": "Bushmeat/walnut pie (raw)",
+    "game:pie-mixed-bushmeatwalnut-partbaked": "Bushmeat/walnut pie (part-baked)",
+    "game:pie-mixed-bushmeatwalnut-perfect": "Bushmeat/walnut pie",
+    "game:pie-mixed-bushmeatwalnut-charred": "Bushmeat/walnut pie (charred)",
+  
+    "game:pie-mixed-bushmeatnut-raw": "Bushmeat/nut pie (raw)",
+    "game:pie-mixed-bushmeatnut-partbaked": "Bushmeat/nut pie (part-baked)",
+    "game:pie-mixed-bushmeatnut-perfect": "Bushmeat/nut pie",
+    "game:pie-mixed-bushmeatnut-charred": "Bushmeat/nut pie (charred)",
+  
+    "game:pie-mixed-bushmeatquiche-raw": "Bushmeat quiche (raw)",
+    "game:pie-mixed-bushmeatquiche-partbaked": "Bushmeat quiche (part-baked)",
+    "game:pie-mixed-bushmeatquiche-perfect": "Bushmeat quiche",
+    "game:pie-mixed-bushmeatquiche-charred": "Bushmeat quiche (charred)",
+  
+    "game:pie-mixed-bushmeatbellpepper-raw": "Bushmeat/bell pepper pie (raw)",
+    "game:pie-mixed-bushmeatbellpepper-partbaked": "Bushmeat/bell pepper pie (part-baked)",
+    "game:pie-mixed-bushmeatbellpepper-perfect": "Bushmeat/bell pepper pie",
+    "game:pie-mixed-bushmeatbellpepper-charred": "Bushmeat/bell pepper pie (charred)",
+  
+    "game:pie-mixed-bushmeatcabbage-raw": "Bushmeat/cabbage pie (raw)",
+    "game:pie-mixed-bushmeatcabbage-partbaked": "Bushmeat/cabbage pie (part-baked)",
+    "game:pie-mixed-bushmeatcabbage-perfect": "Bushmeat/cabbage pie",
+    "game:pie-mixed-bushmeatcabbage-charred": "Bushmeat/cabbage pie (charred)",
+  
+    "game:pie-mixed-bushmeatcassava-raw": "Bushmeat/cassava pie (raw)",
+    "game:pie-mixed-bushmeatcassava-partbaked": "Bushmeat/cassava pie (part-baked)",
+    "game:pie-mixed-bushmeatcassava-perfect": "Bushmeat/cassava pie",
+    "game:pie-mixed-bushmeatcassava-charred": "Bushmeat/cassava pie (charred)",
+  
+    "game:pie-mixed-bushmeatcarrot-raw": "Bushmeat/carrot pie (raw)",
+    "game:pie-mixed-bushmeatcarrot-partbaked": "Bushmeat/carrot pie (part-baked)",
+    "game:pie-mixed-bushmeatcarrot-perfect": "Bushmeat/carrot pie",
+    "game:pie-mixed-bushmeatcarrot-charred": "Bushmeat/carrot pie (charred)",
+  
+    "game:pie-mixed-bushmeatfennel-raw": "Bushmeat/fennel pie (raw)",
+    "game:pie-mixed-bushmeatfennel-partbaked": "Bushmeat/fennel pie (part-baked)",
+    "game:pie-mixed-bushmeatfennel-perfect": "Bushmeat/fennel pie",
+    "game:pie-mixed-bushmeatfennel-charred": "Bushmeat/fennel pie (charred)",
+  
+    "game:pie-mixed-bushmeatolive-raw": "Bushmeat/olive pie (raw)",
+    "game:pie-mixed-bushmeatolive-partbaked": "Bushmeat/olive pie (part-baked)",
+    "game:pie-mixed-bushmeatolive-perfect": "Bushmeat/olive pie",
+    "game:pie-mixed-bushmeatolive-charred": "Bushmeat/olive pie (charred)",
+  
+    "game:pie-mixed-bushmeatonion-raw": "Bushmeat/onion pie (raw)",
+    "game:pie-mixed-bushmeatonion-partbaked": "Bushmeat/onion pie (part-baked)",
+    "game:pie-mixed-bushmeatonion-perfect": "Bushmeat/onion pie",
+    "game:pie-mixed-bushmeatonion-charred": "Bushmeat/onion pie (charred)",
+  
+    "game:pie-mixed-bushmeatparsnip-raw": "Bushmeat/parsnip pie (raw)",
+    "game:pie-mixed-bushmeatparsnip-partbaked": "Bushmeat/parsnip pie (part-baked)",
+    "game:pie-mixed-bushmeatparsnip-perfect": "Bushmeat/parsnip pie",
+    "game:pie-mixed-bushmeatparsnip-charred": "Bushmeat/parsnip pie (charred)",
+  
+    "game:pie-mixed-bushmeatpumpkin-raw": "Bushmeat/pumpkin pie (raw)",
+    "game:pie-mixed-bushmeatpumpkin-partbaked": "Bushmeat/pumpkin pie (part-baked)",
+    "game:pie-mixed-bushmeatpumpkin-perfect": "Bushmeat/pumpkin pie",
+    "game:pie-mixed-bushmeatpumpkin-charred": "Bushmeat/pumpkin pie (charred)",
+  
+    "game:pie-mixed-bushmeatturnip-raw": "Bushmeat/turnip pie (raw)",
+    "game:pie-mixed-bushmeatturnip-partbaked": "Bushmeat/turnip pie (part-baked)",
+    "game:pie-mixed-bushmeatturnip-perfect": "Bushmeat/turnip pie",
+    "game:pie-mixed-bushmeatturnip-charred": "Bushmeat/turnip pie (charred)",
+  
+    "game:pie-mixed-bushmeatveg-raw": "Bushmeat/vegetable pie (raw)",
+    "game:pie-mixed-bushmeatveg-partbaked": "Bushmeat/vegetable pie (part-baked)",
+    "game:pie-mixed-bushmeatveg-perfect": "Bushmeat/vegetable pie",
+    "game:pie-mixed-bushmeatveg-charred": "Bushmeat/vegetable pie (charred)",
+  
+    "game:pie-mixed-bushmeatapple-raw": "Bushmeat/apple pie (raw)",
+    "game:pie-mixed-bushmeatapple-partbaked": "Bushmeat/apple pie (part-baked)",
+    "game:pie-mixed-bushmeatapple-perfect": "Bushmeat/apple pie",
+    "game:pie-mixed-bushmeatapple-charred": "Bushmeat/apple pie (charred)",
+  
+    "game:pie-mixed-bushmeatbeautyberry-raw": "Bushmeat/beautyberry pie (raw)",
+    "game:pie-mixed-bushmeatbeautyberry-partbaked": "Bushmeat/beautyberry pie (part-baked)",
+    "game:pie-mixed-bushmeatbeautyberry-perfect": "Bushmeat/beautyberry pie",
+    "game:pie-mixed-bushmeatbeautyberry-charred": "Bushmeat/beautyberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatblackberry-raw": "Bushmeat/blackberry pie (raw)",
+    "game:pie-mixed-bushmeatblackberry-partbaked": "Bushmeat/blackberry pie (part-baked)",
+    "game:pie-mixed-bushmeatblackberry-perfect": "Bushmeat/blackberry pie",
+    "game:pie-mixed-bushmeatblackberry-charred": "Bushmeat/blackberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatblackcurrant-raw": "Bushmeat/blackcurrant pie (raw)",
+    "game:pie-mixed-bushmeatblackcurrant-partbaked": "Bushmeat/blackcurrant pie (part-baked)",
+    "game:pie-mixed-bushmeatblackcurrant-perfect": "Bushmeat/blackcurrant pie",
+    "game:pie-mixed-bushmeatblackcurrant-charred": "Bushmeat/blackcurrant pie (charred)",
+  
+    "game:pie-mixed-bushmeatblueberry-raw": "Bushmeat/blueberry pie (raw)",
+    "game:pie-mixed-bushmeatblueberry-partbaked": "Bushmeat/blueberry pie (part-baked)",
+    "game:pie-mixed-bushmeatblueberry-perfect": "Bushmeat/blueberry pie",
+    "game:pie-mixed-bushmeatblueberry-charred": "Bushmeat/blueberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatbreadfruit-raw": "Bushmeat/breadfruit pie (raw)",
+    "game:pie-mixed-bushmeatbreadfruit-partbaked": "Bushmeat/breadfruit pie (part-baked)",
+    "game:pie-mixed-bushmeatbreadfruit-perfect": "Bushmeat/breadfruit pie",
+    "game:pie-mixed-bushmeatbreadfruit-charred": "Bushmeat/breadfruit pie (charred)",
+  
+    "game:pie-mixed-bushmeatcactusfruit-raw": "Bushmeat/cactus fruit pie (raw)",
+    "game:pie-mixed-bushmeatcactusfruit-partbaked": "Bushmeat/cactus fruit pie (part-baked)",
+    "game:pie-mixed-bushmeatcactusfruit-perfect": "Bushmeat/cactus fruit pie",
+    "game:pie-mixed-bushmeatcactusfruit-charred": "Bushmeat/cactus fruit pie (charred)",
+  
+    "game:pie-mixed-bushmeatcherry-raw": "Bushmeat/cherry pie (raw)",
+    "game:pie-mixed-bushmeatcherry-partbaked": "Bushmeat/cherry pie (part-baked)",
+    "game:pie-mixed-bushmeatcherry-perfect": "Bushmeat/cherry pie",
+    "game:pie-mixed-bushmeatcherry-charred": "Bushmeat/cherry pie (charred)",
+  
+    "game:pie-mixed-bushmeatcloudberry-raw": "Bushmeat/cloudberry pie (raw)",
+    "game:pie-mixed-bushmeatcloudberry-partbaked": "Bushmeat/cloudberry pie (part-baked)",
+    "game:pie-mixed-bushmeatcloudberry-perfect": "Bushmeat/cloudberry pie",
+    "game:pie-mixed-bushmeatcloudberry-charred": "Bushmeat/cloudberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatcranberry-raw": "Bushmeat/cranberry pie (raw)",
+    "game:pie-mixed-bushmeatcranberry-partbaked": "Bushmeat/cranberry pie (part-baked)",
+    "game:pie-mixed-bushmeatcranberry-perfect": "Bushmeat/cranberry pie",
+    "game:pie-mixed-bushmeatcranberry-charred": "Bushmeat/cranberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatgooseberry-raw": "Bushmeat/gooseberry pie (raw)",
+    "game:pie-mixed-bushmeatgooseberry-partbaked": "Bushmeat/gooseberry pie (part-baked)",
+    "game:pie-mixed-bushmeatgooseberry-perfect": "Bushmeat/gooseberry pie",
+    "game:pie-mixed-bushmeatgooseberry-charred": "Bushmeat/gooseberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatguava-raw": "Bushmeat/guava pie (raw)",
+    "game:pie-mixed-bushmeatguava-partbaked": "Bushmeat/guava pie (part-baked)",
+    "game:pie-mixed-bushmeatguava-perfect": "Bushmeat/guava pie",
+    "game:pie-mixed-bushmeatguava-charred": "Bushmeat/guava pie (charred)",
+  
+    "game:pie-mixed-bushmeatkumquat-raw": "Bushmeat/kumquat pie (raw)",
+    "game:pie-mixed-bushmeatkumquat-partbaked": "Bushmeat/kumquat pie (part-baked)",
+    "game:pie-mixed-bushmeatkumquat-perfect": "Bushmeat/kumquat pie",
+    "game:pie-mixed-bushmeatkumquat-charred": "Bushmeat/kumquat pie (charred)",
+  
+    "game:pie-mixed-bushmeatlychee-raw": "Bushmeat/lychee pie (raw)",
+    "game:pie-mixed-bushmeatlychee-partbaked": "Bushmeat/lychee pie (part-baked)",
+    "game:pie-mixed-bushmeatlychee-perfect": "Bushmeat/lychee pie",
+    "game:pie-mixed-bushmeatlychee-charred": "Bushmeat/lychee pie (charred)",
+  
+    "game:pie-mixed-bushmeatmango-raw": "Bushmeat/mango pie (raw)",
+    "game:pie-mixed-bushmeatmango-partbaked": "Bushmeat/mango pie (part-baked)",
+    "game:pie-mixed-bushmeatmango-perfect": "Bushmeat/mango pie",
+    "game:pie-mixed-bushmeatmango-charred": "Bushmeat/mango pie (charred)",
+  
+    "game:pie-mixed-bushmeatorange-raw": "Bushmeat/orange pie (raw)",
+    "game:pie-mixed-bushmeatorange-partbaked": "Bushmeat/orange pie (part-baked)",
+    "game:pie-mixed-bushmeatorange-perfect": "Bushmeat/orange pie",
+    "game:pie-mixed-bushmeatorange-charred": "Bushmeat/orange pie (charred)",
+  
+    "game:pie-mixed-bushmeatpeach-raw": "Bushmeat/peach pie (raw)",
+    "game:pie-mixed-bushmeatpeach-partbaked": "Bushmeat/peach pie (part-baked)",
+    "game:pie-mixed-bushmeatpeach-perfect": "Bushmeat/peach pie",
+    "game:pie-mixed-bushmeatpeach-charred": "Bushmeat/peach pie (charred)",
+  
+    "game:pie-mixed-bushmeatpear-raw": "Bushmeat/pear pie (raw)",
+    "game:pie-mixed-bushmeatpear-partbaked": "Bushmeat/pear pie (part-baked)",
+    "game:pie-mixed-bushmeatpear-perfect": "Bushmeat/pear pie",
+    "game:pie-mixed-bushmeatpear-charred": "Bushmeat/pear pie (charred)",
+  
+    "game:pie-mixed-bushmeatpineapple-raw": "Bushmeat/pineapple pie (raw)",
+    "game:pie-mixed-bushmeatpineapple-partbaked": "Bushmeat/pineapple pie (part-baked)",
+    "game:pie-mixed-bushmeatpineapple-perfect": "Bushmeat/pineapple pie",
+    "game:pie-mixed-bushmeatpineapple-charred": "Bushmeat/pineapple pie (charred)",
+  
+    "game:pie-mixed-bushmeatplumnatal-raw": "Bushmeat/num-num pie (raw)",
+    "game:pie-mixed-bushmeatplumnatal-partbaked": "Bushmeat/num-num pie (part-baked)",
+    "game:pie-mixed-bushmeatplumnatal-perfect": "Bushmeat/num-num pie",
+    "game:pie-mixed-bushmeatplumnatal-charred": "Bushmeat/num-num pie (charred)",
+  
+    "game:pie-mixed-bushmeatpomegranate-raw": "Bushmeat/pomegranate pie (raw)",
+    "game:pie-mixed-bushmeatpomegranate-partbaked": "Bushmeat/pomegranate pie (part-baked)",
+    "game:pie-mixed-bushmeatpomegranate-perfect": "Bushmeat/pomegranate pie",
+    "game:pie-mixed-bushmeatpomegranate-charred": "Bushmeat/pomegranate pie (charred)",
+  
+    "game:pie-mixed-bushmeatraspberry-raw": "Bushmeat/raspberry pie (raw)",
+    "game:pie-mixed-bushmeatraspberry-partbaked": "Bushmeat/raspberry pie (part-baked)",
+    "game:pie-mixed-bushmeatraspberry-perfect": "Bushmeat/raspberry pie",
+    "game:pie-mixed-bushmeatraspberry-charred": "Bushmeat/raspberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatredcurrant-raw": "Bushmeat/redcurrant pie (raw)",
+    "game:pie-mixed-bushmeatredcurrant-partbaked": "Bushmeat/redcurrant pie (part-baked)",
+    "game:pie-mixed-bushmeatredcurrant-perfect": "Bushmeat/redcurrant pie",
+    "game:pie-mixed-bushmeatredcurrant-charred": "Bushmeat/redcurrant pie (charred)",
+  
+    "game:pie-mixed-bushmeatsaguaro-raw": "Bushmeat/saguaro fruit pie (raw)",
+    "game:pie-mixed-bushmeatsaguaro-partbaked": "Bushmeat/saguaro fruit pie (part-baked)",
+    "game:pie-mixed-bushmeatsaguaro-perfect": "Bushmeat/saguaro fruit pie",
+    "game:pie-mixed-bushmeatsaguaro-charred": "Bushmeat/saguaro fruit pie (charred)",
+  
+    "game:pie-mixed-bushmeatstrawberry-raw": "Bushmeat/strawberry pie (raw)",
+    "game:pie-mixed-bushmeatstrawberry-partbaked": "Bushmeat/strawberry pie (part-baked)",
+    "game:pie-mixed-bushmeatstrawberry-perfect": "Bushmeat/strawberry pie",
+    "game:pie-mixed-bushmeatstrawberry-charred": "Bushmeat/strawberry pie (charred)",
+  
+    "game:pie-mixed-bushmeatwhitecurrant-raw": "Bushmeat/whitecurrant pie (raw)",
+    "game:pie-mixed-bushmeatwhitecurrant-partbaked": "Bushmeat/whitecurrant pie (part-baked)",
+    "game:pie-mixed-bushmeatwhitecurrant-perfect": "Bushmeat/whitecurrant pie",
+    "game:pie-mixed-bushmeatwhitecurrant-charred": "Bushmeat/whitecurrant pie (charred)",
+  
+    "game:pie-mixed-bushmeatfruit-raw": "Bushmeat/fruit pie (raw)",
+    "game:pie-mixed-bushmeatfruit-partbaked": "Bushmeat/fruit pie (part-baked)",
+    "game:pie-mixed-bushmeatfruit-perfect": "Bushmeat/fruit pie",
+    "game:pie-mixed-bushmeatfruit-charred": "Bushmeat/fruit pie (charred)",
+  
+  //Mixed 2 Ingredient Pies - Cheddar cheese-specific
+    "game:pie-mixed-cheddarmushroomblack-raw": "Cheddar/black mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomblack-partbaked": "Cheddar/black mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomblack-perfect": "Cheddar/black mushroom pie",
+    "game:pie-mixed-cheddarmushroomblack-charred": "Cheddar/black mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomyellow-raw": "Cheddar/yellow mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomyellow-partbaked": "Cheddar/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomyellow-perfect": "Cheddar/yellow mushroom pie",
+    "game:pie-mixed-cheddarmushroomyellow-charred": "Cheddar/yellow mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomoffwhite-raw": "Cheddar/off-white mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomoffwhite-partbaked": "Cheddar/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomoffwhite-perfect": "Cheddar/off-white mushroom pie",
+    "game:pie-mixed-cheddarmushroomoffwhite-charred": "Cheddar/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomorange-raw": "Cheddar/orange mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomorange-partbaked": "Cheddar/orange mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomorange-perfect": "Cheddar/orange mushroom pie",
+    "game:pie-mixed-cheddarmushroomorange-charred": "Cheddar/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomdevilstooth-raw": "Cheddar/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomdevilstooth-partbaked": "Cheddar/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomdevilstooth-perfect": "Cheddar/devilstooth mushroom pie",
+    "game:pie-mixed-cheddarmushroomdevilstooth-charred": "Cheddar/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomred-raw": "Cheddar/red mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomred-partbaked": "Cheddar/red mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomred-perfect": "Cheddar/red mushroom pie",
+    "game:pie-mixed-cheddarmushroomred-charred": "Cheddar/red mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomgreen-raw": "Cheddar/green mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomgreen-partbaked": "Cheddar/green mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomgreen-perfect": "Cheddar/green mushroom pie",
+    "game:pie-mixed-cheddarmushroomgreen-charred": "Cheddar/green mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomblue-raw": "Cheddar/blue mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomblue-partbaked": "Cheddar/blue mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomblue-perfect": "Cheddar/blue mushroom pie",
+    "game:pie-mixed-cheddarmushroomblue-charred": "Cheddar/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomlobster-raw": "Cheddar/lobster mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomlobster-partbaked": "Cheddar/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomlobster-perfect": "Cheddar/lobster mushroom pie",
+    "game:pie-mixed-cheddarmushroomlobster-charred": "Cheddar/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroombrown-raw": "Cheddar/brown mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroombrown-partbaked": "Cheddar/brown mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroombrown-perfect": "Cheddar/brown mushroom pie",
+    "game:pie-mixed-cheddarmushroombrown-charred": "Cheddar/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroomwhite-raw": "Cheddar/white mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroomwhite-partbaked": "Cheddar/white mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroomwhite-perfect": "Cheddar/white mushroom pie",
+    "game:pie-mixed-cheddarmushroomwhite-charred": "Cheddar/white mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroompurple-raw": "Cheddar/purple mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroompurple-partbaked": "Cheddar/purple mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroompurple-perfect": "Cheddar/purple mushroom pie",
+    "game:pie-mixed-cheddarmushroompurple-charred": "Cheddar/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-cheddarmushroompink-raw": "Cheddar/pink mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroompink-partbaked": "Cheddar/pink mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroompink-perfect": "Cheddar/pink mushroom pie",
+    "game:pie-mixed-cheddarmushroompink-charred": "Cheddar/pink mushroom pie (charred)",
+
+    "game:pie-mixed-cheddarmushroom-raw": "Cheddar/mushroom pie (raw)",
+    "game:pie-mixed-cheddarmushroom-partbaked": "Cheddar/mushroom pie (part-baked)",
+    "game:pie-mixed-cheddarmushroom-perfect": "Cheddar/mushroom pie",
+    "game:pie-mixed-cheddarmushroom-charred": "Cheddar/mushroom pie (charred)",
+
+    "game:pie-mixed-cheddarbellpepper-raw": "Cheddar/bell pepper pie (raw)",
+    "game:pie-mixed-cheddarbellpepper-partbaked": "Cheddar/bell pepper pie (part-baked)",
+    "game:pie-mixed-cheddarbellpepper-perfect": "Cheddar/bell pepper pie",
+    "game:pie-mixed-cheddarbellpepper-charred": "Cheddar/bell pepper pie (charred)",
+  
+    "game:pie-mixed-cheddarcabbage-raw": "Cheddar/cabbage pie (raw)",
+    "game:pie-mixed-cheddarcabbage-partbaked": "Cheddar/cabbage pie (part-baked)",
+    "game:pie-mixed-cheddarcabbage-perfect": "Cheddar/cabbage pie",
+    "game:pie-mixed-cheddarcabbage-charred": "Cheddar/cabbage pie (charred)",
+  
+    "game:pie-mixed-cheddarcassava-raw": "Cheddar/cassava pie (raw)",
+    "game:pie-mixed-cheddarcassava-partbaked": "Cheddar/cassava pie (part-baked)",
+    "game:pie-mixed-cheddarcassava-perfect": "Cheddar/cassava pie",
+    "game:pie-mixed-cheddarcassava-charred": "Cheddar/cassava pie (charred)",
+  
+    "game:pie-mixed-cheddarcarrot-raw": "Cheddar/carrot pie (raw)",
+    "game:pie-mixed-cheddarcarrot-partbaked": "Cheddar/carrot pie (part-baked)",
+    "game:pie-mixed-cheddarcarrot-perfect": "Cheddar/carrot pie",
+    "game:pie-mixed-cheddarcarrot-charred": "Cheddar/carrot pie (charred)",
+  
+    "game:pie-mixed-cheddarfennel-raw": "Cheddar/fennel pie (raw)",
+    "game:pie-mixed-cheddarfennel-partbaked": "Cheddar/fennel pie (part-baked)",
+    "game:pie-mixed-cheddarfennel-perfect": "Cheddar/fennel pie",
+    "game:pie-mixed-cheddarfennel-charred": "Cheddar/fennel pie (charred)",
+  
+    "game:pie-mixed-cheddarolive-raw": "Cheddar/olive pie (raw)",
+    "game:pie-mixed-cheddarolive-partbaked": "Cheddar/olive pie (part-baked)",
+    "game:pie-mixed-cheddarolive-perfect": "Cheddar/olive pie",
+    "game:pie-mixed-cheddarolive-charred": "Cheddar/olive pie (charred)",
+  
+    "game:pie-mixed-cheddaronion-raw": "Cheddar/onion pie (raw)",
+    "game:pie-mixed-cheddaronion-partbaked": "Cheddar/onion pie (part-baked)",
+    "game:pie-mixed-cheddaronion-perfect": "Cheddar/onion pie",
+    "game:pie-mixed-cheddaronion-charred": "Cheddar/onion pie (charred)",
+  
+    "game:pie-mixed-cheddarparsnip-raw": "Cheddar/parsnip pie (raw)",
+    "game:pie-mixed-cheddarparsnip-partbaked": "Cheddar/parsnip pie (part-baked)",
+    "game:pie-mixed-cheddarparsnip-perfect": "Cheddar/parsnip pie",
+    "game:pie-mixed-cheddarparsnip-charred": "Cheddar/parsnip pie (charred)",
+  
+    "game:pie-mixed-cheddarpumpkin-raw": "Cheddar/pumpkin pie (raw)",
+    "game:pie-mixed-cheddarpumpkin-partbaked": "Cheddar/pumpkin pie (part-baked)",
+    "game:pie-mixed-cheddarpumpkin-perfect": "Cheddar/pumpkin pie",
+    "game:pie-mixed-cheddarpumpkin-charred": "Cheddar/pumpkin pie (charred)",
+  
+    "game:pie-mixed-cheddarturnip-raw": "Cheddar/turnip pie (raw)",
+    "game:pie-mixed-cheddarturnip-partbaked": "Cheddar/turnip pie (part-baked)",
+    "game:pie-mixed-cheddarturnip-perfect": "Cheddar/turnip pie",
+    "game:pie-mixed-cheddarturnip-charred": "Cheddar/turnip pie (charred)",
+  
+    "game:pie-mixed-cheddarveg-raw": "Cheddar/vegetable pie (raw)",
+    "game:pie-mixed-cheddarveg-partbaked": "Cheddar/vegetable pie (part-baked)",
+    "game:pie-mixed-cheddarveg-perfect": "Cheddar/vegetable pie",
+    "game:pie-mixed-cheddarveg-charred": "Cheddar/vegetable pie (charred)",
+  
+    "game:pie-mixed-soycheddar-raw": "Cheddar/soy pie (raw)",
+    "game:pie-mixed-soycheddar-partbaked": "Cheddar/soy pie (part-baked)",
+    "game:pie-mixed-soycheddar-perfect": "Cheddar/soy pie",
+    "game:pie-mixed-soycheddar-charred": "Cheddar/soy pie (charred)",
+
+    "game:pie-mixed-cheddarquiche-raw": "Cheddar quiche (raw)",
+    "game:pie-mixed-cheddarquiche-partbaked": "Cheddar quiche (part-baked)",
+    "game:pie-mixed-cheddarquiche-perfect": "Cheddar quiche",
+    "game:pie-mixed-cheddarquiche-charred": "Cheddar quiche (charred)",
+
+
+  //Mixed 2 Ingredient Pies - Fish-specific
+    "game:pie-mixed-soyfish-raw": "Fish/soybean pie (raw)",
+    "game:pie-mixed-soyfish-partbaked": "Fish/soybean pie (part-baked)",
+    "game:pie-mixed-soyfish-perfect": "Fish/soybean pie",
+    "game:pie-mixed-soyfish-charred": "Fish/soybean pie (charred)",
+  
+    "game:pie-mixed-cheddarfish-raw": "Fish/cheddar pie (raw)",
+    "game:pie-mixed-cheddarfish-partbaked": "Fish/cheddar pie (part-baked)",
+    "game:pie-mixed-cheddarfish-perfect": "Fish/cheddar pie",
+    "game:pie-mixed-cheddarfish-charred": "Fish/cheddar pie (charred)",
+  
+    "game:pie-mixed-bluefish-raw": "Fish/blue cheese pie (raw)",
+    "game:pie-mixed-bluefish-partbaked": "Fish/blue cheese pie (part-baked)",
+    "game:pie-mixed-bluefish-perfect": "Fish/blue cheese pie",
+    "game:pie-mixed-bluefish-charred": "Fish/blue cheese pie (charred)",
+  
+    "game:pie-mixed-cottagefish-raw": "Fish/cottage cheese pie (raw)",
+    "game:pie-mixed-cottagefish-partbaked": "Fish/cottage cheese pie (part-baked)",
+    "game:pie-mixed-cottagefish-perfect": "Fish/cottage cheese pie",
+    "game:pie-mixed-cottagefish-charred": "Fish/cottage cheese pie (charred)",
+  
+    "game:pie-mixed-fishmushroomblack-raw": "Fish/black mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomblack-partbaked": "Fish/black mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomblack-perfect": "Fish/black mushroom pie",
+    "game:pie-mixed-fishmushroomblack-charred": "Fish/black mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomyellow-raw": "Fish/yellow mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomyellow-partbaked": "Fish/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomyellow-perfect": "Fish/yellow mushroom pie",
+    "game:pie-mixed-fishmushroomyellow-charred": "Fish/yellow mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomoffwhite-raw": "Fish/off-white mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomoffwhite-partbaked": "Fish/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomoffwhite-perfect": "Fish/off-white mushroom pie",
+    "game:pie-mixed-fishmushroomoffwhite-charred": "Fish/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomorange-raw": "Fish/orange mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomorange-partbaked": "Fish/orange mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomorange-perfect": "Fish/orange mushroom pie",
+    "game:pie-mixed-fishmushroomorange-charred": "Fish/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomdevilstooth-raw": "Fish/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomdevilstooth-partbaked": "Fish/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomdevilstooth-perfect": "Fish/devilstooth mushroom pie",
+    "game:pie-mixed-fishmushroomdevilstooth-charred": "Fish/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomred-raw": "Fish/red mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomred-partbaked": "Fish/red mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomred-perfect": "Fish/red mushroom pie",
+    "game:pie-mixed-fishmushroomred-charred": "Fish/red mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomgreen-raw": "Fish/green mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomgreen-partbaked": "Fish/green mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomgreen-perfect": "Fish/green mushroom pie",
+    "game:pie-mixed-fishmushroomgreen-charred": "Fish/green mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomblue-raw": "Fish/blue mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomblue-partbaked": "Fish/blue mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomblue-perfect": "Fish/blue mushroom pie",
+    "game:pie-mixed-fishmushroomblue-charred": "Fish/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomlobster-raw": "Fish/lobster mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomlobster-partbaked": "Fish/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomlobster-perfect": "Fish/lobster mushroom pie",
+    "game:pie-mixed-fishmushroomlobster-charred": "Fish/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroombrown-raw": "Fish/brown mushroom pie (raw)",
+    "game:pie-mixed-fishmushroombrown-partbaked": "Fish/brown mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroombrown-perfect": "Fish/brown mushroom pie",
+    "game:pie-mixed-fishmushroombrown-charred": "Fish/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroomwhite-raw": "Fish/white mushroom pie (raw)",
+    "game:pie-mixed-fishmushroomwhite-partbaked": "Fish/white mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroomwhite-perfect": "Fish/white mushroom pie",
+    "game:pie-mixed-fishmushroomwhite-charred": "Fish/white mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroompurple-raw": "Fish/purple mushroom pie (raw)",
+    "game:pie-mixed-fishmushroompurple-partbaked": "Fish/purple mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroompurple-perfect": "Fish/purple mushroom pie",
+    "game:pie-mixed-fishmushroompurple-charred": "Fish/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroompink-raw": "Fish/pink mushroom pie (raw)",
+    "game:pie-mixed-fishmushroompink-partbaked": "Fish/pink mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroompink-perfect": "Fish/pink mushroom pie",
+    "game:pie-mixed-fishmushroompink-charred": "Fish/pink mushroom pie (charred)",
+  
+    "game:pie-mixed-fishmushroom-raw": "Fish/mushroom pie (raw)",
+    "game:pie-mixed-fishmushroom-partbaked": "Fish/mushroom pie (part-baked)",
+    "game:pie-mixed-fishmushroom-perfect": "Fish/mushroom pie",
+    "game:pie-mixed-fishmushroom-charred": "Fish/mushroom pie (charred)",
+  
+    "game:pie-mixed-fishpeanut-raw": "Fish/peanut pie (raw)",
+    "game:pie-mixed-fishpeanut-partbaked": "Fish/peanut pie (part-baked)",
+    "game:pie-mixed-fishpeanut-perfect": "Fish/peanut pie",
+    "game:pie-mixed-fishpeanut-charred": "Fish/peanut pie (charred)",
+  
+    "game:pie-mixed-fishwalnut-raw": "Fish/walnut pie (raw)",
+    "game:pie-mixed-fishwalnut-partbaked": "Fish/walnut pie (part-baked)",
+    "game:pie-mixed-fishwalnut-perfect": "Fish/walnut pie",
+    "game:pie-mixed-fishwalnut-charred": "Fish/walnut pie (charred)",
+  
+    "game:pie-mixed-fishnut-raw": "Fish/nut pie (raw)",
+    "game:pie-mixed-fishnut-partbaked": "Fish/nut pie (part-baked)",
+    "game:pie-mixed-fishnut-perfect": "Fish/nut pie",
+    "game:pie-mixed-fishnut-charred": "Fish/nut pie (charred)",
+  
+    "game:pie-mixed-fishquiche-raw": "Fish quiche (raw)",
+    "game:pie-mixed-fishquiche-partbaked": "Fish quiche (part-baked)",
+    "game:pie-mixed-fishquiche-perfect": "Fish quiche",
+    "game:pie-mixed-fishquiche-charred": "Fish quiche (charred)",
+  
+    "game:pie-mixed-fishbellpepper-raw": "Fish/bell pepper pie (raw)",
+    "game:pie-mixed-fishbellpepper-partbaked": "Fish/bell pepper pie (part-baked)",
+    "game:pie-mixed-fishbellpepper-perfect": "Fish/bell pepper pie",
+    "game:pie-mixed-fishbellpepper-charred": "Fish/bell pepper pie (charred)",
+  
+    "game:pie-mixed-fishcabbage-raw": "Fish/cabbage pie (raw)",
+    "game:pie-mixed-fishcabbage-partbaked": "Fish/cabbage pie (part-baked)",
+    "game:pie-mixed-fishcabbage-perfect": "Fish/cabbage pie",
+    "game:pie-mixed-fishcabbage-charred": "Fish/cabbage pie (charred)",
+  
+    "game:pie-mixed-fishcassava-raw": "Fish/cassava pie (raw)",
+    "game:pie-mixed-fishcassava-partbaked": "Fish/cassava pie (part-baked)",
+    "game:pie-mixed-fishcassava-perfect": "Fish/cassava pie",
+    "game:pie-mixed-fishcassava-charred": "Fish/cassava pie (charred)",
+  
+    "game:pie-mixed-fishcarrot-raw": "Fish/carrot pie (raw)",
+    "game:pie-mixed-fishcarrot-partbaked": "Fish/carrot pie (part-baked)",
+    "game:pie-mixed-fishcarrot-perfect": "Fish/carrot pie",
+    "game:pie-mixed-fishcarrot-charred": "Fish/carrot pie (charred)",
+  
+    "game:pie-mixed-fishfennel-raw": "Fish/fennel pie (raw)",
+    "game:pie-mixed-fishfennel-partbaked": "Fish/fennel pie (part-baked)",
+    "game:pie-mixed-fishfennel-perfect": "Fish/fennel pie",
+    "game:pie-mixed-fishfennel-charred": "Fish/fennel pie (charred)",
+  
+    "game:pie-mixed-fisholive-raw": "Fish/olive pie (raw)",
+    "game:pie-mixed-fisholive-partbaked": "Fish/olive pie (part-baked)",
+    "game:pie-mixed-fisholive-perfect": "Fish/olive pie",
+    "game:pie-mixed-fisholive-charred": "Fish/olive pie (charred)",
+  
+    "game:pie-mixed-fishonion-raw": "Fish/onion pie (raw)",
+    "game:pie-mixed-fishonion-partbaked": "Fish/onion pie (part-baked)",
+    "game:pie-mixed-fishonion-perfect": "Fish/onion pie",
+    "game:pie-mixed-fishonion-charred": "Fish/onion pie (charred)",
+  
+    "game:pie-mixed-fishparsnip-raw": "Fish/parsnip pie (raw)",
+    "game:pie-mixed-fishparsnip-partbaked": "Fish/parsnip pie (part-baked)",
+    "game:pie-mixed-fishparsnip-perfect": "Fish/parsnip pie",
+    "game:pie-mixed-fishparsnip-charred": "Fish/parsnip pie (charred)",
+  
+    "game:pie-mixed-fishpumpkin-raw": "Fish/pumpkin pie (raw)",
+    "game:pie-mixed-fishpumpkin-partbaked": "Fish/pumpkin pie (part-baked)",
+    "game:pie-mixed-fishpumpkin-perfect": "Fish/pumpkin pie",
+    "game:pie-mixed-fishpumpkin-charred": "Fish/pumpkin pie (charred)",
+  
+    "game:pie-mixed-fishturnip-raw": "Fish/turnip pie (raw)",
+    "game:pie-mixed-fishturnip-partbaked": "Fish/turnip pie (part-baked)",
+    "game:pie-mixed-fishturnip-perfect": "Fish/turnip pie",
+    "game:pie-mixed-fishturnip-charred": "Fish/turnip pie (charred)",
+  
+    "game:pie-mixed-fishveg-raw": "Fish/vegetable pie (raw)",
+    "game:pie-mixed-fishveg-partbaked": "Fish/vegetable pie (part-baked)",
+    "game:pie-mixed-fishveg-perfect": "Fish/vegetable pie",
+    "game:pie-mixed-fishveg-charred": "Fish/vegetable pie (charred)",
+  
+    "game:pie-mixed-fishapple-raw": "Fish/apple pie (raw)",
+    "game:pie-mixed-fishapple-partbaked": "Fish/apple pie (part-baked)",
+    "game:pie-mixed-fishapple-perfect": "Fish/apple pie",
+    "game:pie-mixed-fishapple-charred": "Fish/apple pie (charred)",
+  
+    "game:pie-mixed-fishbeautyberry-raw": "Fish/beautyberry pie (raw)",
+    "game:pie-mixed-fishbeautyberry-partbaked": "Fish/beautyberry pie (part-baked)",
+    "game:pie-mixed-fishbeautyberry-perfect": "Fish/beautyberry pie",
+    "game:pie-mixed-fishbeautyberry-charred": "Fish/beautyberry pie (charred)",
+  
+    "game:pie-mixed-fishblackberry-raw": "Fish/blackberry pie (raw)",
+    "game:pie-mixed-fishblackberry-partbaked": "Fish/blackberry pie (part-baked)",
+    "game:pie-mixed-fishblackberry-perfect": "Fish/blackberry pie",
+    "game:pie-mixed-fishblackberry-charred": "Fish/blackberry pie (charred)",
+  
+    "game:pie-mixed-fishblackcurrant-raw": "Fish/blackcurrant pie (raw)",
+    "game:pie-mixed-fishblackcurrant-partbaked": "Fish/blackcurrant pie (part-baked)",
+    "game:pie-mixed-fishblackcurrant-perfect": "Fish/blackcurrant pie",
+    "game:pie-mixed-fishblackcurrant-charred": "Fish/blackcurrant pie (charred)",
+  
+    "game:pie-mixed-fishblueberry-raw": "Fish/blueberry pie (raw)",
+    "game:pie-mixed-fishblueberry-partbaked": "Fish/blueberry pie (part-baked)",
+    "game:pie-mixed-fishblueberry-perfect": "Fish/blueberry pie",
+    "game:pie-mixed-fishblueberry-charred": "Fish/blueberry pie (charred)",
+  
+    "game:pie-mixed-fishbreadfruit-raw": "Fish/breadfruit pie (raw)",
+    "game:pie-mixed-fishbreadfruit-partbaked": "Fish/breadfruit pie (part-baked)",
+    "game:pie-mixed-fishbreadfruit-perfect": "Fish/breadfruit pie",
+    "game:pie-mixed-fishbreadfruit-charred": "Fish/breadfruit pie (charred)",
+  
+    "game:pie-mixed-fishcactusfruit-raw": "Fish/cactus fruit pie (raw)",
+    "game:pie-mixed-fishcactusfruit-partbaked": "Fish/cactus fruit pie (part-baked)",
+    "game:pie-mixed-fishcactusfruit-perfect": "Fish/cactus fruit pie",
+    "game:pie-mixed-fishcactusfruit-charred": "Fish/cactus fruit pie (charred)",
+  
+    "game:pie-mixed-fishcherry-raw": "Fish/cherry pie (raw)",
+    "game:pie-mixed-fishcherry-partbaked": "Fish/cherry pie (part-baked)",
+    "game:pie-mixed-fishcherry-perfect": "Fish/cherry pie",
+    "game:pie-mixed-fishcherry-charred": "Fish/cherry pie (charred)",
+  
+    "game:pie-mixed-fishcloudberry-raw": "Fish/cloudberry pie (raw)",
+    "game:pie-mixed-fishcloudberry-partbaked": "Fish/cloudberry pie (part-baked)",
+    "game:pie-mixed-fishcloudberry-perfect": "Fish/cloudberry pie",
+    "game:pie-mixed-fishcloudberry-charred": "Fish/cloudberry pie (charred)",
+  
+    "game:pie-mixed-fishcranberry-raw": "Fish/cranberry pie (raw)",
+    "game:pie-mixed-fishcranberry-partbaked": "Fish/cranberry pie (part-baked)",
+    "game:pie-mixed-fishcranberry-perfect": "Fish/cranberry pie",
+    "game:pie-mixed-fishcranberry-charred": "Fish/cranberry pie (charred)",
+  
+    "game:pie-mixed-fishgooseberry-raw": "Fish/gooseberry pie (raw)",
+    "game:pie-mixed-fishgooseberry-partbaked": "Fish/gooseberry pie (part-baked)",
+    "game:pie-mixed-fishgooseberry-perfect": "Fish/gooseberry pie",
+    "game:pie-mixed-fishgooseberry-charred": "Fish/gooseberry pie (charred)",
+  
+    "game:pie-mixed-fishguava-raw": "Fish/guava pie (raw)",
+    "game:pie-mixed-fishguava-partbaked": "Fish/guava pie (part-baked)",
+    "game:pie-mixed-fishguava-perfect": "Fish/guava pie",
+    "game:pie-mixed-fishguava-charred": "Fish/guava pie (charred)",
+  
+    "game:pie-mixed-fishkumquat-raw": "Fish/kumquat pie (raw)",
+    "game:pie-mixed-fishkumquat-partbaked": "Fish/kumquat pie (part-baked)",
+    "game:pie-mixed-fishkumquat-perfect": "Fish/kumquat pie",
+    "game:pie-mixed-fishkumquat-charred": "Fish/kumquat pie (charred)",
+  
+    "game:pie-mixed-fishlychee-raw": "Fish/lychee pie (raw)",
+    "game:pie-mixed-fishlychee-partbaked": "Fish/lychee pie (part-baked)",
+    "game:pie-mixed-fishlychee-perfect": "Fish/lychee pie",
+    "game:pie-mixed-fishlychee-charred": "Fish/lychee pie (charred)",
+  
+    "game:pie-mixed-fishmango-raw": "Fish/mango pie (raw)",
+    "game:pie-mixed-fishmango-partbaked": "Fish/mango pie (part-baked)",
+    "game:pie-mixed-fishmango-perfect": "Fish/mango pie",
+    "game:pie-mixed-fishmango-charred": "Fish/mango pie (charred)",
+  
+    "game:pie-mixed-fishorange-raw": "Fish/orange pie (raw)",
+    "game:pie-mixed-fishorange-partbaked": "Fish/orange pie (part-baked)",
+    "game:pie-mixed-fishorange-perfect": "Fish/orange pie",
+    "game:pie-mixed-fishorange-charred": "Fish/orange pie (charred)",
+  
+    "game:pie-mixed-fishpeach-raw": "Fish/peach pie (raw)",
+    "game:pie-mixed-fishpeach-partbaked": "Fish/peach pie (part-baked)",
+    "game:pie-mixed-fishpeach-perfect": "Fish/peach pie",
+    "game:pie-mixed-fishpeach-charred": "Fish/peach pie (charred)",
+  
+    "game:pie-mixed-fishpear-raw": "Fish/pear pie (raw)",
+    "game:pie-mixed-fishpear-partbaked": "Fish/pear pie (part-baked)",
+    "game:pie-mixed-fishpear-perfect": "Fish/pear pie",
+    "game:pie-mixed-fishpear-charred": "Fish/pear pie (charred)",
+  
+    "game:pie-mixed-fishpineapple-raw": "Fish/pineapple pie (raw)",
+    "game:pie-mixed-fishpineapple-partbaked": "Fish/pineapple pie (part-baked)",
+    "game:pie-mixed-fishpineapple-perfect": "Fish/pineapple pie",
+    "game:pie-mixed-fishpineapple-charred": "Fish/pineapple pie (charred)",
+  
+    "game:pie-mixed-fishplumnatal-raw": "Fish/num-num pie (raw)",
+    "game:pie-mixed-fishplumnatal-partbaked": "Fish/num-num pie (part-baked)",
+    "game:pie-mixed-fishplumnatal-perfect": "Fish/num-num pie",
+    "game:pie-mixed-fishplumnatal-charred": "Fish/num-num pie (charred)",
+  
+    "game:pie-mixed-fishpomegranate-raw": "Fish/pomegranate pie (raw)",
+    "game:pie-mixed-fishpomegranate-partbaked": "Fish/pomegranate pie (part-baked)",
+    "game:pie-mixed-fishpomegranate-perfect": "Fish/pomegranate pie",
+    "game:pie-mixed-fishpomegranate-charred": "Fish/pomegranate pie (charred)",
+  
+    "game:pie-mixed-fishraspberry-raw": "Fish/raspberry pie (raw)",
+    "game:pie-mixed-fishraspberry-partbaked": "Fish/raspberry pie (part-baked)",
+    "game:pie-mixed-fishraspberry-perfect": "Fish/raspberry pie",
+    "game:pie-mixed-fishraspberry-charred": "Fish/raspberry pie (charred)",
+  
+    "game:pie-mixed-fishredcurrant-raw": "Fish/redcurrant pie (raw)",
+    "game:pie-mixed-fishredcurrant-partbaked": "Fish/redcurrant pie (part-baked)",
+    "game:pie-mixed-fishredcurrant-perfect": "Fish/redcurrant pie",
+    "game:pie-mixed-fishredcurrant-charred": "Fish/redcurrant pie (charred)",
+  
+    "game:pie-mixed-fishsaguaro-raw": "Fish/saguaro fruit pie (raw)",
+    "game:pie-mixed-fishsaguaro-partbaked": "Fish/saguaro fruit pie (part-baked)",
+    "game:pie-mixed-fishsaguaro-perfect": "Fish/saguaro fruit pie",
+    "game:pie-mixed-fishsaguaro-charred": "Fish/saguaro fruit pie (charred)",
+  
+    "game:pie-mixed-fishstrawberry-raw": "Fish/strawberry pie (raw)",
+    "game:pie-mixed-fishstrawberry-partbaked": "Fish/strawberry pie (part-baked)",
+    "game:pie-mixed-fishstrawberry-perfect": "Fish/strawberry pie",
+    "game:pie-mixed-fishstrawberry-charred": "Fish/strawberry pie (charred)",
+  
+    "game:pie-mixed-fishwhitecurrant-raw": "Fish/whitecurrant pie (raw)",
+    "game:pie-mixed-fishwhitecurrant-partbaked": "Fish/whitecurrant pie (part-baked)",
+    "game:pie-mixed-fishwhitecurrant-perfect": "Fish/whitecurrant pie",
+    "game:pie-mixed-fishwhitecurrant-charred": "Fish/whitecurrant pie (charred)",
+  
+    "game:pie-mixed-fishfruit-raw": "Fish/fruit pie (raw)",
+    "game:pie-mixed-fishfruit-partbaked": "Fish/fruit pie (part-baked)",
+    "game:pie-mixed-fishfruit-perfect": "Fish/fruit pie",
+    "game:pie-mixed-fishfruit-charred": "Fish/fruit pie (charred)",
+
+
+  //Mixed 2 Ingredient Pies - Insect-specific
+    "game:pie-mixed-soybug-raw": "Insect/soybean pie (raw)",
+    "game:pie-mixed-soybug-partbaked": "Insect/soybean pie (part-baked)",
+    "game:pie-mixed-soybug-perfect": "Insect/soybean pie",
+    "game:pie-mixed-soybug-charred": "Insect/soybean pie (charred)",
+  
+    "game:pie-mixed-cheddarbug-raw": "Insect/cheddar pie (raw)",
+    "game:pie-mixed-cheddarbug-partbaked": "Insect/cheddar pie (part-baked)",
+    "game:pie-mixed-cheddarbug-perfect": "Insect/cheddar pie",
+    "game:pie-mixed-cheddarbug-charred": "Insect/cheddar pie (charred)",
+  
+    "game:pie-mixed-bluebug-raw": "Insect/blue cheese pie (raw)",
+    "game:pie-mixed-bluebug-partbaked": "Insect/blue cheese pie (part-baked)",
+    "game:pie-mixed-bluebug-perfect": "Insect/blue cheese pie",
+    "game:pie-mixed-bluebug-charred": "Insect/blue cheese pie (charred)",
+  
+    "game:pie-mixed-cottagebug-raw": "Insect/cottage cheese pie (raw)",
+    "game:pie-mixed-cottagebug-partbaked": "Insect/cottage cheese pie (part-baked)",
+    "game:pie-mixed-cottagebug-perfect": "Insect/cottage cheese pie",
+    "game:pie-mixed-cottagebug-charred": "Insect/cottage cheese pie (charred)",
+  
+    "game:pie-mixed-bugmushroomblack-raw": "Insect/black mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomblack-partbaked": "Insect/black mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomblack-perfect": "Insect/black mushroom pie",
+    "game:pie-mixed-bugmushroomblack-charred": "Insect/black mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomyellow-raw": "Insect/yellow mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomyellow-partbaked": "Insect/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomyellow-perfect": "Insect/yellow mushroom pie",
+    "game:pie-mixed-bugmushroomyellow-charred": "Insect/yellow mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomoffwhite-raw": "Insect/off-white mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomoffwhite-partbaked": "Insect/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomoffwhite-perfect": "Insect/off-white mushroom pie",
+    "game:pie-mixed-bugmushroomoffwhite-charred": "Insect/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomorange-raw": "Insect/orange mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomorange-partbaked": "Insect/orange mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomorange-perfect": "Insect/orange mushroom pie",
+    "game:pie-mixed-bugmushroomorange-charred": "Insect/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomdevilstooth-raw": "Insect/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomdevilstooth-partbaked": "Insect/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomdevilstooth-perfect": "Insect/devilstooth mushroom pie",
+    "game:pie-mixed-bugmushroomdevilstooth-charred": "Insect/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomred-raw": "Insect/red mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomred-partbaked": "Insect/red mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomred-perfect": "Insect/red mushroom pie",
+    "game:pie-mixed-bugmushroomred-charred": "Insect/red mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomgreen-raw": "Insect/green mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomgreen-partbaked": "Insect/green mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomgreen-perfect": "Insect/green mushroom pie",
+    "game:pie-mixed-bugmushroomgreen-charred": "Insect/green mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomblue-raw": "Insect/blue mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomblue-partbaked": "Insect/blue mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomblue-perfect": "Insect/blue mushroom pie",
+    "game:pie-mixed-bugmushroomblue-charred": "Insect/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomlobster-raw": "Insect/lobster mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomlobster-partbaked": "Insect/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomlobster-perfect": "Insect/lobster mushroom pie",
+    "game:pie-mixed-bugmushroomlobster-charred": "Insect/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroombrown-raw": "Insect/brown mushroom pie (raw)",
+    "game:pie-mixed-bugmushroombrown-partbaked": "Insect/brown mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroombrown-perfect": "Insect/brown mushroom pie",
+    "game:pie-mixed-bugmushroombrown-charred": "Insect/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroomwhite-raw": "Insect/white mushroom pie (raw)",
+    "game:pie-mixed-bugmushroomwhite-partbaked": "Insect/white mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroomwhite-perfect": "Insect/white mushroom pie",
+    "game:pie-mixed-bugmushroomwhite-charred": "Insect/white mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroompurple-raw": "Insect/purple mushroom pie (raw)",
+    "game:pie-mixed-bugmushroompurple-partbaked": "Insect/purple mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroompurple-perfect": "Insect/purple mushroom pie",
+    "game:pie-mixed-bugmushroompurple-charred": "Insect/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroompink-raw": "Insect/pink mushroom pie (raw)",
+    "game:pie-mixed-bugmushroompink-partbaked": "Insect/pink mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroompink-perfect": "Insect/pink mushroom pie",
+    "game:pie-mixed-bugmushroompink-charred": "Insect/pink mushroom pie (charred)",
+  
+    "game:pie-mixed-bugmushroom-raw": "Insect/mushroom pie (raw)",
+    "game:pie-mixed-bugmushroom-partbaked": "Insect/mushroom pie (part-baked)",
+    "game:pie-mixed-bugmushroom-perfect": "Insect/mushroom pie",
+    "game:pie-mixed-bugmushroom-charred": "Insect/mushroom pie (charred)",
+  
+    "game:pie-mixed-bugpeanut-raw": "Insect/peanut pie (raw)",
+    "game:pie-mixed-bugpeanut-partbaked": "Insect/peanut pie (part-baked)",
+    "game:pie-mixed-bugpeanut-perfect": "Insect/peanut pie",
+    "game:pie-mixed-bugpeanut-charred": "Insect/peanut pie (charred)",
+  
+    "game:pie-mixed-bugwalnut-raw": "Insect/walnut pie (raw)",
+    "game:pie-mixed-bugwalnut-partbaked": "Insect/walnut pie (part-baked)",
+    "game:pie-mixed-bugwalnut-perfect": "Insect/walnut pie",
+    "game:pie-mixed-bugwalnut-charred": "Insect/walnut pie (charred)",
+  
+    "game:pie-mixed-bugnut-raw": "Insect/nut pie (raw)",
+    "game:pie-mixed-bugnut-partbaked": "Insect/nut pie (part-baked)",
+    "game:pie-mixed-bugnut-perfect": "Insect/nut pie",
+    "game:pie-mixed-bugnut-charred": "Insect/nut pie (charred)",
+  
+    "game:pie-mixed-bugquiche-raw": "Insect quiche (raw)",
+    "game:pie-mixed-bugquiche-partbaked": "Insect quiche (part-baked)",
+    "game:pie-mixed-bugquiche-perfect": "Insect quiche",
+    "game:pie-mixed-bugquiche-charred": "Insect quiche (charred)",
+  
+    "game:pie-mixed-bugbellpepper-raw": "Insect/bell pepper pie (raw)",
+    "game:pie-mixed-bugbellpepper-partbaked": "Insect/bell pepper pie (part-baked)",
+    "game:pie-mixed-bugbellpepper-perfect": "Insect/bell pepper pie",
+    "game:pie-mixed-bugbellpepper-charred": "Insect/bell pepper pie (charred)",
+  
+    "game:pie-mixed-bugcabbage-raw": "Insect/cabbage pie (raw)",
+    "game:pie-mixed-bugcabbage-partbaked": "Insect/cabbage pie (part-baked)",
+    "game:pie-mixed-bugcabbage-perfect": "Insect/cabbage pie",
+    "game:pie-mixed-bugcabbage-charred": "Insect/cabbage pie (charred)",
+  
+    "game:pie-mixed-bugcassava-raw": "Insect/cassava pie (raw)",
+    "game:pie-mixed-bugcassava-partbaked": "Insect/cassava pie (part-baked)",
+    "game:pie-mixed-bugcassava-perfect": "Insect/cassava pie",
+    "game:pie-mixed-bugcassava-charred": "Insect/cassava pie (charred)",
+  
+    "game:pie-mixed-bugcarrot-raw": "Insect/carrot pie (raw)",
+    "game:pie-mixed-bugcarrot-partbaked": "Insect/carrot pie (part-baked)",
+    "game:pie-mixed-bugcarrot-perfect": "Insect/carrot pie",
+    "game:pie-mixed-bugcarrot-charred": "Insect/carrot pie (charred)",
+  
+    "game:pie-mixed-bugfennel-raw": "Insect/fennel pie (raw)",
+    "game:pie-mixed-bugfennel-partbaked": "Insect/fennel pie (part-baked)",
+    "game:pie-mixed-bugfennel-perfect": "Insect/fennel pie",
+    "game:pie-mixed-bugfennel-charred": "Insect/fennel pie (charred)",
+  
+    "game:pie-mixed-bugolive-raw": "Insect/olive pie (raw)",
+    "game:pie-mixed-bugolive-partbaked": "Insect/olive pie (part-baked)",
+    "game:pie-mixed-bugolive-perfect": "Insect/olive pie",
+    "game:pie-mixed-bugolive-charred": "Insect/olive pie (charred)",
+  
+    "game:pie-mixed-bugonion-raw": "Insect/onion pie (raw)",
+    "game:pie-mixed-bugonion-partbaked": "Insect/onion pie (part-baked)",
+    "game:pie-mixed-bugonion-perfect": "Insect/onion pie",
+    "game:pie-mixed-bugonion-charred": "Insect/onion pie (charred)",
+  
+    "game:pie-mixed-bugparsnip-raw": "Insect/parsnip pie (raw)",
+    "game:pie-mixed-bugparsnip-partbaked": "Insect/parsnip pie (part-baked)",
+    "game:pie-mixed-bugparsnip-perfect": "Insect/parsnip pie",
+    "game:pie-mixed-bugparsnip-charred": "Insect/parsnip pie (charred)",
+  
+    "game:pie-mixed-bugpumpkin-raw": "Insect/pumpkin pie (raw)",
+    "game:pie-mixed-bugpumpkin-partbaked": "Insect/pumpkin pie (part-baked)",
+    "game:pie-mixed-bugpumpkin-perfect": "Insect/pumpkin pie",
+    "game:pie-mixed-bugpumpkin-charred": "Insect/pumpkin pie (charred)",
+  
+    "game:pie-mixed-bugturnip-raw": "Insect/turnip pie (raw)",
+    "game:pie-mixed-bugturnip-partbaked": "Insect/turnip pie (part-baked)",
+    "game:pie-mixed-bugturnip-perfect": "Insect/turnip pie",
+    "game:pie-mixed-bugturnip-charred": "Insect/turnip pie (charred)",
+  
+    "game:pie-mixed-bugveg-raw": "Insect/vegetable pie (raw)",
+    "game:pie-mixed-bugveg-partbaked": "Insect/vegetable pie (part-baked)",
+    "game:pie-mixed-bugveg-perfect": "Insect/vegetable pie",
+    "game:pie-mixed-bugveg-charred": "Insect/vegetable pie (charred)",
+  
+    "game:pie-mixed-bugapple-raw": "Insect/apple pie (raw)",
+    "game:pie-mixed-bugapple-partbaked": "Insect/apple pie (part-baked)",
+    "game:pie-mixed-bugapple-perfect": "Insect/apple pie",
+    "game:pie-mixed-bugapple-charred": "Insect/apple pie (charred)",
+  
+    "game:pie-mixed-bugbeautyberry-raw": "Insect/beautyberry pie (raw)",
+    "game:pie-mixed-bugbeautyberry-partbaked": "Insect/beautyberry pie (part-baked)",
+    "game:pie-mixed-bugbeautyberry-perfect": "Insect/beautyberry pie",
+    "game:pie-mixed-bugbeautyberry-charred": "Insect/beautyberry pie (charred)",
+  
+    "game:pie-mixed-bugblackberry-raw": "Insect/blackberry pie (raw)",
+    "game:pie-mixed-bugblackberry-partbaked": "Insect/blackberry pie (part-baked)",
+    "game:pie-mixed-bugblackberry-perfect": "Insect/blackberry pie",
+    "game:pie-mixed-bugblackberry-charred": "Insect/blackberry pie (charred)",
+  
+    "game:pie-mixed-bugblackcurrant-raw": "Insect/blackcurrant pie (raw)",
+    "game:pie-mixed-bugblackcurrant-partbaked": "Insect/blackcurrant pie (part-baked)",
+    "game:pie-mixed-bugblackcurrant-perfect": "Insect/blackcurrant pie",
+    "game:pie-mixed-bugblackcurrant-charred": "Insect/blackcurrant pie (charred)",
+  
+    "game:pie-mixed-bugblueberry-raw": "Insect/blueberry pie (raw)",
+    "game:pie-mixed-bugblueberry-partbaked": "Insect/blueberry pie (part-baked)",
+    "game:pie-mixed-bugblueberry-perfect": "Insect/blueberry pie",
+    "game:pie-mixed-bugblueberry-charred": "Insect/blueberry pie (charred)",
+  
+    "game:pie-mixed-bugbreadfruit-raw": "Insect/breadfruit pie (raw)",
+    "game:pie-mixed-bugbreadfruit-partbaked": "Insect/breadfruit pie (part-baked)",
+    "game:pie-mixed-bugbreadfruit-perfect": "Insect/breadfruit pie",
+    "game:pie-mixed-bugbreadfruit-charred": "Insect/breadfruit pie (charred)",
+  
+    "game:pie-mixed-bugcactusfruit-raw": "Insect/cactus fruit pie (raw)",
+    "game:pie-mixed-bugcactusfruit-partbaked": "Insect/cactus fruit pie (part-baked)",
+    "game:pie-mixed-bugcactusfruit-perfect": "Insect/cactus fruit pie",
+    "game:pie-mixed-bugcactusfruit-charred": "Insect/cactus fruit pie (charred)",
+  
+    "game:pie-mixed-bugcherry-raw": "Insect/cherry pie (raw)",
+    "game:pie-mixed-bugcherry-partbaked": "Insect/cherry pie (part-baked)",
+    "game:pie-mixed-bugcherry-perfect": "Insect/cherry pie",
+    "game:pie-mixed-bugcherry-charred": "Insect/cherry pie (charred)",
+  
+    "game:pie-mixed-bugcloudberry-raw": "Insect/cloudberry pie (raw)",
+    "game:pie-mixed-bugcloudberry-partbaked": "Insect/cloudberry pie (part-baked)",
+    "game:pie-mixed-bugcloudberry-perfect": "Insect/cloudberry pie",
+    "game:pie-mixed-bugcloudberry-charred": "Insect/cloudberry pie (charred)",
+  
+    "game:pie-mixed-bugcranberry-raw": "Insect/cranberry pie (raw)",
+    "game:pie-mixed-bugcranberry-partbaked": "Insect/cranberry pie (part-baked)",
+    "game:pie-mixed-bugcranberry-perfect": "Insect/cranberry pie",
+    "game:pie-mixed-bugcranberry-charred": "Insect/cranberry pie (charred)",
+  
+    "game:pie-mixed-buggooseberry-raw": "Insect/gooseberry pie (raw)",
+    "game:pie-mixed-buggooseberry-partbaked": "Insect/gooseberry pie (part-baked)",
+    "game:pie-mixed-buggooseberry-perfect": "Insect/gooseberry pie",
+    "game:pie-mixed-buggooseberry-charred": "Insect/gooseberry pie (charred)",
+  
+    "game:pie-mixed-bugguava-raw": "Insect/guava pie (raw)",
+    "game:pie-mixed-bugguava-partbaked": "Insect/guava pie (part-baked)",
+    "game:pie-mixed-bugguava-perfect": "Insect/guava pie",
+    "game:pie-mixed-bugguava-charred": "Insect/guava pie (charred)",
+  
+    "game:pie-mixed-bugkumquat-raw": "Insect/kumquat pie (raw)",
+    "game:pie-mixed-bugkumquat-partbaked": "Insect/kumquat pie (part-baked)",
+    "game:pie-mixed-bugkumquat-perfect": "Insect/kumquat pie",
+    "game:pie-mixed-bugkumquat-charred": "Insect/kumquat pie (charred)",
+  
+    "game:pie-mixed-buglychee-raw": "Insect/lychee pie (raw)",
+    "game:pie-mixed-buglychee-partbaked": "Insect/lychee pie (part-baked)",
+    "game:pie-mixed-buglychee-perfect": "Insect/lychee pie",
+    "game:pie-mixed-buglychee-charred": "Insect/lychee pie (charred)",
+  
+    "game:pie-mixed-bugmango-raw": "Insect/mango pie (raw)",
+    "game:pie-mixed-bugmango-partbaked": "Insect/mango pie (part-baked)",
+    "game:pie-mixed-bugmango-perfect": "Insect/mango pie",
+    "game:pie-mixed-bugmango-charred": "Insect/mango pie (charred)",
+  
+    "game:pie-mixed-bugorange-raw": "Insect/orange pie (raw)",
+    "game:pie-mixed-bugorange-partbaked": "Insect/orange pie (part-baked)",
+    "game:pie-mixed-bugorange-perfect": "Insect/orange pie",
+    "game:pie-mixed-bugorange-charred": "Insect/orange pie (charred)",
+  
+    "game:pie-mixed-bugpeach-raw": "Insect/peach pie (raw)",
+    "game:pie-mixed-bugpeach-partbaked": "Insect/peach pie (part-baked)",
+    "game:pie-mixed-bugpeach-perfect": "Insect/peach pie",
+    "game:pie-mixed-bugpeach-charred": "Insect/peach pie (charred)",
+  
+    "game:pie-mixed-bugpear-raw": "Insect/pear pie (raw)",
+    "game:pie-mixed-bugpear-partbaked": "Insect/pear pie (part-baked)",
+    "game:pie-mixed-bugpear-perfect": "Insect/pear pie",
+    "game:pie-mixed-bugpear-charred": "Insect/pear pie (charred)",
+  
+    "game:pie-mixed-bugpineapple-raw": "Insect/pineapple pie (raw)",
+    "game:pie-mixed-bugpineapple-partbaked": "Insect/pineapple pie (part-baked)",
+    "game:pie-mixed-bugpineapple-perfect": "Insect/pineapple pie",
+    "game:pie-mixed-bugpineapple-charred": "Insect/pineapple pie (charred)",
+  
+    "game:pie-mixed-bugplumnatal-raw": "Insect/num-num pie (raw)",
+    "game:pie-mixed-bugplumnatal-partbaked": "Insect/num-num pie (part-baked)",
+    "game:pie-mixed-bugplumnatal-perfect": "Insect/num-num pie",
+    "game:pie-mixed-bugplumnatal-charred": "Insect/num-num pie (charred)",
+  
+    "game:pie-mixed-bugpomegranate-raw": "Insect/pomegranate pie (raw)",
+    "game:pie-mixed-bugpomegranate-partbaked": "Insect/pomegranate pie (part-baked)",
+    "game:pie-mixed-bugpomegranate-perfect": "Insect/pomegranate pie",
+    "game:pie-mixed-bugpomegranate-charred": "Insect/pomegranate pie (charred)",
+  
+    "game:pie-mixed-bugraspberry-raw": "Insect/raspberry pie (raw)",
+    "game:pie-mixed-bugraspberry-partbaked": "Insect/raspberry pie (part-baked)",
+    "game:pie-mixed-bugraspberry-perfect": "Insect/raspberry pie",
+    "game:pie-mixed-bugraspberry-charred": "Insect/raspberry pie (charred)",
+  
+    "game:pie-mixed-bugredcurrant-raw": "Insect/redcurrant pie (raw)",
+    "game:pie-mixed-bugredcurrant-partbaked": "Insect/redcurrant pie (part-baked)",
+    "game:pie-mixed-bugredcurrant-perfect": "Insect/redcurrant pie",
+    "game:pie-mixed-bugredcurrant-charred": "Insect/redcurrant pie (charred)",
+  
+    "game:pie-mixed-bugsaguaro-raw": "Insect/saguaro fruit pie (raw)",
+    "game:pie-mixed-bugsaguaro-partbaked": "Insect/saguaro fruit pie (part-baked)",
+    "game:pie-mixed-bugsaguaro-perfect": "Insect/saguaro fruit pie",
+    "game:pie-mixed-bugsaguaro-charred": "Insect/saguaro fruit pie (charred)",
+  
+    "game:pie-mixed-bugstrawberry-raw": "Insect/strawberry pie (raw)",
+    "game:pie-mixed-bugstrawberry-partbaked": "Insect/strawberry pie (part-baked)",
+    "game:pie-mixed-bugstrawberry-perfect": "Insect/strawberry pie",
+    "game:pie-mixed-bugstrawberry-charred": "Insect/strawberry pie (charred)",
+  
+    "game:pie-mixed-bugwhitecurrant-raw": "Insect/whitecurrant pie (raw)",
+    "game:pie-mixed-bugwhitecurrant-partbaked": "Insect/whitecurrant pie (part-baked)",
+    "game:pie-mixed-bugwhitecurrant-perfect": "Insect/whitecurrant pie",
+    "game:pie-mixed-bugwhitecurrant-charred": "Insect/whitecurrant pie (charred)",
+  
+    "game:pie-mixed-bugfruit-raw": "Insect/fruit pie (raw)",
+    "game:pie-mixed-bugfruit-partbaked": "Insect/fruit pie (part-baked)",
+    "game:pie-mixed-bugfruit-perfect": "Insect/fruit pie",
+    "game:pie-mixed-bugfruit-charred": "Insect/fruit pie (charred)",
+
+
+
+  //Mixed 2 Ingredient Pies - Poultry-specific
+    "game:pie-mixed-soypoultry-raw": "Poultry/soybean pie (raw)",
+    "game:pie-mixed-soypoultry-partbaked": "Poultry/soybean pie (part-baked)",
+    "game:pie-mixed-soypoultry-perfect": "Poultry/soybean pie",
+    "game:pie-mixed-soypoultry-charred": "Poultry/soybean pie (charred)",
+  
+    "game:pie-mixed-cheddarpoultry-raw": "Poultry/cheddar pie (raw)",
+    "game:pie-mixed-cheddarpoultry-partbaked": "Poultry/cheddar pie (part-baked)",
+    "game:pie-mixed-cheddarpoultry-perfect": "Poultry/cheddar pie",
+    "game:pie-mixed-cheddarpoultry-charred": "Poultry/cheddar pie (charred)",
+  
+    "game:pie-mixed-bluepoultry-raw": "Poultry/blue cheese pie (raw)",
+    "game:pie-mixed-bluepoultry-partbaked": "Poultry/blue cheese pie (part-baked)",
+    "game:pie-mixed-bluepoultry-perfect": "Poultry/blue cheese pie",
+    "game:pie-mixed-bluepoultry-charred": "Poultry/blue cheese pie (charred)",
+  
+    "game:pie-mixed-cottagepoultry-raw": "Poultry/cottage cheese pie (raw)",
+    "game:pie-mixed-cottagepoultry-partbaked": "Poultry/cottage cheese pie (part-baked)",
+    "game:pie-mixed-cottagepoultry-perfect": "Poultry/cottage cheese pie",
+    "game:pie-mixed-cottagepoultry-charred": "Poultry/cottage cheese pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomblack-raw": "Poultry/black mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomblack-partbaked": "Poultry/black mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomblack-perfect": "Poultry/black mushroom pie",
+    "game:pie-mixed-poultrymushroomblack-charred": "Poultry/black mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomyellow-raw": "Poultry/yellow mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomyellow-partbaked": "Poultry/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomyellow-perfect": "Poultry/yellow mushroom pie",
+    "game:pie-mixed-poultrymushroomyellow-charred": "Poultry/yellow mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomoffwhite-raw": "Poultry/off-white mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomoffwhite-partbaked": "Poultry/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomoffwhite-perfect": "Poultry/off-white mushroom pie",
+    "game:pie-mixed-poultrymushroomoffwhite-charred": "Poultry/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomorange-raw": "Poultry/orange mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomorange-partbaked": "Poultry/orange mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomorange-perfect": "Poultry/orange mushroom pie",
+    "game:pie-mixed-poultrymushroomorange-charred": "Poultry/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomdevilstooth-raw": "Poultry/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomdevilstooth-partbaked": "Poultry/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomdevilstooth-perfect": "Poultry/devilstooth mushroom pie",
+    "game:pie-mixed-poultrymushroomdevilstooth-charred": "Poultry/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomred-raw": "Poultry/red mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomred-partbaked": "Poultry/red mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomred-perfect": "Poultry/red mushroom pie",
+    "game:pie-mixed-poultrymushroomred-charred": "Poultry/red mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomgreen-raw": "Poultry/green mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomgreen-partbaked": "Poultry/green mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomgreen-perfect": "Poultry/green mushroom pie",
+    "game:pie-mixed-poultrymushroomgreen-charred": "Poultry/green mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomblue-raw": "Poultry/blue mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomblue-partbaked": "Poultry/blue mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomblue-perfect": "Poultry/blue mushroom pie",
+    "game:pie-mixed-poultrymushroomblue-charred": "Poultry/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomlobster-raw": "Poultry/lobster mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomlobster-partbaked": "Poultry/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomlobster-perfect": "Poultry/lobster mushroom pie",
+    "game:pie-mixed-poultrymushroomlobster-charred": "Poultry/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroombrown-raw": "Poultry/brown mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroombrown-partbaked": "Poultry/brown mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroombrown-perfect": "Poultry/brown mushroom pie",
+    "game:pie-mixed-poultrymushroombrown-charred": "Poultry/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroomwhite-raw": "Poultry/white mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroomwhite-partbaked": "Poultry/white mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroomwhite-perfect": "Poultry/white mushroom pie",
+    "game:pie-mixed-poultrymushroomwhite-charred": "Poultry/white mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroompurple-raw": "Poultry/purple mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroompurple-partbaked": "Poultry/purple mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroompurple-perfect": "Poultry/purple mushroom pie",
+    "game:pie-mixed-poultrymushroompurple-charred": "Poultry/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroompink-raw": "Poultry/pink mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroompink-partbaked": "Poultry/pink mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroompink-perfect": "Poultry/pink mushroom pie",
+    "game:pie-mixed-poultrymushroompink-charred": "Poultry/pink mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrymushroom-raw": "Poultry/mushroom pie (raw)",
+    "game:pie-mixed-poultrymushroom-partbaked": "Poultry/mushroom pie (part-baked)",
+    "game:pie-mixed-poultrymushroom-perfect": "Poultry/mushroom pie",
+    "game:pie-mixed-poultrymushroom-charred": "Poultry/mushroom pie (charred)",
+  
+    "game:pie-mixed-poultrypeanut-raw": "Poultry/peanut pie (raw)",
+    "game:pie-mixed-poultrypeanut-partbaked": "Poultry/peanut pie (part-baked)",
+    "game:pie-mixed-poultrypeanut-perfect": "Poultry/peanut pie",
+    "game:pie-mixed-poultrypeanut-charred": "Poultry/peanut pie (charred)",
+  
+    "game:pie-mixed-poultrywalnut-raw": "Poultry/walnut pie (raw)",
+    "game:pie-mixed-poultrywalnut-partbaked": "Poultry/walnut pie (part-baked)",
+    "game:pie-mixed-poultrywalnut-perfect": "Poultry/walnut pie",
+    "game:pie-mixed-poultrywalnut-charred": "Poultry/walnut pie (charred)",
+  
+    "game:pie-mixed-poultrynut-raw": "Poultry/nut pie (raw)",
+    "game:pie-mixed-poultrynut-partbaked": "Poultry/nut pie (part-baked)",
+    "game:pie-mixed-poultrynut-perfect": "Poultry/nut pie",
+    "game:pie-mixed-poultrynut-charred": "Poultry/nut pie (charred)",
+  
+    "game:pie-mixed-poultryquiche-raw": "Poultry quiche (raw)",
+    "game:pie-mixed-poultryquiche-partbaked": "Poultry quiche (part-baked)",
+    "game:pie-mixed-poultryquiche-perfect": "Poultry quiche",
+    "game:pie-mixed-poultryquiche-charred": "Poultry quiche (charred)",
+  
+    "game:pie-mixed-poultrybellpepper-raw": "Poultry/bell pepper pie (raw)",
+    "game:pie-mixed-poultrybellpepper-partbaked": "Poultry/bell pepper pie (part-baked)",
+    "game:pie-mixed-poultrybellpepper-perfect": "Poultry/bell pepper pie",
+    "game:pie-mixed-poultrybellpepper-charred": "Poultry/bell pepper pie (charred)",
+  
+    "game:pie-mixed-poultrycabbage-raw": "Poultry/cabbage pie (raw)",
+    "game:pie-mixed-poultrycabbage-partbaked": "Poultry/cabbage pie (part-baked)",
+    "game:pie-mixed-poultrycabbage-perfect": "Poultry/cabbage pie",
+    "game:pie-mixed-poultrycabbage-charred": "Poultry/cabbage pie (charred)",
+  
+    "game:pie-mixed-poultrycassava-raw": "Poultry/cassava pie (raw)",
+    "game:pie-mixed-poultrycassava-partbaked": "Poultry/cassava pie (part-baked)",
+    "game:pie-mixed-poultrycassava-perfect": "Poultry/cassava pie",
+    "game:pie-mixed-poultrycassava-charred": "Poultry/cassava pie (charred)",
+  
+    "game:pie-mixed-poultrycarrot-raw": "Poultry/carrot pie (raw)",
+    "game:pie-mixed-poultrycarrot-partbaked": "Poultry/carrot pie (part-baked)",
+    "game:pie-mixed-poultrycarrot-perfect": "Poultry/carrot pie",
+    "game:pie-mixed-poultrycarrot-charred": "Poultry/carrot pie (charred)",
+  
+    "game:pie-mixed-poultryfennel-raw": "Poultry/fennel pie (raw)",
+    "game:pie-mixed-poultryfennel-partbaked": "Poultry/fennel pie (part-baked)",
+    "game:pie-mixed-poultryfennel-perfect": "Poultry/fennel pie",
+    "game:pie-mixed-poultryfennel-charred": "Poultry/fennel pie (charred)",
+  
+    "game:pie-mixed-poultryolive-raw": "Poultry/olive pie (raw)",
+    "game:pie-mixed-poultryolive-partbaked": "Poultry/olive pie (part-baked)",
+    "game:pie-mixed-poultryolive-perfect": "Poultry/olive pie",
+    "game:pie-mixed-poultryolive-charred": "Poultry/olive pie (charred)",
+  
+    "game:pie-mixed-poultryonion-raw": "Poultry/onion pie (raw)",
+    "game:pie-mixed-poultryonion-partbaked": "Poultry/onion pie (part-baked)",
+    "game:pie-mixed-poultryonion-perfect": "Poultry/onion pie",
+    "game:pie-mixed-poultryonion-charred": "Poultry/onion pie (charred)",
+  
+    "game:pie-mixed-poultryparsnip-raw": "Poultry/parsnip pie (raw)",
+    "game:pie-mixed-poultryparsnip-partbaked": "Poultry/parsnip pie (part-baked)",
+    "game:pie-mixed-poultryparsnip-perfect": "Poultry/parsnip pie",
+    "game:pie-mixed-poultryparsnip-charred": "Poultry/parsnip pie (charred)",
+  
+    "game:pie-mixed-poultrypumpkin-raw": "Poultry/pumpkin pie (raw)",
+    "game:pie-mixed-poultrypumpkin-partbaked": "Poultry/pumpkin pie (part-baked)",
+    "game:pie-mixed-poultrypumpkin-perfect": "Poultry/pumpkin pie",
+    "game:pie-mixed-poultrypumpkin-charred": "Poultry/pumpkin pie (charred)",
+  
+    "game:pie-mixed-poultryturnip-raw": "Poultry/turnip pie (raw)",
+    "game:pie-mixed-poultryturnip-partbaked": "Poultry/turnip pie (part-baked)",
+    "game:pie-mixed-poultryturnip-perfect": "Poultry/turnip pie",
+    "game:pie-mixed-poultryturnip-charred": "Poultry/turnip pie (charred)",
+  
+    "game:pie-mixed-poultryveg-raw": "Poultry/vegetable pie (raw)",
+    "game:pie-mixed-poultryveg-partbaked": "Poultry/vegetable pie (part-baked)",
+    "game:pie-mixed-poultryveg-perfect": "Poultry/vegetable pie",
+    "game:pie-mixed-poultryveg-charred": "Poultry/vegetable pie (charred)",
+  
+    "game:pie-mixed-poultryapple-raw": "Poultry/apple pie (raw)",
+    "game:pie-mixed-poultryapple-partbaked": "Poultry/apple pie (part-baked)",
+    "game:pie-mixed-poultryapple-perfect": "Poultry/apple pie",
+    "game:pie-mixed-poultryapple-charred": "Poultry/apple pie (charred)",
+  
+    "game:pie-mixed-poultrybeautyberry-raw": "Poultry/beautyberry pie (raw)",
+    "game:pie-mixed-poultrybeautyberry-partbaked": "Poultry/beautyberry pie (part-baked)",
+    "game:pie-mixed-poultrybeautyberry-perfect": "Poultry/beautyberry pie",
+    "game:pie-mixed-poultrybeautyberry-charred": "Poultry/beautyberry pie (charred)",
+  
+    "game:pie-mixed-poultryblackberry-raw": "Poultry/blackberry pie (raw)",
+    "game:pie-mixed-poultryblackberry-partbaked": "Poultry/blackberry pie (part-baked)",
+    "game:pie-mixed-poultryblackberry-perfect": "Poultry/blackberry pie",
+    "game:pie-mixed-poultryblackberry-charred": "Poultry/blackberry pie (charred)",
+  
+    "game:pie-mixed-poultryblackcurrant-raw": "Poultry/blackcurrant pie (raw)",
+    "game:pie-mixed-poultryblackcurrant-partbaked": "Poultry/blackcurrant pie (part-baked)",
+    "game:pie-mixed-poultryblackcurrant-perfect": "Poultry/blackcurrant pie",
+    "game:pie-mixed-poultryblackcurrant-charred": "Poultry/blackcurrant pie (charred)",
+  
+    "game:pie-mixed-poultryblueberry-raw": "Poultry/blueberry pie (raw)",
+    "game:pie-mixed-poultryblueberry-partbaked": "Poultry/blueberry pie (part-baked)",
+    "game:pie-mixed-poultryblueberry-perfect": "Poultry/blueberry pie",
+    "game:pie-mixed-poultryblueberry-charred": "Poultry/blueberry pie (charred)",
+  
+    "game:pie-mixed-poultrybreadfruit-raw": "Poultry/breadfruit pie (raw)",
+    "game:pie-mixed-poultrybreadfruit-partbaked": "Poultry/breadfruit pie (part-baked)",
+    "game:pie-mixed-poultrybreadfruit-perfect": "Poultry/breadfruit pie",
+    "game:pie-mixed-poultrybreadfruit-charred": "Poultry/breadfruit pie (charred)",
+  
+    "game:pie-mixed-poultrycactusfruit-raw": "Poultry/cactus fruit pie (raw)",
+    "game:pie-mixed-poultrycactusfruit-partbaked": "Poultry/cactus fruit pie (part-baked)",
+    "game:pie-mixed-poultrycactusfruit-perfect": "Poultry/cactus fruit pie",
+    "game:pie-mixed-poultrycactusfruit-charred": "Poultry/cactus fruit pie (charred)",
+  
+    "game:pie-mixed-poultrycherry-raw": "Poultry/cherry pie (raw)",
+    "game:pie-mixed-poultrycherry-partbaked": "Poultry/cherry pie (part-baked)",
+    "game:pie-mixed-poultrycherry-perfect": "Poultry/cherry pie",
+    "game:pie-mixed-poultrycherry-charred": "Poultry/cherry pie (charred)",
+  
+    "game:pie-mixed-poultrycloudberry-raw": "Poultry/cloudberry pie (raw)",
+    "game:pie-mixed-poultrycloudberry-partbaked": "Poultry/cloudberry pie (part-baked)",
+    "game:pie-mixed-poultrycloudberry-perfect": "Poultry/cloudberry pie",
+    "game:pie-mixed-poultrycloudberry-charred": "Poultry/cloudberry pie (charred)",
+  
+    "game:pie-mixed-poultrycranberry-raw": "Poultry/cranberry pie (raw)",
+    "game:pie-mixed-poultrycranberry-partbaked": "Poultry/cranberry pie (part-baked)",
+    "game:pie-mixed-poultrycranberry-perfect": "Poultry/cranberry pie",
+    "game:pie-mixed-poultrycranberry-charred": "Poultry/cranberry pie (charred)",
+  
+    "game:pie-mixed-poultrygooseberry-raw": "Poultry/gooseberry pie (raw)",
+    "game:pie-mixed-poultrygooseberry-partbaked": "Poultry/gooseberry pie (part-baked)",
+    "game:pie-mixed-poultrygooseberry-perfect": "Poultry/gooseberry pie",
+    "game:pie-mixed-poultrygooseberry-charred": "Poultry/gooseberry pie (charred)",
+  
+    "game:pie-mixed-poultryguava-raw": "Poultry/guava pie (raw)",
+    "game:pie-mixed-poultryguava-partbaked": "Poultry/guava pie (part-baked)",
+    "game:pie-mixed-poultryguava-perfect": "Poultry/guava pie",
+    "game:pie-mixed-poultryguava-charred": "Poultry/guava pie (charred)",
+  
+    "game:pie-mixed-poultrykumquat-raw": "Poultry/kumquat pie (raw)",
+    "game:pie-mixed-poultrykumquat-partbaked": "Poultry/kumquat pie (part-baked)",
+    "game:pie-mixed-poultrykumquat-perfect": "Poultry/kumquat pie",
+    "game:pie-mixed-poultrykumquat-charred": "Poultry/kumquat pie (charred)",
+  
+    "game:pie-mixed-poultrylychee-raw": "Poultry/lychee pie (raw)",
+    "game:pie-mixed-poultrylychee-partbaked": "Poultry/lychee pie (part-baked)",
+    "game:pie-mixed-poultrylychee-perfect": "Poultry/lychee pie",
+    "game:pie-mixed-poultrylychee-charred": "Poultry/lychee pie (charred)",
+  
+    "game:pie-mixed-poultrymango-raw": "Poultry/mango pie (raw)",
+    "game:pie-mixed-poultrymango-partbaked": "Poultry/mango pie (part-baked)",
+    "game:pie-mixed-poultrymango-perfect": "Poultry/mango pie",
+    "game:pie-mixed-poultrymango-charred": "Poultry/mango pie (charred)",
+  
+    "game:pie-mixed-poultryorange-raw": "Poultry/orange pie (raw)",
+    "game:pie-mixed-poultryorange-partbaked": "Poultry/orange pie (part-baked)",
+    "game:pie-mixed-poultryorange-perfect": "Poultry/orange pie",
+    "game:pie-mixed-poultryorange-charred": "Poultry/orange pie (charred)",
+  
+    "game:pie-mixed-poultrypeach-raw": "Poultry/peach pie (raw)",
+    "game:pie-mixed-poultrypeach-partbaked": "Poultry/peach pie (part-baked)",
+    "game:pie-mixed-poultrypeach-perfect": "Poultry/peach pie",
+    "game:pie-mixed-poultrypeach-charred": "Poultry/peach pie (charred)",
+  
+    "game:pie-mixed-poultrypear-raw": "Poultry/pear pie (raw)",
+    "game:pie-mixed-poultrypear-partbaked": "Poultry/pear pie (part-baked)",
+    "game:pie-mixed-poultrypear-perfect": "Poultry/pear pie",
+    "game:pie-mixed-poultrypear-charred": "Poultry/pear pie (charred)",
+  
+    "game:pie-mixed-poultrypineapple-raw": "Poultry/pineapple pie (raw)",
+    "game:pie-mixed-poultrypineapple-partbaked": "Poultry/pineapple pie (part-baked)",
+    "game:pie-mixed-poultrypineapple-perfect": "Poultry/pineapple pie",
+    "game:pie-mixed-poultrypineapple-charred": "Poultry/pineapple pie (charred)",
+  
+    "game:pie-mixed-poultryplumnatal-raw": "Poultry/num-num pie (raw)",
+    "game:pie-mixed-poultryplumnatal-partbaked": "Poultry/num-num pie (part-baked)",
+    "game:pie-mixed-poultryplumnatal-perfect": "Poultry/num-num pie",
+    "game:pie-mixed-poultryplumnatal-charred": "Poultry/num-num pie (charred)",
+  
+    "game:pie-mixed-poultrypomegranate-raw": "Poultry/pomegranate pie (raw)",
+    "game:pie-mixed-poultrypomegranate-partbaked": "Poultry/pomegranate pie (part-baked)",
+    "game:pie-mixed-poultrypomegranate-perfect": "Poultry/pomegranate pie",
+    "game:pie-mixed-poultrypomegranate-charred": "Poultry/pomegranate pie (charred)",
+  
+    "game:pie-mixed-poultryraspberry-raw": "Poultry/raspberry pie (raw)",
+    "game:pie-mixed-poultryraspberry-partbaked": "Poultry/raspberry pie (part-baked)",
+    "game:pie-mixed-poultryraspberry-perfect": "Poultry/raspberry pie",
+    "game:pie-mixed-poultryraspberry-charred": "Poultry/raspberry pie (charred)",
+  
+    "game:pie-mixed-poultryredcurrant-raw": "Poultry/redcurrant pie (raw)",
+    "game:pie-mixed-poultryredcurrant-partbaked": "Poultry/redcurrant pie (part-baked)",
+    "game:pie-mixed-poultryredcurrant-perfect": "Poultry/redcurrant pie",
+    "game:pie-mixed-poultryredcurrant-charred": "Poultry/redcurrant pie (charred)",
+  
+    "game:pie-mixed-poultrysaguaro-raw": "Poultry/saguaro fruit pie (raw)",
+    "game:pie-mixed-poultrysaguaro-partbaked": "Poultry/saguaro fruit pie (part-baked)",
+    "game:pie-mixed-poultrysaguaro-perfect": "Poultry/saguaro fruit pie",
+    "game:pie-mixed-poultrysaguaro-charred": "Poultry/saguaro fruit pie (charred)",
+  
+    "game:pie-mixed-poultrystrawberry-raw": "Poultry/strawberry pie (raw)",
+    "game:pie-mixed-poultrystrawberry-partbaked": "Poultry/strawberry pie (part-baked)",
+    "game:pie-mixed-poultrystrawberry-perfect": "Poultry/strawberry pie",
+    "game:pie-mixed-poultrystrawberry-charred": "Poultry/strawberry pie (charred)",
+  
+    "game:pie-mixed-poultrywhitecurrant-raw": "Poultry/whitecurrant pie (raw)",
+    "game:pie-mixed-poultrywhitecurrant-partbaked": "Poultry/whitecurrant pie (part-baked)",
+    "game:pie-mixed-poultrywhitecurrant-perfect": "Poultry/whitecurrant pie",
+    "game:pie-mixed-poultrywhitecurrant-charred": "Poultry/whitecurrant pie (charred)",
+  
+    "game:pie-mixed-poultryfruit-raw": "Poultry/fruit pie (raw)",
+    "game:pie-mixed-poultryfruit-partbaked": "Poultry/fruit pie (part-baked)",
+    "game:pie-mixed-poultryfruit-perfect": "Poultry/fruit pie",
+    "game:pie-mixed-poultryfruit-charred": "Poultry/fruit pie (charred)",
+
+
+  //Mixed 2 Ingredient Pies - Redmeat-specific
+    "game:pie-mixed-soyredmeat-raw": "Redmeat/soybean pie (raw)",
+    "game:pie-mixed-soyredmeat-partbaked": "Redmeat/soybean pie (part-baked)",
+    "game:pie-mixed-soyredmeat-perfect": "Redmeat/soybean pie",
+    "game:pie-mixed-soyredmeat-charred": "Redmeat/soybean pie (charred)",
+  
+    "game:pie-mixed-cheddarredmeat-raw": "Redmeat/cheddar pie (raw)",
+    "game:pie-mixed-cheddarredmeat-partbaked": "Redmeat/cheddar pie (part-baked)",
+    "game:pie-mixed-cheddarredmeat-perfect": "Redmeat/cheddar pie",
+    "game:pie-mixed-cheddarredmeat-charred": "Redmeat/cheddar pie (charred)",
+  
+    "game:pie-mixed-blueredmeat-raw": "Redmeat/blue cheese pie (raw)",
+    "game:pie-mixed-blueredmeat-partbaked": "Redmeat/blue cheese pie (part-baked)",
+    "game:pie-mixed-blueredmeat-perfect": "Redmeat/blue cheese pie",
+    "game:pie-mixed-blueredmeat-charred": "Redmeat/blue cheese pie (charred)",
+  
+    "game:pie-mixed-cottageredmeat-raw": "Redmeat/cottage cheese pie (raw)",
+    "game:pie-mixed-cottageredmeat-partbaked": "Redmeat/cottage cheese pie (part-baked)",
+    "game:pie-mixed-cottageredmeat-perfect": "Redmeat/cottage cheese pie",
+    "game:pie-mixed-cottageredmeat-charred": "Redmeat/cottage cheese pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomblack-raw": "Redmeat/black mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomblack-partbaked": "Redmeat/black mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomblack-perfect": "Redmeat/black mushroom pie",
+    "game:pie-mixed-redmeatmushroomblack-charred": "Redmeat/black mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomyellow-raw": "Redmeat/yellow mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomyellow-partbaked": "Redmeat/yellow mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomyellow-perfect": "Redmeat/yellow mushroom pie",
+    "game:pie-mixed-redmeatmushroomyellow-charred": "Redmeat/yellow mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomoffwhite-raw": "Redmeat/off-white mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomoffwhite-partbaked": "Redmeat/off-white mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomoffwhite-perfect": "Redmeat/off-white mushroom pie",
+    "game:pie-mixed-redmeatmushroomoffwhite-charred": "Redmeat/off-white mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomorange-raw": "Redmeat/orange mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomorange-partbaked": "Redmeat/orange mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomorange-perfect": "Redmeat/orange mushroom pie",
+    "game:pie-mixed-redmeatmushroomorange-charred": "Redmeat/orange mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomdevilstooth-raw": "Redmeat/devilstooth mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomdevilstooth-partbaked": "Redmeat/devilstooth mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomdevilstooth-perfect": "Redmeat/devilstooth mushroom pie",
+    "game:pie-mixed-redmeatmushroomdevilstooth-charred": "Redmeat/devilstooth mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomred-raw": "Redmeat/red mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomred-partbaked": "Redmeat/red mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomred-perfect": "Redmeat/red mushroom pie",
+    "game:pie-mixed-redmeatmushroomred-charred": "Redmeat/red mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomgreen-raw": "Redmeat/green mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomgreen-partbaked": "Redmeat/green mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomgreen-perfect": "Redmeat/green mushroom pie",
+    "game:pie-mixed-redmeatmushroomgreen-charred": "Redmeat/green mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomblue-raw": "Redmeat/blue mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomblue-partbaked": "Redmeat/blue mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomblue-perfect": "Redmeat/blue mushroom pie",
+    "game:pie-mixed-redmeatmushroomblue-charred": "Redmeat/blue mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomlobster-raw": "Redmeat/lobster mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomlobster-partbaked": "Redmeat/lobster mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomlobster-perfect": "Redmeat/lobster mushroom pie",
+    "game:pie-mixed-redmeatmushroomlobster-charred": "Redmeat/lobster mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroombrown-raw": "Redmeat/brown mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroombrown-partbaked": "Redmeat/brown mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroombrown-perfect": "Redmeat/brown mushroom pie",
+    "game:pie-mixed-redmeatmushroombrown-charred": "Redmeat/brown mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroomwhite-raw": "Redmeat/white mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroomwhite-partbaked": "Redmeat/white mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroomwhite-perfect": "Redmeat/white mushroom pie",
+    "game:pie-mixed-redmeatmushroomwhite-charred": "Redmeat/white mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroompurple-raw": "Redmeat/purple mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroompurple-partbaked": "Redmeat/purple mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroompurple-perfect": "Redmeat/purple mushroom pie",
+    "game:pie-mixed-redmeatmushroompurple-charred": "Redmeat/purple mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroompink-raw": "Redmeat/pink mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroompink-partbaked": "Redmeat/pink mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroompink-perfect": "Redmeat/pink mushroom pie",
+    "game:pie-mixed-redmeatmushroompink-charred": "Redmeat/pink mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatmushroom-raw": "Redmeat/mushroom pie (raw)",
+    "game:pie-mixed-redmeatmushroom-partbaked": "Redmeat/mushroom pie (part-baked)",
+    "game:pie-mixed-redmeatmushroom-perfect": "Redmeat/mushroom pie",
+    "game:pie-mixed-redmeatmushroom-charred": "Redmeat/mushroom pie (charred)",
+  
+    "game:pie-mixed-redmeatpeanut-raw": "Redmeat/peanut pie (raw)",
+    "game:pie-mixed-redmeatpeanut-partbaked": "Redmeat/peanut pie (part-baked)",
+    "game:pie-mixed-redmeatpeanut-perfect": "Redmeat/peanut pie",
+    "game:pie-mixed-redmeatpeanut-charred": "Redmeat/peanut pie (charred)",
+  
+    "game:pie-mixed-redmeatwalnut-raw": "Redmeat/walnut pie (raw)",
+    "game:pie-mixed-redmeatwalnut-partbaked": "Redmeat/walnut pie (part-baked)",
+    "game:pie-mixed-redmeatwalnut-perfect": "Redmeat/walnut pie",
+    "game:pie-mixed-redmeatwalnut-charred": "Redmeat/walnut pie (charred)",
+  
+    "game:pie-mixed-redmeatnut-raw": "Redmeat/nut pie (raw)",
+    "game:pie-mixed-redmeatnut-partbaked": "Redmeat/nut pie (part-baked)",
+    "game:pie-mixed-redmeatnut-perfect": "Redmeat/nut pie",
+    "game:pie-mixed-redmeatnut-charred": "Redmeat/nut pie (charred)",
+  
+    "game:pie-mixed-redmeatquiche-raw": "Redmeat quiche (raw)",
+    "game:pie-mixed-redmeatquiche-partbaked": "Redmeat quiche (part-baked)",
+    "game:pie-mixed-redmeatquiche-perfect": "Redmeat quiche",
+    "game:pie-mixed-redmeatquiche-charred": "Redmeat quiche (charred)",
+  
+    "game:pie-mixed-redmeatbellpepper-raw": "Redmeat/bell pepper pie (raw)",
+    "game:pie-mixed-redmeatbellpepper-partbaked": "Redmeat/bell pepper pie (part-baked)",
+    "game:pie-mixed-redmeatbellpepper-perfect": "Redmeat/bell pepper pie",
+    "game:pie-mixed-redmeatbellpepper-charred": "Redmeat/bell pepper pie (charred)",
+  
+    "game:pie-mixed-redmeatcabbage-raw": "Redmeat/cabbage pie (raw)",
+    "game:pie-mixed-redmeatcabbage-partbaked": "Redmeat/cabbage pie (part-baked)",
+    "game:pie-mixed-redmeatcabbage-perfect": "Redmeat/cabbage pie",
+    "game:pie-mixed-redmeatcabbage-charred": "Redmeat/cabbage pie (charred)",
+  
+    "game:pie-mixed-redmeatcassava-raw": "Redmeat/cassava pie (raw)",
+    "game:pie-mixed-redmeatcassava-partbaked": "Redmeat/cassava pie (part-baked)",
+    "game:pie-mixed-redmeatcassava-perfect": "Redmeat/cassava pie",
+    "game:pie-mixed-redmeatcassava-charred": "Redmeat/cassava pie (charred)",
+  
+    "game:pie-mixed-redmeatcarrot-raw": "Redmeat/carrot pie (raw)",
+    "game:pie-mixed-redmeatcarrot-partbaked": "Redmeat/carrot pie (part-baked)",
+    "game:pie-mixed-redmeatcarrot-perfect": "Redmeat/carrot pie",
+    "game:pie-mixed-redmeatcarrot-charred": "Redmeat/carrot pie (charred)",
+  
+    "game:pie-mixed-redmeatfennel-raw": "Redmeat/fennel pie (raw)",
+    "game:pie-mixed-redmeatfennel-partbaked": "Redmeat/fennel pie (part-baked)",
+    "game:pie-mixed-redmeatfennel-perfect": "Redmeat/fennel pie",
+    "game:pie-mixed-redmeatfennel-charred": "Redmeat/fennel pie (charred)",
+  
+    "game:pie-mixed-redmeatolive-raw": "Redmeat/olive pie (raw)",
+    "game:pie-mixed-redmeatolive-partbaked": "Redmeat/olive pie (part-baked)",
+    "game:pie-mixed-redmeatolive-perfect": "Redmeat/olive pie",
+    "game:pie-mixed-redmeatolive-charred": "Redmeat/olive pie (charred)",
+  
+    "game:pie-mixed-redmeatonion-raw": "Redmeat/onion pie (raw)",
+    "game:pie-mixed-redmeatonion-partbaked": "Redmeat/onion pie (part-baked)",
+    "game:pie-mixed-redmeatonion-perfect": "Redmeat/onion pie",
+    "game:pie-mixed-redmeatonion-charred": "Redmeat/onion pie (charred)",
+  
+    "game:pie-mixed-redmeatparsnip-raw": "Redmeat/parsnip pie (raw)",
+    "game:pie-mixed-redmeatparsnip-partbaked": "Redmeat/parsnip pie (part-baked)",
+    "game:pie-mixed-redmeatparsnip-perfect": "Redmeat/parsnip pie",
+    "game:pie-mixed-redmeatparsnip-charred": "Redmeat/parsnip pie (charred)",
+  
+    "game:pie-mixed-redmeatpumpkin-raw": "Redmeat/pumpkin pie (raw)",
+    "game:pie-mixed-redmeatpumpkin-partbaked": "Redmeat/pumpkin pie (part-baked)",
+    "game:pie-mixed-redmeatpumpkin-perfect": "Redmeat/pumpkin pie",
+    "game:pie-mixed-redmeatpumpkin-charred": "Redmeat/pumpkin pie (charred)",
+  
+    "game:pie-mixed-redmeatturnip-raw": "Redmeat/turnip pie (raw)",
+    "game:pie-mixed-redmeatturnip-partbaked": "Redmeat/turnip pie (part-baked)",
+    "game:pie-mixed-redmeatturnip-perfect": "Redmeat/turnip pie",
+    "game:pie-mixed-redmeatturnip-charred": "Redmeat/turnip pie (charred)",
+  
+    "game:pie-mixed-redmeatveg-raw": "Redmeat/vegetable pie (raw)",
+    "game:pie-mixed-redmeatveg-partbaked": "Redmeat/vegetable pie (part-baked)",
+    "game:pie-mixed-redmeatveg-perfect": "Redmeat/vegetable pie",
+    "game:pie-mixed-redmeatveg-charred": "Redmeat/vegetable pie (charred)",
+  
+    "game:pie-mixed-redmeatapple-raw": "Redmeat/apple pie (raw)",
+    "game:pie-mixed-redmeatapple-partbaked": "Redmeat/apple pie (part-baked)",
+    "game:pie-mixed-redmeatapple-perfect": "Redmeat/apple pie",
+    "game:pie-mixed-redmeatapple-charred": "Redmeat/apple pie (charred)",
+  
+    "game:pie-mixed-redmeatbeautyberry-raw": "Redmeat/beautyberry pie (raw)",
+    "game:pie-mixed-redmeatbeautyberry-partbaked": "Redmeat/beautyberry pie (part-baked)",
+    "game:pie-mixed-redmeatbeautyberry-perfect": "Redmeat/beautyberry pie",
+    "game:pie-mixed-redmeatbeautyberry-charred": "Redmeat/beautyberry pie (charred)",
+  
+    "game:pie-mixed-redmeatblackberry-raw": "Redmeat/blackberry pie (raw)",
+    "game:pie-mixed-redmeatblackberry-partbaked": "Redmeat/blackberry pie (part-baked)",
+    "game:pie-mixed-redmeatblackberry-perfect": "Redmeat/blackberry pie",
+    "game:pie-mixed-redmeatblackberry-charred": "Redmeat/blackberry pie (charred)",
+  
+    "game:pie-mixed-redmeatblackcurrant-raw": "Redmeat/blackcurrant pie (raw)",
+    "game:pie-mixed-redmeatblackcurrant-partbaked": "Redmeat/blackcurrant pie (part-baked)",
+    "game:pie-mixed-redmeatblackcurrant-perfect": "Redmeat/blackcurrant pie",
+    "game:pie-mixed-redmeatblackcurrant-charred": "Redmeat/blackcurrant pie (charred)",
+  
+    "game:pie-mixed-redmeatblueberry-raw": "Redmeat/blueberry pie (raw)",
+    "game:pie-mixed-redmeatblueberry-partbaked": "Redmeat/blueberry pie (part-baked)",
+    "game:pie-mixed-redmeatblueberry-perfect": "Redmeat/blueberry pie",
+    "game:pie-mixed-redmeatblueberry-charred": "Redmeat/blueberry pie (charred)",
+  
+    "game:pie-mixed-redmeatbreadfruit-raw": "Redmeat/breadfruit pie (raw)",
+    "game:pie-mixed-redmeatbreadfruit-partbaked": "Redmeat/breadfruit pie (part-baked)",
+    "game:pie-mixed-redmeatbreadfruit-perfect": "Redmeat/breadfruit pie",
+    "game:pie-mixed-redmeatbreadfruit-charred": "Redmeat/breadfruit pie (charred)",
+  
+    "game:pie-mixed-redmeatcactusfruit-raw": "Redmeat/cactus fruit pie (raw)",
+    "game:pie-mixed-redmeatcactusfruit-partbaked": "Redmeat/cactus fruit pie (part-baked)",
+    "game:pie-mixed-redmeatcactusfruit-perfect": "Redmeat/cactus fruit pie",
+    "game:pie-mixed-redmeatcactusfruit-charred": "Redmeat/cactus fruit pie (charred)",
+  
+    "game:pie-mixed-redmeatcherry-raw": "Redmeat/cherry pie (raw)",
+    "game:pie-mixed-redmeatcherry-partbaked": "Redmeat/cherry pie (part-baked)",
+    "game:pie-mixed-redmeatcherry-perfect": "Redmeat/cherry pie",
+    "game:pie-mixed-redmeatcherry-charred": "Redmeat/cherry pie (charred)",
+  
+    "game:pie-mixed-redmeatcloudberry-raw": "Redmeat/cloudberry pie (raw)",
+    "game:pie-mixed-redmeatcloudberry-partbaked": "Redmeat/cloudberry pie (part-baked)",
+    "game:pie-mixed-redmeatcloudberry-perfect": "Redmeat/cloudberry pie",
+    "game:pie-mixed-redmeatcloudberry-charred": "Redmeat/cloudberry pie (charred)",
+  
+    "game:pie-mixed-redmeatcranberry-raw": "Redmeat/cranberry pie (raw)",
+    "game:pie-mixed-redmeatcranberry-partbaked": "Redmeat/cranberry pie (part-baked)",
+    "game:pie-mixed-redmeatcranberry-perfect": "Redmeat/cranberry pie",
+    "game:pie-mixed-redmeatcranberry-charred": "Redmeat/cranberry pie (charred)",
+  
+    "game:pie-mixed-redmeatgooseberry-raw": "Redmeat/gooseberry pie (raw)",
+    "game:pie-mixed-redmeatgooseberry-partbaked": "Redmeat/gooseberry pie (part-baked)",
+    "game:pie-mixed-redmeatgooseberry-perfect": "Redmeat/gooseberry pie",
+    "game:pie-mixed-redmeatgooseberry-charred": "Redmeat/gooseberry pie (charred)",
+  
+    "game:pie-mixed-redmeatguava-raw": "Redmeat/guava pie (raw)",
+    "game:pie-mixed-redmeatguava-partbaked": "Redmeat/guava pie (part-baked)",
+    "game:pie-mixed-redmeatguava-perfect": "Redmeat/guava pie",
+    "game:pie-mixed-redmeatguava-charred": "Redmeat/guava pie (charred)",
+  
+    "game:pie-mixed-redmeatkumquat-raw": "Redmeat/kumquat pie (raw)",
+    "game:pie-mixed-redmeatkumquat-partbaked": "Redmeat/kumquat pie (part-baked)",
+    "game:pie-mixed-redmeatkumquat-perfect": "Redmeat/kumquat pie",
+    "game:pie-mixed-redmeatkumquat-charred": "Redmeat/kumquat pie (charred)",
+  
+    "game:pie-mixed-redmeatlychee-raw": "Redmeat/lychee pie (raw)",
+    "game:pie-mixed-redmeatlychee-partbaked": "Redmeat/lychee pie (part-baked)",
+    "game:pie-mixed-redmeatlychee-perfect": "Redmeat/lychee pie",
+    "game:pie-mixed-redmeatlychee-charred": "Redmeat/lychee pie (charred)",
+  
+    "game:pie-mixed-redmeatmango-raw": "Redmeat/mango pie (raw)",
+    "game:pie-mixed-redmeatmango-partbaked": "Redmeat/mango pie (part-baked)",
+    "game:pie-mixed-redmeatmango-perfect": "Redmeat/mango pie",
+    "game:pie-mixed-redmeatmango-charred": "Redmeat/mango pie (charred)",
+  
+    "game:pie-mixed-redmeatorange-raw": "Redmeat/orange pie (raw)",
+    "game:pie-mixed-redmeatorange-partbaked": "Redmeat/orange pie (part-baked)",
+    "game:pie-mixed-redmeatorange-perfect": "Redmeat/orange pie",
+    "game:pie-mixed-redmeatorange-charred": "Redmeat/orange pie (charred)",
+  
+    "game:pie-mixed-redmeatpeach-raw": "Redmeat/peach pie (raw)",
+    "game:pie-mixed-redmeatpeach-partbaked": "Redmeat/peach pie (part-baked)",
+    "game:pie-mixed-redmeatpeach-perfect": "Redmeat/peach pie",
+    "game:pie-mixed-redmeatpeach-charred": "Redmeat/peach pie (charred)",
+  
+    "game:pie-mixed-redmeatpear-raw": "Redmeat/pear pie (raw)",
+    "game:pie-mixed-redmeatpear-partbaked": "Redmeat/pear pie (part-baked)",
+    "game:pie-mixed-redmeatpear-perfect": "Redmeat/pear pie",
+    "game:pie-mixed-redmeatpear-charred": "Redmeat/pear pie (charred)",
+  
+    "game:pie-mixed-redmeatpineapple-raw": "Redmeat/pineapple pie (raw)",
+    "game:pie-mixed-redmeatpineapple-partbaked": "Redmeat/pineapple pie (part-baked)",
+    "game:pie-mixed-redmeatpineapple-perfect": "Redmeat/pineapple pie",
+    "game:pie-mixed-redmeatpineapple-charred": "Redmeat/pineapple pie (charred)",
+  
+    "game:pie-mixed-redmeatplumnatal-raw": "Redmeat/num-num pie (raw)",
+    "game:pie-mixed-redmeatplumnatal-partbaked": "Redmeat/num-num pie (part-baked)",
+    "game:pie-mixed-redmeatplumnatal-perfect": "Redmeat/num-num pie",
+    "game:pie-mixed-redmeatplumnatal-charred": "Redmeat/num-num pie (charred)",
+  
+    "game:pie-mixed-redmeatpomegranate-raw": "Redmeat/pomegranate pie (raw)",
+    "game:pie-mixed-redmeatpomegranate-partbaked": "Redmeat/pomegranate pie (part-baked)",
+    "game:pie-mixed-redmeatpomegranate-perfect": "Redmeat/pomegranate pie",
+    "game:pie-mixed-redmeatpomegranate-charred": "Redmeat/pomegranate pie (charred)",
+  
+    "game:pie-mixed-redmeatraspberry-raw": "Redmeat/raspberry pie (raw)",
+    "game:pie-mixed-redmeatraspberry-partbaked": "Redmeat/raspberry pie (part-baked)",
+    "game:pie-mixed-redmeatraspberry-perfect": "Redmeat/raspberry pie",
+    "game:pie-mixed-redmeatraspberry-charred": "Redmeat/raspberry pie (charred)",
+  
+    "game:pie-mixed-redmeatredcurrant-raw": "Redmeat/redcurrant pie (raw)",
+    "game:pie-mixed-redmeatredcurrant-partbaked": "Redmeat/redcurrant pie (part-baked)",
+    "game:pie-mixed-redmeatredcurrant-perfect": "Redmeat/redcurrant pie",
+    "game:pie-mixed-redmeatredcurrant-charred": "Redmeat/redcurrant pie (charred)",
+  
+    "game:pie-mixed-redmeatsaguaro-raw": "Redmeat/saguaro fruit pie (raw)",
+    "game:pie-mixed-redmeatsaguaro-partbaked": "Redmeat/saguaro fruit pie (part-baked)",
+    "game:pie-mixed-redmeatsaguaro-perfect": "Redmeat/saguaro fruit pie",
+    "game:pie-mixed-redmeatsaguaro-charred": "Redmeat/saguaro fruit pie (charred)",
+  
+    "game:pie-mixed-redmeatstrawberry-raw": "Redmeat/strawberry pie (raw)",
+    "game:pie-mixed-redmeatstrawberry-partbaked": "Redmeat/strawberry pie (part-baked)",
+    "game:pie-mixed-redmeatstrawberry-perfect": "Redmeat/strawberry pie",
+    "game:pie-mixed-redmeatstrawberry-charred": "Redmeat/strawberry pie (charred)",
+  
+    "game:pie-mixed-redmeatwhitecurrant-raw": "Redmeat/whitecurrant pie (raw)",
+    "game:pie-mixed-redmeatwhitecurrant-partbaked": "Redmeat/whitecurrant pie (part-baked)",
+    "game:pie-mixed-redmeatwhitecurrant-perfect": "Redmeat/whitecurrant pie",
+    "game:pie-mixed-redmeatwhitecurrant-charred": "Redmeat/whitecurrant pie (charred)",
+  
+    "game:pie-mixed-redmeatfruit-raw": "Redmeat/fruit pie (raw)",
+    "game:pie-mixed-redmeatfruit-partbaked": "Redmeat/fruit pie (part-baked)",
+    "game:pie-mixed-redmeatfruit-perfect": "Redmeat/fruit pie",
+    "game:pie-mixed-redmeatfruit-charred": "Redmeat/fruit pie (charred)",
+
+
+
+  //Mixed 2 Ingredient Pies - Specific Ingredient + Generic Meat
+    "game:pie-mixed-soymeat-raw": "Soy/meat pie (raw)",
+    "game:pie-mixed-soymeat-partbaked": "Soy/meat pie (part-baked)",
+    "game:pie-mixed-soymeat-perfect": "Soy/meat pie",
+    "game:pie-mixed-soymeat-charred": "Soy/meat pie (charred)",
+
+    "game:pie-mixed-bluemeat-raw": "Blue cheese/meat pie (raw)",
+    "game:pie-mixed-bluemeat-partbaked": "Blue cheese/meat pie (part-baked)",
+    "game:pie-mixed-bluemeat-perfect": "Blue cheese/meat pie",
+    "game:pie-mixed-bluemeat-charred": "Blue cheese/meat pie (charred)",
+  
+    "game:pie-mixed-cheddarmeat-raw": "Cheddar/meat pie (raw)",
+    "game:pie-mixed-cheddarmeat-partbaked": "Cheddar/meat pie (part-baked)",
+    "game:pie-mixed-cheddarmeat-perfect": "Cheddar/meat pie",
+    "game:pie-mixed-cheddarmeat-charred": "Cheddar/meat pie (charred)",
+  
+    "game:pie-mixed-cottagemeat-raw": "Cottage cheese/meat pie (raw)",
+    "game:pie-mixed-cottagemeat-partbaked": "Cottage cheese/meat pie (part-baked)",
+    "game:pie-mixed-cottagemeat-perfect": "Cottage cheese/meat pie",
+    "game:pie-mixed-cottagemeat-charred": "Cottage cheese/meat pie (charred)",
+
+
+  //Mixed 2-3 Ingredient Pies - Specific Ingredients + Eggs (cheese optional)
+    "game:pie-mixed-mushroomquicheblack-raw": "Black mushroom quiche (raw)",
+    "game:pie-mixed-mushroomquicheblack-partbaked": "Black mushroom quiche (part-baked)",
+    "game:pie-mixed-mushroomquicheblack-perfect": "Black mushroom quiche",
+    "game:pie-mixed-mushroomquicheblack-charred": "Black mushroom quiche (charred)",
+  
+  "game:pie-mixed-mushroomquicheyellow-raw": "Yellow mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquicheyellow-partbaked": "Yellow mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquicheyellow-perfect": "Yellow mushroom quiche",
+  "game:pie-mixed-mushroomquicheyellow-charred": "Yellow mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquicheoffwhite-raw": "Off-white mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquicheoffwhite-partbaked": "Off-white mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquicheoffwhite-perfect": "Off-white mushroom quiche",
+  "game:pie-mixed-mushroomquicheoffwhite-charred": "Off-white mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquichedevilstooth-raw": "Devilstooth mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquichedevilstooth-partbaked": "Devilstooth mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquichedevilstooth-perfect": "Devilstooth mushroom quiche",
+  "game:pie-mixed-mushroomquichedevilstooth-charred": "Devilstooth mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquichered-raw": "Red mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquichered-partbaked": "Red mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquichered-perfect": "Red mushroom quiche",
+  "game:pie-mixed-mushroomquichered-charred": "Red mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquichegreen-raw": "Green mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquichegreen-partbaked": "Green mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquichegreen-perfect": "Green mushroom quiche",
+  "game:pie-mixed-mushroomquichegreen-charred": "Green mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquicheblue-raw": "Blue mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquicheblue-partbaked": "Blue mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquicheblue-perfect": "Blue mushroom quiche",
+  "game:pie-mixed-mushroomquicheblue-charred": "Blue mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquichelobster-raw": "Lobster mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquichelobster-partbaked": "Lobster mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquichelobster-perfect": "Lobster mushroom quiche",
+  "game:pie-mixed-mushroomquichelobster-charred": "Lobster mushroom quiche (charred)",
+
+  "game:pie-mixed-mushroomquichebrown-raw": "Brown mushroom quiche (raw)",
+  "game:pie-mixed-mushroomquichebrown-partbaked": "Brown mushroom quiche (part-baked)",
+  "game:pie-mixed-mushroomquichebrown-perfect": "Brown mushroom quiche",
+  "game:pie-mixed-mushroomquichebrown-charred": "Brown mushroom quiche (charred)",
+
+
+  //Mixed 2 Ingredient Pies - Generic Ingredient + Eggs
+    "game:pie-mixed-cheesequiche-raw": "Cheese quiche (raw)",
+    "game:pie-mixed-cheesequiche-partbaked": "Cheese quiche (part-baked)",
+    "game:pie-mixed-cheesequiche-perfect": "Cheese quiche",
+    "game:pie-mixed-cheesequiche-charred": "Cheese quiche (charred)",
+  
+
+  //Mixed 2 Ingredient Pies - Generic Ingredient + Generic Ingredient
+    "game:pie-mixed-cheesemeat-raw": "Cheese/meat pie (raw)",
+    "game:pie-mixed-cheesemeat-partbaked": "Cheese/meat pie (part-baked)",
+    "game:pie-mixed-cheesemeat-perfect": "Cheese/meat pie",
+    "game:pie-mixed-cheesemeat-charred": "Cheese/meat pie (charred)",
+  
+    "game:pie-mixed-cheesemushroom-raw": "Cheese/mushroom pie (raw)",
+    "game:pie-mixed-cheesemushroom-partbaked": "Cheese/mushroom pie (part-baked)",
+    "game:pie-mixed-cheesemushroom-perfect": "Cheese/mushroom pie",
+    "game:pie-mixed-cheesemushroom-charred": "Cheese/mushroom pie (charred)",
+  
+    "game:pie-mixed-cheeseveg-raw": "Cheese/vegetable pie (raw)",
+    "game:pie-mixed-cheeseveg-partbaked": "Cheese/vegetable pie (part-baked)",
+    "game:pie-mixed-cheeseveg-perfect": "Cheese/vegetable pie",
+    "game:pie-mixed-cheeseveg-charred": "Cheese/vegetable pie (charred)",
+
+    "game:pie-mixed-meatfruit-raw": "Meat/fruit pie (raw)",
+    "game:pie-mixed-meatfruit-partbaked": "Meat/fruit pie (part-baked)",
+    "game:pie-mixed-meatfruit-perfect": "Meat/fruit pie",
+    "game:pie-mixed-meatfruit-charred": "Meat/fruit pie (charred)",
+
+    "game:pie-mixed-meatmushroom-raw": "Hunter's pot pie (raw)",
+    "game:pie-mixed-meatmushroom-partbaked": "Hunter's pot pie (part-baked)",
+    "game:pie-mixed-meatmushroom-perfect": "Hunter's pot pie",
+    "game:pie-mixed-meatmushroom-charred": "Hunter's pot pie (charred)",
+
+    "game:pie-mixed-meatnut-raw": "Meat/nut pie (raw)",
+    "game:pie-mixed-meatnut-partbaked": "Meat/nut pie (part-baked)",
+    "game:pie-mixed-meatnut-perfect": "Meat/nut pie",
+    "game:pie-mixed-meatnut-charred": "Meat/nut pie (charred)",
+  
+    "game:pie-mixed-meatquiche-raw": "Meat quiche (raw)",
+    "game:pie-mixed-meatquiche-partbaked": "Meat quiche (part-baked)",
+    "game:pie-mixed-meatquiche-perfect": "Meat quiche",
+    "game:pie-mixed-meatquiche-charred": "Meat quiche (charred)",
+
+    "game:pie-mixed-soycheese-raw": "Cheesy soy pie (raw)",
+    "game:pie-mixed-soycheese-partbaked": "Cheesy soy pie (part-baked)",
+    "game:pie-mixed-soycheese-perfect": "Cheesy soy pie",
+    "game:pie-mixed-soycheese-charred": "Cheesy soy pie (charred)",
+  
+  //Mixed 3 Ingredient Pies
+    "game:pie-mixed-cheesemeatmushroom-raw": "Cheesy meat/mushroom pie (raw)",
+    "game:pie-mixed-cheesemeatmushroom-partbaked": "Cheesy meat/mushroom pie (part-baked)",
+    "game:pie-mixed-cheesemeatmushroom-perfect": "Cheesy meat/mushroom pie",
+    "game:pie-mixed-cheesemeatmushroom-charred": "Cheesy meat/mushroom pie (charred)",
+  
+    "game:pie-mixed-cheesevegmushroom-raw": "Cheesy vegetarian pie (raw)",
+    "game:pie-mixed-cheesevegmushroom-partbaked": "Cheesy vegetarian pie (part-baked)",
+    "game:pie-mixed-cheesevegmushroom-perfect": "Cheesy vegetarian pie",
+    "game:pie-mixed-cheesevegmushroom-charred": "Cheesy vegetarian pie (charred)",
+
+    "game:pie-mixed-cheesemeatveg-raw": "Cheesy pot pie (raw)",
+    "game:pie-mixed-cheesemeatveg-partbaked": "Cheesy pot pie (part-baked)",
+    "game:pie-mixed-cheesemeatveg-perfect": "Cheesy pot pie",
+    "game:pie-mixed-cheesemeatveg-charred": "Cheesy pot pie (charred)",
+  
+    "game:pie-mixed-meatfruitveg-raw": "Fruity pot pie (raw)",
+    "game:pie-mixed-meatfruitveg-partbaked": "Fruity pot pie (part-baked)",
+    "game:pie-mixed-meatfruitveg-perfect": "Fruity pot pie",
+    "game:pie-mixed-meatfruitveg-charred": "Fruity pot pie (charred)",
+
+    "game:pie-mixed-meatmushroomquiche-raw": "Meat/mushroom quiche (raw)",
+    "game:pie-mixed-meatmushroomquiche-partbaked": "Meat/mushroom quiche (part-baked)",
+    "game:pie-mixed-meatmushroomquiche-perfect": "Meat/mushroom quiche",
+    "game:pie-mixed-meatmushroomquiche-charred": "Meat/mushroom quiche (charred)",
+
+    "game:pie-mixed-meatvegquiche-raw": "Pot pie quiche (raw)",
+    "game:pie-mixed-meatvegquiche-partbaked": "Pot pie quiche(part-baked)",
+    "game:pie-mixed-meatvegquiche-perfect": "Pot pie quiche",
+    "game:pie-mixed-meatvegquiche-charred": "Pot pie quiche (charred)",
+
+    "game:pie-mixed-nutmeatveg-raw": "Nutty pot pie (raw)",
+    "game:pie-mixed-nutmeatveg-partbaked": "Nutty pot pie (part-baked)",
+    "game:pie-mixed-nutmeatveg-perfect": "Nutty pot pie",
+    "game:pie-mixed-nutmeatveg-charred": "Nutty pot pie (charred)",
+
+    "game:pie-mixed-soypotpie-raw": "Soy pot pie (raw)",
+    "game:pie-mixed-soypotpie-partbaked": "Soy pot pie (part-baked)",
+    "game:pie-mixed-soypotpie-perfect": "Soy pot pie",
+    "game:pie-mixed-soypotpie-charred": "Soy pot pie (charred)",
+  
+  //4 Ingredient Pies
+    "game:pie-mixed-cheesemeatvegmushroom-raw": "Cheesy fungal pot pie (raw)",
+    "game:pie-mixed-cheesemeatvegmushroom-partbaked": "Cheesy fungal pot pie (part-baked)",
+    "game:pie-mixed-cheesemeatvegmushroom-perfect": "Cheesy fungal pot pie",
+    "game:pie-mixed-cheesemeatvegmushroom-charred": "Cheesy fungal pot pie (charred)",
+  
+    "game:pie-mixed-nutfruitmeatveg-raw": "Nature's pot pie (raw)",
+    "game:pie-mixed-nutfruitmeatveg-partbaked": "Nature's pot pie (part-baked)",
+    "game:pie-mixed-nutfruitmeatveg-perfect": "Nature's pot pie",
+    "game:pie-mixed-nutfruitmeatveg-charred": "Nature's pot pie (charred)"
 }

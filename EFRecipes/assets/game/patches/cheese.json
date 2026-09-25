@@ -5,5 +5,37 @@
     "value": { "groupBy": ["cheese-*"] },
     "side": "server",
     "file": "itemtypes/food/cheese.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPiePropertiesByType",
+    "value": {
+      "*-cheddar-1slice": {"foodCategory": "Dairy", "mixingCodes": ["cheddarmushroomblack","cheddarmushroomyellow","cheddarmushroomoffwhite","cheddarmushroomorange","cheddarmushroomdevilstooth","cheddarmushroomred","cheddarmushroomgreen","cheddarmushroomblue","cheddarmushroomlobster","cheddarmushroombrown","cheddarmushroomwhite","cheddarmushroompurple","cheddarmushroompink","cheddarmushroom","cheesemushroom",
+        "soycheddar","soycheese",
+        "cheddarbellpepper","cheddarcabbage","cheddarcassava","cheddarcarrot","cheddarfennel","cheddarolive","cheddaronion","cheddarparsnip","cheddarpumpkin","cheddarturnip","cheddarwalnut","cheddarveg","cheesevegmushroom","cheeseveg",
+        "cheddarbushmeat", "cheddarpoultry", "cheddarredmeat", "cheddarfish","cheddarbug","cheddarmeat","cheesemeat",
+        "cheddarquiche","cheesequiche",
+        "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+        "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+        "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+        "cheesemeatmushroom","cheesemeatveg",
+        "soycheesemushroom","soycheeseveg",
+        "meatvegquiche", "meatmushroomquiche","vegmushroomquiche",
+        "cheesemeatvegmushroom","soycheesevegmushroom"]},
+      "*-blue-1slice": {"foodCategory": "Dairy", "mixingCodes": ["bluemushroomblack","bluemushroomyellow","bluemushroomoffwhite","bluemushroomorange","bluemushroomdevilstooth","bluemushroomred","bluemushroomgreen","bluemushroomblue","bluemushroomlobster","bluemushroombrown","bluemushroomwhite","bluemushroompurple","bluemushroompink","bluemushroom","cheesemushroom",
+        "soyblue","soycheese",
+        "bluebellpepper","bluecabbage","bluecassava","bluecarrot","bluefennel","blueolive","blueonion","blueparsnip","bluepumpkin","blueturnip","bluewalnut","blueveg","cheesevegmushroom","cheeseveg",
+        "bluebushmeat", "bluepoultry", "blueredmeat", "bluefish","bluebug", "bluemeat","cheesemeat",
+        "bluequiche","cheesequiche",
+        "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+        "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+        "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+        "cheesemeatmushroom","cheesemeatveg",
+        "soycheesemushroom","soycheeseveg",
+        "meatvegquiche", "meatmushroomquiche","vegmushroomquiche",
+        "cheesemeatvegmushroom","soycheesevegmushroom"]}
+    },
+    "side": "server",
+    "file": "itemtypes/food/cheese.json"
   }
 ]

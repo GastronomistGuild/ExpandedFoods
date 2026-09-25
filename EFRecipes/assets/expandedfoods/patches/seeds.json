@@ -11,5 +11,21 @@
     },
     "side": "server",
     "file": "game:itemtypes/resource/seeds.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPiePropertiesByType",
+    "value": { "*-walnut": {"texture": "game:block/food/pie/fill-walnut","partType": "Filling", "portionSize": 4, "foodCategory": "NoNutrition", "mixingCodes": ["nutpie",
+          "bellpepperwalnut","cabbagewalnut","carrotwalnut","cassavawalnut","fennelwalnut","olivewalnut","onionwalnut","parsnipwalnut","pumpkinwalnut","turnipwalnut","bellpeppernut","cabbagenut","carrotnut","cassavanut","fennelnut","olivenut","onionnut","parsnipnut","pumpkinnut","turnipnut","vegetablenut",
+          "soywalnut", "soynut",
+          "walnutapple", "walnutbeautyberry","walnutblackberry", "walnutblackcurrant", "walnutblueberry", "walnutbreadfruit", "walnutcactusfruit", "walnutcherry", "walnutcloudberry", "walnutcranberry", "walnutgooseberry", "walnutguava","walnutkumquat", "walnutlychee", "walnutmango", "walnutorange", "walnutpeach", "walnutpear", "walnutpineapple", "walnutplumnatal", "walnutpomegranate", "walnutraspberry", "walnutredcurrant", "walnutsaguaro", "walnutstrawberry", "walnutwhitecurrant", "nutfruit",
+          "bushmeatwalnut", "poultrywalnut", "redmeatwalnut","fishwalnut", "bugwalnut","bushmeatnut", "poultrynut", "redmeatnut","fishnut","bugnut", "nutmeat",
+          "nutmeatveg",
+          "soyfruitnut","soynutmushroom",
+          "nutfruitmeatveg"
+        ]
+      }
+    },
+    "file": "game:itemtypes/resource/treeseed.json"
   }
 ]

@@ -10,10 +10,22 @@
   },
   {
     "op": "addmerge",
-    "path": "/attributes/*",
-    "value": {
-      "inPieProperties": { "texture": "game:block/food/pie/fill-bugs", "partType": "Filling" }
-    },
+    "path": "/attributes/inPieProperties",
+    "value": { "texture": "game:block/food/pie/fill-bugs", "partType": "Filling", "mixingCodes": ["protein",
+      "soybugs", "soymeat",
+      "cheddarbug", "bluebug", "cottagebug", "cheddarmeat", "bluemeat", "cottagemeat","cheesemeat",
+      "bugmushroomblack","bugmushroomyellow","bugmushroomoffwhite","bugmushroomorange","bugmushroomdevilstooth","bugmushroomred","bugmushroomgreen","bugmushroomblue","bugmushroomlobster","bugmushroombrown","bugmushroomwhite","bugmushroompurple","bugmushroompink","bugmushroom","meatmushroom",
+      "bugpeanut", "bugwalnut", "bugnut", "meatnut",
+      "bugquiche","meatquiche",
+      "bugbellpepper","bugcabbage","bugcassava","bugcarrot","bugfennel","bugolive","bugonion","bugparsnip","bugpumpkin","bugturnip","bugveg","potpie",
+      "bugapple", "bugbeautyberry", "bugblackberry", "bugblackcurrant", "bugblueberry", "bugbreadfruit", "bugcactusfruit,", "bugcherry","bugcloudberry", "bugcranberry", "buggooseberry", "bugguava", "bugkumquat", "buglychee", "bugmango", "bugorange", "bugpeach", "bugpear", "bugpineapple", "bugplumnatal", "bugpomegranate", "bugraspberry", "bugredcurrant", "bugsaguaro", "bugstrawberry", "bugwhitecurrant", "bugfruit", "meatfruit",
+      "cheesemeatmushroom","cheesemeatveg",
+      "meatfruitveg",
+      "meatvegquiche", "meatmushroomquiche",
+      "soypotpie",
+      "nutmeatveg",
+      "nutfruitmeatveg",
+      "cheesemeatvegmushroom"] },
     "side": "server",
     "file": "itemtypes/food/insect.json"
   }

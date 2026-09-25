@@ -12,5 +12,39 @@
     "value": 240,
     "side": "server",
     "file": "itemtypes/food/legume.json"
+  },
+  {
+    "op": "remove",
+    "path": "/attributes/inPieProperties/mixingCodes",
+    "value": ["potpie"],
+    "file": "itemtypes/food/legume.json",
+    "side": "Server"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPiePropertiesByType",
+    "value": { "*-peanut": {"texture": "game:block/food/pie/fill-peanut","partType": "Filling", "foodCategory":"NoNutrition", "mixingCodes": ["nutpie",
+        "bellpepperpeanut","cabbagepeanut","carrotpeanut","cassavapeanut","fennelpeanut","olivepeanut","onionpeanut","parsnippeanut","pumpkinpeanut","turnippeanut","bellpeppernut","cabbagenut","carrotnut","cassavanut","fennelnut","olivenut","onionnut","parsnipnut","pumpkinnut","turnipnut","vegetablenut",
+        "soypeanut", "soynut",
+        "peanutapple", "peanutbeautyberry", "peanutblackberry", "peanutblackcurrant", "peanutblueberry", "peanutbreadfruit", "peanutcactusfruit,", "peanutcherry","peanutcloudberry", "peanutcranberry", "peanutgooseberry", "peanutguava", "peanutkumquat", "peanutlychee", "peanutmango", "peanutorange", "peanutpeach", "peanutpear", "peanutpineapple", "peanutplumnatal", "peanutpomegranate", "peanutraspberry", "peanutredcurrant", "peanutsaguaro", "peanutstrawberry", "peanutwhitecurrant", "nutfruit",
+        "bushmeatpeanut", "poultrypeanut", "redmeatpeanut","fishpeanut","bugpeanut", "bushmeatnut", "poultrynut", "redmeatnut","fishnut","bugnut", "meatnut",
+        "nutmeatveg",
+        "soyfruitnut","soynutmushroom",
+        "nutfruitmeatveg"]
+      },
+      "*-soybean": {"texture": "game:block/food/pie/fill-soybean","partType": "Filling", "foodCategory":"NoNutrition", "mixingCodes": [ "soypeanut", "soywalnut", "soynut",
+        "soyfruit",
+        "soyblue","soycheddar","soycottage","soycheese",
+        "soymushroomblack","soymushroomyellow","soymushroomoffwhite","soymushroomorange","soymushroomdevilstooth","soymushroomred","soymushroomgreen","soymushroomblue","soymushroomlobster","soymushroombrown","soymushroomwhite","soymushroompurple","soymushroompink","soymushroom",
+        "soybellpepper","soycabbage","soycassava","soycarrot","soyfennel","soyolive","soyonion","soyparsnip","soypumpkin","soyturnip","soywalnut","soyvegetable",
+        "soybushmeat", "soypoultry","soyredmeat","soyfish","soybugs","soymeat",
+        "soyfruitnut","soynutmushroom",
+        "soycheeseveg",
+        "soypotpie",
+        "soycheesevegmushroom"]
+      }
+    },
+    "side": "server",
+    "file": "itemtypes/food/legume.json"
   }
 ]

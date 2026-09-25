@@ -1,0 +1,10 @@
+{
+  "Dependencies": [
+    {
+      "ModId": "wildcraftfruit",
+      "Severity": "Error",
+      "Label": "Incompatible with Wildcraft: Fruits and Nuts",
+      "Description": "Expanded Foods is incompatible with Wildcraft: Fruits and Nuts and will cause crashes due to overlapping patches and missing references."
+    }
+  ]
+}

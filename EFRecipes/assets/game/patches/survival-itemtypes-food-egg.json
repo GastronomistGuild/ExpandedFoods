@@ -72,8 +72,18 @@
     "op": "addmerge",
     "path": "/attributes/inPiePropertiesByType",
     "value": {
-      "*-raw": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling" },
-      "*-boiled": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling" }
+      "*-boiled": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling", "foodCategory":"NoNutrition", "mixingCodes": ["cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+        "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+        "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+        "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+        "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+      ] },
+      "*-pickled": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling", "foodCategory":"NoNutrition", "mixingCodes": ["cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+        "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+        "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+        "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+        "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+      ] }
     },
     "side": "server",
     "file": "game:itemtypes/food/egg.json"
