@@ -132,16 +132,20 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
-
-2.0.0-dev.15
+2.0.0-dev.16
 EF: Preserves Module begins...
 
+NEW FOOD:
+- Toasted grain added (used to make pilaf, can be added to many foods)
+
+
+
+2.0.0-dev.15
 THE PIESPLOSION UPDATE (PART 1):
 - ACA changes necessitate specific pie recipes - DONE!!!
 - One million pie mixing combinations added - DONE!!!
 - 750+ new pies available  - DONE!!!
 - WARNING: The handbook explodes when trying to render all of the pies at once, so items will only display about 48 of them. Experiment to find out what you can make!
-
 
 THE LARDENING:
 - Lard is made from rendered fat instead of raw animal fat - DONE!!!
@@ -166,9 +170,9 @@ BUG FIXES:
 - Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
 - Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
 - Stones can be used to smash meat again - DONE!!!
+- Fix Ancient Tools compatibility (thanks to Lazula!) - DONE!!!
+- Handbook now says only 1 salt per 0.1L of liquid is needed (thanks to Lazula!) - DONE!!!
 
-NEW FOOD:
-- Toasted grain added (used to make pilaf, can be added to many foods)
 
 MISC:
 - Fruit can be placed on shelves - DONE!!!
