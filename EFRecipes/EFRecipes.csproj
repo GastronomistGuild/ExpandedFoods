@@ -22,6 +22,12 @@
     <None Update="assets\expandedfoods\itemtypes\food\fruitleather.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="assets\expandedfoods\config\imm.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\expandedfoods\lang\compatibility\acorns\meal lang\en.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>    
   <ItemGroup>
     <None Update="**\*.json">

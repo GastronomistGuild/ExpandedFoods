@@ -159,14 +159,13 @@ HANDBOOK STUFF:
 REBALANCING:
 - Fruit dries into dried fruit - DONE!!!
 - Walnuts may be put into pies - DONE!!!
-- Pickled cabbage can be used in dumplings and other foods
+- Pickled cabbage can be used in dumplings - DONE!!!
 
 BUG FIXES:
 - Apple mash can be used in fruit leather - DONE!!!
 - Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
 - Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
 - Stones can be used to smash meat again - DONE!!!
-- Salad dressing fixed so it has satiety in meals again
 
 NEW FOOD:
 - Toasted grain added (used to make pilaf, can be added to many foods)
