@@ -4506,10 +4506,20 @@
     "game:pie-mixed-mushroomquichewhite-perfect": "White mushroom quiche",
     "game:pie-mixed-mushroomquichewhite-charred": "White mushroom quiche (charred)",
 
+    "game:pie-mixed-mushroomquicheorange-raw": "Orange mushroom quiche (raw)",
+    "game:pie-mixed-mushroomquicheorange-partbaked": "Orange mushroom quiche (part-baked)",
+    "game:pie-mixed-mushroomquicheorange-perfect": "Orange mushroom quiche",
+    "game:pie-mixed-mushroomquicheorange-charred": "Orange mushroom quiche (charred)",
+
     "game:pie-mixed-mushroomquichepink-raw": "Pink mushroom quiche (raw)",
     "game:pie-mixed-mushroomquichepink-partbaked": "Pink mushroom quiche (part-baked)",
     "game:pie-mixed-mushroomquichepink-perfect": "Pink mushroom quiche",
     "game:pie-mixed-mushroomquichepink-charred": "Pink mushroom quiche (charred)",
+
+    "game:pie-mixed-mushroomquichepurple-raw": "Purple mushroom quiche (raw)",
+    "game:pie-mixed-mushroomquichepurple-partbaked": "Purple mushroom quiche (part-baked)",
+    "game:pie-mixed-mushroomquichepurple-perfect": "Purple mushroom quiche",
+    "game:pie-mixed-mushroomquichepurple-charred": "Purple mushroom quiche (charred)",
 
     "game:pie-mixed-bellpepperquiche-raw": "Bell pepper quiche (raw)",
     "game:pie-mixed-bellpepperquiche-partbaked": "Bell pepper quiche (part-baked)",
@@ -4680,6 +4690,11 @@
     "game:pie-mixed-soycheeseveg-partbaked": "Cheesy soy/vegetable pie (part-baked)",
     "game:pie-mixed-soycheeseveg-perfect": "Cheesy soy/vegetable pie",
     "game:pie-mixed-soycheeseveg-charred": "Cheesy soy/vegetable pie (charred)",
+
+    "game:pie-mixed-fruitnut-raw": "Soy/fruit pie (raw)",
+    "game:pie-mixed-fruitnut-partbaked": "Soy/fruit pie (part-baked)",
+    "game:pie-mixed-fruitnut-perfect": "Soy/fruit pie",
+    "game:pie-mixed-fruitnut-charred": "Soy/fruit pie (charred)",
   
     "game:pie-mixed-soyfruitnut-raw": "Nutty soy/fruit pie (raw)",
     "game:pie-mixed-soyfruitnut-partbaked": "Nutty soy/fruit pie (part-baked)",
