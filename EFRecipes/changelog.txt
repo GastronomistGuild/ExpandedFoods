@@ -135,8 +135,12 @@ MISC:
 
 2.0.0-dev.15
 EF: Preserves Module begins...
-- Pie recipes fixed, ACA changes necessitate specific pie recipes
-- One million pie mixing combinations added
+
+THE PIESPLOSION UPDATE (PART 1):
+- ACA changes necessitate specific pie recipes - DONE!!!
+- One million pie mixing combinations added - DONE!!!
+- 750+ new pies available  - DONE!!!
+- WARNING: The handbook explodes when trying to render all of the pies at once, so items will only display about 48 of them. Experiment to find out what you can make!
 
 
 THE LARDENING:
