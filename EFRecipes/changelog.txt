@@ -146,52 +146,49 @@ NEW FOOD:
 
 2.0.0-dev.15
 THE PIESPLOSION UPDATE (PART 1):
-- ACA changes necessitate specific pie recipes - DONE!!!
-- One million pie mixing combinations added - DONE!!!
-- 750+ new pies available  - DONE!!!
+- ACA changes necessitate specific pie recipes
+- One million pie mixing combinations added
+- 750+ new pies available 
 - Only vanilla items and basic EF ingredients have mixing combinations for now - more will be added in The Piesplosion Part 2!!!
 - WARNING: The handbook explodes when trying to render all of the pies at once, so items will only display about 48 of them. Experiment to find out what you can make!
 
 THE LARDENING:
-- Lard is made from rendered fat instead of raw animal fat - DONE!!!
-- Raw fat removed from all EF recipes in favor of rendered fat and/or lard - DONE!!!
-- Hardened lard bricks removed; lard hardens into rendered fat - DONE!!!
-- Lard no longer has a perish timer - DONE!!!
-- Lard now simmers at 300 degrees, not 400 - DONE!!!
+- Lard is made from rendered fat instead of raw animal fat
+- Raw fat removed from all EF recipes in favor of rendered fat and/or lard
+- Hardened lard bricks removed; lard hardens into rendered fat
+- Lard no longer has a perish timer
+- Lard now simmers at 300 degrees, not 400
 
 HANDBOOK STUFF:
-- Fruit leather handbook attributes removed so the links work properly - DONE!!!
-- Text added to fruit mash to indicate they can be made into fruit leather - DONE!!!
-- Wildcraft compatibility mentions removed from handbook - DONE!!!
-- Fish nutritionPropsByType changed to reflect vanilla values - DONE!!!
+- Fruit leather handbook attributes removed so the links work properly
+- Text added to fruit mash to indicate they can be made into fruit leather
+- Wildcraft compatibility mentions removed from handbook
+- Fish nutritionPropsByType changed to reflect vanilla values
 
 REBALANCING:
-- Fruit dries into dried fruit - DONE!!!
-- Walnuts may be put into pies - DONE!!!
-- Pickled cabbage can be used in dumplings - DONE!!!
+- Fruit dries into dried fruit
+- Walnuts may be put into pies
+- Pickled cabbage can be used in dumplings
 
 BUG FIXES:
-- Apple mash can be used in fruit leather - DONE!!!
-- Dried seaweed transitonableProps flipped to alleviate crafting issues - DONE!!!
-- Pasta pot patch and texture moved from EF Meals back into EF Core - DONE!!!
-- Stones can be used to smash meat again - DONE!!!
-- Fix Ancient Tools compatibility (thanks to Lazula!) - DONE!!!
-- Handbook now says only 1 salt per 0.1L of liquid is needed (thanks to Lazula!) - DONE!!!
+- Apple mash can be used in fruit leather
+- Dried seaweed transitonableProps flipped to alleviate crafting issues
+- Pasta pot patch and texture moved from EF Meals back into EF Core
+- Stones can be used to smash meat again
+- Fix Ancient Tools compatibility (thanks to Lazula!)
+- Handbook now says only 1 salt per 0.1L of liquid is needed (thanks to Lazula!)
 
 MISC:
-- Fruit can be placed on shelves - DONE!!!
-- Meat and smashed meat GUI transforms tweaked - DONE!!!
-- Meat and smashed meat tpHandTransform tweaked - DONE!!!
-- Obsolete Acorns-Primitive compatibility patches removed - DONE!!!
-- Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked - DONE!!!
-- Chinese localization updated (thanks to Aimli!) - DONE!!!
-- Add sap names for spile display (thanks to Lazula!) - DONE!!!
-- Update sap properties for ACA spile changes (thanks to Lazula!) - DONE!!!
-- Bread has normal satiety and no extra nutrients from flour (thanks to Lazula!) - DONE!!!
-- Language file has been split into multiple files to hopefully make translating/expanding to it a little easier - DONE!!!
-
-
-
+- Fruit can be placed on shelves
+- Meat and smashed meat GUI transforms tweaked
+- Meat and smashed meat tpHandTransform tweaked
+- Obsolete Acorns-Primitive compatibility patches removed
+- Cooked, chopped veggie GUI transforms and tpHandTransforms tweaked
+- Chinese localization updated (thanks to Aimli!)
+- Add sap names for spile display (thanks to Lazula!)
+- Update sap properties for ACA spile changes (thanks to Lazula!)
+- Bread has normal satiety and no extra nutrients from flour (thanks to Lazula!)
+- Language file has been split into multiple files to hopefully make translating/expanding to it a little easier
 
 2.0.0-dev.14
 REBALANCING:
