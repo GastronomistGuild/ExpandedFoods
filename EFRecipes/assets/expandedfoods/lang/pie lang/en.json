@@ -1,4 +1,10 @@
 {
+  //Cottage Cheese Pies
+    "game:pie-single-cottagecheeseportion-raw": "Cottage cheese pie (raw)",
+    "game:pie-single-cottagecheeseportion-partbaked": "Cottage cheese pie (part-baked)",
+    "game:pie-single-cottagecheeseportion-perfect": "Cottage cheese pie",
+    "game:pie-single-cottagecheeseportion-charred": "Cottage cheese pie (charred)",
+  
   //Dried Fruit Pies
     "pie-single-expandedfoods:dryfruit-beautyberry-raw": "Dried beautyberry pie (raw)",
     "pie-single-expandedfoods:dryfruit-blackberry-raw": "Dried blackberry pie (raw)",
@@ -4715,6 +4721,12 @@
     "game:pie-mixed-vegmushroomquiche-partbaked": "Vegetarian quiche (part-baked)",
     "game:pie-mixed-vegmushroomquiche-perfect": "Vegetarian quiche",
     "game:pie-mixed-vegmushroomquiche-charred": "Vegetarian quiche (charred)",
+
+  //Mixed 3 Ingredient Pies - Specific Ingredients + Soy
+  "game:pie-mixed-soyfruit-raw": "Soy fruit pie (raw)",
+  "game:pie-mixed-soyfruit-partbaked": "Soy fruit pie (part-baked)",
+  "game:pie-mixed-soyfruit-perfect": "Soy fruit pie",
+  "game:pie-mixed-soyfruit-charred": "Soy fruit pie (charred)",
 
   //Mixed 3 Ingredient Pies - Specific Ingredients + Nuts
     "game:pie-mixed-bellpeppernut-raw": "Nutty bell pepper pie (raw)",

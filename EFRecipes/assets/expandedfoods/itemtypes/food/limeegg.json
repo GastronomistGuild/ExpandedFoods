@@ -36,7 +36,14 @@
 			"@*-(pheasant|goldenpheasant|capercaillie|wildturkey)": { "saturation": 280, "foodcategory": "Protein" },
 			"*-chicken": { "saturation": 200, "foodcategory": "Protein" }
 		},
-		"inPieProperties": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling" },
+		"inPieProperties": { "texture": "game:block/food/pie/fill-egg", "partType": "Filling", "foodCategory":"NoNutrition", "mixingCodes": [
+            "cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+            "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+            "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+            "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+            "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+          ]
+        },
         "handbook": {
           "groupBy": [ "limeegg-*" ],
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-limeegg", "text": "expandedfoods:item-handbooktext-limeegg" }]

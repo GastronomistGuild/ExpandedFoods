@@ -93,7 +93,23 @@
 			}
 		},
     	"inPiePropertiesByType": {
-      		"@*-(raw|smashed|curedsmashed|curedchopped)": { "texture": "game:block/food/pie/fill-fish", "partType": "Filling" }
+      		"@*-(raw|smashed|curedsmashed|curedchopped)": { "texture": "game:block/food/pie/fill-fish", "partType": "Filling", "mixingCodes": ["protein",
+                "soyfish", "soymeat",
+                "cheddarfish", "bluefish", "cottagefish", "cheddarmeat", "bluemeat", "cottagemeat","cheesemeat",
+                "fishmushroomblack","fishmushroomyellow","fishmushroomoffwhite","fishmushroomorange","fishmushroomdevilstooth","fishmushroomred","fishmushroomgreen","fishmushroomblue","fishmushroomlobster","fishmushroombrown","fishmushroomwhite","fishmushroompurple","fishmushroompink","fishmushroom","meatmushroom",
+                "fishpeanut", "fishwalnut", "fishnut", "meatnut",
+                "fishquiche","meatquiche",
+                "fishbellpepper","fishcabbage","fishcassava","fishcarrot","fishfennel","fisholive","fishonion","fishparsnip","fishpumpkin","fishturnip","fishveg","potpie",
+                "fishapple", "fishbeautyberry", "fishblackberry", "fishblackcurrant", "fishblueberry", "fishbreadfruit", "fishcactusfruit,", "fishcherry","fishcloudberry", "fishcranberry", "fishgooseberry", "fishguava", "fishkumquat", "fishlychee", "fishmango", "fishorange", "fishpeach", "fishpear", "fishpineapple", "fishplumnatal", "fishpomegranate", "fishraspberry", "fishredcurrant", "fishsaguaro", "fishstrawberry", "fishwhitecurrant", "fishfruit", "meatfruit",
+                "cheesemeatmushroom","cheesemeatveg",
+                "meatfruitveg",
+                "meatvegquiche",
+                "soypotpie",
+                "nutmeatveg",
+                "nutfruitmeatveg",
+                "cheesemeatvegmushroom"
+              ]
+            }
     	}
 	},
 	"variantgroups": [
