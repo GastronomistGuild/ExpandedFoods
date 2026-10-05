@@ -1,38 +1,56 @@
 {
-  "editor": {
-    "collapsedPaths": ",Root/Base2/Pant2,Root/Base2/root2",
-    "allAngles": false,
-    "entityTextureMode": false
-  },
-  "textureWidth": 32,
-  "textureHeight": 32,
-  "textureSizes": {
-  },
-  "textures": {
-  },
-  "elements": [
-    {
-      "name": "Base2",
-      "from": [ 6.1, -0.8, 5.4 ],
-      "to": [ 7.1, 0.2, 6.4 ],
-      "rotationOrigin": [ 6.1, -0.8, 5.4 ],
-      "faces": {
-      },
-      "children": [
-        {
-          "name": "root Bottom",
-          "from": [ 0.4, 0.7, 0.6647 ],
-          "to": [ 3.4, 3.7, 4.6647 ],
-          "rotationOrigin": [ 1.6, 0.7, 1.646 ],
-          "faces": {
-            "north": { "texture": "#fennel", "uv": [ 14.5, 28.5, 17.5, 31.5 ] },
-            "east": { "texture": "#fennel", "uv": [ 14.5, 29.0, 18.5, 32.0 ] },
-            "south": { "texture": "#fennel", "uv": [ 15.0, 29.0, 18.0, 32.0 ] },
-            "west": { "texture": "#fennel", "uv": [ 14.0, 29.0, 18.0, 32.0 ] },
-            "up": { "texture": "#fennel", "uv": [ 15.0, 28.0, 18.0, 32.0 ] },
-            "down": { "texture": "#fennel", "uv": [ 15.0, 28.0, 18.0, 32.0 ] }
-          }
-        }
-      ]
-    }
-  ]}
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+		"fennel": [32,32]
+	},
+	"textures": {
+		"fennel": "item/food/veggie/perfect/fennel"
+	},
+	"elements": [
+		{
+			"name": "onion 2",
+			"from": [ 6.9, 0.5, 6.8 ],
+			"to": [ 9.4, 3.0, 9.3 ],
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"faces": {
+				"north": { "texture": "#fennel", "uv": [ 16.0, 28.0, 18.5, 30.5 ] },
+				"east": { "texture": "#fennel", "uv": [ 17.5, 29.5, 20.0, 32.0 ] },
+				"south": { "texture": "#fennel", "uv": [ 13.5, 28.0, 16.0, 30.5 ] },
+				"west": { "texture": "#fennel", "uv": [ 14.5, 28.5, 17.0, 31.0 ] },
+				"up": { "texture": "#fennel", "uv": [ 17.0, 29.0, 19.5, 31.5 ] },
+				"down": { "texture": "#fennel", "uv": [ 15.0, 29.0, 17.5, 31.5 ] }
+			},
+			"children": [
+				{
+					"name": "onion 2 top",
+					"from": [ 0.5, 2.5, 0.5 ],
+					"to": [ 2.0, 3.0, 2.0 ],
+					"rotationOrigin": [ 0.0, 1.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#fennel", "uv": [ 12.5, 28.0, 14.0, 28.5 ] },
+						"east": { "texture": "#fennel", "uv": [ 13.5, 28.5, 15.0, 29.0 ] },
+						"south": { "texture": "#fennel", "uv": [ 14.0, 30.0, 15.5, 30.5 ] },
+						"west": { "texture": "#fennel", "uv": [ 14.5, 29.5, 16.0, 30.0 ] },
+						"up": { "texture": "#fennel", "uv": [ 14.5, 28.0, 16.0, 29.5 ] }
+					}
+				},
+				{
+					"name": "onion bottom",
+					"from": [ 0.5, -0.5, 0.5 ],
+					"to": [ 2.0, 0.0, 2.0 ],
+					"faces": {
+						"north": { "texture": "#fennel", "uv": [ 14.5, 30.5, 16.0, 31.0 ] },
+						"east": { "texture": "#fennel", "uv": [ 17.5, 29.0, 19.0, 29.5 ] },
+						"south": { "texture": "#fennel", "uv": [ 13.5, 29.0, 15.0, 29.5 ] },
+						"west": { "texture": "#fennel", "uv": [ 18.0, 30.5, 19.5, 31.0 ] },
+						"down": { "texture": "#fennel", "uv": [ 17.0, 29.5, 18.5, 31.0 ] }
+					}
+				}
+			]
+		}
+	]}

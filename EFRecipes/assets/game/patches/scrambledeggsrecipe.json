@@ -196,7 +196,9 @@
         { "type": "item", "code": "expandedfoods:choppedvegetable-cassava", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group11" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-bellpepper", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "fruit", "group8" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-cattailroot", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group11" ] },
-        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group11" ] }
+        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group11" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-fennel", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group28" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-pickledfennel", "shapeElement": "bowl/vegetable2/*", "textureMapping": [ "vegetable", "group28" ] }
       ],
     "side": "server",
     "file": "recipes/cooking/scrambledeggs.json"
@@ -258,7 +260,9 @@
         { "type": "item", "code": "expandedfoods:choppedvegetable-cassava", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group11" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-bellpepper", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "fruit", "group8" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-cattailroot", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group11" ] },
-        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group11" ] }
+        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group11" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-fennel", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group28" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-pickledfennel", "shapeElement": "bowl/vegetable3/*", "textureMapping": [ "vegetable", "group28" ] }
       ],
     "side": "server",
     "file": "recipes/cooking/scrambledeggs.json"
