@@ -295,11 +295,6 @@
 			"origin": { "x": 0.5, "y": 0.15, "z": 0.5 },
 			"scale": 3
 		},
-        "@.*-(fennel|pickledfennel)-.*": {
-            "rotation": { "x": -37, "y": 138, "z": -155 },
-            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
-            "scale": 4
-        }
     },
 	"tpHandTransformByType": {
 		"*-cabbage-*": {
