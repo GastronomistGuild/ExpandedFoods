@@ -1,0 +1,38 @@
+{
+  "editor": {
+    "collapsedPaths": ",Root/Base2/Pant2,Root/Base2/root2",
+    "allAngles": false,
+    "entityTextureMode": false
+  },
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureSizes": {
+  },
+  "textures": {
+  },
+  "elements": [
+    {
+      "name": "Base2",
+      "from": [ 6.1, -0.8, 5.4 ],
+      "to": [ 7.1, 0.2, 6.4 ],
+      "rotationOrigin": [ 6.1, -0.8, 5.4 ],
+      "faces": {
+      },
+      "children": [
+        {
+          "name": "root Bottom",
+          "from": [ 0.4, 0.7, 0.6647 ],
+          "to": [ 3.4, 3.7, 4.6647 ],
+          "rotationOrigin": [ 1.6, 0.7, 1.646 ],
+          "faces": {
+            "north": { "texture": "#fennel", "uv": [ 14.5, 28.5, 17.5, 31.5 ] },
+            "east": { "texture": "#fennel", "uv": [ 14.5, 29.0, 18.5, 32.0 ] },
+            "south": { "texture": "#fennel", "uv": [ 15.0, 29.0, 18.0, 32.0 ] },
+            "west": { "texture": "#fennel", "uv": [ 14.0, 29.0, 18.0, 32.0 ] },
+            "up": { "texture": "#fennel", "uv": [ 15.0, 28.0, 18.0, 32.0 ] },
+            "down": { "texture": "#fennel", "uv": [ 15.0, 28.0, 18.0, 32.0 ] }
+          }
+        }
+      ]
+    }
+  ]}

@@ -350,6 +350,14 @@
         "smeltingType": "cook",
         "smeltedStack": { "type": "item", "code": "expandedfoods:cookedveggie-pumpkin-charred" },
         "requiresContainer": false
+      },
+      "*-fennel": {
+        "meltingPoint": 150,
+        "meltingDuration": 30,
+        "smeltedRatio": 1,
+        "smeltingType": "cook",
+        "smeltedStack": { "type": "item", "code": "expandedfoods:cookedveggie-fennel-charred" },
+        "requiresContainer": false
       }
     },
     "side": "server",
@@ -554,6 +562,31 @@
       "litresPerItem": 0.3125,
       "liquidStack": { "type": "item", "code": "expandedfoods:vegetablejuiceportion-bellpepper", "stacksize": 1 },
       "pressedStack": { "type": "item", "code": "game:pressedmash-bellpepper", "stacksize": 1 }
+    },
+    "side": "server",
+    "file": "itemtypes/food/vegetable.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/*-fennel/bakingProperties",
+    "value": {
+      "temp": 100,
+      "levelFrom": 0.0,
+      "levelTo": 0.25,
+      "startScaleY": 1.0,
+      "endScaleY": 1.0,
+      "resultCode": "expandedfoods:cookedveggie-fennel-partbaked"
+    },
+    "side": "server",
+    "file": "itemtypes/food/vegetable.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributesByType/*-fennel/juiceableProperties",
+    "value": {
+      "litresPerItem": 0.3125,
+      "liquidStack": { "type": "item", "code": "expandedfoods:vegetablejuiceportion-fennel", "stacksize": 1 },
+      "pressedStack": { "type": "item", "code": "game:pressedmash-fennel", "stacksize": 1 }
     },
     "side": "server",
     "file": "itemtypes/food/vegetable.json"

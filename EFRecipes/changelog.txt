@@ -134,14 +134,22 @@ MISC:
 
 2.0.0-dev.16
 EF: Preserves Module begins...
+THE PIESPLOSION UPDATE (PART 2):
+- EF-specific pie combinations added
+- Pie toppings added! Yummy!
 
 HANDBOOK STUFF: 
 - Items used to make broth now say so in their item description
 
 NEW FOOD:
 - Toasted grain added (used to make pilaf, can be added to many foods)
-- Chopped fennel added
+- Chopped/cooked fennel & pickled fennel added
+- Fennel juice & gelatin added
+- Fried fennel added
+- Fennel sushi added
 
+BUGFIXES:
+- Bread starter has proper nutrition in doughs now - DONE!!!
 
 
 2.0.0-dev.15

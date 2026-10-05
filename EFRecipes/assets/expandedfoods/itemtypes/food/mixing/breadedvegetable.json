@@ -5,7 +5,7 @@
 	"variantgroups": [
 		{ "code": "type",	"states": [ "flax", "rice", "rye", "spelt", "cassava", "amaranth", "sunflower", 
 				"birch", "pine", "maple" ]},
-		{ "code": "veggie", "states": ["carrot", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "bellpepper"]},	
+		{ "code": "veggie", "states": ["carrot", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "bellpepper", "fennel", "pickledfennel"]},	
 		{ "code": "state", "states": ["raw", "partbaked", "cooked", "charred", "syruppartbaked", "syrupv", "syrupcharred", "oiled"] }
 	],
 	"attributes": {
@@ -141,8 +141,10 @@
 				"game:vegetable-parsnip": "game:shapes/item/food/pickledvegetable/parsnip.json",
 				"game:vegetable-pumpkin": "game:shapes/item/food/pickledvegetable/pumpkin.json",
 				"game:vegetable-cassava": "expandedfoods:shapes/item/food/veggies/cassava.json",
-				"game:vegetable-bellpepper": "expandedfoods:shapes/item/food/veggies/bellpepper.json"
-			}
+				"game:vegetable-bellpepper": "expandedfoods:shapes/item/food/veggies/bellpepper.json",
+                "game:vegetable-fennel": "game:shapes/item/food/pickledvegetable/fennel.json",
+                "game:pickledvegetable-fennel": "game:shapes/item/food/pickledvegetable/fennel.json"
+            }
 		},
 		"satMultByType": {
 			"@*-(partbaked|syruppartbaked)": 0.5,
@@ -151,6 +153,8 @@
 		}
 	},
 	"shapebytype":	{
+        "*-fennel-*": {"base": "game:item/food/pickledvegetable/fennel"},
+        "*-pickledfennel-*": {"base": "game:item/food/pickledvegetable/fennel"},
 		"*-pickledcarrot-*": {"base": "game:item/food/pickledvegetable/carrot"},
 		"*-pickledonion-*": {"base": "game:item/food/pickledvegetable/onion"},
 		"*-pickledturnip-*": {"base": "game:item/food/pickledvegetable/turnip"},
@@ -220,7 +224,7 @@
     		"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
     		"scale": 4.75
     	},
-    	"@.*-(onion|pickledonion)-.*": {
+    	"@.*-(onion|pickledonion|fennel|pickledfennel)-.*": {
     		"translation": { "x": 0, "y": 0, "z": 0 },
     		"rotation": { "x": -37, "y": 135, "z": -155 },
     		"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
@@ -270,7 +274,7 @@
             "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
             "scale": 0.88
     	},
-        "@.*-(onion|pickledonion)-.*": {
+        "@.*-(onion|pickledonion|fennel|pickledfennel)-.*": {
             "translation": { "x": -0.75, "y": -0.13, "z": -0.57 },
             "rotation": { "x": 0, "y": 0, "z": -67 },
             "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
@@ -319,7 +323,7 @@
 		}
 	},
 	"groundTransformByType": {
-		"@.*-(carrot|pickledcarrot|onion|pickledonion|parsnip|pickledparsnip)-.*": {
+		"@.*-(carrot|pickledcarrot|onion|pickledonion|parsnip|pickledparsnip|fennel|pickledfennel)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 0, "y": 0, "z": 83 },
 			"origin": { "x": 0.47, "y": 0, "z": 0.5 },

@@ -50,6 +50,14 @@
         "startScaleY": 1.0,
         "endScaleY": 1.0,
         "resultCode": "expandedfoods:cookedchoppedvegetable-pickledbellpepper-partbaked"
+      },
+      "*-fennel": {
+        "temp": 100,
+        "levelFrom": 0.0,
+        "levelTo": 0.25,
+        "startScaleY": 1.0,
+        "endScaleY": 1.0,
+        "resultCode": "expandedfoods:cookedchoppedvegetable-pickledfennel-partbaked"
       }
     },
     "side": "server",
@@ -136,6 +144,14 @@
         "smeltedRatio": 1,
         "smeltingType": "cook",
         "smeltedStack": { "type": "item", "Code": "expandedfoods:cookedchoppedvegetable-pickledbellpepper-charred" },
+        "requiresContainer": false
+      },
+      "*-fennel": {
+        "meltingPoint": 150,
+        "meltingDuration": 30,
+        "smeltedRatio": 1,
+        "smeltingType": "cook",
+        "smeltedStack": { "type": "item", "Code": "expandedfoods:cookedchoppedvegetable-pickledfennel-charred" },
         "requiresContainer": false
       }
     },

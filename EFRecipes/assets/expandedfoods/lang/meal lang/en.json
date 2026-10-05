@@ -805,7 +805,22 @@
     "game:meal-ingredient-stew-secondary-choppedvegetable-pickledpumpkin": "chopped pickled pumpkin",
     "game:meal-ingredient-soup-primary-choppedvegetable-pickledpumpkin": "chopped pickled pumpkin",
   
+    "game:recipeingredient-item-choppedvegetable-fennel": "chopped fennel",
+    "game:recipeingredient-item-choppedvegetable-fennel-insturmentalcase": "chopped fennel",
+    "recipeingredient-item-choppedvegetable-fennel": "chopped fennel",
+    "recipeingredient-item-choppedvegetable-fennel-insturmentalcase": "chopped fennel",
+    "game:meal-ingredient-stew-primary-choppedvegetable-fennel": "chopped fennel",
+    "game:meal-ingredient-stew-secondary-choppedvegetable-fennel": "chopped fennel",
+    "game:meal-ingredient-soup-primary-choppedvegetable-fennel": "chopped fennel",
   
+    "game:recipeingredient-item-choppedvegetable-pickledfennel": "chopped pickled fennel",
+    "game:recipeingredient-item-choppedvegetable-pickledfennel-insturmentalcase": "chopped pickled fennel",
+    "recipeingredient-item-choppedvegetable-pickledfennel": "chopped pickled fennel",
+    "recipeingredient-item-choppedvegetable-pickledfennel-insturmentalcase": "chopped pickled fennel",
+    "game:meal-ingredient-stew-primary-choppedvegetable-pickledfennel": "chopped pickled fennel",
+    "game:meal-ingredient-stew-secondary-choppedvegetable-pickledfennel": "chopped pickled fennel",
+    "game:meal-ingredient-soup-primary-choppedvegetable-pickledfennel": "chopped pickled fennel",
+
     "game:recipeingredient-item-cookedchoppedvegetable-carrot-*": "chopped carrots",
     "game:recipeingredient-item-cookedchoppedvegetable-carrot-*-insturmentalcase": "chopped carrots",
     "recipeingredient-item-cookedchoppedvegetable-carrot-*": "chopped carrots",
@@ -886,6 +901,15 @@
     "recipeingredient-item-cookedchoppedvegetable-pickledbellpepper-*": "chopped pickled bell pepper",
     "recipeingredient-item-cookedchoppedvegetable-pickledbellpepper-*-insturmentalcase": "chopped pickled bell pepper",
 
+    "game:recipeingredient-item-cookedchoppedvegetable-fennel-*": "chopped fennel",
+    "game:recipeingredient-item-cookedchoppedvegetable-fennel-*-insturmentalcase": "chopped fennel",
+    "recipeingredient-item-cookedchoppedvegetable-fennel-*": "chopped fennel",
+    "recipeingredient-item-cookedchoppedvegetable-fennel-*-insturmentalcase": "chopped fennel",
+
+    "game:recipeingredient-item-cookedchoppedvegetable-pickledfennel-*": "chopped pickled fennel",
+    "game:recipeingredient-item-cookedchoppedvegetable-pickledfennel-*-insturmentalcase": "chopped pickled fennel",
+    "recipeingredient-item-cookedchoppedvegetable-pickledfennel-*": "chopped pickled fennel",
+    "recipeingredient-item-cookedchoppedvegetable-pickledfennel-*-insturmentalcase": "chopped pickled fennel",
 
     "game:recipeingredient-item-choppedvegetable-cassava": "chopped cassava",
     "game:recipeingredient-item-choppedvegetable-cassava-insturmentalcase": "chopped cassava",
@@ -934,8 +958,8 @@
     "game:meal-ingredient-stew-primary-choppedvegetable-cattailroot": "Chopped cattail root",
     "game:meal-ingredient-stew-secondary-choppedvegetable-cattailroot": "Chopped cattail root",
     "game:meal-ingredient-soup-primary-choppedvegetable-cattailroot": "chopped cattail root",
-    "game:recipeingredient-item-vegetable-bellpepper": "bell pepper",
-    "game:recipeingredient-item-vegetable-bellpepper-insturmentalcase": "bell pepper",
+    "game:recipeingredient-item-vegetable-cattailroot": "cattail root",
+    "game:recipeingredient-item-vegetable-cattailroot-insturmentalcase": "cattail root",
   
     "game:recipeingredient-item-choppedmushroom-almondmushroom": "chopped almond mushroom",
     "game:recipeingredient-item-choppedmushroom-almondmushroom-insturmentalcase": "chopped almond mushroom",
@@ -2523,6 +2547,11 @@
     "recipeingredient-item-vegetablejuiceportion-bellpepper-insturmentalcase": "bell pepper juice",
     "game:meal-ingredient-soup-primary-vegetablejuiceportion-bellpepper": "bell pepper juice",
     "game:meal-ingredient-soup-secondary-vegetablejuiceportion-bellpepper": "bell pepper juice",
+
+    "recipeingredient-item-vegetablejuiceportion-fennel": "fennel juice",
+    "recipeingredient-item-vegetablejuiceportion-fennel-insturmentalcase": "fennel juice",
+    "game:meal-ingredient-soup-primary-vegetablejuiceportion-fennel": "fennel juice",
+    "game:meal-ingredient-soup-secondary-vegetablejuiceportion-fennel": "fennel juice",
   
     "game:recipeingredient-item-vegetablejuiceportion-carrot": "carrot juice",
     "game:recipeingredient-item-vegetablejuiceportion-cabbage": "cabbage juice",
@@ -2532,6 +2561,7 @@
     "game:recipeingredient-item-vegetablejuiceportion-pumpkin": "pumpkin juice",
     "game:recipeingredient-item-vegetablejuiceportion-cassava": "cassava juice",
     "game:recipeingredient-item-vegetablejuiceportion-bellpepper": "bell pepper juice",
+    "game:recipeingredient-item-vegetablejuiceportion-fennel": "fennel juice",
 
   
   //Liquids - Vinegar

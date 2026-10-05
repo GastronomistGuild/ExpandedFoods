@@ -259,6 +259,8 @@
     "item-cookedveggie-cassava-partbaked": "Cooked cassava (part-baked)",
     "item-cookedveggie-cattailroot-partbaked": "Cooked cattail root (part-baked)",
     "item-cookedveggie-papyrusroot-partbaked": "Cooked papyrus root (part-baked)",
+    "item-cookedveggie-fennel-partbaked": "Cooked fennel (part-baked)",
+    "item-cookedveggie-pickledfennel-partbaked": "Cooked pickled fennel (part-baked)",
   
     "item-cookedveggie-carrot-perfect": "Cooked carrot",
     "item-cookedveggie-cabbage-perfect": "Cooked cabbage",
@@ -274,6 +276,8 @@
     "item-cookedveggie-cassava-perfect": "Cooked cassava",
     "item-cookedveggie-cattailroot-perfect": "Cooked cattail root",
     "item-cookedveggie-papyrusroot-perfect": "Cooked papyrus root",
+    "item-cookedveggie-fennel-perfect": "Cooked fennel",
+    "item-cookedveggie-pickledfennel-perfect": "Cooked pickled fennel",
   
     "item-cookedveggie-carrot-charred": "Cooked carrot (charred)",
     "item-cookedveggie-cabbage-charred": "Cooked cabbage (charred)",
@@ -289,6 +293,8 @@
     "item-cookedveggie-cassava-charred": "Cooked cassava (charred)",
     "item-cookedveggie-cattailroot-charred": "Cooked cattail root (charred)",
     "item-cookedveggie-papyrusroot-charred": "Cooked papyrus root (charred)",
+    "item-cookedveggie-fennel-charred": "Cooked fennel (charred)",
+    "item-cookedveggie-pickledfennel-charred": "Cooked pickled fennel (charred)",
   
     "itemdesc-cookedveggie-*-partbaked": "Could use a bit more baking...",
     "itemdesc-cookedveggie-*-perfect": "Perfectly cooked and delicious!",
@@ -313,6 +319,8 @@
     "item-choppedvegetable-pickledbellpepper": "Chopped pickled bell pepper",
     "item-choppedvegetable-papyrusroot": "Chopped papyrus root",
     "item-choppedvegetable-cattailroot": "Chopped cattail root",
+    "item-choppedvegetable-fennel": "Chopped fennel",
+    "item-choppedvegetable-pickledfennel": "Chopped pickled fennel",
   
     "itemdesc-choppedvegetable-cassavadried": "Only good for grinding now...",
     "itemdesc-choppedvegetable-papyrusroot": "Well-prepared, but still needs cooking.",
@@ -336,6 +344,8 @@
     "item-cookedchoppedvegetable-cassava-partbaked": "Cooked chopped cassava (part-baked)",
     "item-cookedchoppedvegetable-cattailroot-partbaked": "Cooked chopped cattail root (part-baked)",
     "item-cookedchoppedvegetable-papyrusroot-partbaked": "Cooked chopped papyrus root (part-baked)",
+    "item-cookedchoppedvegetable-fennel-partbaked": "Cooked chopped fennel (part-baked)",
+    "item-cookedchoppedvegetable-pickledfennel-partbaked": "Cooked chopped pickled fennel (part-baked)",
   
     "item-cookedchoppedvegetable-carrot-perfect": "Cooked chopped carrot",
     "item-cookedchoppedvegetable-cabbage-perfect": "Cooked chopped cabbage",
@@ -351,6 +361,8 @@
     "item-cookedchoppedvegetable-cassava-perfect": "Cooked chopped cassava",
     "item-cookedchoppedvegetable-cattailroot-perfect": "Cooked chopped cattail root",
     "item-cookedchoppedvegetable-papyrusroot-perfect": "Cooked chopped papyrus root",
+    "item-cookedchoppedvegetable-fennel-perfect": "Cooked chopped fennel",
+    "item-cookedchoppedvegetable-pickledfennel-perfect": "Cooked chopped pickled fennel",
   
     "item-cookedchoppedvegetable-carrot-charred": "Cooked chopped carrot (charred)",
     "item-cookedchoppedvegetable-cabbage-charred": "Cooked chopped cabbage (charred)",
@@ -366,6 +378,8 @@
     "item-cookedchoppedvegetable-cassava-charred": "Cooked chopped cassava (charred)",
     "item-cookedchoppedvegetable-cattailroot-charred": "Cooked chopped cattail root (charred)",
     "item-cookedchoppedvegetable-papyrusroot-charred": "Cooked chopped papyrus root (charred)",
+    "item-cookedchoppedvegetable-fennel-charred": "Cooked chopped fennel (charred)",
+    "item-cookedchoppedvegetable-pickledfennel-charred": "Cooked chopped pickled fennel (charred)",
   
     "itemdesc-cookedchoppedvegetable-*-partbaked": "Could use a bit more baking...",
     "itemdesc-cookedchoppedvegetable-*-perfect": "Perfectly cooked and delicious!",
@@ -1414,6 +1428,7 @@
     "item-vegetablejuiceportion-pumpkin" : "Pumpkin juice portion",
     "item-vegetablejuiceportion-cassava" : "Cassava juice portion",
     "item-vegetablejuiceportion-bellpepper" : "Bell pepper juice portion",
+    "item-vegetablejuiceportion-fennel" : "Fennel juice portion",
     "itemdesc-vegetablejuiceportion-*": "Healthy and good in soups.",
     "item-handbooktitle-vegetablejuiceportion": "Vegetable Juice",
     "item-handbooktext-vegetablejuiceportion": "Made by juicing a variety of vegetables, this liquid can be used to make a variety of vegetable-flavored gelatins, or as stock in pilaf, hot pasta, or soup.",
@@ -1426,6 +1441,7 @@
     "incontainer-item-vegetablejuiceportion-pumpkin" : "Pumpkin juice",
     "incontainer-item-vegetablejuiceportion-cassava" : "Cassava juice",
     "incontainer-item-vegetablejuiceportion-bellpepper" : "Bell pepper juice",
+    "incontainer-item-vegetablejuiceportion-fennel" : "Fennel juice",
   
     "game:incontainer-item-vegetablejuiceportion-carrot" : "Carrot juice",
     "game:incontainer-item-vegetablejuiceportion-cabbage" : "Cabbage juice",
@@ -1435,6 +1451,7 @@
     "game:incontainer-item-vegetablejuiceportion-pumpkin" : "Pumpkin juice",
     "game:incontainer-item-vegetablejuiceportion-cassava" : "Cassava juice",
     "game:incontainer-item-vegetablejuiceportion-bellpepper" : "Bell pepper juice",
+    "game:incontainer-item-vegetablejuiceportion-fennel" : "Fennel juice",
 
   //Basic Foods - Fruit Candy
     "item-candiedfruit-apple": "Candied apple",
@@ -1829,6 +1846,8 @@
     "item-breadedvegetable-flax-pickledparsnip-raw": "Breaded flax pickled parsnip",
     "item-breadedvegetable-flax-pickledpumpkin-raw": "Breaded flax pickled pumpkin",
     "item-breadedvegetable-flax-cassava-raw": "Breaded flax cassava",
+    "item-breadedvegetable-flax-fennel-raw": "Breaded flax fennel",
+    "item-breadedvegetable-flax-pickledfennel-raw": "Breaded flax pickled fennel",
   
     "item-breadedvegetable-flax-carrot-partbaked": "Fried flax carrot (part-baked)",
     "item-breadedvegetable-flax-onion-partbaked": "Fried flax onion (part-baked)",
@@ -1844,6 +1863,8 @@
     "item-breadedvegetable-flax-pickledparsnip-partbaked": "Fried flax pickled parsnip (part-baked)",
     "item-breadedvegetable-flax-pickledpumpkin-partbaked": "Fried flax pickled pumpkin (part-baked)",
     "item-breadedvegetable-flax-cassava-partbaked": "Fried flax cassava (part-baked)",
+    "item-breadedvegetable-flax-fennel-partbaked": "Fried flax fennel (part-baked)",
+    "item-breadedvegetable-flax-pickledfennel-partbaked": "Fried flax pickled fennel (part-baked)",
   
     "item-breadedvegetable-flax-carrot-cooked": "Fried flax carrot",
     "item-breadedvegetable-flax-onion-cooked": "Fried flax onion",
@@ -1859,6 +1880,8 @@
     "item-breadedvegetable-flax-pickledparsnip-cooked": "Fried flax pickled parsnip",
     "item-breadedvegetable-flax-pickledpumpkin-cooked": "Fried flax pickled pumpkin",
     "item-breadedvegetable-flax-cassava-cooked": "Fried flax cassava",
+    "item-breadedvegetable-flax-fennel-cooked": "Fried flax fennel",
+    "item-breadedvegetable-flax-pickledfennel-cooked": "Fried flax pickled fennel",
   
     "item-breadedvegetable-flax-carrot-charred": "Fried flax carrot (charred)",
     "item-breadedvegetable-flax-onion-charred": "Fried flax onion (charred)",
@@ -1874,6 +1897,8 @@
     "item-breadedvegetable-flax-pickledparsnip-charred": "Fried flax pickled parsnip (charred)",
     "item-breadedvegetable-flax-pickledpumpkin-charred": "Fried flax pickled pumpkin (charred)",
     "item-breadedvegetable-flax-cassava-charred": "Fried flax cassava (charred)",
+    "item-breadedvegetable-flax-fennel-charred": "Fried flax fennel (charred)",
+    "item-breadedvegetable-flax-pickledfennel-charred": "Fried flax pickled fennel (charred)",
   
     "item-breadedvegetable-flax-carrot-syruppartbaked": "Deluxe flax carrot (part-baked)",
     "item-breadedvegetable-flax-onion-syruppartbaked": "Deluxe flax onion (part-baked)",
@@ -1889,6 +1914,8 @@
     "item-breadedvegetable-flax-pickledparsnip-syruppartbaked": "Deluxe flax pickled parsnip (part-baked)",
     "item-breadedvegetable-flax-pickledpumpkin-syruppartbaked": "Deluxe flax pickled pumpkin (part-baked)",
     "item-breadedvegetable-flax-cassava-syruppartbaked": "Deluxe flax cassava (part-baked)",
+    "item-breadedvegetable-flax-fennel-syruppartbaked": "Deluxe flax fennel (part-baked)",
+    "item-breadedvegetable-flax-pickledfennel-syruppartbaked": "Deluxe flax pickled fennel (part-baked)",
   
     "item-breadedvegetable-flax-carrot-syrupv": "Deluxe flax carrot",
     "item-breadedvegetable-flax-onion-syrupv": "Deluxe flax onion",
@@ -1904,6 +1931,8 @@
     "item-breadedvegetable-flax-pickledparsnip-syrupv": "Deluxe flax pickled parsnip",
     "item-breadedvegetable-flax-pickledpumpkin-syrupv": "Deluxe flax pickled pumpkin",
     "item-breadedvegetable-flax-cassava-syrupv": "Deluxe flax cassava",
+    "item-breadedvegetable-flax-fennel-syrupv": "Deluxe flax fennel",
+    "item-breadedvegetable-flax-pickledfennel-syrupv": "Deluxe flax pickled fennel",
   
     "item-breadedvegetable-flax-carrot-syrupcharred": "Deluxe flax carrot (charred)",
     "item-breadedvegetable-flax-onion-syrupcharred": "Deluxe flax onion (charred)",
@@ -1919,6 +1948,8 @@
     "item-breadedvegetable-flax-pickledparsnip-syrupcharred": "Deluxe flax pickled parsnip (charred)",
     "item-breadedvegetable-flax-pickledpumpkin-syrupcharred": "Deluxe flax pickled pumpkin (charred)",
     "item-breadedvegetable-flax-cassava-syrupcharred": "Deluxe flax cassava (charred)",
+    "item-breadedvegetable-flax-fennel-syrupcharred": "Deluxe flax fennel (charred)",
+    "item-breadedvegetable-flax-pickledfennel-syrupcharred": "Deluxe flax pickled fennel (charred)",
   
     "item-breadedvegetable-rice-carrot-raw": "Breaded rice carrot",
     "item-breadedvegetable-rice-onion-raw": "Breaded rice onion",
@@ -1934,6 +1965,8 @@
     "item-breadedvegetable-rice-pickledparsnip-raw": "Breaded rice pickled parsnip",
     "item-breadedvegetable-rice-pickledpumpkin-raw": "Breaded rice pickled pumpkin",
     "item-breadedvegetable-rice-cassava-raw": "Breaded rice cassava",
+    "item-breadedvegetable-rice-fennel-raw": "Breaded rice fennel",
+    "item-breadedvegetable-rice-pickledfennel-raw": "Breaded rice pickled fennel",
   
     "item-breadedvegetable-rice-carrot-partbaked": "Fried rice carrot (part-baked)",
     "item-breadedvegetable-rice-onion-partbaked": "Fried rice onion (part-baked)",
@@ -1949,6 +1982,8 @@
     "item-breadedvegetable-rice-pickledparsnip-partbaked": "Fried rice pickled parsnip (part-baked)",
     "item-breadedvegetable-rice-pickledpumpkin-partbaked": "Fried rice pickled pumpkin (part-baked)",
     "item-breadedvegetable-rice-cassava-partbaked": "Fried rice cassava (part-baked)",
+    "item-breadedvegetable-rice-fennel-partbaked": "Fried rice fennel (part-baked)",
+    "item-breadedvegetable-rice-pickledfennel-partbaked": "Fried rice pickled fennel (part-baked)",
   
     "item-breadedvegetable-rice-carrot-cooked": "Fried rice carrot",
     "item-breadedvegetable-rice-onion-cooked": "Fried rice onion",
@@ -1964,6 +1999,8 @@
     "item-breadedvegetable-rice-pickledparsnip-cooked": "Fried rice pickled parsnip",
     "item-breadedvegetable-rice-pickledpumpkin-cooked": "Fried rice pickled pumpkin",
     "item-breadedvegetable-rice-cassava-cooked": "Fried rice cassava",
+    "item-breadedvegetable-rice-fennel-cooked": "Fried rice fennel",
+    "item-breadedvegetable-rice-pickledfennel-cooked": "Fried rice pickled fennel",
   
     "item-breadedvegetable-rice-carrot-charred": "Fried rice carrot (charred)",
     "item-breadedvegetable-rice-onion-charred": "Fried rice onion (charred)",
@@ -1979,6 +2016,8 @@
     "item-breadedvegetable-rice-pickledparsnip-charred": "Fried rice pickled parsnip (charred)",
     "item-breadedvegetable-rice-pickledpumpkin-charred": "Fried rice pickled pumpkin (charred)",
     "item-breadedvegetable-rice-cassava-charred": "Fried rice cassava (charred)",
+    "item-breadedvegetable-rice-fennel-charred": "Fried rice fennel (charred)",
+    "item-breadedvegetable-rice-pickledfennel-charred": "Fried rice pickled fennel (charred)",
   
     "item-breadedvegetable-rice-carrot-syruppartbaked": "Deluxe rice carrot (part-baked)",
     "item-breadedvegetable-rice-onion-syruppartbaked": "Deluxe rice onion (part-baked)",
@@ -1994,6 +2033,8 @@
     "item-breadedvegetable-rice-pickledparsnip-syruppartbaked": "Deluxe rice pickled parsnip (part-baked)",
     "item-breadedvegetable-rice-pickledpumpkin-syruppartbaked": "Deluxe rice pickled pumpkin (part-baked)",
     "item-breadedvegetable-rice-cassava-syruppartbaked": "Deluxe rice cassava (part-baked)",
+    "item-breadedvegetable-rice-fennel-syruppartbaked": "Deluxe rice fennel (part-baked)",
+    "item-breadedvegetable-rice-pickledfennel-syruppartbaked": "Deluxe rice pickled fennel (part-baked)",
   
     "item-breadedvegetable-rice-carrot-syrupv": "Deluxe rice carrot",
     "item-breadedvegetable-rice-onion-syrupv": "Deluxe rice onion",
@@ -2009,6 +2050,8 @@
     "item-breadedvegetable-rice-pickledparsnip-syrupv": "Deluxe rice pickled parsnip",
     "item-breadedvegetable-rice-pickledpumpkin-syrupv": "Deluxe rice pickled pumpkin",
     "item-breadedvegetable-rice-cassava-syrupv": "Deluxe rice cassava",
+    "item-breadedvegetable-rice-fennel-syrupv": "Deluxe rice fennel",
+    "item-breadedvegetable-rice-pickledfennel-syrupv": "Deluxe rice pickled fennel",
   
     "item-breadedvegetable-rice-carrot-syrupcharred": "Deluxe rice carrot (charred)",
     "item-breadedvegetable-rice-onion-syrupcharred": "Deluxe rice onion (charred)",
@@ -2024,6 +2067,8 @@
     "item-breadedvegetable-rice-pickledparsnip-syrupcharred": "Deluxe rice pickled parsnip (charred)",
     "item-breadedvegetable-rice-pickledpumpkin-syrupcharred": "Deluxe rice pickled pumpkin (charred)",
     "item-breadedvegetable-rice-cassava-syrupcharred": "Deluxe rice cassava (charred)",
+    "item-breadedvegetable-rice-fennel-syrupcharred": "Deluxe rice fennel (charred)",
+    "item-breadedvegetable-rice-pickledfennel-syrupcharred": "Deluxe rice pickled fennel (charred)",
   
     "item-breadedvegetable-rye-carrot-raw": "Breaded rye carrot",
     "item-breadedvegetable-rye-onion-raw": "Breaded rye onion",
@@ -2039,6 +2084,8 @@
     "item-breadedvegetable-rye-pickledparsnip-raw": "Breaded rye pickled parsnip",
     "item-breadedvegetable-rye-pickledpumpkin-raw": "Breaded rye pickled pumpkin",
     "item-breadedvegetable-rye-cassava-raw": "Breaded rye cassava",
+    "item-breadedvegetable-rye-fennel-raw": "Breaded rice fennel",
+    "item-breadedvegetable-rye-pickledfennel-raw": "Breaded rice pickled fennel",
   
     "item-breadedvegetable-rye-carrot-partbaked": "Fried rye carrot (part-baked)",
     "item-breadedvegetable-rye-onion-partbaked": "Fried rye onion (part-baked)",
@@ -2054,6 +2101,8 @@
     "item-breadedvegetable-rye-pickledparsnip-partbaked": "Fried rye pickled parsnip (part-baked)",
     "item-breadedvegetable-rye-pickledpumpkin-partbaked": "Fried rye pickled pumpkin (part-baked)",
     "item-breadedvegetable-rye-cassava-partbaked": "Fried rye cassava (part-baked)",
+    "item-breadedvegetable-rye-fennel-partbaked": "Fried rice fennel (part-baked)",
+    "item-breadedvegetable-rye-pickledfennel-partbaked": "Fried rice pickled fennel (part-baked)",
   
     "item-breadedvegetable-rye-carrot-cooked": "Fried rye carrot",
     "item-breadedvegetable-rye-onion-cooked": "Fried rye onion",
@@ -2069,6 +2118,8 @@
     "item-breadedvegetable-rye-pickledparsnip-cooked": "Fried rye pickled parsnip",
     "item-breadedvegetable-rye-pickledpumpkin-cooked": "Fried rye pickled pumpkin",
     "item-breadedvegetable-rye-cassava-cooked": "Fried rye cassava",
+    "item-breadedvegetable-rye-fennel-cooked": "Fried rice fennel",
+    "item-breadedvegetable-rye-pickledfennel-cooked": "Fried rice pickled fennel",
   
     "item-breadedvegetable-rye-carrot-charred": "Fried rye carrot (charred)",
     "item-breadedvegetable-rye-onion-charred": "Fried rye onion (charred)",
@@ -2084,6 +2135,8 @@
     "item-breadedvegetable-rye-pickledparsnip-charred": "Fried rye pickled parsnip (charred)",
     "item-breadedvegetable-rye-pickledpumpkin-charred": "Fried rye pickled pumpkin (charred)",
     "item-breadedvegetable-rye-cassava-charred": "Fried rye cassava (charred)",
+    "item-breadedvegetable-rye-fennel-charred": "Fried rye fennel (charred)",
+    "item-breadedvegetable-rye-pickledfennel-charred": "Fried rye pickled fennel (charred)",
   
     "item-breadedvegetable-rye-carrot-syruppartbaked": "Deluxe rye carrot (part-baked)",
     "item-breadedvegetable-rye-onion-syruppartbaked": "Deluxe rye onion (part-baked)",
@@ -2099,6 +2152,8 @@
     "item-breadedvegetable-rye-pickledparsnip-syruppartbaked": "Deluxe rye pickled parsnip (part-baked)",
     "item-breadedvegetable-rye-pickledpumpkin-syruppartbaked": "Deluxe rye pickled pumpkin (part-baked)",
     "item-breadedvegetable-rye-cassava-syruppartbaked": "Deluxe rye cassava (part-baked)",
+    "item-breadedvegetable-rye-fennel-syruppartbaked": "Deluxe rye fennel (part-baked)",
+    "item-breadedvegetable-rye-pickledfennel-syruppartbaked": "Deluxe rye pickled fennel (part-baked)",
   
     "item-breadedvegetable-rye-carrot-syrupv": "Deluxe rye carrot",
     "item-breadedvegetable-rye-onion-syrupv": "Deluxe rye onion",
@@ -2114,6 +2169,8 @@
     "item-breadedvegetable-rye-pickledparsnip-syrupv": "Deluxe rye pickled parsnip",
     "item-breadedvegetable-rye-pickledpumpkin-syrupv": "Deluxe rye pickled pumpkin",
     "item-breadedvegetable-rye-cassava-syrupv": "Deluxe rye cassava",
+    "item-breadedvegetable-rye-fennel-syrupv": "Deluxe rye fennel",
+    "item-breadedvegetable-rye-pickledfennel-syrupv": "Deluxe rye pickled fennel",
   
     "item-breadedvegetable-rye-carrot-syrupcharred": "Deluxe rye carrot (charred)",
     "item-breadedvegetable-rye-onion-syrupcharred": "Deluxe rye onion (charred)",
@@ -2129,6 +2186,8 @@
     "item-breadedvegetable-rye-pickledparsnip-syrupcharred": "Deluxe rye pickled parsnip (charred)",
     "item-breadedvegetable-rye-pickledpumpkin-syrupcharred": "Deluxe rye pickled pumpkin (charred)",
     "item-breadedvegetable-rye-cassava-syrupcharred": "Deluxe rye cassava (charred)",
+    "item-breadedvegetable-rye-fennel-syrupcharred": "Deluxe rye fennel (charred)",
+    "item-breadedvegetable-rye-pickledfennel-syrupcharred": "Deluxe rye pickled fennel (charred)",
   
     "item-breadedvegetable-spelt-carrot-raw": "Breaded spelt carrot",
     "item-breadedvegetable-spelt-onion-raw": "Breaded spelt onion",
@@ -2144,6 +2203,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-raw": "Breaded spelt pickled parsnip",
     "item-breadedvegetable-spelt-pickledpumpkin-raw": "Breaded spelt pickled pumpkin",
     "item-breadedvegetable-spelt-cassava-raw": "Breaded spelt cassava",
+    "item-breadedvegetable-spelt-fennel-raw": "Breaded spelt fennel",
+    "item-breadedvegetable-spelt-pickledfennel-raw": "Breaded spelt pickled fennel",
   
     "item-breadedvegetable-spelt-carrot-partbaked": "Fried spelt carrot (part-baked)",
     "item-breadedvegetable-spelt-onion-partbaked": "Fried spelt onion (part-baked)",
@@ -2159,6 +2220,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-partbaked": "Fried spelt pickled parsnip (part-baked)",
     "item-breadedvegetable-spelt-pickledpumpkin-partbaked": "Fried spelt pickled pumpkin (part-baked)",
     "item-breadedvegetable-spelt-cassava-partbaked": "Fried spelt cassava (part-baked)",
+    "item-breadedvegetable-spelt-fennel-partbaked": "Fried spelt fennel (part-baked)",
+    "item-breadedvegetable-spelt-pickledfennel-partbaked": "Fried spelt pickled fennel (part-baked)",
   
     "item-breadedvegetable-spelt-carrot-cooked": "Fried spelt carrot",
     "item-breadedvegetable-spelt-onion-cooked": "Fried spelt onion",
@@ -2174,6 +2237,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-cooked": "Fried spelt pickled parsnip",
     "item-breadedvegetable-spelt-pickledpumpkin-cooked": "Fried spelt pickled pumpkin",
     "item-breadedvegetable-spelt-cassava-cooked": "Fried spelt cassava",
+    "item-breadedvegetable-spelt-fennel-cooked": "Fried spelt fennel",
+    "item-breadedvegetable-spelt-pickledfennel-cooked": "Fried spelt pickled fennel",
   
     "item-breadedvegetable-spelt-carrot-charred": "Fried spelt carrot (charred)",
     "item-breadedvegetable-spelt-onion-charred": "Fried spelt onion (charred)",
@@ -2189,6 +2254,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-charred": "Fried spelt pickled parsnip (charred)",
     "item-breadedvegetable-spelt-pickledpumpkin-charred": "Fried spelt pickled pumpkin (charred)",
     "item-breadedvegetable-spelt-cassava-charred": "Fried spelt cassava (charred)",
+    "item-breadedvegetable-spelt-fennel-charred": "Fried spelt fennel (charred)",
+    "item-breadedvegetable-spelt-pickledfennel-charred": "Fried spelt pickled fennel (charred)",
   
     "item-breadedvegetable-spelt-carrot-syruppartbaked": "Deluxe spelt carrot (part-baked)",
     "item-breadedvegetable-spelt-onion-syruppartbaked": "Deluxe spelt onion (part-baked)",
@@ -2204,6 +2271,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-syruppartbaked": "Deluxe spelt pickled parsnip (part-baked)",
     "item-breadedvegetable-spelt-pickledpumpkin-syruppartbaked": "Deluxe spelt pickled pumpkin (part-baked)",
     "item-breadedvegetable-spelt-cassava-syruppartbaked": "Deluxe spelt cassava (part-baked)",
+    "item-breadedvegetable-spelt-fennel-syruppartbaked": "Deluxe spelt fennel (part-baked)",
+    "item-breadedvegetable-spelt-pickledfennel-syruppartbaked": "Deluxe spelt pickled fennel (part-baked)",
   
     "item-breadedvegetable-spelt-carrot-syrupv": "Deluxe spelt carrot",
     "item-breadedvegetable-spelt-onion-syrupv": "Deluxe spelt onion",
@@ -2219,6 +2288,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-syrupv": "Deluxe spelt pickled parsnip",
     "item-breadedvegetable-spelt-pickledpumpkin-syrupv": "Deluxe spelt pickled pumpkin",
     "item-breadedvegetable-spelt-cassava-syrupv": "Deluxe spelt cassava",
+    "item-breadedvegetable-spelt-fennel-syrupv": "Deluxe spelt fennel",
+    "item-breadedvegetable-spelt-pickledfennel-syrupv": "Deluxe spelt pickled fennel",
   
     "item-breadedvegetable-spelt-carrot-syrupcharred": "Deluxe spelt carrot (charred)",
     "item-breadedvegetable-spelt-onion-syrupcharred": "Deluxe spelt onion (charred)",
@@ -2234,6 +2305,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-syrupcharred": "Deluxe spelt pickled parsnip (charred)",
     "item-breadedvegetable-spelt-pickledpumpkin-syrupcharred": "Deluxe spelt pickled pumpkin (charred)",
     "item-breadedvegetable-spelt-cassava-syrupcharred": "Deluxe spelt cassava (charred)",
+    "item-breadedvegetable-spelt-fennel-syrupcharred": "Deluxe spelt fennel (charred)",
+    "item-breadedvegetable-spelt-pickledfennel-syrupcharred": "Deluxe spelt pickled fennel (charred)",
   
     "item-breadedvegetable-cassava-carrot-raw": "Breaded cassava carrot",
     "item-breadedvegetable-cassava-onion-raw": "Breaded cassava onion",
@@ -2249,6 +2322,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-raw": "Breaded cassava pickled parsnip",
     "item-breadedvegetable-cassava-pickledpumpkin-raw": "Breaded cassava pickled pumpkin",
     "item-breadedvegetable-cassava-cassava-raw": "Breaded cassava",
+    "item-breadedvegetable-cassava-fennel-raw": "Breaded cassava fennel",
+    "item-breadedvegetable-cassava-pickledfennel-raw": "Breaded cassava pickled fennel",
   
     "item-breadedvegetable-cassava-carrot-partbaked": "Fried cassava carrot (part-baked)",
     "item-breadedvegetable-cassava-onion-partbaked": "Fried cassava onion (part-baked)",
@@ -2264,6 +2339,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-partbaked": "Fried cassava pickled parsnip (part-baked)",
     "item-breadedvegetable-cassava-pickledpumpkin-partbaked": "Fried cassava pickled pumpkin (part-baked)",
     "item-breadedvegetable-cassava-cassava-partbaked": "Fried cassava (part-baked)",
+    "item-breadedvegetable-cassava-fennel-partbaked": "Fried cassava fennel (part-baked)",
+    "item-breadedvegetable-cassava-pickledfennel-partbaked": "Fried cassava pickled fennel (part-baked)",
   
     "item-breadedvegetable-cassava-carrot-cooked": "Fried cassava carrot",
     "item-breadedvegetable-cassava-onion-cooked": "Fried cassava onion",
@@ -2279,6 +2356,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-cooked": "Fried cassava pickled parsnip",
     "item-breadedvegetable-cassava-pickledpumpkin-cooked": "Fried cassava pickled pumpkin",
     "item-breadedvegetable-cassava-cassava-cooked": "Fried cassava",
+    "item-breadedvegetable-cassava-fennel-cooked": "Fried cassava fennel",
+    "item-breadedvegetable-cassava-pickledfennel-cooked": "Fried cassava pickled fennel",
   
     "item-breadedvegetable-cassava-carrot-charred": "Fried cassava carrot (charred)",
     "item-breadedvegetable-cassava-onion-charred": "Fried cassava onion (charred)",
@@ -2294,6 +2373,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-charred": "Fried cassava pickled parsnip (charred)",
     "item-breadedvegetable-cassava-pickledpumpkin-charred": "Fried cassava pickled pumpkin (charred)",
     "item-breadedvegetable-cassava-cassava-charred": "Fried cassava (charred)",
+    "item-breadedvegetable-cassava-fennel-charred": "Fried cassava fennel (charred)",
+    "item-breadedvegetable-cassava-pickledfennel-charred": "Fried cassava pickled fennel (charred)",
   
     "item-breadedvegetable-cassava-carrot-syruppartbaked": "Deluxe cassava carrot (part-baked)",
     "item-breadedvegetable-cassava-onion-syruppartbaked": "Deluxe cassava onion (part-baked)",
@@ -2309,6 +2390,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-syruppartbaked": "Deluxe cassava pickled parsnip (part-baked)",
     "item-breadedvegetable-cassava-pickledpumpkin-syruppartbaked": "Deluxe cassava pickled pumpkin (part-baked)",
     "item-breadedvegetable-cassava-cassava-syruppartbaked": "Deluxe cassava (part-baked)",
+    "item-breadedvegetable-cassava-fennel-syruppartbaked": "Deluxe cassava fennel (part-baked)",
+    "item-breadedvegetable-cassava-pickledfennel-syruppartbaked": "Deluxe cassava pickled fennel (part-baked)",
   
     "item-breadedvegetable-cassava-carrot-syrupv": "Deluxe cassava carrot",
     "item-breadedvegetable-cassava-onion-syrupv": "Deluxe cassava onion",
@@ -2324,6 +2407,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-syrupv": "Deluxe cassava pickled parsnip",
     "item-breadedvegetable-cassava-pickledpumpkin-syrupv": "Deluxe cassava pickled pumpkin",
     "item-breadedvegetable-cassava-cassava-syrupv": "Deluxe cassava",
+    "item-breadedvegetable-cassava-fennel-syrupv": "Deluxe cassava fennel",
+    "item-breadedvegetable-cassava-pickledfennel-syrupv": "Deluxe cassava pickled fennel",
   
     "item-breadedvegetable-cassava-carrot-syrupcharred": "Deluxe cassava carrot (charred)",
     "item-breadedvegetable-cassava-onion-syrupcharred": "Deluxe cassava onion (charred)",
@@ -2339,6 +2424,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-syrupcharred": "Deluxe cassava pickled parsnip (charred)",
     "item-breadedvegetable-cassava-pickledpumpkin-syrupcharred": "Deluxe cassava pickled pumpkin (charred)",
     "item-breadedvegetable-cassava-cassava-syrupcharred": "Deluxe cassava (charred)",
+    "item-breadedvegetable-cassava-fennel-syrupcharred": "Deluxe cassava fennel (charred)",
+    "item-breadedvegetable-cassava-pickledfennel-syrupcharred": "Deluxe cassava pickled fennel (charred)",
   
     "item-breadedvegetable-amaranth-carrot-raw": "Breaded amaranth carrot",
     "item-breadedvegetable-amaranth-onion-raw": "Breaded amaranth onion",
@@ -2354,6 +2441,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-raw": "Breaded amaranth pickled parsnip",
     "item-breadedvegetable-amaranth-pickledpumpkin-raw": "Breaded amaranth pickled pumpkin",
     "item-breadedvegetable-amaranth-cassava-raw": "Breaded amaranth cassava",
+    "item-breadedvegetable-amaranth-fennel-raw": "Breaded amaranth fennel",
+    "item-breadedvegetable-amaranth-pickledfennel-raw": "Breaded amaranth pickled fennel",
   
     "item-breadedvegetable-amaranth-carrot-partbaked": "Fried amaranth carrot (part-baked)",
     "item-breadedvegetable-amaranth-onion-partbaked": "Fried amaranth onion (part-baked)",
@@ -2369,6 +2458,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-partbaked": "Fried amaranth pickled parsnip (part-baked)",
     "item-breadedvegetable-amaranth-pickledpumpkin-partbaked": "Fried amaranth pickled pumpkin (part-baked)",
     "item-breadedvegetable-amaranth-cassava-partbaked": "Fried amaranth cassava (part-baked)",
+    "item-breadedvegetable-amaranth-fennel-partbaked": "Fried amaranth fennel (part-baked)",
+    "item-breadedvegetable-amaranth-pickledfennel-partbaked": "Fried amaranth pickled fennel (part-baked)",
   
     "item-breadedvegetable-amaranth-carrot-cooked": "Fried amaranth carrot",
     "item-breadedvegetable-amaranth-onion-cooked": "Fried amaranth onion",
@@ -2384,6 +2475,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-cooked": "Fried amaranth pickled parsnip",
     "item-breadedvegetable-amaranth-pickledpumpkin-cooked": "Fried amaranth pickled pumpkin",
     "item-breadedvegetable-amaranth-cassava-cooked": "Fried amaranth cassava",
+    "item-breadedvegetable-amaranth-fennel-cooked": "Fried amaranth fennel",
+    "item-breadedvegetable-amaranth-pickledfennel-cooked": "Fried amaranth pickled fennel",
   
     "item-breadedvegetable-amaranth-carrot-charred": "Fried amaranth carrot (charred)",
     "item-breadedvegetable-amaranth-onion-charred": "Fried amaranth onion (charred)",
@@ -2399,6 +2492,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-charred": "Fried amaranth pickled parsnip (charred)",
     "item-breadedvegetable-amaranth-pickledpumpkin-charred": "Fried amaranth pickled pumpkin (charred)",
     "item-breadedvegetable-amaranth-cassava-charred": "Fried amaranth cassava (charred)",
+    "item-breadedvegetable-amaranth-fennel-charred": "Fried amaranth fennel (charred)",
+    "item-breadedvegetable-amaranth-pickledfennel-charred": "Fried amaranth pickled fennel (charred)",
   
     "item-breadedvegetable-amaranth-carrot-syruppartbaked": "Deluxe amaranth carrot (part-baked)",
     "item-breadedvegetable-amaranth-onion-syruppartbaked": "Deluxe amaranth onion (part-baked)",
@@ -2414,6 +2509,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-syruppartbaked": "Deluxe amaranth pickled parsnip (part-baked)",
     "item-breadedvegetable-amaranth-pickledpumpkin-syruppartbaked": "Deluxe amaranth pickled pumpkin (part-baked)",
     "item-breadedvegetable-amaranth-cassava-syruppartbaked": "Deluxe amaranth cassava (part-baked)",
+    "item-breadedvegetable-amaranth-fennel-syruppartbaked": "Deluxe amaranth fennel (part-baked)",
+    "item-breadedvegetable-amaranth-pickledfennel-syruppartbaked": "Deluxe amaranth pickled fennel (part-baked)",
   
     "item-breadedvegetable-amaranth-carrot-syrupv": "Deluxe amaranth carrot",
     "item-breadedvegetable-amaranth-onion-syrupv": "Deluxe amaranth onion",
@@ -2429,6 +2526,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-syrupv": "Deluxe amaranth pickled parsnip",
     "item-breadedvegetable-amaranth-pickledpumpkin-syrupv": "Deluxe amaranth pickled pumpkin",
     "item-breadedvegetable-amaranth-cassava-syrupv": "Deluxe amaranth cassava",
+    "item-breadedvegetable-amaranth-fennel-syrupv": "Deluxe amaranth fennel",
+    "item-breadedvegetable-amaranth-pickledfennel-syrupv": "Deluxe amaranth pickled fennel",
   
     "item-breadedvegetable-amaranth-carrot-syrupcharred": "Deluxe amaranth carrot (charred)",
     "item-breadedvegetable-amaranth-onion-syrupcharred": "Deluxe amaranth onion (charred)",
@@ -2444,6 +2543,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-syrupcharred": "Deluxe amaranth pickled parsnip (charred)",
     "item-breadedvegetable-amaranth-pickledpumpkin-syrupcharred": "Deluxe amaranth pickled pumpkin (charred)",
     "item-breadedvegetable-amaranth-cassava-syrupcharred": "Deluxe amaranth cassava (charred)",
+    "item-breadedvegetable-amaranth-fennel-syrupcharred": "Deluxe amaranth fennel (charred)",
+    "item-breadedvegetable-amaranth-pickledfennel-syrupcharred": "Deluxe amaranth pickled fennel (charred)",
   
     "item-breadedvegetable-sunflower-carrot-raw": "Breaded sunflower carrot",
     "item-breadedvegetable-sunflower-onion-raw": "Breaded sunflower onion",
@@ -2459,6 +2560,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-raw": "Breaded sunflower pickled parsnip",
     "item-breadedvegetable-sunflower-pickledpumpkin-raw": "Breaded sunflower pickled pumpkin",
     "item-breadedvegetable-sunflower-cassava-raw": "Breaded sunflower cassava",
+    "item-breadedvegetable-sunflower-fennel-raw": "Breaded sunflower fennel",
+    "item-breadedvegetable-sunflower-pickledfennel-raw": "Breaded sunflower pickled fennel",
   
     "item-breadedvegetable-sunflower-carrot-partbaked": "Fried sunflower carrot (part-baked)",
     "item-breadedvegetable-sunflower-onion-partbaked": "Fried sunflower onion (part-baked)",
@@ -2474,6 +2577,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-partbaked": "Fried sunflower pickled parsnip (part-baked)",
     "item-breadedvegetable-sunflower-pickledpumpkin-partbaked": "Fried sunflower pickled pumpkin (part-baked)",
     "item-breadedvegetable-sunflower-cassava-partbaked": "Fried sunflower cassava (part-baked)",
+    "item-breadedvegetable-sunflower-fennel-partbaked": "Fried sunflower fennel (part-baked)",
+    "item-breadedvegetable-sunflower-pickledfennel-partbaked": "Fried sunflower pickled fennel (part-baked)",
   
     "item-breadedvegetable-sunflower-carrot-cooked": "Fried sunflower carrot",
     "item-breadedvegetable-sunflower-onion-cooked": "Fried sunflower onion",
@@ -2489,6 +2594,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-cooked": "Fried sunflower pickled parsnip",
     "item-breadedvegetable-sunflower-pickledpumpkin-cooked": "Fried sunflower pickled pumpkin",
     "item-breadedvegetable-sunflower-cassava-cooked": "Fried sunflower cassava",
+    "item-breadedvegetable-sunflower-fennel-cooked": "Fried sunflower fennel",
+    "item-breadedvegetable-sunflower-pickledfennel-cooked": "Fried sunflower pickled fennel",
   
     "item-breadedvegetable-sunflower-carrot-charred": "Fried sunflower carrot (charred)",
     "item-breadedvegetable-sunflower-onion-charred": "Fried sunflower onion (charred)",
@@ -2504,6 +2611,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-charred": "Fried sunflower pickled parsnip (charred)",
     "item-breadedvegetable-sunflower-pickledpumpkin-charred": "Fried sunflower pickled pumpkin (charred)",
     "item-breadedvegetable-sunflower-cassava-charred": "Fried sunflower cassava (charred)",
+    "item-breadedvegetable-sunflower-fennel-charred": "Fried sunflower fennel (charred)",
+    "item-breadedvegetable-sunflower-pickledfennel-charred": "Fried sunflower pickled fennel (charred)",
   
     "item-breadedvegetable-sunflower-carrot-syruppartbaked": "Deluxe sunflower carrot (part-baked)",
     "item-breadedvegetable-sunflower-onion-syruppartbaked": "Deluxe sunflower onion (part-baked)",
@@ -2519,6 +2628,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-syruppartbaked": "Deluxe sunflower pickled parsnip (part-baked)",
     "item-breadedvegetable-sunflower-pickledpumpkin-syruppartbaked": "Deluxe sunflower pickled pumpkin (part-baked)",
     "item-breadedvegetable-sunflower-cassava-syruppartbaked": "Deluxe sunflower cassava (part-baked)",
+    "item-breadedvegetable-sunflower-fennel-syruppartbaked": "Deluxe sunflower fennel (part-baked)",
+    "item-breadedvegetable-sunflower-pickledfennel-syruppartbaked": "Deluxe sunflower pickled fennel (part-baked)",
   
     "item-breadedvegetable-sunflower-carrot-syrupv": "Deluxe sunflower carrot",
     "item-breadedvegetable-sunflower-onion-syrupv": "Deluxe sunflower onion",
@@ -2534,6 +2645,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-syrupv": "Deluxe sunflower pickled parsnip",
     "item-breadedvegetable-sunflower-pickledpumpkin-syrupv": "Deluxe sunflower pickled pumpkin",
     "item-breadedvegetable-sunflower-cassava-syrupv": "Deluxe sunflower cassava",
+    "item-breadedvegetable-sunflower-fennel-syrupv": "Deluxe sunflower fennel",
+    "item-breadedvegetable-sunflower-pickledfennel-syrupv": "Deluxe sunflower pickled fennel",
   
     "item-breadedvegetable-sunflower-carrot-syrupcharred": "Deluxe sunflower carrot (charred)",
     "item-breadedvegetable-sunflower-onion-syrupcharred": "Deluxe sunflower onion (charred)",
@@ -2549,6 +2662,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-syrupcharred": "Deluxe sunflower pickled parsnip (charred)",
     "item-breadedvegetable-sunflower-pickledpumpkin-syrupcharred": "Deluxe sunflower pickled pumpkin (charred)",
     "item-breadedvegetable-sunflower-cassava-syrupcharred": "Deluxe sunflower cassava (charred)",
+    "item-breadedvegetable-sunflower-fennel-syrupcharred": "Deluxe sunflower fennel (charred)",
+    "item-breadedvegetable-sunflower-pickledfennel-syrupcharred": "Deluxe sunflower pickled fennel (charred)",
   
     "item-breadedvegetable-flax-carrot-oiled": "Oiled flax carrot",
     "item-breadedvegetable-flax-onion-oiled": "Oiled flax onion",
@@ -2564,6 +2679,8 @@
     "item-breadedvegetable-flax-pickledparsnip-oiled": "Oiled flax pickled parsnip",
     "item-breadedvegetable-flax-pickledpumpkin-oiled": "Oiled flax pickled pumpkin",
     "item-breadedvegetable-flax-cassava-oiled": "Oiled flax cassava",
+    "item-breadedvegetable-flax-fennel-oiled": "Oiled flax fennel",
+    "item-breadedvegetable-flax-pickledfennel-oiled": "Oiled flax pickled fennel",
   
     "item-breadedvegetable-rice-carrot-oiled": "Oiled rice carrot",
     "item-breadedvegetable-rice-onion-oiled": "Oiled rice onion",
@@ -2579,6 +2696,8 @@
     "item-breadedvegetable-rice-pickledparsnip-oiled": "Oiled rice pickled parsnip",
     "item-breadedvegetable-rice-pickledpumpkin-oiled": "Oiled rice pickled pumpkin",
     "item-breadedvegetable-rice-cassava-oiled": "Oiled rice cassava",
+    "item-breadedvegetable-rice-fennel-oiled": "Oiled rice fennel",
+    "item-breadedvegetable-rice-pickledfennel-oiled": "Oiled rice pickled fennel",
   
     "item-breadedvegetable-rye-carrot-oiled": "Oiled rye carrot",
     "item-breadedvegetable-rye-onion-oiled": "Oiled rye onion",
@@ -2594,6 +2713,8 @@
     "item-breadedvegetable-rye-pickledparsnip-oiled": "Oiled rye pickled parsnip",
     "item-breadedvegetable-rye-pickledpumpkin-oiled": "Oiled rye pickled pumpkin",
     "item-breadedvegetable-rye-cassava-oiled": "Oiled rye cassava",
+    "item-breadedvegetable-rye-fennel-oiled": "Oiled rye fennel",
+    "item-breadedvegetable-rye-pickledfennel-oiled": "Oiled rye pickled fennel",
   
     "item-breadedvegetable-spelt-carrot-oiled": "Oiled spelt carrot",
     "item-breadedvegetable-spelt-onion-oiled": "Oiled spelt onion",
@@ -2609,6 +2730,8 @@
     "item-breadedvegetable-spelt-pickledparsnip-oiled": "Oiled spelt pickled parsnip",
     "item-breadedvegetable-spelt-pickledpumpkin-oiled": "Oiled spelt pickled pumpkin",
     "item-breadedvegetable-spelt-cassava-oiled": "Oiled spelt cassava",
+    "item-breadedvegetable-spelt-fennel-oiled": "Oiled spelt fennel",
+    "item-breadedvegetable-spelt-pickledfennel-oiled": "Oiled spelt pickled fennel",
   
     "item-breadedvegetable-cassava-carrot-oiled": "Oiled cassava carrot",
     "item-breadedvegetable-cassava-onion-oiled": "Oiled cassava onion",
@@ -2624,6 +2747,8 @@
     "item-breadedvegetable-cassava-pickledparsnip-oiled": "Oiled cassava pickled parsnip",
     "item-breadedvegetable-cassava-pickledpumpkin-oiled": "Oiled cassava pickled pumpkin",
     "item-breadedvegetable-cassava-cassava-oiled": "Oiled cassava",
+    "item-breadedvegetable-cassava-fennel-oiled": "Oiled cassava fennel",
+    "item-breadedvegetable-cassava-pickledfennel-oiled": "Oiled cassava pickled fennel",
   
     "item-breadedvegetable-amaranth-carrot-oiled": "Oiled amaranth carrot",
     "item-breadedvegetable-amaranth-onion-oiled": "Oiled amaranth onion",
@@ -2639,6 +2764,8 @@
     "item-breadedvegetable-amaranth-pickledparsnip-oiled": "Oiled amaranth pickled parsnip",
     "item-breadedvegetable-amaranth-pickledpumpkin-oiled": "Oiled amaranth pickled pumpkin",
     "item-breadedvegetable-amaranth-cassava-oiled": "Oiled amaranth cassava",
+    "item-breadedvegetable-amaranth-fennel-oiled": "Oiled amaranth fennel",
+    "item-breadedvegetable-amaranth-pickledfennel-oiled": "Oiled amaranth pickled fennel",
   
     "item-breadedvegetable-sunflower-carrot-oiled": "Oiled sunflower carrot",
     "item-breadedvegetable-sunflower-onion-oiled": "Oiled sunflower onion",
@@ -2654,6 +2781,8 @@
     "item-breadedvegetable-sunflower-pickledparsnip-oiled": "Oiled sunflower pickled parsnip",
     "item-breadedvegetable-sunflower-pickledpumpkin-oiled": "Oiled sunflower pickled pumpkin",
     "item-breadedvegetable-sunflower-cassava-oiled": "Oiled sunflower cassava",
+    "item-breadedvegetable-sunflower-fennel-oiled": "Oiled sunflower fennel",
+    "item-breadedvegetable-sunflower-pickledfennel-oiled": "Oiled sunflower pickled fennel",
     "itemdesc-breadedvegetable-*-*-oiled": "Ready for frying!",
 
     "item-breadedball-flax-raw": "Breaded flax balls",
@@ -3531,6 +3660,7 @@
     "game:itemdesc-pressedmash-pumpkin": "Crudely pressed vegetable. Not too appetizing looking, but some animals might still eat this.",
     "game:itemdesc-pressedmash-bellpepper": "Crudely pressed vegetable. Not too appetizing looking, but some animals might still eat this.",
     "game:itemdesc-pressedmash-cassava": "Crudely pressed vegetable. Not too appetizing looking, but some animals might still eat this.",
+    "game:itemdesc-pressedmash-fennel": "Crudely pressed vegetable. Not too appetizing looking, but some animals might still eat this.",
     "game:itemdesc-pressedmash-soyblend": "Crudely pressed blended soy. Not too appetizing looking, but some animals might still eat this.",
     "game:itemdesc-pressedmash-soyslurry": "Crudely pressed soy slurry. Not too appetizing looking, but some animals might still eat this.",
     "game:itemdesc-pressedmash-fish": "Crudely pressed fish. Not too appetizing looking, but some animals might still eat this.",
@@ -3565,6 +3695,8 @@
     "game:item-pressedmash-bellpepper-dry": "Dry bellpepper mash",
     "game:item-pressedmash-cassava-wet": "Wet cassava mash",
     "game:item-pressedmash-cassava-dry": "Dry cassava mash",
+    "game:item-pressedmash-fennel-wet": "Wet fennel mash",
+    "game:item-pressedmash-fennel-dry": "Dry fennel mash",
     "game:item-pressedmash-soyblend-wet": "Wet blended soy mash",
     "game:item-pressedmash-soyblend-dry": "Dry blended soy mash",
     "game:item-pressedmash-soyslurry-wet": "Wet soy slurry mash",

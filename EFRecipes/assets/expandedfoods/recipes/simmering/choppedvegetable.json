@@ -2,7 +2,7 @@
 	{
 		"Ingredients": [
 			{ "type": "item", "code": "game:waterportion", "quantity": 50 },
-			{ "type": "item", "code": "expandedfoods:choppedvegetable-*", "quantity": 1, "name": "vegetable", "allowedVariants": [ "carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "papyrusroot", "cattailroot", "bellpepper" ]}
+			{ "type": "item", "code": "expandedfoods:choppedvegetable-*", "quantity": 1, "name": "vegetable", "allowedVariants": [ "carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "papyrusroot", "cattailroot", "bellpepper", "fennel", "pickledfennel" ]}
 		],
 		"Simmering": {
 			"meltingPoint": 200,

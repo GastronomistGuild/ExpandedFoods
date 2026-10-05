@@ -1161,6 +1161,8 @@
     "pie-single-expandedfoods:choppedvegetable-cassava-raw": "Cassava pie (raw)",
     "pie-single-expandedfoods:choppedvegetable-papyrusroot-raw": "Papyrus root pie (raw)",
     "pie-single-expandedfoods:choppedvegetable-cattailroot-raw": "Cattail root pie (raw)",
+    "pie-single-expandedfoods:choppedvegetable-fennel-raw": "Fennel pie (raw)",
+    "pie-single-expandedfoods:choppedvegetable-pickledfennel-raw": "Pickled fennel pie (raw)",
 
     "pie-single-expandedfoods:choppedvegetable-carrot-partbaked": "Carrot pie (part-baked)",
     "pie-single-expandedfoods:choppedvegetable-cabbage-partbaked": "Cabbage pie (part-baked)",
@@ -1176,6 +1178,8 @@
     "pie-single-expandedfoods:choppedvegetable-cassava-partbaked": "Cassava pie (part-baked)",
     "pie-single-expandedfoods:choppedvegetable-papyrusroot-partbaked": "Papyrus root pie (part-baked)",
     "pie-single-expandedfoods:choppedvegetable-cattailroot-partbaked": "Cattail root pie (part-baked)",
+    "pie-single-expandedfoods:choppedvegetable-fennel-partbaked": "Fennel pie (part-baked)",
+    "pie-single-expandedfoods:choppedvegetable-pickledfennel-partbaked": "Pickled fennel pie (part-baked)",
 
     "pie-single-expandedfoods:choppedvegetable-carrot-perfect": "Carrot pie",
     "pie-single-expandedfoods:choppedvegetable-cabbage-perfect": "Cabbage pie",
@@ -1191,6 +1195,8 @@
     "pie-single-expandedfoods:choppedvegetable-cassava-perfect": "Cassava pie",
     "pie-single-expandedfoods:choppedvegetable-papyrusroot-perfect": "Papyrus root pie",
     "pie-single-expandedfoods:choppedvegetable-cattailroot-perfect": "Cattail root pie",
+    "pie-single-expandedfoods:choppedvegetable-fennel-perfect": "Fennel pie",
+    "pie-single-expandedfoods:choppedvegetable-pickledfennel-perfect": "Pickled fennel pie ",
 
     "pie-single-expandedfoods:choppedvegetable-carrot-charred": "Carrot pie (charred)",
     "pie-single-expandedfoods:choppedvegetable-cabbage-charred": "Cabbage pie (charred)",

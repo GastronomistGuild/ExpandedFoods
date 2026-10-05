@@ -20,22 +20,22 @@
 	"attributesByType": {
 		"*-cassavadried": {		},
         "*-bellpepper": { "texture": "block/food/pie/fill-bellpepper", "partType": "Filling", "mixingCodes": [
-            "vegetable",
-            "bellpepperpeanut","bellpepperwalnut","bellpeppernut","vegetablenut",
-            "bellpeppermushroomblack","bellpeppermushroomblue","bellpeppermushroombrown","bellpeppermushroomdevilstooth","bellpeppermushroomgreen","bellpeppermushroomlobster","bellpeppermushroomoffwhite","bellpeppermushroomorange","bellpeppermushroompink","bellpeppermushroompurple","bellpeppermushroomred","bellpeppermushroomwhite","bellpeppermushroomyellow","bellpeppermushroom","mushroomveg",
-            "soybellpepper", "soyvegetable",
-            "bluebellpepper","cheddarbellpepper","cottagebellpepper","blueveg","cheddarveg","cottageveg","cheeseveg",
-            "bellpepperquiche","vegquiche",
-            "bushmeatbellpepper","poultrybellpepper","redmeatbellpepper","fishbellpepper","bugbellpepper","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
-            "cheesevegmushroom","cheesemeatveg",
-            "soycheeseveg",
-            "meatfruitveg",
-            "meatvegquiche","vegmushroomquiche",
-            "soypotpie",
-            "nutmeatveg",
-            "nutfruitmeatveg",
-            "cheesemeatvegmushroom",
-            "soycheesevegmushroom"]
+              "vegetable",
+              "bellpepperpeanut","bellpepperwalnut","bellpeppernut","vegetablenut",
+              "bellpeppermushroomblack","bellpeppermushroomblue","bellpeppermushroombrown","bellpeppermushroomdevilstooth","bellpeppermushroomgreen","bellpeppermushroomlobster","bellpeppermushroomoffwhite","bellpeppermushroomorange","bellpeppermushroompink","bellpeppermushroompurple","bellpeppermushroomred","bellpeppermushroomwhite","bellpeppermushroomyellow","bellpeppermushroom","mushroomveg",
+              "soybellpepper", "soyvegetable",
+              "bluebellpepper","cheddarbellpepper","cottagebellpepper","blueveg","cheddarveg","cottageveg","cheeseveg",
+              "bellpepperquiche","vegquiche",
+              "bushmeatbellpepper","poultrybellpepper","redmeatbellpepper","fishbellpepper","bugbellpepper","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
+              "cheesevegmushroom","cheesemeatveg",
+              "soycheeseveg",
+              "meatfruitveg",
+              "meatvegquiche","vegmushroomquiche",
+              "soypotpie",
+              "nutmeatveg",
+              "nutfruitmeatveg",
+              "cheesemeatvegmushroom",
+              "soycheesevegmushroom"]
         },
         "*-carrot": {
             "nutritionPropsWhenInMeal": { "satiety": 150, "foodcategory": "Vegetable" },
@@ -194,23 +194,25 @@
             "cheesemeatvegmushroom",
             "soycheesevegmushroom"]
         },        
-        "*-cassava": { "texture": "block/food/pie/fill-cassava", "partType": "Filling", "mixingCodes": [
-          "vegetable",
-          "cassavapeanut","cassavawalnut","cassavanut","vegetablenut",
-          "cassavamushroomblack","cassavamushroomblue","cassavamushroombrown","cassavamushroomdevilstooth","cassavamushroomgreen","cassavamushroomlobster","cassavamushroomoffwhite","cassavamushroomorange","cassavamushroompink","cassavamushroompurple","cassavamushroomred","cassavamushroomwhite","cassavamushroomyellow","cassavamushroom","mushroomveg",
-          "soycassava", "soyvegetable",
-          "bluecassava","cheddarcassava","cottagecassava","blueveg","cheddarveg","cottageveg","cheeseveg",
-          "cassavaquiche","vegquiche",
-          "bushmeatcassava","poultrycassava","redmeatcassava","fishcassava","bugcassava","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
-          "cheesevegmushroom","cheesemeatveg",
-          "soycheeseveg",
-          "meatfruitveg",
-          "meatvegquiche","vegmushroomquiche",
-          "soypotpie",
-          "nutmeatveg",
-          "nutfruitmeatveg",
-          "cheesemeatvegmushroom",
-          "soycheesevegmushroom"]
+        "*-cassava": {
+            "nutritionPropsWhenInMeal": { "satiety": 120, "foodcategory": "Vegetable" },
+            "texture": "block/food/pie/fill-cassava", "partType": "Filling", "mixingCodes": [
+            "vegetable",
+            "cassavapeanut","cassavawalnut","cassavanut","vegetablenut",
+            "cassavamushroomblack","cassavamushroomblue","cassavamushroombrown","cassavamushroomdevilstooth","cassavamushroomgreen","cassavamushroomlobster","cassavamushroomoffwhite","cassavamushroomorange","cassavamushroompink","cassavamushroompurple","cassavamushroomred","cassavamushroomwhite","cassavamushroomyellow","cassavamushroom","mushroomveg",
+            "soycassava", "soyvegetable",
+            "bluecassava","cheddarcassava","cottagecassava","blueveg","cheddarveg","cottageveg","cheeseveg",
+            "cassavaquiche","vegquiche",
+            "bushmeatcassava","poultrycassava","redmeatcassava","fishcassava","bugcassava","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
+            "cheesevegmushroom","cheesemeatveg",
+            "soycheeseveg",
+            "meatfruitveg",
+            "meatvegquiche","vegmushroomquiche",
+            "soypotpie",
+            "nutmeatveg",
+            "nutfruitmeatveg",
+            "cheesemeatvegmushroom",
+            "soycheesevegmushroom"]
         },
 		"*-pickledcarrot": {
 			"nutritionPropsWhenInMeal": { "satiety": 120, "foodcategory": "Vegetable" },
@@ -318,6 +320,46 @@
               "soycheesevegmushroom"]
             }
 		},
+        "*-fennel": {
+          "nutritionPropsWhenInMeal": { "satiety": 75, "foodcategory": "Vegetable" },
+          "inPieProperties": { "texture": "game:block/food/pie/fill-fennel", "partType": "Filling", "mixingCodes": ["vegetable",
+              "fennelpeanut","fennelwalnut","fennelnut","vegetablenut",
+              "fennelmushroomblack","fennelmushroomblue","fennelmushroombrown","fennelmushroomdevilstooth","fennelmushroomgreen","fennelmushroomlobster","fennelmushroomoffwhite","fennelmushroomorange","fennelmushroompink","fennelmushroompurple","fennelmushroomred","fennelmushroomwhite","fennelmushroomyellow","fennelmushroom","mushroomveg",
+              "soyfennel", "soyvegetable",
+              "bluefennel","cheddarfennel","cottagefennel","blueveg","cheddarveg","cottageveg","cheeseveg",
+              "fennelquiche","vegquiche",
+              "bushmeatfennel","poultryfennel","redmeatfennel","fishfennel","bugfennel","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
+              "cheesevegmushroom","cheesemeatveg",
+              "soycheeseveg",
+              "meatfruitveg",
+              "meatvegquiche","vegmushroomquiche",
+              "soypotpie",
+              "nutmeatveg",
+              "nutfruitmeatveg",
+              "cheesemeatvegmushroom",
+              "soycheesevegmushroom" ]
+          }
+        },
+        "*-pickledfennel": {
+          "nutritionPropsWhenInMeal": { "satiety": 60, "foodcategory": "Vegetable" },
+          "inPieProperties": { "texture": "game:block/food/pie/fill-fennel", "partType": "Filling", "mixingCodes": ["vegetable",
+            "fennelpeanut","fennelwalnut","fennelnut","vegetablenut",
+            "fennelmushroomblack","fennelmushroomblue","fennelmushroombrown","fennelmushroomdevilstooth","fennelmushroomgreen","fennelmushroomlobster","fennelmushroomoffwhite","fennelmushroomorange","fennelmushroompink","fennelmushroompurple","fennelmushroomred","fennelmushroomwhite","fennelmushroomyellow","fennelmushroom","mushroomveg",
+            "soyfennel", "soyvegetable",
+            "bluefennel","cheddarfennel","cottagefennel","blueveg","cheddarveg","cottageveg","cheeseveg",
+            "fennelquiche","vegquiche",
+            "bushmeatfennel","poultryfennel","redmeatfennel","fishfennel","bugfennel","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
+            "cheesevegmushroom","cheesemeatveg",
+            "soycheeseveg",
+            "meatfruitveg",
+            "meatvegquiche","vegmushroomquiche",
+            "soypotpie",
+            "nutmeatveg",
+            "nutfruitmeatveg",
+            "cheesemeatvegmushroom",
+            "soycheesevegmushroom" ]
+          }
+        },
 		"*-papyrusroot": {
 			"nutritionPropsWhenInMeal": { "satiety": 150, "foodcategory": "Vegetable" },
             "inPieProperties": { "texture": "game:block/food/pie/fill-roots", "partType": "Filling" }
@@ -332,7 +374,7 @@
 		}
 	},
 	"variantgroups": [
-		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "papyrusroot", "cattailroot", "cassavadried", "bellpepper"] }
+		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "papyrusroot", "cattailroot", "cassavadried", "bellpepper", "fennel","pickledfennel"] }
 	],
 	"shape": { "base": "item/food/veggies/chopped/{type}" },
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
@@ -341,6 +383,8 @@
 		"*-cabbage": { "satiety": 300, "foodcategory": "Vegetable" },
 		"*-pumpkin": { "satiety": 140, "foodcategory": "Vegetable" },
 		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)": { "saturation": 80, "foodcategory": "Vegetable" },
+        "*-fennel": { "satiety": 50, "foodcategory": "Vegetable" },
+        "*-pickledfennel": { "satiety": 40, "foodcategory": "Vegetable" },
 		"choppedvegetable-*": { "satiety": 100, "foodcategory": "Vegetable" }
 	},
 	"combustiblePropsByType": {
@@ -372,7 +416,7 @@
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 0.5
 		}],
-		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)": [{
+		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin|pickledfennel)": [{
 			"type": "Perish",
 			"freshHours": { "avg": 1800 },
 			"transitionHours": { "avg": 240 },
@@ -465,6 +509,12 @@
 			"origin": { "x": 0.45, "y": 0, "z": 0.6 },
 			"scale": 2.5
 		},
+        "@*-(fennel|pickledfennel)": {
+            "translation": { "x": 3, "y": 0, "z": 0 },
+            "rotation": { "x": 133, "y": -70, "z": 0 },
+            "origin": { "x": 0.5, "y": 0.05, "z": 0.5 },
+            "scale": 3
+        },
 		"choppedvegetable-*": {
 			"translation": { "x": 3, "y": 4, "z": 0 },
 			"rotation": { "x": -44, "y": 180, "z": 2 },

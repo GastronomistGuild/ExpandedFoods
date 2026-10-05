@@ -2,7 +2,7 @@
 	"code": "cookedveggie",
 	"maxstacksize": 64,
 	"variantgroups": [
-		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "cattailroot", "papyrusroot", "bellpepper"] },
+		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "pickledcarrot", "pickledonion", "pickledturnip", "pickledparsnip", "pickledpumpkin", "cassava", "cattailroot", "papyrusroot", "bellpepper", "fennel","pickledfennel"] },
 		{ "code": "state", "states": ["partbaked", "perfect", "charred" ] }
 	],
 	"shapeByType": {
@@ -13,6 +13,7 @@
 		"*-pickledpumpkin-*": {"base": "item/food/veggies/pumpkin"},
 		"*-cattailroot-*": {"base": "game:item/food/vegetable/cattailsroot-cooked"},
 		"*-papyrusroot-*": {"base": "game:item/food/vegetable/papyrusroot-cooked"},
+        "*-pickledfennel-*": {"base": "game:item/food/pickledvegetable/fennel"},
 		"cookedveggie-*": { "base": "item/food/veggies/{type}"}
 	},
 	"textures": {
@@ -31,8 +32,9 @@
 		"pickledparsnip": {"base": "item/food/veggie/{state}/pickledparsnip"},
 		"cassava": {"base": "item/food/veggie/{state}/cassava"},
 		"reeds": {"base": "item/food/veggie/{state}/reeds"},
-		"bellpepper": {"base": "item/food/veggie/{state}/bellpepper"}
-	},
+		"bellpepper": {"base": "item/food/veggie/{state}/bellpepper"},
+        "fennel": {"base": "item/food/veggie/{state}/fennel"}
+    },
     "attributes": {
       "displaycaseable": true,
       "shelvable": true,
@@ -154,6 +156,17 @@
 				"initialCode": "game:papyrusroot"
 			}
 		},
+        "*-pickledfennel-partbaked": {
+          "bakingProperties": {
+            "temp": 100,
+            "levelFrom": 0.25,
+            "levelTo": 0.5,
+            "startScaleY": 1.0,
+            "endScaleY": 0.9,
+            "resultCode": "expandedfoods:cookedveggie-pickledfennel-perfect",
+            "initialCode": "game:pickledvegetable-fennel"
+          }
+        },
 		"*-partbaked": {
 			"bakingProperties": {
 				"temp": 100,
@@ -203,16 +216,22 @@
 		"*-cabbage-partbaked": { "satiety": 325, "foodcategory": "Vegetable" },
 		"*-pumpkin-partbaked": { "satiety": 150, "foodcategory": "Vegetable" },
 		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)-partbaked": { "satiety": 90, "foodcategory": "Vegetable" },
+        "*-fennel-partbaked": { "satiety": 55, "foodcategory": "Vegetable" },
+        "*-pickledfennel-partbaked": { "satiety": 45, "foodcategory": "Vegetable" },
 		"cookedveggie-*-partbaked": { "satiety": 110, "foodcategory": "Vegetable" },
 
 		"*-cabbage-perfect": { "satiety": 400, "foodcategory": "Vegetable" },
 		"*-pumpkin-perfect": { "satiety": 200, "foodcategory": "Vegetable" },
 		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)-perfect": { "satiety": 120, "foodcategory": "Vegetable" },
+        "*-fennel-perfect": { "satiety": 70, "foodcategory": "Vegetable" },
+        "*-pickledfennel-perfect": { "satiety": 55, "foodcategory": "Vegetable" },
 		"cookedveggie-*-perfect": { "satiety": 140, "foodcategory": "Vegetable" },
 
 		"*-cabbage-charred": { "satiety": 350, "foodcategory": "Vegetable" },
 		"*-pumpkin-charred": { "satiety": 175, "foodcategory": "Vegetable" },
 		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)-charred": { "satiety": 100, "foodcategory": "Vegetable" },
+        "*-fennel-charred": { "satiety": 60, "foodcategory": "Vegetable" },
+        "*-pickledfennel-charred": { "satiety": 50, "foodcategory": "Vegetable" },
 		"cookedveggie-*-charred": { "satiety": 125, "foodcategory": "Vegetable" }
 	},
 	"guiTransformByType": {
@@ -228,7 +247,7 @@
 			"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
 			"scale": 4.75
 		},
-		"@.*-(onion|pickledonion)-.*": {
+		"@.*-(onion|pickledonion|fennel|pickledfennel)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": -37, "y": 135, "z": -155 },
 			"origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
@@ -275,8 +294,13 @@
 			"rotation": { "x": -37, "y": 135, "z": -155 },
 			"origin": { "x": 0.5, "y": 0.15, "z": 0.5 },
 			"scale": 3
-		}
-	},
+		},
+        "@.*-(fennel|pickledfennel)-.*": {
+            "rotation": { "x": -37, "y": 138, "z": -155 },
+            "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+            "scale": 4
+        }
+    },
 	"tpHandTransformByType": {
 		"*-cabbage-*": {
 			"translation": { "x": -0.7, "y": -0.14, "z": -0.6 },
@@ -290,7 +314,7 @@
             "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
             "scale": 0.88
         },
-		"@.*-(onion|pickledonion)-.*": {
+		"@.*-(onion|pickledonion|fennel|pickledfennel)-.*": {
             "translation": { "x": -0.75, "y": -0.13, "z": -0.57 },
             "rotation": { "x": 0, "y": 0, "z": -67 },
             "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
@@ -344,7 +368,7 @@
 			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
 			"scale": 3.5
 		},
-		"@.*-(carrot|pickledcarrot|onion|pickledonion|parsnip|pickledparsnip)-.*": {
+		"@.*-(carrot|pickledcarrot|onion|pickledonion|parsnip|pickledparsnip|fennel|pickledfennel)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 0, "y": 0, "z": 83 },
 			"origin": { "x": 0.47, "y": 0, "z": 0.5 },
@@ -387,7 +411,7 @@
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 1
 		}],
-        "@*-(pickledcarrot|pickledonion|pickledparsnip-pickledturnip-pickledpumpkin)-(partbaked|perfect)": [{
+        "@*-(pickledcarrot|pickledfennel|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin|pickledfennel)-(partbaked|perfect)": [{
       		"type": "Perish",
       		"freshHours": { "avg": 1800 },
       		"transitionHours": { "avg": 240 },
@@ -422,7 +446,7 @@
 			"transitionedStack": { "type": "item", "code": "game:rot" },
 			"transitionRatio": 1
 		}],
-		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin)-charred": [{
+		"@*-(pickledcarrot|pickledonion|pickledparsnip|pickledturnip|pickledpumpkin|pickledfennel)-charred": [{
 			"type": "Perish",
 			"freshHours": { "avg": 7300 },
 			"transitionHours": { "avg": 400 },
