@@ -143,10 +143,10 @@ HANDBOOK STUFF:
 
 NEW FOOD:
 - Toasted grain added (used to make pilaf, can be added to many foods)
-- Chopped/cooked fennel & pickled fennel added
+- Chopped/cooked fennel & pickled fennel added - DONE!!!
 - Fennel juice & gelatin added
-- Fried fennel added
-- Fennel sushi added
+- Fried fennel added - DONE!!!
+- Fennel sushi added - DONE!!!
 
 BUGFIXES:
 - Bread starter has proper nutrition in doughs now - DONE!!!
