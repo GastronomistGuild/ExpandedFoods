@@ -11,6 +11,7 @@
       { "type": "item", "code": "expandedfoods:vegetablejuiceportion-pumpkin", "shapeElement": "bowl/water", "textureMapping": [ "water", "pumpkinjuice" ] },
       { "type": "item", "code": "expandedfoods:vegetablejuiceportion-cassava", "shapeElement": "bowl/water", "textureMapping": [ "water", "cassavajuice" ] },
       { "type": "item", "code": "expandedfoods:vegetablejuiceportion-bellpepper", "shapeElement": "bowl/water", "textureMapping": [ "water", "bellpepperjuice" ] },
+      { "type": "item", "code": "expandedfoods:vegetablejuiceportion-fennel", "shapeElement": "bowl/water", "textureMapping": [ "water", "bellpepperjuice" ] },
       { "type": "item", "code": "expandedfoods:brothportion-bone", "shapeElement": "bowl/water", "textureMapping": [ "water", "bonebroth" ] },
       { "type": "item", "code": "expandedfoods:brothportion-meat", "shapeElement": "bowl/water", "textureMapping": [ "water", "meatbroth" ] },
       { "type": "item", "code": "expandedfoods:brothportion-vegetable", "shapeElement": "bowl/water", "textureMapping": [ "water", "vegetablebroth" ] },
@@ -80,7 +81,9 @@
         { "type": "item", "code": "expandedfoods:choppedvegetable-bellpepper", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "fruit", "group8" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-cassava", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group11" ] },
         { "type": "item", "code": "expandedfoods:choppedvegetable-cattailroot", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group11" ] },
-        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group11" ] }
+        { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group11" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-fennel", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group28" ] },
+        { "type": "item", "code": "expandedfoods:choppedvegetable-pickledfennel", "shapeElement": "bowl/vegetable base 1/*", "textureMapping": [ "vegetable", "group28" ] }
     ],
     "side": "server",
     "file": "recipes/cooking/soup.json"
@@ -142,7 +145,9 @@
       { "type": "item", "code": "expandedfoods:choppedvegetable-bellpepper", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "fruit", "group8" ] },
       { "type": "item", "code": "expandedfoods:choppedvegetable-cassava", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group11" ] },
       { "type": "item", "code": "expandedfoods:choppedvegetable-cattailroot", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group11" ] },
-      { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group11" ] }
+      { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group11" ] },
+      { "type": "item", "code": "expandedfoods:choppedvegetable-fennel", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group28" ] },
+      { "type": "item", "code": "expandedfoods:choppedvegetable-pickledfennel", "shapeElement": "bowl/vegetable base 2/*", "textureMapping": [ "vegetable", "group28" ] }
     ], 
     "side": "server",
     "file": "recipes/cooking/soup.json"
@@ -203,7 +208,9 @@
       { "type": "item", "code": "expandedfoods:choppedvegetable-bellpepper", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "fruit", "group8" ] },
       { "type": "item", "code": "expandedfoods:choppedvegetable-cassava", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group11" ] },
       { "type": "item", "code": "expandedfoods:choppedvegetable-cattailroot", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group11" ] },
-      { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group11" ] }
+      { "type": "item", "code": "expandedfoods:choppedvegetable-papyrusroot", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group11" ] },
+      { "type": "item", "code": "expandedfoods:choppedvegetable-fennel", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group28" ] },
+      { "type": "item", "code": "expandedfoods:choppedvegetable-pickledfennel", "shapeElement": "bowl/vegetable base 3/*", "textureMapping": [ "vegetable", "group28" ] }
     ],
     "side": "server",
     "file": "recipes/cooking/soup.json"

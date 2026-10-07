@@ -7,7 +7,7 @@
 		"*-liquid": "liquid"
 	},
 	"variantgroups": [
-		{ "code": "type", "states": ["liquid", "raw", "plain", "carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "birch", "maple", "soy", "honey", "cassava", "bellpepper", "apple", "blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal"] }
+		{ "code": "type", "states": ["liquid", "raw", "plain", "carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "birch", "maple", "soy", "honey", "cassava", "bellpepper", "apple", "blueberry", "cranberry", "redcurrant", "whitecurrant", "blackcurrant", "saguaro", "pineapple", "cherry", "peach", "pear", "orange", "mango", "breadfruit", "lychee", "pomegranate", "beautyberry", "blackberry", "cloudberry", "raspberry", "strawberry", "cactusfruit", "gooseberry", "guava", "kumquat", "plumnatal", "fennel"] }
 	],
 	"attributes": {
 		"displaycaseable": true,
@@ -52,7 +52,7 @@
 		"*": { "base": "game:item/gelatin/{type}" }
 	},
 	"nutritionPropsByType": {
-		"@*-(pumpkin|parsnip|turnip|onion|cabbage|carrot|cassava|bellpepper)": { "saturation": 200, "health": 3, "foodcategory": "Vegetable" },
+		"@*-(pumpkin|parsnip|turnip|onion|cabbage|carrot|cassava|bellpepper|fennel)": { "saturation": 200, "health": 3, "foodcategory": "Vegetable" },
 		"*-vegetablemix": { "saturation": 230, "health": 5, "foodcategory": "Vegetable" },
 		"*-fruitmix": { "saturation": 230, "health": 5, "foodcategory": "Fruit" },
 		"*-saguaro": { "saturation": 200, "health": 4, "foodcategory": "Fruit" },

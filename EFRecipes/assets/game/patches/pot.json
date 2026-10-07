@@ -813,6 +813,13 @@
   },
   {
     "op": "addmerge",
+    "path": "/attributesByType/claypot-blue-cooked/textureMapping/expandedfoods:vegetablejuiceportion-fennel",
+    "value": [ "water", "fenneljuice" ],
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
     "path": "/textures/cabbagejuice",
     "value": { "base": "item/liquid/cabbage" },
     "side": "server",
@@ -864,6 +871,13 @@
     "op": "addmerge",
     "path": "/textures/bellpepperjuice",
     "value": { "base": "item/liquid/bellpepper" },
+    "side": "server",
+    "file": "blocktypes/clay/fired/pot.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/textures/fenneljuice",
+    "value": { "base": "item/liquid/fennel" },
     "side": "server",
     "file": "blocktypes/clay/fired/pot.json"
   },

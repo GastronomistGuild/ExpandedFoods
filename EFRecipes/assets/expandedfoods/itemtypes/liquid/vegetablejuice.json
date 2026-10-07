@@ -3,7 +3,7 @@
 	"class": "ItemLiquidPortion",
 	"matterState": "liquid",
 	"variantgroups": [
-		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "cassava", "bellpepper"] }
+		{ "code": "type", "states": ["carrot", "cabbage", "onion", "turnip", "parsnip", "pumpkin", "cassava", "bellpepper", "fennel"] }
 	],
 	"attributes": {
 		"handbook": {

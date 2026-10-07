@@ -145,7 +145,7 @@ HANDBOOK STUFF:
 NEW FOOD:
 - Toasted grain added (used to make pilaf, can be added to many foods)
 - Chopped/cooked fennel & pickled fennel added - DONE!!!
-- Fennel juice & gelatin added
+- Fennel juice & gelatin added - DONE!!!
 - Fried fennel added - DONE!!!
 - Fennel sushi added - DONE!!!
 
