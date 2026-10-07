@@ -137,6 +137,7 @@ EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2):
 - EF-specific pie combinations added
 - Pie toppings added! Yummy!
+- Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!) - DONE!!!
 
 HANDBOOK STUFF: 
 - Items used to make broth now say so in their item description
