@@ -1,0 +1,16 @@
+{
+  "Ingredients": [
+    { "type": "item", "code": "game:grain-*", "quantity": 1, "name": "type" },
+    { "type": "item", "code": "game:grain-*", "quantity": 1, "name": "type" },
+    { "type": "item", "code": "game:grain-*", "quantity": 1, "name": "type" },
+    { "type": "item", "code": "game:grain-*", "quantity": 1, "name": "type" }
+  ],
+  "Simmering": {
+    "meltingPoint": 200,
+    "meltingDuration": 48,
+    "smeltedRatio": 1,
+    "smeltingType": "bake",
+    "smeltedStack": { "type": "item", "code": "expandedfoods:roastedgrain-{type}", "quantity": 4 },
+    "requiresContainer": false
+  }
+}

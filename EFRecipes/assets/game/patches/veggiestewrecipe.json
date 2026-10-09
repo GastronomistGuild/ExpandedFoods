@@ -373,7 +373,10 @@
     "path": "/ingredients/5",
     "value": {
       "code": "breadcrumbs-extra",
-      "validStacks": [ { "type": "item", "code": "expandedfoods:breadcrumbs-*" } ],
+      "validStacks": [ 
+        { "type": "item", "code": "expandedfoods:breadcrumbs-*" },
+        { "type": "item", "code": "expandedfoods:roastedgrain-*" }
+      ],
       "minQuantity": 0,
       "maxQuantity": 1,
       "typeName": "breadcrumbs"

@@ -139,11 +139,10 @@ THE PIESPLOSION UPDATE (PART 2):
 - Pie toppings added! Yummy!
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!) - DONE!!!
 
-HANDBOOK STUFF: 
-- Items used to make broth now say so in their item description
-
 NEW FOOD:
-- Toasted grain added (used to make pilaf, can be added to many foods)
+- Roasted grains added (used to make pilaf, can be added to many meals) - DONE!!!
+- New additions to candy, fruit bars, gozinaki, trail mix - DONE!!!
+- Roasted peanut textures added for candy - DONE!!!
 - Chopped/cooked fennel & pickled fennel added - DONE!!!
 - Fennel juice & gelatin added - DONE!!!
 - Fried fennel added - DONE!!!
@@ -151,6 +150,7 @@ NEW FOOD:
 
 BUGFIXES:
 - Bread starter has proper nutrition in doughs now - DONE!!!
+- All dried fruits can be used in porridge - DONE!!!
 
 
 2.0.0-dev.15

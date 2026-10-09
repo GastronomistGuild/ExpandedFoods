@@ -68,5 +68,19 @@
     "value": { "groupBy": ["grain-*"] },
     "side": "server",
     "file": "game:itemtypes/food/grain.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/bakingProperties",
+    "value": {
+      "temp": 100,
+      "levelFrom": 0.0,
+      "levelTo": 0.5,
+      "startScaleY": 1.0,
+      "endScaleY": 0.8,
+      "resultCode": "expandedfoods:roastedgrain-{type}"
+    },
+    "side": "server",
+    "file": "game:itemtypes/food/grain.json"
   }
 ]

@@ -561,5 +561,20 @@
     "side": "server",
     "file": "game:recipes/cooking/scrambledeggs.json",
     "dependsOn": [{ "modid": "moreanimals" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/ingredients/13",
+    "value": {
+      "code": "roastedgrain-extra",
+      "validStacks": [
+        { "type": "item", "code": "expandedfoods:roastedgrain-*" }
+      ],
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "typeName": "roastedgrain"
+    },
+    "side": "server",
+    "file": "game:recipes/cooking/scrambledeggs.json"
   }
 ]

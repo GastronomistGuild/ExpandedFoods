@@ -4,7 +4,7 @@
 	"variantgroups": [
 		{
 			"code": "type",
-			"states": [ "peanut", "sunflower" ]
+			"states": [ "peanut", "sunflower", "roastedsunflower" ]
 		},
 		{
 			"code": "states",
@@ -27,6 +27,7 @@
 		"expandedNutritionPropsByType": {
 			"*": {
       			"game:grain-sunflower" : { "saturation": 0, "foodcategory": "Grain" },
+                "expandedfoods:roastedgrain-sunflower" : { "saturation": 0, "foodcategory": "Grain" },
       			"game:acorn-meal" : { "saturation": 0, "foodcategory": "Protein" },
       			"game:honeyportion" : { "saturation": 4, "foodcategory": "Fruit" },
       			"game:salt" : { "saturation": 0, "health": 0.5, "foodcategory": "Fruit" },
@@ -55,6 +56,11 @@
 	},
 	"materialDensity": 600,
 	"nutritionPropsByType": {
+            "*-roastedsunflower-raw": {
+              "saturation": 225,
+              "health": 0.5,
+              "foodcategory": "Grain"
+            },
 			"*-sunflower-raw": {
 				"saturation": 200,
 				"health": 0.5,
@@ -70,7 +76,7 @@
 			"*": "holdbothhands"
 	},
 	"guiTransformByType": {
-			"*-sunflower-*": {
+			"@.*-(sunflower|roastedsunflower)-.*": {
 				"translation": { "x": -1, "y": 3, "z": 0 },
 				"rotation": { "x": -43, "y": 60, "z": -180 },
 				"origin": { "x": 0.6, "y": 0.1, "z": 0.5 },
@@ -92,7 +98,7 @@
 			}
 	},
 	"tpHandTransformByType": {
-		"*-sunflower-*": {
+		"@.*-(sunflower|roastedsunflower)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 12, "y": 27, "z": -92 },
 			"origin": { "x": -0.05, "y": 0.2, "z": 0.25 },

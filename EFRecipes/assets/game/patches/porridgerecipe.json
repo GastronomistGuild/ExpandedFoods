@@ -20,7 +20,17 @@
       { "type": "item", "code": "expandedfoods:dryfruit-mango", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-mango" ] },
       { "type": "item", "code": "expandedfoods:dryfruit-breadfruit", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-breadfruit" ] },
       { "type": "item", "code": "expandedfoods:dryfruit-lychee", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-lychee" ] },
-      { "type": "item", "code": "expandedfoods:dryfruit-pomegranate", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-pomegranate" ] }
+      { "type": "item", "code": "expandedfoods:dryfruit-pomegranate", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-pomegranate" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-beautyberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-beautyberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-blackberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-blackberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-cactusfruit", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-cactusfruit" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-cloudberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-cloudberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-gooseberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-gooseberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-guava", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-guava" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-kumquat", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-kumquat" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-plumnatal", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-plumnatal" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-raspberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-raspberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-strawberry", "shapeElement": "bowl/fruit 1/*", "textureMapping": [ "fruit", "fruit-strawberry" ] }
     ],
     "side": "server",
     "file": "recipes/cooking/porridge.json"
@@ -46,7 +56,17 @@
       { "type": "item", "code": "expandedfoods:dryfruit-mango", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-mango" ] },
       { "type": "item", "code": "expandedfoods:dryfruit-breadfruit", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-breadfruit" ] },
       { "type": "item", "code": "expandedfoods:dryfruit-lychee", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-lychee" ] },
-      { "type": "item", "code": "expandedfoods:dryfruit-pomegranate", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-pomegranate" ] }
+      { "type": "item", "code": "expandedfoods:dryfruit-pomegranate", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-pomegranate" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-beautyberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-beautyberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-blackberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-blackberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-cactusfruit", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-cactusfruit" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-cloudberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-cloudberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-gooseberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-gooseberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-guava", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-guava" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-kumquat", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-kumquat" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-plumnatal", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-plumnatal" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-raspberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-raspberry" ] },
+      { "type": "item", "code": "expandedfoods:dryfruit-strawberry", "shapeElement": "bowl/fruit 2/*", "textureMapping": [ "fruit", "fruit-strawberry" ] }
     ],
     "side": "server",
     "file": "recipes/cooking/porridge.json"
@@ -403,6 +423,21 @@
       "minQuantity": 0,
       "maxQuantity": 1,
       "typeName": "salt"
+    },
+    "side": "server",
+    "file": "recipes/cooking/porridge.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/ingredients/10",
+    "value": {
+      "code": "roastedgrain-extra",
+      "validStacks": [
+        { "type": "item", "code": "expandedfoods:roastedgrain-*" }
+      ],
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "typeName": "roastedgrain"
     },
     "side": "server",
     "file": "recipes/cooking/porridge.json"

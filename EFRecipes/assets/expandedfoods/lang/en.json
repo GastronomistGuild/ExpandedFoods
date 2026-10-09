@@ -61,6 +61,18 @@
     "item-handbooktitle-breadcrumbs": "Bread Crumbs",
     "item-handbooktext-breadcrumbs": "Crumbled bread, the ideal breading for any fried food. When eaten in a meal, a singular handful of crumbs is as nutritious as 1/4th of a basic loaf of bread.",
 
+    "item-roastedgrain-spelt": "Roasted spelt grain",
+    "item-roastedgrain-rye": "Roasted rye grain",
+    "item-roastedgrain-flax": "Roasted flax grain",
+    "item-roastedgrain-rice": "Roasted rice grain",
+    "item-roastedgrain-cassava": "Roasted cassava grain",
+    "item-roastedgrain-amaranth": "Roasted amaranth grain",
+    "item-roastedgrain-sunflower": "Roasted sunflower grain",
+  
+    "itemdesc-roastedgrain-*": "Roasting grains results in a more savory flavor while aiding digestion. Yum!",
+    "item-handbooktitle-roastedgrain": "Roasted Grains",
+    "item-handbooktext-roastedgrain": "Once roasted, grains can be added to almost any meal. Additionally, it makes squeezing oil out even easier, so you need less grain to get the same amount of oil. It's easier to roast them in a saucepan than the oven.",
+
   
   
   //Basic Ingredients - Nuts
@@ -1563,6 +1575,7 @@
 
     "item-candy-peanut-raw": "Peanut candy",
     "item-candy-sunflower-raw": "Sunflower candy",
+    "item-candy-roastedsunflower-raw": "Roasted sunflower candy",
     "item-candy-acorn-raw": "Acorn candy",
     "item-handbooktitle-candy": "Confectionery",
     "item-handbooktext-candy": "Making candy is a relatively easy process. Start by <a href=\"handbook://kneadingmixingguide\">kneading</a> a sweetener, such as honey or syrup, with either peanut paste or sunflower grain... and you're done! Adding salt imparts a little extra healing, on top of the healing provided by all the sugar.",

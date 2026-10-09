@@ -1,0 +1,91 @@
+{
+    "code": "roastedgrain",
+    "maxstacksize": 64,
+    "behaviors": [
+      { "name": "GroundStorable", "properties": { "layout": "Quadrants", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
+    ],
+    "attributes": {
+      "displaycaseable": true,
+      "shelvable": true,
+      "inContainerTexture": { "base": "game:block/food/grain/{type}" },
+      "groundStorageTransform": {
+        "translation": { "x": 0.025, "y": -0.075, "z": 0.025 },
+        "scale": 0.86
+      },
+      "inTrapTransform": { "translation": { "x": 0, "y": 0.058, "z": 0 }},
+      "foodTags": ["grain", "{type}"],
+      "handbook": {
+        "groupBy": ["expandedfoods:roastedgrain-*"],
+        "extraSections": [{ "title": "expandedfoods:item-handbooktitle-roastedgrain", "text": "expandedfoods:item-handbooktext-roastedgrain" }]
+      },
+      "juiceablePropertiesByType": {
+        "@*-(flax|rice|sunflower)": { 
+          "litresPerItem": 0.15625,
+          "liquidStack": {
+            "type": "item",
+            "code": "expandedfoods:foodoilportion-{type}",
+            "stacksize": 1
+          },
+          "pressedStack": {
+            "type": "item",
+            "code": "game:pressedmash-{type}",
+            "stacksize": 1
+          }
+        }
+      },
+      "nutritionPropsWhenInMeal": {
+        "satietyByType": {
+          "*-flax": 130,
+          "*-rice": 310,
+          "*": 265
+        },
+        "foodcategory": "Grain"
+      },
+      "bakingProperties": {
+          "temp": 100,
+          "levelFrom": 0.5,
+          "levelTo": 1.0,
+          "startScaleY": 0.8,
+          "endScaleY": 0.8,
+          "initialCode": "game:grain-{type}"
+      }
+    },
+    "variantgroups": [
+      { "code": "type", "states": ["spelt", "rice", "flax", "rye", "amaranth", "sunflower" ] }
+    ],
+    "texture": { "base": "block/food/grain/{type}-pile" },
+    "shape": { "base": "game:item/resource/crushed/normal"  },
+    "creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+    "nutritionProps": {
+      "satietyByType": {
+        "*-flax": 35,
+        "*-rice": 85,
+        "*": 65
+      },
+      "foodcategory": "Grain"
+    },
+    "materialDensity": 600,
+    "guiTransform": {
+      "rotation": { "x": 171, "y": 57, "z": -20 },
+      "origin": { "x": 0.46, "y": 0.11, "z": 0.46 },
+      "scale": 2.64
+    },
+    "tpHandTransform": {
+      "translation": { "x": -0.04, "y": -0.6, "z": -0.8 },
+      "rotation": { "x": 119, "y": -7, "z": -72 },
+      "origin": { "x": -0.1, "y": 0.32, "z": 0.82 },
+      "scale": 0.48
+    },
+    "groundTransform": {
+      "translation": { "x": 0, "y": 0, "z": 0 },
+      "rotation": { "x": 3, "y": 1, "z": 0 },
+      "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+      "scale": 3
+    },
+    "heldRightReadyAnimationByType": {
+      "*": "holdbothhands"
+    },
+    "heldTpIdleAnimationByType": {
+      "*": "holdbothhands"
+    }
+}

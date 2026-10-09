@@ -25,14 +25,16 @@
       			"expandedfoods:acornportion" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
       			"expandedfoods:peanut-cooked" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
       			"expandedfoods:peanut-kernels" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
-      			"game:grain-sunflower" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json"
+      			"game:grain-sunflower" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
+                "expandedfoods:roastedgrain-*" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json"
 			},
 			"*-mashed": {
       			"game:legume-peanut" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json",
       			"expandedfoods:acornportion" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json",
       			"expandedfoods:peanut-cooked" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json",
       			"expandedfoods:peanut-kernels" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json",
-      			"game:grain-sunflower" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json"
+      			"game:grain-sunflower" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json",
+                "expandedfoods:roastedgrain-*" : "expandedfoods:shapes/item/food/gozinaki/gozinakimashed.json"
 			},
 			"*-syrup": {
       			"game:legume-peanut" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
@@ -40,6 +42,7 @@
       			"expandedfoods:peanut-cooked" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
       			"expandedfoods:peanut-kernels" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
 				"game:grain-sunflower": "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
+                "expandedfoods:roastedgrain-*" : "expandedfoods:shapes/item/food/gozinaki/gozinakicooked.json",
 				"expandedfoods:peanutliquid-paste": { "shape": "expandedfoods:shapes/item/food/gozinaki/syrup.json", "textureMap": { "syrup": "peanutbutter" } },
 				"expandedfoods:treesyrupportion-birch": { "shape": "expandedfoods:shapes/item/food/gozinaki/syrup.json", "textureMap": { "syrup": "weaktannin" } },
 				"expandedfoods:treesyrupportion-maple": { "shape": "expandedfoods:shapes/item/food/gozinaki/syrup.json", "textureMap": { "syrup": "strongtannin" } },
