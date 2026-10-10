@@ -22,7 +22,7 @@
 				"stack": { "type": "item", "code": "expandedfoods:vegetablejuiceportion-{type}" }
 			},
 			"nutritionPropsPerLitre": { "satiety": 200, "foodcategory": "Vegetable" },
-			"nutritionPropsPerLitreWhenInMeal": { "satiety": 3000, "foodcategory": "Vegetable" }
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 300, "foodcategory": "Vegetable" }
 		}
 	},
 	"transitionableProps": [{
