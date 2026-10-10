@@ -25,7 +25,7 @@
 			},
 			"nutritionPropsPerLitreWhenInMealByType": {
 				"@*-(plain|birch|maple|honey|apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate)":
-				{ "satiety": 1500, "Health": 50, "foodcategory": "Dairy" }
+				{ "satiety": 400, "Health": 14, "foodcategory": "Dairy" }
 			}
 		},
 		"expandedNutritionPropsByType": {

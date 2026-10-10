@@ -29,7 +29,7 @@
 				}
 			},
 			"nutritionPropsPerLitreByType": {
-				"*-paste":  {	"satiety": 3200, "foodcategory": "Protein" },
+				"*-paste":  {	"satiety": 320, "foodcategory": "Protein" },
 				"*":  {	"satiety": 0, "foodcategory": "NoNutrition" }
 			}
 		},

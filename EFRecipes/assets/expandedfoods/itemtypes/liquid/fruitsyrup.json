@@ -23,7 +23,7 @@
 		},
 		"waterTightContainerProps": {
             "nutritionPropsPerLitreWhenInMeal": {
-                "satiety": 1200,
+                "satiety": 120,
                 "healthByType": {
                     "*-saguaro": 20,
                     "*": 10
