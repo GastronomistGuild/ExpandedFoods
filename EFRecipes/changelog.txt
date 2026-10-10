@@ -132,25 +132,31 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
-2.0.0-dev.16
+2.0.0-dev.17
 EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2):
 - EF-specific pie combinations added
 - Pie toppings added! Yummy!
-- Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!) - DONE!!!
+
+- Heal over time implemented
+
+- Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
+
+2.0.0-dev.16
+- Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)
 
 NEW FOOD:
-- Roasted grains added (used to make pilaf, can be added to many meals) - DONE!!!
-- New additions to candy, fruit bars, gozinaki, trail mix - DONE!!!
-- Roasted peanut textures added for candy - DONE!!!
-- Chopped/cooked fennel & pickled fennel added - DONE!!!
-- Fennel juice & gelatin added - DONE!!!
-- Fried fennel added - DONE!!!
-- Fennel sushi added - DONE!!!
+- Roasted grains added (used to make pilaf, can be added to many meals)
+- New additions to candy, fruit bars, gozinaki, trail mix
+- Roasted peanut textures added for candy
+- Chopped/cooked fennel & pickled fennel added
+- Fennel juice & gelatin added
+- Fried fennel added
+- Fennel sushi added
 
 BUGFIXES:
-- Bread starter has proper nutrition in doughs now - DONE!!!
-- All dried fruits can be used in porridge - DONE!!!
+- Bread starter has proper nutrition in doughs now
+- All dried fruits can be used in porridge
 
 
 2.0.0-dev.15

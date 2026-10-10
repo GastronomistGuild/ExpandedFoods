@@ -288,8 +288,7 @@
       "code": "breadcrumbs-extra",
       "validStacks": [
         { "type": "item", "code": "grain-*" },
-        { "type": "item", "code": "expandedfoods:breadcrumbs-*" },
-        { "type": "item", "code": "expandedfoods:roastedgrain-*" }
+        { "type": "item", "code": "expandedfoods:breadcrumbs-*" }
       ],
       "minQuantity": 0,
       "maxQuantity": 1,
