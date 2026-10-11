@@ -141,6 +141,9 @@ THE PIESPLOSION UPDATE (PART 2):
 - Heal over time implemented
 
 - Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
+- Liquid nutrition in meals corrected - DONE!!!
+- Roasted grain now expires (whoops)
+- Soy milk changed back to dairy. Gameplay over realism here, sorry!
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)

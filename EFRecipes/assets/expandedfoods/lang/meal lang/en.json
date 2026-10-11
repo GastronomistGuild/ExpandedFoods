@@ -2202,6 +2202,7 @@
 
 
   //Liquids - Broths
+    "recipeingredient-item-brothportion-bone": "bone broth",
     "recipeingredient-item-brothportion-bone-insturmentalcase": "bone broth",
     "game:meal-ingredient-stew-primary-brothportion-bone": "bone broth",
     "game:meal-ingredient-stew-secondary-brothportion-bone": "bone broth",
@@ -2209,50 +2210,57 @@
     "game:meal-ingredient-soup-secondary-brothportion-bone": "bone broth",
     "game:recipeingredient-item-brothportion-bone": "bone broth",
 
-    "game:recipeingredient-item-brothportion-vegetable": "vegetable broth",
+    "recipeingredient-item-brothportion-vegetable": "vegetable broth",
     "recipeingredient-item-brothportion-vegetable-insturmentalcase": "vegetable broth",
+    "game:recipeingredient-item-brothportion-vegetable": "vegetable broth",
     "game:meal-ingredient-stew-primary-brothportion-vegetable": "vegetable broth",
     "game:meal-ingredient-stew-secondary-brothportion-vegetable": "vegetable broth",
     "game:meal-ingredient-soup-primary-brothportion-vegetable": "vegetable broth",
     "game:meal-ingredient-soup-secondary-brothportion-vegetable": "vegetable broth",
 
-    "game:recipeingredient-item-brothportion-meat": "meat broth",
+    "recipeingredient-item-brothportion-meat": "meat broth",
     "recipeingredient-item-brothportion-meat-insturmentalcase": "meat broth",
+    "game:recipeingredient-item-brothportion-meat": "meat broth",
     "game:meal-ingredient-stew-primary-brothportion-meat": "meat broth",
     "game:meal-ingredient-stew-secondary-brothportion-meat": "meat broth",
     "game:meal-ingredient-soup-primary-brothportion-meat": "meat broth",
     "game:meal-ingredient-soup-secondary-brothportion-meat": "meat broth",
 
-    "game:recipeingredient-item-brothportion-fish": "seafood broth",
+    "recipeingredient-item-brothportion-fish": "seafood broth",
     "recipeingredient-item-brothportion-fish-insturmentalcase": "seafood broth",
+    "game:recipeingredient-item-brothportion-fish": "seafood broth",
     "game:meal-ingredient-stew-primary-brothportion-fish": "seafood broth",
     "game:meal-ingredient-stew-secondary-brothportion-fish": "seafood broth",
     "game:meal-ingredient-soup-primary-brothportion-fish": "seafood broth",
     "game:meal-ingredient-soup-secondary-brothportion-fish": "seafood broth",
 
-    "game:recipeingredient-item-clarifiedbrothportion-bone": "clarified bone broth",
+    "recipeingredient-item-clarifiedbrothportion-bone": "clarified bone broth",
     "recipeingredient-item-clarifiedbrothportion-bone-insturmentalcase": "clarified bone broth",
+    "game:recipeingredient-item-clarifiedbrothportion-bone": "clarified bone broth",
     "game:meal-ingredient-stew-primary-clarifiedbrothportion-bone": "clarified bone broth",
     "game:meal-ingredient-stew-secondary-clarifiedbrothportion-bone": "clarified bone broth",
     "game:meal-ingredient-soup-primary-clarifiedbrothportion-bone": "clarified bone broth",
     "game:meal-ingredient-soup-secondary-clarifiedbrothportion-bone": "clarified bone broth",
-  
-    "game:recipeingredient-item-clarifiedbrothportion-vegetable": "clarified vegetable broth",
+
+    "recipeingredient-item-clarifiedbrothportion-vegetable": "clarified vegetable broth",
     "recipeingredient-item-clarifiedbrothportion-vegetable-insturmentalcase": "clarified vegetable broth",
+    "game:recipeingredient-item-clarifiedbrothportion-vegetable": "clarified vegetable broth",
     "game:meal-ingredient-stew-primary-clarifiedbrothportion-vegetable": "clarified vegetable broth",
     "game:meal-ingredient-stew-secondary-clarifiedbrothportion-vegetable": "clarified vegetable broth",
     "game:meal-ingredient-soup-primary-clarifiedbrothportion-vegetable": "clarified vegetable broth",
     "game:meal-ingredient-soup-secondary-clarifiedbrothportion-vegetable": "clarified vegetable broth",
-  
-    "game:recipeingredient-item-clarifiedbrothportion-meat": "clarified meat broth",
+
+    "recipeingredient-item-clarifiedbrothportion-meat": "clarified meat broth",
     "recipeingredient-item-clarifiedbrothportion-meat-insturmentalcase": "clarified meat broth",
+    "game:recipeingredient-item-clarifiedbrothportion-meat": "clarified meat broth",
     "game:meal-ingredient-stew-primary-clarifiedbrothportion-meat": "clarified meat broth",
     "game:meal-ingredient-stew-secondary-clarifiedbrothportion-meat": "clarified meat broth",
     "game:meal-ingredient-soup-primary-clarifiedbrothportion-meat": "clarified meat broth",
     "game:meal-ingredient-soup-secondary-clarifiedbrothportion-meat": "clarified meat broth",
-  
-    "game:recipeingredient-item-clarifiedbrothportion-fish": "clarified seafood broth",
+
+    "recipeingredient-item-clarifiedbrothportion-fish": "clarified seafood broth",
     "recipeingredient-item-clarifiedbrothportion-fish-insturmentalcase": "clarified seafood broth",
+    "game:recipeingredient-item-clarifiedbrothportion-fish": "clarified seafood broth",
     "game:meal-ingredient-stew-primary-clarifiedbrothportion-fish": "clarified seafood broth",
     "game:meal-ingredient-stew-secondary-clarifiedbrothportion-fish": "clarified seafood broth",
     "game:meal-ingredient-soup-primary-clarifiedbrothportion-fish": "clarified seafood broth",

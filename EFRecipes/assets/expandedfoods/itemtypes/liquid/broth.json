@@ -26,23 +26,11 @@
 				"*-vegetable": { "satiety": 100, "health": 1, "foodcategory": "Vegetable" },
 				"*-meat": { "satiety": 125, "health": 1, "foodcategory": "Protein" }
 			},
-			"nutritionPropsPerLitreWhenInMealByType": {
-				"@*-(bone|fish)": {
-					"satiety": 1000,
-					"health": 10,
-					"foodcategory": "Protein"
-				},
-				"*-vegetable": {
-					"satiety": 1000,
-					"health": 10,
-					"foodcategory": "Vegetable"
-				},
-				"*-meat": {
-					"satiety": 1250,
-					"health": 10,
-					"foodcategory": "Protein"
-			}
-			}
+            "nutritionPropsPerLitreWhenInMealByType": {
+              "@*-(bone|fish)": { "satiety": 130, "health": 1, "foodcategory": "Protein" },
+              "*-vegetable": { "satiety": 130, "health": 1, "foodcategory": "Vegetable" },
+              "*-meat": { "satiety": 160, "health": 1, "foodcategory": "Protein" }
+            }
 		}
 	},
 	"transitionableProps": [{
