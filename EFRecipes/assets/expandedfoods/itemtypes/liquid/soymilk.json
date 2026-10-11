@@ -22,12 +22,12 @@
 				"nutritionPropsPerLitre": {
 					"satiety": 75,
 					"health": 1,
-					"foodcategory": "Protein"
+					"foodcategory": "Dairy"
 				},
 				"nutritionPropsPerLitreWhenInMeal": {
 					"satiety": 120,
 					"health": 1,
-					"foodcategory": "Protein"
+					"foodcategory": "Dairy"
 				}
 			},			
 			"*-raw": {
