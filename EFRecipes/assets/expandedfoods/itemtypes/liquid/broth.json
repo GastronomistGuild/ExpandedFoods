@@ -29,17 +29,17 @@
 			"nutritionPropsPerLitreWhenInMealByType": {
 				"@*-(bone|fish)": {
 					"satiety": 100,
-					"health": 10,
+					"health": 1,
 					"foodcategory": "Protein"
 				},
 				"*-vegetable": {
 					"satiety": 100,
-					"health": 10,
+					"health": 1,
 					"foodcategory": "Vegetable"
 				},
 				"*-meat": {
 					"satiety": 125,
-					"health": 10,
+					"health": 1,
 					"foodcategory": "Protein"
 			}
 			}

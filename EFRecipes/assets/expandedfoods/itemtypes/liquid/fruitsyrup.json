@@ -25,8 +25,8 @@
             "nutritionPropsPerLitreWhenInMeal": {
                 "satiety": 120,
                 "healthByType": {
-                    "*-saguaro": 20,
-                    "*": 10
+                    "*-saguaro": 2,
+                    "*": 1
                 },
                 "foodcategory": "Fruit"
             },

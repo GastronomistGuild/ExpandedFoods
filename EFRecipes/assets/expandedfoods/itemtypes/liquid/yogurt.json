@@ -21,11 +21,11 @@
 			},
 			"nutritionPropsPerLitreByType": {
 				"@*-(plain|birch|maple|honey|apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate)":
-				{ "satiety": 300, "health": 10, "foodcategory": "Dairy" }
+				{ "satiety": 300, "health": 5, "foodcategory": "Dairy" }
 			},
 			"nutritionPropsPerLitreWhenInMealByType": {
 				"@*-(plain|birch|maple|honey|apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate)":
-				{ "satiety": 400, "Health": 14, "foodcategory": "Dairy" }
+				{ "satiety": 400, "Health": 5, "foodcategory": "Dairy" }
 			}
 		},
 		"expandedNutritionPropsByType": {

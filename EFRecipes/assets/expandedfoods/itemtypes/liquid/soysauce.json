@@ -17,7 +17,7 @@
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:soysauce" } 
 			},
-			"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 10, "foodcategory": "Protein" }
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 640, "health": 1, "foodcategory": "Protein" }
 		}
 	},
 	"shape": { "base": "game:item/liquid" },

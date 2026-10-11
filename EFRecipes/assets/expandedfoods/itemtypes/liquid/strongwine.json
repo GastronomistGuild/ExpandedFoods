@@ -47,7 +47,7 @@
 			"nutritionPropsPerLitreWhenInMeal": {
 				"satiety": 135,
 				"intoxication": 0.3,
-				"health": 5,
+				"health": 0.5,
 				"foodcategoryByType": {
 					"@*-(spelt|rice|rye|amaranth|cassava|breadfruit)": "Grain",
 					"*": "Fruit"

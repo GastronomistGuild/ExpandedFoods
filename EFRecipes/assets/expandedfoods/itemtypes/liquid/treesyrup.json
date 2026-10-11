@@ -28,7 +28,7 @@
 				"action": "DropContents",
 				"stack": { "type": "item", "code": "expandedfoods:treesyrupportion-{type}" }
 			},
-			"nutritionPropsPerLitreWhenInMeal": { "satiety": 960, "health": 10, "foodcategory": "Fruit" }
+			"nutritionPropsPerLitreWhenInMeal": { "satiety": 960, "health": 1, "foodcategory": "Fruit" }
 		}
 	},
     "shape": { "base": "aculinaryartillery:item/goop" },
