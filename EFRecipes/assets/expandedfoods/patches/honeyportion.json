@@ -1,0 +1,23 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties",
+    "value": { 
+      "texture": "game:block/liquid/honey", 
+      "partType": "Topping", 
+      "toppingShapeElement": "origin/base/topping syrup gear/*", 
+      "mixingCodes": [
+        "cottageapple","cottagebeautyberry","cottageblackberry","cottageblueberry","cottagebreadfruit","cottagecactusfruit","cottagecherry","cottagecloudberry","cottagecranberry","cottagegooseberry","cottageguava","cottagekumquat","cottagelychee","cottagemango","cottageorange","cottagepeach","cottagepear","cottagepineapple","cottageplumnatal","cottagepomegranate","cottageraspberry","cottageredcurrant","cottagesaguaro","cottagestrawberry","cottagewhitecurrant","cottagefruit",
+        "walnutapple","walnutbeautyberry","walnutblackberry","walnutblueberry","walnutbreadfruit","walnutcactusfruit","walnutcherry","walnutcloudberry","walnutcranberry","walnutgooseberry","walnutguava","walnutkumquat","walnutlychee","walnutmango","walnutorange","walnutpeach","walnutpear","walnutpineapple","walnutplumnatal","walnutpomegranate","walnutraspberry","walnutredcurrant","walnutsaguaro","walnutstrawberry","walnutwhitecurrant", "peanutapple","peanutbeautyberry","peanutblackberry","peanutblueberry","peanutbreadfruit","peanutcactusfruit","peanutcherry","peanutcloudberry","peanutcranberry","peanutgooseberry","peanutguava","peanutkumquat","peanutlychee","peanutmango","peanutorange","peanutpeach","peanutpear","peanutpineapple","peanutplumnatal","peanutpomegranate","peanutraspberry","peanutredcurrant","peanutsaguaro","peanutstrawberry","peanutwhitecurrant", "nutfruit",
+        "bushmeatapple","bushmeatbeautyberry","bushmeatblackberry","bushmeatblueberry","bushmeatbreadfruit","bushmeatcactusfruit","bushmeatcherry","bushmeatcloudberry","bushmeatcranberry","bushmeatgooseberry","bushmeatguava","bushmeatkumquat","bushmeatlychee","bushmeatmango","bushmeatorange","bushmeatpeach","bushmeatpear","bushmeatpineapple","bushmeatplumnatal","bushmeatpomegranate","bushmeatraspberry","bushmeatredcurrant","bushmeatsaguaro","bushmeatstrawberry","bushmeatwhitecurrant", "poultryapple","poultrybeautyberry","poultryblackberry","poultryblueberry","poultrybreadfruit","poultrycactusfruit","poultrycherry","poultrycloudberry","poultrycranberry","poultrygooseberry","poultryguava","poultrykumquat","poultrylychee","poultrymango","poultryorange","poultrypeach","poultrypear","poultrypineapple","poultryplumnatal","poultrypomegranate","poultryraspberry","poultryredcurrant","poultrysaguaro","poultrystrawberry","poultrywhitecurrant","redmeatapple","redmeatbeautyberry","redmeatblackberry","redmeatblueberry","redmeatbreadfruit","redmeatcactusfruit","redmeatcherry","redmeatcloudberry","redmeatcranberry","redmeatgooseberry","redmeatguava","redmeatkumquat","redmeatlychee","redmeatmango","redmeatorange","redmeatpeach","redmeatpear","redmeatpineapple","redmeatplumnatal","redmeatpomegranate","redmeatraspberry","redmeatredcurrant","redmeatsaguaro","redmeatstrawberry","redmeatwhitecurrant","fishapple","fishbeautyberry","fishblackberry","fishblueberry","fishbreadfruit","fishcactusfruit","fishcherry","fishcloudberry","fishcranberry","fishgooseberry","fishguava","fishkumquat","fishlychee","fishmango","fishorange","fishpeach","fishpear","fishpineapple","fishplumnatal","fishpomegranate","fishraspberry","fishredcurrant","fishsaguaro","fishstrawberry","fishwhitecurrant","bugapple","bugbeautyberry","bugblackberry","bugblueberry","bugbreadfruit","bugcactusfruit","bugcherry","bugcloudberry","bugcranberry","buggooseberry","bugguava","bugkumquat","buglychee","bugmango","bugorange","bugpeach","bugpear","bugpineapple","bugplumnatal","bugpomegranate","bugraspberry","bugredcurrant","bugsaguaro","bugstrawberry","bugwhitecurrant","bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+        "fruitmushroom",
+        "soyfruit",
+        "soyfruitnut",
+        "meatfruitveg",
+        "nutfruitmeatveg"
+      ]
+    },
+    "file": "game:itemtypes/liquid/honeyportion.json",
+    "side": "Server"
+  }
+]

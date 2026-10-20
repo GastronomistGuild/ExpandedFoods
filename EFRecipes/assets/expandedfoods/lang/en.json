@@ -1575,10 +1575,15 @@
 
     "item-candy-peanut-raw": "Peanut candy",
     "item-candy-sunflower-raw": "Sunflower candy",
+    "item-candy-roastedamaranth-raw": "Roasted amaranth candy",
+    "item-candy-roastedflax-raw": "Roasted flax candy",
+    "item-candy-roastedrice-raw": "Roasted rice candy",
+    "item-candy-roastedrye-raw": "Roasted rye candy",
+    "item-candy-roastedspelt-raw": "Roasted spelt candy",
     "item-candy-roastedsunflower-raw": "Roasted sunflower candy",
     "item-candy-acorn-raw": "Acorn candy",
     "item-handbooktitle-candy": "Confectionery",
-    "item-handbooktext-candy": "Making candy is a relatively easy process. Start by <a href=\"handbook://kneadingmixingguide\">kneading</a> a sweetener, such as honey or syrup, with either peanut paste or sunflower grain... and you're done! Adding salt imparts a little extra healing, on top of the healing provided by all the sugar.",
+    "item-handbooktext-candy": "Making candy is a relatively easy process. Start by <a href=\"handbook://kneadingmixingguide\">kneading</a> a sweetener, such as honey or syrup, with either peanut paste, sunflower grain, or roasted grains... and you're done! Adding salt imparts a little extra healing, on top of the healing provided by all the sugar.",
 
     "item-fruitbar-raw": "Fruit bar",
     "itemdesc-fruitbar-*": "Soft, chewy, and sweet! <i>Very</i> yummy.",

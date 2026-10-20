@@ -4,7 +4,7 @@
 	"variantgroups": [
 		{
 			"code": "type",
-			"states": [ "peanut", "sunflower", "roastedsunflower" ]
+			"states": [ "peanut", "sunflower", "roastedspelt", "roastedrice", "roastedflax", "roastedrye", "roastedamaranth", "roastedsunflower" ]
 		},
 		{
 			"code": "states",
@@ -12,7 +12,6 @@
 		}
 	],
 	"class": "ExpandedFood",
-	"shape": { "base": "item/food/candy/{type}" },
 	"attributes": {
 		"displaycaseable": true,
 		"shelvable": true,
@@ -27,7 +26,7 @@
 		"expandedNutritionPropsByType": {
 			"*": {
       			"game:grain-sunflower" : { "saturation": 0, "foodcategory": "Grain" },
-                "expandedfoods:roastedgrain-sunflower" : { "saturation": 0, "foodcategory": "Grain" },
+                "expandedfoods:roastedgrain-*" : { "saturation": 0, "foodcategory": "Grain" },
       			"game:acorn-meal" : { "saturation": 0, "foodcategory": "Protein" },
       			"game:honeyportion" : { "saturation": 4, "foodcategory": "Fruit" },
       			"game:salt" : { "saturation": 0, "health": 0.5, "foodcategory": "Fruit" },
@@ -37,8 +36,30 @@
 				"expandedfoods:peanutliquid-paste": { "saturation": 24, "foodcategory": "Protein" },
       			"expandedfoods:foodoilportion-*" : { "saturation": 4.5, "health": 0.1, "foodcategory": "Vegetable" }
 			}
-		}
+		},
+        "inPieProperties": { "texture": "expandedfoods:item/food/candy/{type}", "partType": "Topping", "toppingShapeElement": "origin/base/topping candy/*", "foodCategory":"Fruit", "mixingCodes": ["nutpie",
+          "bellpepperpeanut","cabbagepeanut","carrotpeanut","cassavapeanut","fennelpeanut","olivepeanut","onionpeanut","parsnippeanut","pumpkinpeanut","turnippeanut","bellpeppernut","cabbagenut","carrotnut","cassavanut","fennelnut","olivenut","onionnut","parsnipnut","pumpkinnut","turnipnut","vegetablenut",
+          "soypeanut", "soynut",
+          "peanutapple", "peanutbeautyberry", "peanutblackberry", "peanutblackcurrant", "peanutblueberry", "peanutbreadfruit", "peanutcactusfruit", "peanutcherry","peanutcloudberry", "peanutcranberry", "peanutgooseberry", "peanutguava", "peanutkumquat", "peanutlychee", "peanutmango", "peanutorange", "peanutpeach", "peanutpear", "peanutpineapple", "peanutplumnatal", "peanutpomegranate", "peanutraspberry", "peanutredcurrant", "peanutsaguaro", "peanutstrawberry", "peanutwhitecurrant", "nutfruit",
+          "bushmeatpeanut", "poultrypeanut", "redmeatpeanut","fishpeanut","bugpeanut", "bushmeatnut", "poultrynut", "redmeatnut","fishnut","bugnut", "meatnut",
+          "nutmeatveg",
+          "soyfruitnut","soynutmushroom",
+          "nutfruitmeatveg" ]
+        }
 	},
+    "shapeByType": {
+        "@.*-(peanut|sunflower)-.*": { "base": "item/food/candy/{type}" },
+        "*": { "base": "item/food/candy/sunflower" }
+    },
+    "texturesByType": {
+        "@.*-(roastedamaranth|roastedflax|roastedrice|roastedrye|roastedspelt|roastedsunflower)-.*": {
+            "sunflower": {"base": "item/food/candy/{type}"},
+            "sunflower-pile": { "base": "item/void" }
+        },
+        "*-roastedsunflower-*": {
+            "sunflower": {"base": "item/food/candy/{type}"}
+        }
+    },
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
 	"transitionablePropsByType": {
 		"*": [
@@ -46,26 +67,33 @@
 				"type": "Perish",
 				"freshHours": { "avg": 648 },
 				"transitionHours": { "avg": 72 },
-				"transitionedStack": {
-					"type": "item",
-					"code": "game:rot"
-				},
+				"transitionedStack": { "type": "item", "code": "game:rot" },
 				"transitionRatio": 0.25
 			}
 		]
 	},
 	"materialDensity": 600,
 	"nutritionPropsByType": {
-            "*-roastedsunflower-raw": {
-              "saturation": 225,
-              "health": 0.5,
-              "foodcategory": "Grain"
+            "*-sunflower-raw": {
+                "saturation": 200,
+                "health": 0.5,
+                "foodcategory": "Grain"
             },
-			"*-sunflower-raw": {
-				"saturation": 200,
-				"health": 0.5,
-				"foodcategory": "Grain"
-			},
+            "*-roastedflax-raw": {
+                "saturation": 90,
+                "health": 0.5,
+                "foodcategory": "Grain"
+            },
+            "*-roastedrice-raw": {
+                "saturation": 270,
+                "health": 0.5,
+                "foodcategory": "Grain"
+            },
+            "@*-(roastedamaranth|roastedrye|roastedspelt|roastedsunflower)-raw": {
+                "saturation": 225,
+                "health": 0.5,
+                "foodcategory": "Grain"
+            },
 			"*": {
 				"saturation": 200,
 				"health": 0.5,
@@ -76,7 +104,7 @@
 			"*": "holdbothhands"
 	},
 	"guiTransformByType": {
-			"@.*-(sunflower|roastedsunflower)-.*": {
+			"@.*-(sunflower|roastedamaranth|roastedflax|roastedrice|roastedrye|roastedspelt|roastedsunflower)-.*": {
 				"translation": { "x": -1, "y": 3, "z": 0 },
 				"rotation": { "x": -43, "y": 60, "z": -180 },
 				"origin": { "x": 0.6, "y": 0.1, "z": 0.5 },
@@ -98,7 +126,7 @@
 			}
 	},
 	"tpHandTransformByType": {
-		"@.*-(sunflower|roastedsunflower)-.*": {
+		"@.*-(sunflower|roastedamaranth|roastedflax|roastedrice|roastedrye|roastedspelt|roastedsunflower)-.*": {
 			"translation": { "x": 0, "y": 0, "z": 0 },
 			"rotation": { "x": 12, "y": 27, "z": -92 },
 			"origin": { "x": -0.05, "y": 0.2, "z": 0.25 },

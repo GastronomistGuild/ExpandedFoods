@@ -136,14 +136,14 @@ MISC:
 EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2):
 - EF-specific pie combinations added
-- Pie toppings added! Yummy!
-
-- Heal over time implemented
+- Pie toppings added (candied fruit, grain candy, syrup, honey) - DONE!!!
 
 - Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
 - Liquid nutrition in meals corrected - DONE!!!
-- Roasted grain now expires (whoops)
-- Soy milk changed back to dairy. Gameplay over realism here, sorry!
+- Roasted grain now expires (whoops) - DONE!!!
+- Soy milk changed back to dairy. Gameplay over realism here, sorry! - DONE!!!
+- Adds syrups to jam sweeteners (thanks to Lexical) - DONE!!!
+- Washed soybeans can be made in the mixing bowl and barrels
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)

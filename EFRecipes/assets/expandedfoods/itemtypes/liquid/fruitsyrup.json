@@ -19,7 +19,18 @@
 		"inBowlShape": { "base": "game:block/food/meal/liquid" },
 		"inPieProperties": { 
             "texture": "game:block/food/pie/fill-{type}",
-            "partType": "Filling"
+            "partType": "Topping",
+            "toppingShapeElement": "origin/base/topping syrup gear/*",
+            "mixingCodes": [
+                "cottage{type}","cottagefruit",
+                "walnut{type}", "peanut{type}", "nutfruit",
+                "bushmeat{type}", "poultry{type}","redmeat{type}","fish{type}","bug{type}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+                "fruitmushroom",
+                "soyfruit",
+                "soyfruitnut",
+                "meatfruitveg",
+                "nutfruitmeatveg"
+            ]
 		},
 		"waterTightContainerProps": {
             "nutritionPropsPerLitreWhenInMeal": {
