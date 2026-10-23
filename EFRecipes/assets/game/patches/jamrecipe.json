@@ -1,0 +1,20 @@
+[
+    {
+        "file": "game:recipes/cooking/jam",
+        "op": "addmerge",
+        "path": "/ingredients/0/validStacks",
+        "value": [
+            { "type": "item", "code": "expandedfoods:treesyrupportion-*", "shapeElement": "bowl/honey" },
+            { "type": "item", "code": "expandedfoods:fruitsyrupportion-*", "shapeElement": "bowl/honey" }
+        ]
+    },
+    {
+        "dependsOn": [ { "modid": "outstandingebony" } ],
+        "file": "game:recipes/cooking/jam",
+        "op": "addmerge",
+        "path": "/ingredients/0/validStacks",
+        "value": [
+            { "type": "item", "code": "outstandingebony:fruitsyrupportion-*", "shapeElement": "bowl/honey" }
+        ]
+    }
+]
