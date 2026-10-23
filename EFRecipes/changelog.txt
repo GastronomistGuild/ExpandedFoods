@@ -136,7 +136,7 @@ MISC:
 EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2)
 - Pie toppings added (candied fruit, grain candy, syrup, honey) - DONE!!!
-- Gelatin too, whoops
+- Gelatin too, whoops - DONE!!!
 
 - Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
 - Liquid nutrition in meals corrected - DONE!!!

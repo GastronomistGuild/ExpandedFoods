@@ -29,9 +29,61 @@
 			}
 		},
     	"inPiePropertiesByType": {
-			"*-soy": { "texture": "game:item/gelatin/fishgelatin", "partType": "Filling" },
-            "@*-(liquid|raw)":  null,
-			"*": { "texture": "game:item/gelatin/{type}", "partType": "Filling" }
+			"*-soy": { "texture": "game:item/gelatin/fishgelatin", "partType": "Topping", "toppingShapeElement": "origin/base/topping locust/*", "foodCategory":"NoNutrition", "mixingCodes": [ 
+              "soypeanut", "soywalnut", "soynut",
+              "soyfruit",
+              "soyblue","soycheddar","soycottage","soycheese",
+              "soymushroomblack","soymushroomyellow","soymushroomoffwhite","soymushroomorange","soymushroomdevilstooth","soymushroomred","soymushroomgreen","soymushroomblue","soymushroomlobster","soymushroombrown","soymushroomwhite","soymushroompurple","soymushroompink","soymushroom",
+              "soybellpepper","soycabbage","soycassava","soycarrot","soyfennel","soyolive","soyonion","soyparsnip","soypumpkin","soyturnip","soywalnut","soyvegetable",
+              "soybushmeat", "soypoultry","soyredmeat","soyfish","soybugs","soymeat",
+              "soyfruitnut","soynutmushroom",
+              "soycheeseveg",
+              "soypotpie",
+              "soycheesevegmushroom"
+              ]
+            },
+            "@*-(carrot|cabbage|onion|turnip|parsnip|pumpkin|cassava|bellpepper|fennel)": { "texture": "game:item/gelatin/{type}", "partType": "Topping","toppingShapeElement": "origin/base/topping locust/*", "foodCategory":"NoNutrition", "mixingCodes": [
+              "vegetable",
+              "{type}peanut","{type}walnut","{type}nut","vegetablenut",
+              "{type}mushroomblack","{type}mushroomblue","{type}mushroombrown","{type}mushroomdevilstooth","{type}mushroomgreen","{type}mushroomlobster","{type}mushroomoffwhite","{type}mushroomorange","{type}mushroompink","{type}mushroompurple","{type}mushroomred","{type}mushroomwhite","{type}mushroomyellow","{type}mushroom","mushroomveg",
+              "soy{type}", "soyvegetable",
+              "blue{type}","cheddar{type}","cottage{type}","blueveg","cheddarveg","cottageveg","cheeseveg",
+              "{type}quiche","vegquiche",
+              "bushmeat{type}","poultry{type}","redmeat{type}","fish{type}","bug{type}","bushmeatveg","poultryveg","redmeatveg","fishveg","bugveg","potpie",
+              "cheesevegmushroom","cheesemeatveg",
+              "soycheeseveg",
+              "meatfruitveg",
+              "meatvegquiche","vegmushroomquiche",
+              "soypotpie",
+              "nutmeatveg",
+              "nutfruitmeatveg",
+              "cheesemeatvegmushroom",
+              "soycheesevegmushroom"
+              ]
+            },
+            "@*-(apple|blueberry|cranberry|redcurrant|whitecurrant|blackcurrant|saguaro|pineapple|cherry|peach|pear|orange|mango|breadfruit|lychee|pomegranate|beautyberry|blackberry|cloudberry|raspberry|strawberry|cactusfruit|gooseberry|guava|kumquat|plumnatal)": { "texture": "game:item/gelatin/{type}", "partType": "Topping","toppingShapeElement": "origin/base/topping locust/*", "foodCategory":"NoNutrition", "mixingCodes": [
+              "cottage{type}","cottagefruit",
+              "walnut{type}", "peanut{type}", "nutfruit",
+              "bushmeat{type}", "poultry{type}","redmeat{type}","fish{type}","bug{type}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+              "fruitmushroom",
+              "soyfruit",
+              "soyfruitnut",
+              "meatfruitveg",
+              "nutfruitmeatveg"
+              ]
+            },
+            "@*-(birch|maple|honey)": { "texture": "game:item/gelatin/{type}", "partType": "Topping","toppingShapeElement": "origin/base/topping locust/*", "foodCategory":"NoNutrition", "mixingCodes": [
+              "cottageapple","cottagebeautyberry","cottageblackberry","cottageblueberry","cottagebreadfruit","cottagecactusfruit","cottagecherry","cottagecloudberry","cottagecranberry","cottagegooseberry","cottageguava","cottagekumquat","cottagelychee","cottagemango","cottageorange","cottagepeach","cottagepear","cottagepineapple","cottageplumnatal","cottagepomegranate","cottageraspberry","cottageredcurrant","cottagesaguaro","cottagestrawberry","cottagewhitecurrant","cottagefruit",
+              "walnutapple","walnutbeautyberry","walnutblackberry","walnutblueberry","walnutbreadfruit","walnutcactusfruit","walnutcherry","walnutcloudberry","walnutcranberry","walnutgooseberry","walnutguava","walnutkumquat","walnutlychee","walnutmango","walnutorange","walnutpeach","walnutpear","walnutpineapple","walnutplumnatal","walnutpomegranate","walnutraspberry","walnutredcurrant","walnutsaguaro","walnutstrawberry","walnutwhitecurrant", "peanutapple","peanutbeautyberry","peanutblackberry","peanutblueberry","peanutbreadfruit","peanutcactusfruit","peanutcherry","peanutcloudberry","peanutcranberry","peanutgooseberry","peanutguava","peanutkumquat","peanutlychee","peanutmango","peanutorange","peanutpeach","peanutpear","peanutpineapple","peanutplumnatal","peanutpomegranate","peanutraspberry","peanutredcurrant","peanutsaguaro","peanutstrawberry","peanutwhitecurrant", "nutfruit",
+              "bushmeatapple","bushmeatbeautyberry","bushmeatblackberry","bushmeatblueberry","bushmeatbreadfruit","bushmeatcactusfruit","bushmeatcherry","bushmeatcloudberry","bushmeatcranberry","bushmeatgooseberry","bushmeatguava","bushmeatkumquat","bushmeatlychee","bushmeatmango","bushmeatorange","bushmeatpeach","bushmeatpear","bushmeatpineapple","bushmeatplumnatal","bushmeatpomegranate","bushmeatraspberry","bushmeatredcurrant","bushmeatsaguaro","bushmeatstrawberry","bushmeatwhitecurrant", "poultryapple","poultrybeautyberry","poultryblackberry","poultryblueberry","poultrybreadfruit","poultrycactusfruit","poultrycherry","poultrycloudberry","poultrycranberry","poultrygooseberry","poultryguava","poultrykumquat","poultrylychee","poultrymango","poultryorange","poultrypeach","poultrypear","poultrypineapple","poultryplumnatal","poultrypomegranate","poultryraspberry","poultryredcurrant","poultrysaguaro","poultrystrawberry","poultrywhitecurrant","redmeatapple","redmeatbeautyberry","redmeatblackberry","redmeatblueberry","redmeatbreadfruit","redmeatcactusfruit","redmeatcherry","redmeatcloudberry","redmeatcranberry","redmeatgooseberry","redmeatguava","redmeatkumquat","redmeatlychee","redmeatmango","redmeatorange","redmeatpeach","redmeatpear","redmeatpineapple","redmeatplumnatal","redmeatpomegranate","redmeatraspberry","redmeatredcurrant","redmeatsaguaro","redmeatstrawberry","redmeatwhitecurrant","fishapple","fishbeautyberry","fishblackberry","fishblueberry","fishbreadfruit","fishcactusfruit","fishcherry","fishcloudberry","fishcranberry","fishgooseberry","fishguava","fishkumquat","fishlychee","fishmango","fishorange","fishpeach","fishpear","fishpineapple","fishplumnatal","fishpomegranate","fishraspberry","fishredcurrant","fishsaguaro","fishstrawberry","fishwhitecurrant","bugapple","bugbeautyberry","bugblackberry","bugblueberry","bugbreadfruit","bugcactusfruit","bugcherry","bugcloudberry","bugcranberry","buggooseberry","bugguava","bugkumquat","buglychee","bugmango","bugorange","bugpeach","bugpear","bugpineapple","bugplumnatal","bugpomegranate","bugraspberry","bugredcurrant","bugsaguaro","bugstrawberry","bugwhitecurrant","bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
+              "fruitmushroom",
+              "soyfruit",
+              "soyfruitnut",
+              "meatfruitveg",
+              "nutfruitmeatveg"
+              ]
+            },
+            "@*-(liquid|raw)":  null
 		}
 	},
 	"transitionableProps": [{
