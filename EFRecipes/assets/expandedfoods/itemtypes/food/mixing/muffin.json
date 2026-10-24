@@ -10,7 +10,8 @@
 		"shelvable": true,
 		"handbook": { 
           "groupBy": [ "muffin-*" ],
-          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-muffin", "text": "expandedfoods:item-handbooktext-muffin" }]
+          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-muffin", "text": "expandedfoods:item-handbooktext-muffin" }],
+		  "ignoreCreativeInventoryStacks": true
         },
     	"expandedNutritionProps": {
       		"game:milkportion" : { "saturation": 1.5, "foodcategory": "Dairy" },
@@ -176,12 +177,16 @@
 		}
 	},
 	"shapeByType": {
-		"*-dough": { "base": "expandedfoods:item/food/bread/muffins/dough" },
+		"*dough": { "base": "expandedfoods:item/food/bread/muffins/dough" },
 		"*": { "base": "expandedfoods:item/food/bread/muffins/cooked" }
+	},
+	"texturesByType": {
+		"*partbaked": { "bread": { "base": "game:item/food/grain/flaxbread2" }},
+		"*cooked": { "bread": { "base": "game:item/food/grain/flaxbread" }},
+		"*charred": { "bread": { "base": "game:item/food/grain/flaxbread1"} }
 	},
   	"textures": {
     	"dough": {"base": "game:item/food/grain/flaxbread" },
-    	"bread": {"base": "game:item/food/grain/flaxbread" },
     	"flaxbread": {"base": "game:item/food/grain/flaxbread" },
     	"ricebread": {"base": "game:item/food/grain/ricebread" },
     	"speltbread": {"base": "game:item/food/grain/speltbread" },
@@ -264,7 +269,36 @@
         "fill-strawberry": { "base": "game:block/food/pie/fill-strawberry" },
 		"fill-whitecurrant": { "base": "game:block/food/pie/fill-whitecurrant" }
 	},
-	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"creativeinventoryStacksByType": {
+		"*-syrup*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:muffin-{state}",
+						"attributes": {
+							"madeWith": [ "aculinaryartillery:eggyolkportion-chicken", "expandedfoods:fruitsyrupportion-whitecurrant", "game:flour-flax", "game:fruit-redcurrant", "game:waterportion" ]
+						}
+					}
+				]
+			}
+		],
+		"*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:muffin-{state}",
+						"attributes": {
+							"madeWith": [ "aculinaryartillery:eggyolkportion-chicken", "game:flour-flax", "game:fruit-redcurrant", "game:waterportion" ]
+						}
+					}
+				]
+			}
+		]
+	},
 	"nutritionPropsByType": {
  		"@*-(partbaked|syruppartbaked)": { "saturation": 190, "foodcategory": "Grain" },
  		"@*-(cooked|syrup)": { "saturation": 210, "foodcategory": "Grain" },

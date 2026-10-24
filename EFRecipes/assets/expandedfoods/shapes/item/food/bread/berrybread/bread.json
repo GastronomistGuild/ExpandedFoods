@@ -1,4 +1,5 @@
-﻿{
+﻿
+{
 	"editor": {
 		"allAngles": false,
 		"entityTextureMode": false
@@ -8,7 +9,7 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"bread": "path/whatever/fake/bread"
+		"bread": "game:item/food/grain/flaxbread2"
 	},
 	"elements": [
 		{

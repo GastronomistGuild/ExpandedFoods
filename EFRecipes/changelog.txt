@@ -145,6 +145,11 @@ THE PIESPLOSION UPDATE (PART 2)
 - Adds syrups to jam sweeteners (thanks to Lexical) - DONE!!!
 - Washed soybeans can be made in the mixing bowl and barrels - DONE!!!!
 
+- Updated creative inventory stacks for:
+ - Fruit bread
+ - Muffins
+
+- Fixed fruit bread and muffins rendering as charred in creative inventory and handbook
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)
 

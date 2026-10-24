@@ -8,7 +8,7 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"dough": "game:item/food/grain/flaxbread"
+		"dough": "game:item/food/grain/flaxdough"
 	},
 	"elements": [
 		{

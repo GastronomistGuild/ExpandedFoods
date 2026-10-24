@@ -10,7 +10,8 @@
 		"shelvable": true,
 		"handbook": { 
           "groupBy": [ "berrybread-*" ],
-          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-berrybread", "text": "expandedfoods:item-handbooktext-berrybread" }]
+          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-berrybread", "text": "expandedfoods:item-handbooktext-berrybread" }],
+		  "ignoreCreativeInvStacks": true
         },
 		"expandedNutritionProps": {
       		"game:milkportion" : { "saturation": 1.5, "foodcategory": "Dairy" },
@@ -162,9 +163,19 @@
 			"@*-(charred|syrupcharred)": 0.75
 		}
 	},
-	"shape": { "base": "game:item/food/bread/flaxbread" },
+	"shapeByType": {
+		"*dough": { "base": "game:item/food/bread/flaxbread-dough" },
+		"*": { "base": "game:item/food/bread/flaxbread" }
+	},
+	"texturesByType": {
+		"*partbaked": { "bread": { "base": "game:item/food/grain/flaxbread2" } },
+		"*cooked": { "bread": { "base": "game:item/food/grain/flaxbread" } },
+		"*charred": { "bread": { "base": "game:item/food/grain/flaxbread1"} }
+	},
   	"textures": {
-		"flaxbread": {"base": "game:item/food/grain/flaxbread" },
+		"dough": {"base": "game:item/food/grain/flaxbread" },
+    	"bread": {"base": "game:item/food/grain/flaxbread" },
+        "flaxbread": {"base": "game:item/food/grain/flaxbread" },
 		"ricebread": {"base": "game:item/food/grain/ricebread" },
 		"speltbread": {"base": "game:item/food/grain/speltbread" },
 		"ryebread": {"base": "game:item/food/grain/ryebread" },
@@ -185,8 +196,7 @@
 		"cassavabread2": {"base": "game:item/food/grain/cassavabread2" },
 		"amaranthbread2": {"base": "game:item/food/grain/amaranthbread2" },
 		"sunflowerbread2": {"base": "game:item/food/grain/sunflowerbread2" },
-   		"bread": {"base": "game:item/food/grain/flaxbread" },
-        "apple" : {"base": "expandedfoods:item/food/grain/overlays/apple" },
+   		"apple" : {"base": "expandedfoods:item/food/grain/overlays/apple" },
         "beautyberry" : {"base": "expandedfoods:item/food/grain/overlays/beautyberry" },
         "blackberry" : {"base": "expandedfoods:item/food/grain/overlays/blackberry" },
         "blackcurrant" : {"base": "expandedfoods:item/food/grain/overlays/blackcurrant" },
@@ -247,9 +257,37 @@
 		"fill-saguaro": { "base": "game:block/food/pie/fill-saguaro" },
         "fill-strawberry": { "base": "game:block/food/pie/fill-strawberry" },
 		"fill-whitecurrant": { "base": "game:block/food/pie/fill-whitecurrant" }
-
   	},
-	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"creativeinventoryStacksByType": {
+		"*-syrup*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:berrybread-{state}",
+						"attributes": {
+							"madeWith": [ "expandedfoods:fruitsyrupportion-whitecurrant", "game:flour-flax", "game:waterportion", "game:fruit-redcurrant" ]
+						}
+					}
+				]
+			}
+		],
+		"*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:berrybread-{state}",
+						"attributes": {
+							"madeWith": [ "game:flour-flax", "game:waterportion", "game:fruit-redcurrant" ]
+						}
+					}
+				]
+			}
+		]
+	},
 	"nutritionPropsByType": {
 		"@*-(partbaked|syruppartbaked)": {"saturation": 145, "foodcategory": "Grain" },
 		"@*-(cooked|syrup)": {"saturation": 160, "foodcategory": "Grain" },
