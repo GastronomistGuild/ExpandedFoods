@@ -1,0 +1,2416 @@
+[
+  {
+    "file": "game:shapes/block/food/pie/full.json",
+    "op": "addmerge",
+    "path": "/elements/0/children/0/children/-",
+    "value":{
+      "name": "topping candy",
+      "from": [ 0.0, 2.01, 0.0 ],
+      "to": [ 0.0, 2.01, 0.0 ],
+      "rotationOrigin": [ 0.0, 2.01, 0.0 ],
+      "faces": {
+        "north": { "texture": "#topcrust", "uv": [ 0.5, 0.5, 1.0, 1.0 ] },
+        "east": { "texture": "#topcrust", "uv": [ 7.0, 4.5, 7.5, 5.0 ] },
+        "south": { "texture": "#topcrust", "uv": [ 3.5, 3.5, 4.0, 4.0 ] },
+        "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.0, 7.5 ] },
+        "up": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+        "down": { "texture": "#topcrust", "uv": [ 4.5, 2.0, 5.0, 2.5 ] }
+      },
+      "children": [
+        {
+          "name": "chunk 1",
+          "from": [ 0.2, 0.25, 0.6 ],
+          "to": [ 1.7, 0.75, 1.6 ],
+          "rotationOrigin": [ 0.2, 0.25, 0.6 ],
+          "rotationX": 8.0,
+          "rotationY": 14.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 3.0, 5.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.5, 2.5, 3.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.5, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 2",
+          "from": [ 6.4, 0.25, 7.4 ],
+          "to": [ 7.9, 0.75, 8.4 ],
+          "rotationOrigin": [ 6.4, 0.25, 7.4 ],
+          "rotationX": -9.0,
+          "rotationY": 67.5,
+          "rotationZ": 6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 6.0, 4.0, 6.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.5, 2.5, 5.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 7.0, 7.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 2.0, 6.0, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 0.5, 5.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 3",
+          "from": [ 0.7, 0.25, 6.2 ],
+          "to": [ 2.2, 0.75, 7.2 ],
+          "rotationOrigin": [ 0.7, 0.25, 6.2 ],
+          "rotationX": -4.0,
+          "rotationY": -28.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 7.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 4.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 4",
+          "from": [ 5.7, 0.25, 1.2 ],
+          "to": [ 7.2, 0.75, 2.2 ],
+          "rotationOrigin": [ 5.7, 0.25, 1.2 ],
+          "rotationX": -6.0,
+          "rotationY": -61.0,
+          "rotationZ": -12.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 4.0, 4.0, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 6.0, 2.0, 6.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 1.0, 6.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.5, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 7.5, 6.5 ] }
+          }
+        },
+        {
+          "name": "chunk 5",
+          "from": [ 3.4, 0.25, 6.4 ],
+          "to": [ 4.9, 0.75, 7.4 ],
+          "rotationOrigin": [ 3.4, 0.25, 6.4 ],
+          "rotationX": 5.0,
+          "rotationY": 48.0,
+          "rotationZ": -7.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 2.5, 7.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 7.0, 2.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 0.0, 3.5, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 0.0, 4.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 0.0, 4.0, 1.0 ] }
+          }
+        },
+        {
+          "name": "chunk 6",
+          "from": [ 7.1, 0.25, 3.9 ],
+          "to": [ 8.6, 0.75, 4.9 ],
+          "rotationOrigin": [ 7.1, 0.25, 3.9 ],
+          "rotationX": 6.0,
+          "rotationY": -116.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 1.5, 2.0, 2.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 5.5, 6.0, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 7.0, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.5, 6.5, 6.0, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 4.5, 5.0 ] }
+          }
+        },
+        {
+          "name": "chunk 7",
+          "from": [ 3.5, 0.25, 3.5 ],
+          "to": [ 5.0, 0.75, 4.5 ],
+          "rotationOrigin": [ 3.5, 0.25, 3.5 ],
+          "rotationX": 3.0,
+          "rotationY": 147.0,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 2.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 7.0, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 8",
+          "from": [ 1.8, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 1.8, 0.15, 5.7 ],
+          "rotationX": 14.0,
+          "rotationY": 121.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 4.0, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 6.5, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 9",
+          "from": [ 2.3, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 2.3, 0.15, 5.7 ],
+          "rotationX": 9.0,
+          "rotationY": 5.0,
+          "rotationZ": 10.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 7.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 1.0, 1.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 7.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 1.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 6.5, 3.0, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 0.0, 2.5, 1.0 ] }
+          }
+        },
+        {
+          "name": "chunk 10",
+          "from": [ 4.8, 0.15, 6.8 ],
+          "to": [ 5.8, 0.65, 7.8 ],
+          "rotationOrigin": [ 4.8, 0.15, 6.8 ],
+          "rotationX": -12.0,
+          "rotationY": 32.0,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 7.0, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 5.5, 2.0, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 1.0, 5.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 4.5, 3.0, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 3.0, 3.5, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 11",
+          "from": [ 7.1, 0.15, 0.5 ],
+          "to": [ 8.1, 0.65, 1.5 ],
+          "rotationOrigin": [ 7.1, 0.15, 0.5 ],
+          "rotationX": 7.0,
+          "rotationY": -59.5,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 6.5, 2.5, 7.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 7.0, 4.5, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 6.5, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 12",
+          "from": [ 2.8, 0.2, 0.8 ],
+          "to": [ 3.8, 0.7, 1.8 ],
+          "rotationOrigin": [ 2.8, 0.2, 0.8 ],
+          "rotationX": 20.0,
+          "rotationY": 22.5,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 2.0, 6.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 2.0, 1.0, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.5, 3.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 13",
+          "from": [ 0.5, 0.2, 3.0 ],
+          "to": [ 1.5, 0.7, 4.0 ],
+          "rotationOrigin": [ 0.5, 0.2, 3.0 ],
+          "rotationX": -13.0,
+          "rotationY": 73.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.5, 1.0, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.5, 1.0, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 1.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 14",
+          "from": [ 2.7, -0.2, 4.2 ],
+          "to": [ 3.7, 0.3, 5.2 ],
+          "rotationOrigin": [ 2.7, -0.2, 4.2 ],
+          "rotationX": -19.0,
+          "rotationY": 17.0,
+          "rotationZ": 22.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 6.5, 4.5, 7.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 5.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 2.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 15",
+          "from": [ 4.6, 0.0, 2.8 ],
+          "to": [ 5.6, 0.5, 3.8 ],
+          "rotationOrigin": [ 4.6, 0.0, 2.8 ],
+          "rotationX": -17.0,
+          "rotationY": -36.0,
+          "rotationZ": -22.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 3.0, 1.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 2.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 3.0, 1.0, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 0.5, 3.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 16",
+          "from": [ 4.0, 0.2, 5.1 ],
+          "to": [ 5.0, 0.7, 6.1 ],
+          "rotationOrigin": [ 4.0, 0.2, 5.1 ],
+          "rotationX": -12.0,
+          "rotationY": 66.0,
+          "rotationZ": -15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 5.5, 5.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 0.5, 7.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 4.5, 7.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.5, 1.5, 1.5, 2.5 ] }
+          }
+        },
+        {
+          "name": "chunk 17",
+          "from": [ 6.9, 0.2, 4.7 ],
+          "to": [ 7.4, 0.7, 5.7 ],
+          "rotationOrigin": [ 6.9, 0.2, 4.7 ],
+          "rotationX": 22.0,
+          "rotationY": 21.0,
+          "rotationZ": -5.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 0.0, 4.0, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 7.0, 1.0, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 1.5, 2.0, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 6.5, 3.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 0.0, 5.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 6.0, 6.5, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 18",
+          "from": [ 2.9, 0.0, 7.3 ],
+          "to": [ 3.4, 0.5, 8.3 ],
+          "rotationOrigin": [ 2.9, 0.0, 7.3 ],
+          "rotationX": 21.0,
+          "rotationY": 76.0,
+          "rotationZ": 11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 4.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 2.0 ] }
+          }
+        },
+        {
+          "name": "chunk 19",
+          "from": [ 0.4, 0.0, 5.3 ],
+          "to": [ 0.9, 0.5, 6.3 ],
+          "rotationOrigin": [ 0.4, 0.0, 5.3 ],
+          "rotationX": -23.0,
+          "rotationY": 22.5,
+          "rotationZ": -17.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 4.0, 7.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 20",
+          "from": [ 6.5, 0.1, 5.8 ],
+          "to": [ 7.0, 0.6, 6.8 ],
+          "rotationOrigin": [ 6.5, 0.1, 5.8 ],
+          "rotationX": -31.0,
+          "rotationY": -121.0,
+          "rotationZ": -17.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 3.0, 4.5, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 5.5, 5.0, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 2.0, 2.0, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 6.0, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.5, 2.0, 4.0, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 3.0, 5.5, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 21",
+          "from": [ 7.4, 0.15, 2.7 ],
+          "to": [ 7.9, 0.65, 3.7 ],
+          "rotationOrigin": [ 7.4, 0.15, 2.7 ],
+          "rotationX": 12.0,
+          "rotationY": -41.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 5.5, 4.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 7.0, 3.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 6.5, 0.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 22",
+          "from": [ 1.7, 0.2, 3.2 ],
+          "to": [ 2.2, 0.7, 4.2 ],
+          "rotationOrigin": [ 1.7, 0.2, 3.2 ],
+          "rotationX": 27.0,
+          "rotationY": 53.0,
+          "rotationZ": -29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.5, 0.0, 5.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.0, 0.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 6.5, 7.0, 7.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 3.0, 3.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 23",
+          "from": [ 4.1, -0.2, 2.0 ],
+          "to": [ 4.6, 0.3, 3.0 ],
+          "rotationOrigin": [ 4.1, -0.2, 2.0 ],
+          "rotationX": -21.0,
+          "rotationY": 26.0,
+          "rotationZ": 16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 3.0, 3.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 5.0, 3.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 4.5, 6.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 24",
+          "from": [ 4.4, -0.1, 0.7 ],
+          "to": [ 4.9, 0.4, 1.7 ],
+          "rotationOrigin": [ 4.4, -0.1, 0.7 ],
+          "rotationX": -6.0,
+          "rotationY": 71.0,
+          "rotationZ": 26.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 3.5, 2.5, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 1.5, 7.0, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 7.0, 4.0, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 6.5, 0.5, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.5, 3.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 25",
+          "from": [ 0.5, -0.1, 3.9 ],
+          "to": [ 1.0, 0.4, 4.9 ],
+          "rotationOrigin": [ 0.5, -0.1, 3.9 ],
+          "rotationX": -9.0,
+          "rotationY": 99.0,
+          "rotationZ": 23.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 5.5, 7.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 0.0, 3.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.5, 2.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 26",
+          "from": [ 6.7, 0.0, 2.5 ],
+          "to": [ 7.2, 0.5, 3.5 ],
+          "rotationOrigin": [ 6.7, 0.0, 2.5 ],
+          "rotationX": -27.0,
+          "rotationY": 119.0,
+          "rotationZ": 39.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 6.5, 2.5, 7.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 7.0, 3.0, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.0, 4.0, 1.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 6.0, 1.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 4.5, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 2.0, 4.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 27",
+          "from": [ 6.6, -0.15, 2.8 ],
+          "to": [ 7.1, 0.35, 3.8 ],
+          "rotationOrigin": [ 6.6, -0.15, 2.8 ],
+          "rotationX": -17.0,
+          "rotationY": -58.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 7.0, 2.5, 7.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 6.5, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.0, 5.0, 1.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.5, 0.5, 3.0, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 6.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 28",
+          "from": [ 2.4, -0.15, 1.3 ],
+          "to": [ 2.9, 0.35, 2.3 ],
+          "rotationOrigin": [ 2.4, -0.15, 1.3 ],
+          "rotationX": -19.0,
+          "rotationY": -41.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 6.5, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 3.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 29",
+          "from": [ 4.1, -0.1, 1.8 ],
+          "to": [ 4.6, 0.4, 2.3 ],
+          "rotationOrigin": [ 4.1, -0.1, 1.8 ],
+          "rotationX": -19.0,
+          "rotationY": -65.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.0, 0.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 3.0, 5.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 4.5, 5.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 30",
+          "from": [ 5.1, 0.0, 4.0 ],
+          "to": [ 5.6, 0.5, 4.5 ],
+          "rotationOrigin": [ 5.1, 0.0, 4.0 ],
+          "rotationX": 19.0,
+          "rotationY": 22.5,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 4.0, 7.0, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 4.5, 5.5, 5.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 5.5, 5.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 1.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 7.0, 7.0, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 1.5, 3.0, 2.0 ] }
+          }
+        },
+        {
+          "name": "chunk 31",
+          "from": [ 3.8, 0.0, 3.9 ],
+          "to": [ 4.3, 0.5, 4.4 ],
+          "rotationOrigin": [ 3.8, 0.0, 3.9 ],
+          "rotationX": 25.0,
+          "rotationY": 57.0,
+          "rotationZ": 21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 5.5, 4.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 6.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 2.5, 6.0, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.5, 2.0, 7.0, 2.5 ] }
+          }
+        },
+        {
+          "name": "chunk 32",
+          "from": [ 3.6, -0.1, 5.3 ],
+          "to": [ 4.1, 0.4, 5.8 ],
+          "rotationOrigin": [ 3.6, -0.1, 5.3 ],
+          "rotationX": 35.0,
+          "rotationY": 107.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 6.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 3.5, 7.0, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 3.0, 3.0, 3.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 0.5, 0.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 5.0, 3.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 33",
+          "from": [ 4.5, 0.1, 7.25 ],
+          "to": [ 5.0, 0.6, 7.75 ],
+          "rotationOrigin": [ 4.5, 0.1, 7.25 ],
+          "rotationX": 35.0,
+          "rotationY": 39.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 2.5, 3.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 0.5, 5.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 34",
+          "from": [ 2.35, 0.1, 7.2 ],
+          "to": [ 2.85, 0.6, 7.7 ],
+          "rotationOrigin": [ 2.35, 0.1, 7.2 ],
+          "rotationX": 27.0,
+          "rotationY": 21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 4.0, 1.5, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 2.5, 6.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 0.5, 2.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 3.5, 6.0, 4.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 6.5, 1.5, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 35",
+          "from": [ 1.85, 0.2, 5.9 ],
+          "to": [ 2.35, 0.7, 6.4 ],
+          "rotationOrigin": [ 1.85, 0.2, 5.9 ],
+          "rotationX": 37.0,
+          "rotationY": -21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 4.5, 4.0, 5.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 6.5, 1.0, 7.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 6.0, 5.0, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.5, 4.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.5, 0.0, 7.0, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 36",
+          "from": [ 0.85, 0.2, 4.2 ],
+          "to": [ 1.35, 0.7, 4.7 ],
+          "rotationOrigin": [ 0.85, 0.2, 4.2 ],
+          "rotationX": 47.0,
+          "rotationY": -41.0,
+          "rotationZ": 29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 3.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 3.0, 1.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 37",
+          "from": [ 2.4, 0.2, 3.7 ],
+          "to": [ 2.9, 0.7, 4.2 ],
+          "rotationOrigin": [ 2.4, 0.2, 3.7 ],
+          "rotationX": 37.0,
+          "rotationY": -17.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 5.5, 4.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 1.0, 4.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 38",
+          "from": [ 3.0, 0.2, 4.95 ],
+          "to": [ 3.5, 0.7, 5.45 ],
+          "rotationOrigin": [ 3.0, 0.2, 4.95 ],
+          "rotationX": 47.0,
+          "rotationY": -37.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 7.0, 4.5, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 39",
+          "from": [ 6.1, 0.1, 6.3 ],
+          "to": [ 6.6, 0.6, 6.8 ],
+          "rotationOrigin": [ 6.1, 0.1, 6.3 ],
+          "rotationX": 27.0,
+          "rotationY": 47.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.5, 4.5, 5.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 7.0, 7.0, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 1.0, 5.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 4.0, 6.0, 4.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 7.0, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 40",
+          "from": [ 5.7, 0.1, 7.55 ],
+          "to": [ 6.2, 0.6, 8.05 ],
+          "rotationOrigin": [ 5.7, 0.1, 7.55 ],
+          "rotationX": -27.0,
+          "rotationY": 26.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.5, 5.0, 5.0, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 2.0, 6.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 5.5, 5.5, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.5, 2.5, 2.0, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 0.5, 0.5, 1.0 ] }
+          }
+        },
+        {
+          "name": "chunk 41",
+          "from": [ 0.15, 0.15, 7.75 ],
+          "to": [ 0.65, 0.65, 8.25 ],
+          "rotationOrigin": [ 0.15, 0.15, 7.75 ],
+          "rotationX": -27.0,
+          "rotationY": 61.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 0.5, 6.5, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 1.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 4.5, 2.5, 5.0 ] }
+          }
+        },
+        {
+          "name": "chunk 42",
+          "from": [ 6.3, 0.2, 5.55 ],
+          "to": [ 6.8, 0.7, 6.05 ],
+          "rotationOrigin": [ 6.3, 0.2, 5.55 ],
+          "rotationX": -34.0,
+          "rotationY": 34.0,
+          "rotationZ": -26.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 3.5, 7.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 3.5, 3.0, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 1.0, 5.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 6.5, 4.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 0.0, 4.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 43",
+          "from": [ 7.2, 0.0, 4.05 ],
+          "to": [ 7.7, 0.5, 4.55 ],
+          "rotationOrigin": [ 7.2, 0.0, 4.05 ],
+          "rotationX": -38.0,
+          "rotationY": -17.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 4.5, 3.5, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 5.5, 4.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 2.0, 5.0, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 0.5, 1.0, 1.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 3.0, 7.5, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 5.5, 5.5, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 44",
+          "from": [ 7.1, 0.1, 0.4 ],
+          "to": [ 7.6, 0.6, 0.9 ],
+          "rotationOrigin": [ 7.1, 0.1, 0.4 ],
+          "rotationX": 39.0,
+          "rotationY": 41.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 0.0, 6.0, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.0, 6.0, 3.5, 6.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 0.0, 5.5, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 5.0, 4.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 3.5, 6.0, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 45",
+          "from": [ 6.2, 0.25, 0.1 ],
+          "to": [ 6.7, 0.75, 0.6 ],
+          "rotationOrigin": [ 6.2, 0.25, 0.1 ],
+          "rotationX": 19.0,
+          "rotationY": -11.0,
+          "rotationZ": -27.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 5.5, 5.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 6.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 6.0, 1.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 6.0, 5.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 46",
+          "from": [ 6.3, 0.3, 0.8 ],
+          "to": [ 6.8, 0.8, 1.3 ],
+          "rotationOrigin": [ 6.3, 0.3, 0.8 ],
+          "rotationX": 49.0,
+          "rotationY": -137.0,
+          "rotationZ": -27.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 1.5, 6.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 3.5, 3.5, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 7.0, 5.5, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.5, 6.0, 1.0, 6.5 ] }
+          }
+        },
+        {
+          "name": "chunk 47",
+          "from": [ 4.6, 0.3, 0.9 ],
+          "to": [ 5.1, 0.8, 1.4 ],
+          "rotationOrigin": [ 4.6, 0.3, 0.9 ],
+          "rotationX": 29.0,
+          "rotationY": -57.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 2.0, 7.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 2.0, 6.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 1.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 48",
+          "from": [ 2.9, 0.15, 0.0 ],
+          "to": [ 3.4, 0.65, 0.5 ],
+          "rotationOrigin": [ 2.9, 0.15, 0.0 ],
+          "rotationX": 19.0,
+          "rotationY": -31.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 7.0, 6.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 49",
+          "from": [ 1.9, 0.1, 0.6 ],
+          "to": [ 2.4, 0.6, 1.1 ],
+          "rotationOrigin": [ 1.9, 0.1, 0.6 ],
+          "rotationX": 42.0,
+          "rotationY": 47.0,
+          "rotationZ": -15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.5, 2.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 5.0, 5.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 5.5, 6.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 50",
+          "from": [ 0.7, 0.15, 1.5 ],
+          "to": [ 1.2, 0.65, 2.0 ],
+          "rotationOrigin": [ 0.7, 0.15, 1.5 ],
+          "rotationX": 32.0,
+          "rotationY": 19.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 1.0, 2.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 5.5, 2.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 1.0, 7.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 51",
+          "from": [ 5.1, 0.15, 3.5 ],
+          "to": [ 5.6, 0.65, 4.0 ],
+          "rotationOrigin": [ 5.1, 0.15, 3.5 ],
+          "rotationX": 12.0,
+          "rotationY": 33.0,
+          "rotationZ": -31.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 6.5, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.0, 2.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 6.5, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.5, 1.5, 4.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 52",
+          "from": [ 5.3, 0.2, 4.7 ],
+          "to": [ 5.8, 0.7, 5.2 ],
+          "rotationOrigin": [ 5.3, 0.2, 4.7 ],
+          "rotationX": 16.0,
+          "rotationY": -15.0,
+          "rotationZ": -21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 3.5, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 6.0, 0.5, 6.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 0.0, 7.5, 0.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 1.0, 2.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 5.0, 1.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 7.0, 7.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 53",
+          "from": [ 7.5, 0.4, 2.0 ],
+          "to": [ 8.0, 0.9, 2.5 ],
+          "rotationOrigin": [ 7.5, 0.4, 2.0 ],
+          "rotationX": 36.0,
+          "rotationY": -45.0,
+          "rotationZ": -31.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 6.0, 2.5, 6.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 1.5, 4.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.5, 5.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 6.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 5.0, 0.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 54",
+          "from": [ 5.4, 0.35, 5.7 ],
+          "to": [ 5.9, 0.85, 6.2 ],
+          "rotationOrigin": [ 5.4, 0.35, 5.7 ],
+          "rotationX": 36.0,
+          "rotationY": -53.0,
+          "rotationZ": -31.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.0, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 6.0, 4.5, 6.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 0.5, 4.5, 1.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 1.5, 6.5, 2.0 ] }
+          }
+        },
+        {
+          "name": "chunk 55",
+          "from": [ 2.0, 0.25, 6.8 ],
+          "to": [ 2.5, 0.75, 7.3 ],
+          "rotationOrigin": [ 2.0, 0.25, 6.8 ],
+          "rotationX": 46.0,
+          "rotationY": 11.0,
+          "rotationZ": -21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 3.5, 3.0, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.0, 4.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 56",
+          "from": [ 2.7, -0.05, 3.45 ],
+          "to": [ 3.2, 0.45, 3.95 ],
+          "rotationOrigin": [ 2.7, -0.05, 3.45 ],
+          "rotationX": 37.0,
+          "rotationY": 45.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.0, 5.0, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 2.5, 7.5, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 57",
+          "from": [ 3.65, 0.05, 3.2 ],
+          "to": [ 4.15, 0.55, 3.7 ],
+          "rotationOrigin": [ 3.65, 0.05, 3.2 ],
+          "rotationX": 39.0,
+          "rotationY": 59.0,
+          "rotationZ": -39.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 7.0, 1.5, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 2.0, 2.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.5, 2.0, 4.0, 2.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "game:shapes/block/food/pie/threefourths.json",
+    "op": "addmerge",
+    "path": "/elements/0/children/0/children/-",
+    "value": {
+      "name": "topping candy",
+      "from": [ 0.0, 2.01, 0.0 ],
+      "to": [ 0.0, 2.01, 0.0 ],
+      "rotationOrigin": [ 0.0, 2.01, 0.0 ],
+      "faces": {
+        "north": { "texture": "#topcrust", "uv": [ 0.5, 0.5, 1.0, 1.0 ] },
+        "east": { "texture": "#topcrust", "uv": [ 7.0, 4.5, 7.5, 5.0 ] },
+        "south": { "texture": "#topcrust", "uv": [ 3.5, 3.5, 4.0, 4.0 ] },
+        "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.0, 7.5 ] },
+        "up": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+        "down": { "texture": "#topcrust", "uv": [ 4.5, 2.0, 5.0, 2.5 ] }
+      },
+      "children": [
+        {
+          "name": "chunk 1",
+          "from": [ 0.2, 0.25, 0.6 ],
+          "to": [ 1.7, 0.75, 1.6 ],
+          "rotationOrigin": [ 0.2, 0.25, 0.6 ],
+          "rotationX": 8.0,
+          "rotationY": 14.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 3.0, 5.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.5, 2.5, 3.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.5, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 3",
+          "from": [ 0.7, 0.25, 6.2 ],
+          "to": [ 2.2, 0.75, 7.2 ],
+          "rotationOrigin": [ 0.7, 0.25, 6.2 ],
+          "rotationX": -4.0,
+          "rotationY": -28.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 7.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 4.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 4",
+          "from": [ 5.7, 0.25, 1.2 ],
+          "to": [ 7.2, 0.75, 2.2 ],
+          "rotationOrigin": [ 5.7, 0.25, 1.2 ],
+          "rotationX": -6.0,
+          "rotationY": -61.0,
+          "rotationZ": -12.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 4.0, 4.0, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 6.0, 2.0, 6.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 1.0, 6.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.5, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 7.5, 6.5 ] }
+          }
+        },
+        {
+          "name": "chunk 7",
+          "from": [ 3.5, 0.25, 3.5 ],
+          "to": [ 5.0, 0.75, 4.5 ],
+          "rotationOrigin": [ 3.5, 0.25, 3.5 ],
+          "rotationX": 3.0,
+          "rotationY": 147.0,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 2.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 7.0, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 8",
+          "from": [ 1.8, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 1.8, 0.15, 5.7 ],
+          "rotationX": 14.0,
+          "rotationY": 121.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 4.0, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 6.5, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 9",
+          "from": [ 2.3, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 2.3, 0.15, 5.7 ],
+          "rotationX": 9.0,
+          "rotationY": 5.0,
+          "rotationZ": 10.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 7.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 1.0, 1.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 7.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 1.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 6.5, 3.0, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 0.0, 2.5, 1.0 ] }
+          }
+        },
+        {
+          "name": "chunk 11",
+          "from": [ 7.1, 0.15, 0.5 ],
+          "to": [ 8.1, 0.65, 1.5 ],
+          "rotationOrigin": [ 7.1, 0.15, 0.5 ],
+          "rotationX": 7.0,
+          "rotationY": -59.5,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 6.5, 2.5, 7.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 7.0, 4.5, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 6.5, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 12",
+          "from": [ 2.8, 0.2, 0.8 ],
+          "to": [ 3.8, 0.7, 1.8 ],
+          "rotationOrigin": [ 2.8, 0.2, 0.8 ],
+          "rotationX": 20.0,
+          "rotationY": 22.5,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 2.0, 6.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 2.0, 1.0, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.5, 3.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 13",
+          "from": [ 0.5, 0.2, 3.0 ],
+          "to": [ 1.5, 0.7, 4.0 ],
+          "rotationOrigin": [ 0.5, 0.2, 3.0 ],
+          "rotationX": -13.0,
+          "rotationY": 73.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.5, 1.0, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.5, 1.0, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 1.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 14",
+          "from": [ 2.7, -0.2, 4.2 ],
+          "to": [ 3.7, 0.3, 5.2 ],
+          "rotationOrigin": [ 2.7, -0.2, 4.2 ],
+          "rotationX": -19.0,
+          "rotationY": 17.0,
+          "rotationZ": 22.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 6.5, 4.5, 7.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 5.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 2.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 15",
+          "from": [ 4.6, 0.0, 2.8 ],
+          "to": [ 5.6, 0.5, 3.8 ],
+          "rotationOrigin": [ 4.6, 0.0, 2.8 ],
+          "rotationX": -17.0,
+          "rotationY": -36.0,
+          "rotationZ": -22.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 3.0, 1.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 2.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 3.0, 1.0, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 0.5, 3.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 18",
+          "from": [ 2.9, 0.0, 7.3 ],
+          "to": [ 3.4, 0.5, 8.3 ],
+          "rotationOrigin": [ 2.9, 0.0, 7.3 ],
+          "rotationX": 21.0,
+          "rotationY": 76.0,
+          "rotationZ": 11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 4.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 2.0 ] }
+          }
+        },
+        {
+          "name": "chunk 19",
+          "from": [ 0.4, 0.0, 5.3 ],
+          "to": [ 0.9, 0.5, 6.3 ],
+          "rotationOrigin": [ 0.4, 0.0, 5.3 ],
+          "rotationX": -23.0,
+          "rotationY": 22.5,
+          "rotationZ": -17.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 4.0, 7.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 21",
+          "from": [ 7.4, 0.15, 2.7 ],
+          "to": [ 7.9, 0.65, 3.7 ],
+          "rotationOrigin": [ 7.4, 0.15, 2.7 ],
+          "rotationX": 12.0,
+          "rotationY": -41.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 5.5, 4.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 7.0, 3.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 6.5, 0.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 22",
+          "from": [ 1.7, 0.2, 3.2 ],
+          "to": [ 2.2, 0.7, 4.2 ],
+          "rotationOrigin": [ 1.7, 0.2, 3.2 ],
+          "rotationX": 27.0,
+          "rotationY": 53.0,
+          "rotationZ": -29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.5, 0.0, 5.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.0, 0.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 6.5, 7.0, 7.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 3.0, 3.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 23",
+          "from": [ 4.1, -0.2, 2.0 ],
+          "to": [ 4.6, 0.3, 3.0 ],
+          "rotationOrigin": [ 4.1, -0.2, 2.0 ],
+          "rotationX": -21.0,
+          "rotationY": 26.0,
+          "rotationZ": 16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 0.5, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 3.0, 3.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 5.0, 3.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 4.5, 6.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 24",
+          "from": [ 4.4, -0.1, 0.7 ],
+          "to": [ 4.9, 0.4, 1.7 ],
+          "rotationOrigin": [ 4.4, -0.1, 0.7 ],
+          "rotationX": -6.0,
+          "rotationY": 71.0,
+          "rotationZ": 26.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 3.5, 2.5, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 1.5, 7.0, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 7.0, 4.0, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 6.5, 0.5, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.5, 3.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 25",
+          "from": [ 0.5, -0.1, 3.9 ],
+          "to": [ 1.0, 0.4, 4.9 ],
+          "rotationOrigin": [ 0.5, -0.1, 3.9 ],
+          "rotationX": -9.0,
+          "rotationY": 99.0,
+          "rotationZ": 23.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 5.5, 7.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 0.0, 3.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.5, 2.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 26",
+          "from": [ 6.7, 0.0, 2.5 ],
+          "to": [ 7.2, 0.5, 3.5 ],
+          "rotationOrigin": [ 6.7, 0.0, 2.5 ],
+          "rotationX": -27.0,
+          "rotationY": 119.0,
+          "rotationZ": 39.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 6.5, 2.5, 7.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 7.0, 3.0, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.0, 4.0, 1.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 6.0, 1.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 4.5, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 2.0, 4.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 27",
+          "from": [ 6.6, -0.15, 2.8 ],
+          "to": [ 7.1, 0.35, 3.8 ],
+          "rotationOrigin": [ 6.6, -0.15, 2.8 ],
+          "rotationX": -17.0,
+          "rotationY": -58.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 7.0, 2.5, 7.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 6.5, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.0, 5.0, 1.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.5, 0.5, 3.0, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 6.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 28",
+          "from": [ 2.4, -0.15, 1.3 ],
+          "to": [ 2.9, 0.35, 2.3 ],
+          "rotationOrigin": [ 2.4, -0.15, 1.3 ],
+          "rotationX": -19.0,
+          "rotationY": -41.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 6.5, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 3.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 29",
+          "from": [ 4.1, -0.1, 1.8 ],
+          "to": [ 4.6, 0.4, 2.3 ],
+          "rotationOrigin": [ 4.1, -0.1, 1.8 ],
+          "rotationX": -19.0,
+          "rotationY": -65.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.0, 0.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 3.0, 5.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 4.5, 5.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 31",
+          "from": [ 3.8, 0.0, 3.9 ],
+          "to": [ 4.3, 0.5, 4.4 ],
+          "rotationOrigin": [ 3.8, 0.0, 3.9 ],
+          "rotationX": 25.0,
+          "rotationY": 57.0,
+          "rotationZ": 21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 5.5, 4.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 6.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 2.5, 6.0, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.5, 2.0, 7.0, 2.5 ] }
+          }
+        },
+        {
+          "name": "chunk 32",
+          "from": [ 3.6, -0.1, 5.3 ],
+          "to": [ 4.1, 0.4, 5.8 ],
+          "rotationOrigin": [ 3.6, -0.1, 5.3 ],
+          "rotationX": 35.0,
+          "rotationY": 107.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 6.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 3.5, 7.0, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 3.0, 3.0, 3.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 0.5, 0.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 5.0, 3.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 34",
+          "from": [ 2.35, 0.1, 7.2 ],
+          "to": [ 2.85, 0.6, 7.7 ],
+          "rotationOrigin": [ 2.35, 0.1, 7.2 ],
+          "rotationX": 27.0,
+          "rotationY": 21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 4.0, 1.5, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 2.5, 6.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 0.5, 2.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 3.5, 6.0, 4.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 6.5, 1.5, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 35",
+          "from": [ 1.85, 0.2, 5.9 ],
+          "to": [ 2.35, 0.7, 6.4 ],
+          "rotationOrigin": [ 1.85, 0.2, 5.9 ],
+          "rotationX": 37.0,
+          "rotationY": -21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 4.5, 4.0, 5.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 6.5, 1.0, 7.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 6.0, 5.0, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.5, 4.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.5, 0.0, 7.0, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 36",
+          "from": [ 0.85, 0.2, 4.2 ],
+          "to": [ 1.35, 0.7, 4.7 ],
+          "rotationOrigin": [ 0.85, 0.2, 4.2 ],
+          "rotationX": 47.0,
+          "rotationY": -41.0,
+          "rotationZ": 29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 3.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 3.0, 1.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 37",
+          "from": [ 2.4, 0.2, 3.7 ],
+          "to": [ 2.9, 0.7, 4.2 ],
+          "rotationOrigin": [ 2.4, 0.2, 3.7 ],
+          "rotationX": 37.0,
+          "rotationY": -17.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 5.5, 4.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 1.0, 4.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 38",
+          "from": [ 3.0, 0.2, 4.95 ],
+          "to": [ 3.5, 0.7, 5.45 ],
+          "rotationOrigin": [ 3.0, 0.2, 4.95 ],
+          "rotationX": 47.0,
+          "rotationY": -37.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 7.0, 4.5, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 41",
+          "from": [ 0.15, 0.15, 7.75 ],
+          "to": [ 0.65, 0.65, 8.25 ],
+          "rotationOrigin": [ 0.15, 0.15, 7.75 ],
+          "rotationX": -27.0,
+          "rotationY": 61.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 0.5, 6.5, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 1.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 4.5, 2.5, 5.0 ] }
+          }
+        },
+        {
+          "name": "chunk 44",
+          "from": [ 7.1, 0.1, 0.4 ],
+          "to": [ 7.6, 0.6, 0.9 ],
+          "rotationOrigin": [ 7.1, 0.1, 0.4 ],
+          "rotationX": 39.0,
+          "rotationY": 41.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 0.0, 6.0, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.0, 6.0, 3.5, 6.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 1.0, 6.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 0.0, 5.5, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 5.0, 4.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 3.5, 6.0, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 45",
+          "from": [ 6.2, 0.25, 0.1 ],
+          "to": [ 6.7, 0.75, 0.6 ],
+          "rotationOrigin": [ 6.2, 0.25, 0.1 ],
+          "rotationX": 19.0,
+          "rotationY": -11.0,
+          "rotationZ": -27.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 5.5, 5.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 6.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 6.0, 1.5, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 6.0, 5.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] }
+          }
+        },
+        {
+          "name": "chunk 46",
+          "from": [ 6.3, 0.3, 0.8 ],
+          "to": [ 6.8, 0.8, 1.3 ],
+          "rotationOrigin": [ 6.3, 0.3, 0.8 ],
+          "rotationX": 49.0,
+          "rotationY": -137.0,
+          "rotationZ": -27.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 1.5, 6.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 3.5, 3.5, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 7.0, 5.5, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.5, 6.0, 1.0, 6.5 ] }
+          }
+        },
+        {
+          "name": "chunk 47",
+          "from": [ 4.6, 0.3, 0.9 ],
+          "to": [ 5.1, 0.8, 1.4 ],
+          "rotationOrigin": [ 4.6, 0.3, 0.9 ],
+          "rotationX": 29.0,
+          "rotationY": -57.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 2.0, 7.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 2.0, 6.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 1.0, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 48",
+          "from": [ 2.9, 0.15, 0.0 ],
+          "to": [ 3.4, 0.65, 0.5 ],
+          "rotationOrigin": [ 2.9, 0.15, 0.0 ],
+          "rotationX": 19.0,
+          "rotationY": -31.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 7.0, 6.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 49",
+          "from": [ 1.9, 0.1, 0.6 ],
+          "to": [ 2.4, 0.6, 1.1 ],
+          "rotationOrigin": [ 1.9, 0.1, 0.6 ],
+          "rotationX": 42.0,
+          "rotationY": 47.0,
+          "rotationZ": -15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.5, 2.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 5.0, 5.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 5.5, 6.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 50",
+          "from": [ 0.7, 0.15, 1.5 ],
+          "to": [ 1.2, 0.65, 2.0 ],
+          "rotationOrigin": [ 0.7, 0.15, 1.5 ],
+          "rotationX": 32.0,
+          "rotationY": 19.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 1.0, 2.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 5.5, 2.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 1.0, 7.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 51",
+          "from": [ 5.1, 0.15, 3.5 ],
+          "to": [ 5.6, 0.65, 4.0 ],
+          "rotationOrigin": [ 5.1, 0.15, 3.5 ],
+          "rotationX": 12.0,
+          "rotationY": 33.0,
+          "rotationZ": -31.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.0, 6.5, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.0, 2.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 6.5, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.5, 1.5, 4.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 53",
+          "from": [ 7.5, 0.4, 2.0 ],
+          "to": [ 8.0, 0.9, 2.5 ],
+          "rotationOrigin": [ 7.5, 0.4, 2.0 ],
+          "rotationX": 36.0,
+          "rotationY": -45.0,
+          "rotationZ": -31.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.0, 6.0, 2.5, 6.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 1.5, 4.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.5, 5.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 6.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 5.0, 0.5, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 55",
+          "from": [ 2.0, 0.25, 6.8 ],
+          "to": [ 2.5, 0.75, 7.3 ],
+          "rotationOrigin": [ 2.0, 0.25, 6.8 ],
+          "rotationX": 46.0,
+          "rotationY": 11.0,
+          "rotationZ": -21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 3.5, 3.0, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.0, 4.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 56",
+          "from": [ 2.7, -0.05, 3.45 ],
+          "to": [ 3.2, 0.45, 3.95 ],
+          "rotationOrigin": [ 2.7, -0.05, 3.45 ],
+          "rotationX": 37.0,
+          "rotationY": 45.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.0, 5.0, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 2.5, 7.5, 3.0 ] }
+          }
+        },
+        {
+          "name": "chunk 57",
+          "from": [ 3.65, 0.05, 3.2 ],
+          "to": [ 4.15, 0.55, 3.7 ],
+          "rotationOrigin": [ 3.65, 0.05, 3.2 ],
+          "rotationX": 39.0,
+          "rotationY": 59.0,
+          "rotationZ": -39.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 7.0, 1.5, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 2.0, 2.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.5, 2.0, 4.0, 2.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 0.5, 0.5 ] }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "file": "game:shapes/block/food/pie/half.json",
+    "op": "addmerge",
+    "path": "/elements/0/children/0/children/-",
+    "value": {
+      "name": "topping candy",
+      "from": [ 0.0, 2.01, 0.0 ],
+      "to": [ 0.0, 2.01, 0.0 ],
+      "rotationOrigin": [ 0.0, 2.01, 0.0 ],
+      "faces": {
+        "north": { "texture": "#topcrust", "uv": [ 0.5, 0.5, 1.0, 1.0 ] },
+        "east": { "texture": "#topcrust", "uv": [ 7.0, 4.5, 7.5, 5.0 ] },
+        "south": { "texture": "#topcrust", "uv": [ 3.5, 3.5, 4.0, 4.0 ] },
+        "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.0, 7.5 ] },
+        "up": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+        "down": { "texture": "#topcrust", "uv": [ 4.5, 2.0, 5.0, 2.5 ] }
+      },
+      "children": [
+        {
+          "name": "chunk 1",
+          "from": [ 0.2, 0.25, 0.6 ],
+          "to": [ 1.7, 0.75, 1.6 ],
+          "rotationOrigin": [ 0.2, 0.25, 0.6 ],
+          "rotationX": 8.0,
+          "rotationY": 14.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 3.0, 5.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.5, 2.5, 3.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.5, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 3",
+          "from": [ 0.7, 0.25, 6.2 ],
+          "to": [ 2.2, 0.75, 7.2 ],
+          "rotationOrigin": [ 0.7, 0.25, 6.2 ],
+          "rotationX": -4.0,
+          "rotationY": -28.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 7.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 4.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 7",
+          "from": [ 3.5, 0.25, 3.5 ],
+          "to": [ 5.0, 0.75, 4.5 ],
+          "rotationOrigin": [ 3.5, 0.25, 3.5 ],
+          "rotationX": 3.0,
+          "rotationY": 147.0,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 2.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 7.0, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 8",
+          "from": [ 1.8, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 1.8, 0.15, 5.7 ],
+          "rotationX": 14.0,
+          "rotationY": 121.0,
+          "rotationZ": -8.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 2.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 4.0, 2.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 4.0, 7.5, 5.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 6.5, 4.5, 7.5 ] }
+          }
+        },
+        {
+          "name": "chunk 9",
+          "from": [ 2.3, 0.15, 5.7 ],
+          "to": [ 3.3, 0.65, 6.7 ],
+          "rotationOrigin": [ 2.3, 0.15, 5.7 ],
+          "rotationX": 9.0,
+          "rotationY": 5.0,
+          "rotationZ": 10.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 4.5, 7.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 1.0, 1.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.0, 5.0, 7.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 0.0, 0.0, 1.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 6.5, 3.0, 7.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 0.0, 2.5, 1.0 ] }
+          }
+        },
+        {
+          "name": "chunk 12",
+          "from": [ 2.8, 0.2, 0.8 ],
+          "to": [ 3.8, 0.7, 1.8 ],
+          "rotationOrigin": [ 2.8, 0.2, 0.8 ],
+          "rotationX": 20.0,
+          "rotationY": 22.5,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 2.0, 6.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 2.0, 1.0, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.5, 3.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 13",
+          "from": [ 0.5, 0.2, 3.0 ],
+          "to": [ 1.5, 0.7, 4.0 ],
+          "rotationOrigin": [ 0.5, 0.2, 3.0 ],
+          "rotationX": -13.0,
+          "rotationY": 73.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.5, 1.0, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.5, 1.0, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 1.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 14",
+          "from": [ 2.7, -0.2, 4.2 ],
+          "to": [ 3.7, 0.3, 5.2 ],
+          "rotationOrigin": [ 2.7, -0.2, 4.2 ],
+          "rotationX": -19.0,
+          "rotationY": 17.0,
+          "rotationZ": 22.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 6.5, 4.5, 7.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.5, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 5.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 2.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 2.5, 5.0, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 18",
+          "from": [ 2.9, 0.0, 7.3 ],
+          "to": [ 3.4, 0.5, 8.3 ],
+          "rotationOrigin": [ 2.9, 0.0, 7.3 ],
+          "rotationX": 21.0,
+          "rotationY": 76.0,
+          "rotationZ": 11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 2.0, 3.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.5, 5.5, 1.5, 6.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 4.5, 4.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.5, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 2.0 ] }
+          }
+        },
+        {
+          "name": "chunk 19",
+          "from": [ 0.4, 0.0, 5.3 ],
+          "to": [ 0.9, 0.5, 6.3 ],
+          "rotationOrigin": [ 0.4, 0.0, 5.3 ],
+          "rotationX": -23.0,
+          "rotationY": 22.5,
+          "rotationZ": -17.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.0, 5.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 4.0, 7.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 22",
+          "from": [ 1.7, 0.2, 3.2 ],
+          "to": [ 2.2, 0.7, 4.2 ],
+          "rotationOrigin": [ 1.7, 0.2, 3.2 ],
+          "rotationX": 27.0,
+          "rotationY": 53.0,
+          "rotationZ": -29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.5, 0.0, 5.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.0, 0.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 6.5, 7.0, 7.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 3.0, 3.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 25",
+          "from": [ 0.5, -0.1, 3.9 ],
+          "to": [ 1.0, 0.4, 4.9 ],
+          "rotationOrigin": [ 0.5, -0.1, 3.9 ],
+          "rotationX": -9.0,
+          "rotationY": 99.0,
+          "rotationZ": 23.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 5.5, 7.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 0.0, 3.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.5, 2.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 28",
+          "from": [ 2.4, -0.15, 1.3 ],
+          "to": [ 2.9, 0.35, 2.3 ],
+          "rotationOrigin": [ 2.4, -0.15, 1.3 ],
+          "rotationX": -19.0,
+          "rotationY": -41.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 6.5, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 3.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 29",
+          "from": [ 4.1, -0.1, 1.8 ],
+          "to": [ 4.6, 0.4, 2.3 ],
+          "rotationOrigin": [ 4.1, -0.1, 1.8 ],
+          "rotationX": -19.0,
+          "rotationY": -65.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.0, 0.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 3.0, 5.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 4.5, 5.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 32",
+          "from": [ 3.6, -0.1, 5.3 ],
+          "to": [ 4.1, 0.4, 5.8 ],
+          "rotationOrigin": [ 3.6, -0.1, 5.3 ],
+          "rotationX": 35.0,
+          "rotationY": 107.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 6.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 3.5, 7.0, 4.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 3.0, 3.0, 3.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 0.5, 0.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 5.0, 3.0, 5.5 ] }
+          }
+        },
+        {
+          "name": "chunk 34",
+          "from": [ 2.35, 0.1, 7.2 ],
+          "to": [ 2.85, 0.6, 7.7 ],
+          "rotationOrigin": [ 2.35, 0.1, 7.2 ],
+          "rotationX": 27.0,
+          "rotationY": 21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 4.0, 1.5, 4.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 2.5, 6.5, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 0.5, 2.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 3.5, 6.0, 4.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 6.5, 1.5, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 35",
+          "from": [ 1.85, 0.2, 5.9 ],
+          "to": [ 2.35, 0.7, 6.4 ],
+          "rotationOrigin": [ 1.85, 0.2, 5.9 ],
+          "rotationX": 37.0,
+          "rotationY": -21.0,
+          "rotationZ": 15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 4.5, 4.0, 5.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 6.5, 1.0, 7.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 6.0, 5.0, 6.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.5, 4.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.5, 0.0, 7.0, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 36",
+          "from": [ 0.85, 0.2, 4.2 ],
+          "to": [ 1.35, 0.7, 4.7 ],
+          "rotationOrigin": [ 0.85, 0.2, 4.2 ],
+          "rotationX": 47.0,
+          "rotationY": -41.0,
+          "rotationZ": 29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.0, 5.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 4.5, 3.0, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.0, 3.0, 1.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 37",
+          "from": [ 2.4, 0.2, 3.7 ],
+          "to": [ 2.9, 0.7, 4.2 ],
+          "rotationOrigin": [ 2.4, 0.2, 3.7 ],
+          "rotationX": 37.0,
+          "rotationY": -17.0,
+          "rotationZ": 19.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 5.5, 4.0, 6.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 1.5, 5.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 2.5, 5.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.0, 1.0, 4.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 38",
+          "from": [ 3.0, 0.2, 4.95 ],
+          "to": [ 3.5, 0.7, 5.45 ],
+          "rotationOrigin": [ 3.0, 0.2, 4.95 ],
+          "rotationX": 47.0,
+          "rotationY": -37.0,
+          "rotationZ": 25.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.0, 7.0, 4.5, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 7.0, 1.5, 7.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 1.0, 1.5, 1.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 4.0, 4.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 41",
+          "from": [ 0.15, 0.15, 7.75 ],
+          "to": [ 0.65, 0.65, 8.25 ],
+          "rotationOrigin": [ 0.15, 0.15, 7.75 ],
+          "rotationX": -27.0,
+          "rotationY": 61.0,
+          "rotationZ": -16.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.0, 0.5, 6.5, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.0, 2.0, 1.5, 2.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 4.5, 2.5, 5.0 ] }
+          }
+        },
+        {
+          "name": "chunk 48",
+          "from": [ 2.9, 0.15, 0.0 ],
+          "to": [ 3.4, 0.65, 0.5 ],
+          "rotationOrigin": [ 2.9, 0.15, 0.0 ],
+          "rotationX": 19.0,
+          "rotationY": -31.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 7.0, 6.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 49",
+          "from": [ 1.9, 0.1, 0.6 ],
+          "to": [ 2.4, 0.6, 1.1 ],
+          "rotationOrigin": [ 1.9, 0.1, 0.6 ],
+          "rotationX": 42.0,
+          "rotationY": 47.0,
+          "rotationZ": -15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.5, 2.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 5.0, 5.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 5.5, 6.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 50",
+          "from": [ 0.7, 0.15, 1.5 ],
+          "to": [ 1.2, 0.65, 2.0 ],
+          "rotationOrigin": [ 0.7, 0.15, 1.5 ],
+          "rotationX": 32.0,
+          "rotationY": 19.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 1.0, 2.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 5.5, 2.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 1.0, 7.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 55",
+          "from": [ 2.0, 0.25, 6.8 ],
+          "to": [ 2.5, 0.75, 7.3 ],
+          "rotationOrigin": [ 2.0, 0.25, 6.8 ],
+          "rotationX": 46.0,
+          "rotationY": 11.0,
+          "rotationZ": -21.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 0.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.5, 3.5, 3.0, 4.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 4.0, 6.0, 4.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 6.5, 0.5 ] }
+          }
+        },
+        {
+          "name": "chunk 56",
+          "from": [ 2.7, -0.05, 3.45 ],
+          "to": [ 3.2, 0.45, 3.95 ],
+          "rotationOrigin": [ 2.7, -0.05, 3.45 ],
+          "rotationX": 37.0,
+          "rotationY": 45.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.0, 5.0, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 2.5, 7.5, 3.0 ] }
+          }
+        }
+      ]
+    }
+  },  
+  {
+    "file": "game:shapes/block/food/pie/quarter.json",
+    "op": "addmerge",
+    "path": "/elements/0/children/0/children/-",
+    "value": {
+      "name": "topping candy",
+      "from": [ 0.0, 2.01, 0.0 ],
+      "to": [ 0.0, 2.01, 0.0 ],
+      "rotationOrigin": [ 0.0, 2.01, 0.0 ],
+      "faces": {
+        "north": { "texture": "#topcrust", "uv": [ 0.5, 0.5, 1.0, 1.0 ] },
+        "east": { "texture": "#topcrust", "uv": [ 7.0, 4.5, 7.5, 5.0 ] },
+        "south": { "texture": "#topcrust", "uv": [ 3.5, 3.5, 4.0, 4.0 ] },
+        "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.0, 7.5 ] },
+        "up": { "texture": "#topcrust", "uv": [ 6.0, 5.5, 6.5, 6.0 ] },
+        "down": { "texture": "#topcrust", "uv": [ 4.5, 2.0, 5.0, 2.5 ] }
+      },
+      "children": [
+        {
+          "name": "chunk 1",
+          "from": [ 0.2, 0.25, 0.6 ],
+          "to": [ 1.7, 0.75, 1.6 ],
+          "rotationOrigin": [ 0.2, 0.25, 0.6 ],
+          "rotationX": 8.0,
+          "rotationY": 14.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 3.5, 3.0, 5.0, 3.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 1.5, 4.0, 2.5, 4.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.5, 2.5, 3.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.5, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 7",
+          "from": [ 3.5, 0.25, 3.5 ],
+          "to": [ 5.0, 0.75, 4.5 ],
+          "rotationOrigin": [ 3.5, 0.25, 3.5 ],
+          "rotationX": 3.0,
+          "rotationY": 147.0,
+          "rotationZ": -9.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 0.5, 2.5, 2.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.5, 2.0, 3.5, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 3.0, 7.0, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.5, 1.5, 6.5, 2.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 0.0, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 1.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 12",
+          "from": [ 2.8, 0.2, 0.8 ],
+          "to": [ 3.8, 0.7, 1.8 ],
+          "rotationOrigin": [ 2.8, 0.2, 0.8 ],
+          "rotationX": 20.0,
+          "rotationY": 22.5,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.5, 2.0, 6.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 2.0, 1.0, 2.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.5, 4.5, 1.5, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 5.0, 6.0, 5.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 7.0, 2.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 2.5, 3.5, 3.5 ] }
+          }
+        },
+        {
+          "name": "chunk 13",
+          "from": [ 0.5, 0.2, 3.0 ],
+          "to": [ 1.5, 0.7, 4.0 ],
+          "rotationOrigin": [ 0.5, 0.2, 3.0 ],
+          "rotationX": -13.0,
+          "rotationY": 73.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 2.5, 6.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.5, 1.0, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.5, 1.0, 5.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 7.0, 3.5, 7.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 0.0, 2.5, 1.0, 3.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.0, 5.0, 3.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 22",
+          "from": [ 1.7, 0.2, 3.2 ],
+          "to": [ 2.2, 0.7, 4.2 ],
+          "rotationOrigin": [ 1.7, 0.2, 3.2 ],
+          "rotationX": 27.0,
+          "rotationY": 53.0,
+          "rotationZ": -29.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 4.5, 0.0, 5.5, 0.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 0.0, 4.0, 0.5, 4.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 6.0, 6.5, 7.0, 7.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 3.0, 3.0, 3.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 4.5, 3.5, 5.0, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 25",
+          "from": [ 0.5, -0.1, 3.9 ],
+          "to": [ 1.0, 0.4, 4.9 ],
+          "rotationOrigin": [ 0.5, -0.1, 3.9 ],
+          "rotationX": -9.0,
+          "rotationY": 99.0,
+          "rotationZ": 23.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 5.0, 0.5, 6.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 6.5, 5.5, 7.0, 6.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.0, 0.0, 3.0, 0.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 5.5, 2.5, 6.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 28",
+          "from": [ 2.4, -0.15, 1.3 ],
+          "to": [ 2.9, 0.35, 2.3 ],
+          "rotationOrigin": [ 2.4, -0.15, 1.3 ],
+          "rotationX": -19.0,
+          "rotationY": -41.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 1.0, 6.5, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 3.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 2.0, 2.5, 2.5, 3.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 1.0, 4.0, 1.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 2.0, 3.0, 2.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 6.0, 3.0, 7.0 ] }
+          }
+        },
+        {
+          "name": "chunk 29",
+          "from": [ 4.1, -0.1, 1.8 ],
+          "to": [ 4.6, 0.4, 2.3 ],
+          "rotationOrigin": [ 4.1, -0.1, 1.8 ],
+          "rotationX": -19.0,
+          "rotationY": -65.0,
+          "rotationZ": 24.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 4.0, 2.0, 4.5, 2.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 0.0, 1.0, 0.5, 1.5 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.0, 3.0, 5.5, 3.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 5.0, 4.5, 5.5, 5.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 0.0, 1.5, 0.5 ] },
+            "down": { "texture": "#topcrust", "uv": [ 3.0, 4.0, 3.5, 4.5 ] }
+          }
+        },
+        {
+          "name": "chunk 48",
+          "from": [ 2.9, 0.15, 0.0 ],
+          "to": [ 3.4, 0.65, 0.5 ],
+          "rotationOrigin": [ 2.9, 0.15, 0.0 ],
+          "rotationX": 19.0,
+          "rotationY": -31.0,
+          "rotationZ": -6.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 2.5, 4.0, 3.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 7.0, 6.0, 7.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 3.0, 5.5, 3.5, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 7.0, 0.5, 7.5, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 49",
+          "from": [ 1.9, 0.1, 0.6 ],
+          "to": [ 2.4, 0.6, 1.1 ],
+          "rotationOrigin": [ 1.9, 0.1, 0.6 ],
+          "rotationX": 42.0,
+          "rotationY": 47.0,
+          "rotationZ": -15.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 6.5, 2.5, 7.0, 3.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 2.0, 1.5, 2.5, 2.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 4.5, 5.0, 5.0, 5.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 2.5, 5.5, 3.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 1.0, 2.5, 1.5, 3.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 5.5, 5.5, 6.0, 6.0 ] }
+          }
+        },
+        {
+          "name": "chunk 50",
+          "from": [ 0.7, 0.15, 1.5 ],
+          "to": [ 1.2, 0.65, 2.0 ],
+          "rotationOrigin": [ 0.7, 0.15, 1.5 ],
+          "rotationX": 32.0,
+          "rotationY": 19.0,
+          "rotationZ": -11.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 5.0, 3.5, 5.5, 4.0 ] },
+            "east": { "texture": "#topcrust", "uv": [ 3.5, 0.5, 4.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 1.5, 1.0, 2.0, 1.5 ] },
+            "west": { "texture": "#topcrust", "uv": [ 1.5, 5.5, 2.0, 6.0 ] },
+            "up": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 1.0, 7.5, 1.5 ] }
+          }
+        },
+        {
+          "name": "chunk 56",
+          "from": [ 2.7, -0.05, 3.45 ],
+          "to": [ 3.2, 0.45, 3.95 ],
+          "rotationOrigin": [ 2.7, -0.05, 3.45 ],
+          "rotationX": 37.0,
+          "rotationY": 45.0,
+          "rotationZ": -4.0,
+          "faces": {
+            "north": { "texture": "#topcrust", "uv": [ 2.5, 1.0, 3.0, 1.5 ] },
+            "east": { "texture": "#topcrust", "uv": [ 6.5, 0.5, 7.0, 1.0 ] },
+            "south": { "texture": "#topcrust", "uv": [ 5.5, 0.5, 6.0, 1.0 ] },
+            "west": { "texture": "#topcrust", "uv": [ 4.5, 4.0, 5.0, 4.5 ] },
+            "up": { "texture": "#topcrust", "uv": [ 6.0, 3.5, 6.5, 4.0 ] },
+            "down": { "texture": "#topcrust", "uv": [ 7.0, 2.5, 7.5, 3.0 ] }
+          }
+        }
+      ]
+    }
+  },
+  
+]

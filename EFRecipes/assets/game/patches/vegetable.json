@@ -52,7 +52,6 @@
       "*-turnip": { "texture": "block/food/pie/fill-{type}", "partType": "Filling", "mixingCodes": ["vegetable",
           "turnippeanut","turnipwalnut","turnipnut","vegetablenut",
           "turnipmushroomblack","turnipmushroomblue","turnipmushroombrown","turnipmushroomdevilstooth","turnipmushroomgreen","turnipmushroomlobster","turnipmushroomoffwhite","turnipmushroomorange","turnipmushroompink","turnipmushroompurple","turnipmushroomred","turnipmushroomwhite","turnipmushroomyellow","turnipmushroom","mushroomveg",
-          "turnippeanut", "turnipwalnut", "turnipnut", "vegetablenut",
           "soyturnip", "soyvegetable",
           "blueturnip","cheddarturnip","cottageturnip","blueveg","cheddarveg","cottageveg","cheeseveg",
           "turnipquiche","vegquiche",
