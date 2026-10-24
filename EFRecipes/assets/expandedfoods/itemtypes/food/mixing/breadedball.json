@@ -12,7 +12,8 @@
 		"shelvable": true,
 		"handbook": { 
           "groupBy": [ "breadedball-*" ],
-          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fryingguide", "text": "expandedfoods:item-handbooktext-fryingguide" }]
+          "extraSections": [{ "title": "expandedfoods:item-handbooktitle-fryingguide", "text": "expandedfoods:item-handbooktext-fryingguide" }],
+		  "ignoreCreativeInvStacks": true
         },
   		"expandedNutritionProps": {
 			"game:flour-flax": {"saturation": 80, "foodcategory": "Grain"},
@@ -159,7 +160,50 @@
 		"@*-(cooked|syrup)": { "satiety": 50, "foodcategory": "Grain" },
 		"@*-(charred|syrupcharred)": { "satiety": 40, "foodcategory": "Grain" }
 	},
-	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
+	"creativeinventoryStacksByType": {
+		"*-oiled": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:breadedball-{type}-{state}",
+						"attributes": {
+							"madeWith": [ "expandedfoods:choppedvegetable-cabbage", "expandedfoods:foodoilportion-flax", "10", "game:flour-{type}", "game:honeyportion", "10" ]
+						}
+					}
+				]
+			}
+		],
+		"*-syrup*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:breadedball-{type}-{state}",
+						"attributes": {
+							"madeWith": [ "expandedfoods:choppedvegetable-cabbage", "expandedfoods:fruitsyrupportion-whitecurrant", "10", "game:flour-{type}", "game:honeyportion", "10" ]
+						}
+					}
+				]
+			}
+		],
+		"*": [
+			{
+				"tabs": ["general", "items", "expandedfoods"],
+				"stacks": [
+					{
+						"type": "item",
+						"code": "expandedfoods:breadedball-{type}-{state}",
+						"attributes": {
+							"madeWith": [ "expandedfoods:choppedvegetable-cabbage", "game:flour-{type}", "game:honeyportion", "10" ]
+						}
+					}
+				]
+			}
+		]
+	},
 	"transitionablePropsByType": {
 		"@*-(raw|oiled)": [{
 			"type": "Perish",

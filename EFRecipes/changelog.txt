@@ -147,6 +147,12 @@ THE PIESPLOSION UPDATE (PART 2)
 - Washed soybeans can be made in the mixing bowl and barrels - DONE!!!!
 - Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted) - DONE!!!
 
+- Updated creative inventory stacks for:
+ - Fruit bread
+ - Muffins
+ - Breaded balls
+
+- Fixed fruit bread and muffins rendering as charred in creative inventory and handbook
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)
 
