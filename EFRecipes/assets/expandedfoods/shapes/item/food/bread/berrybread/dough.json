@@ -8,7 +8,7 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"dough": "item/food/fakepath/unrealdough"
+		"dough": "game:item/food/grain/flaxbread"
 	},
 	"elements": [
 		{

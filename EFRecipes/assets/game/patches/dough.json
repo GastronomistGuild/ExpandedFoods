@@ -11,6 +11,7 @@
     "path": "/attributes/expandedNutritionProps",
     "value": {
       "game:milkportion": { "saturation": 1.5, "foodcategory": "Dairy" },
+      "game:flour-flax": { "saturation": 0, "foodcategory": "Grain" },
       "game:flour-rice": { "saturation": 0, "foodcategory": "Grain" },
       "game:flour-rye": { "saturation": 0, "foodcategory": "Grain" },
       "game:flour-spelt": { "saturation": 0, "foodcategory": "Grain" },
@@ -72,5 +73,35 @@
     "value": [{ "title": "expandedfoods:item-handbooktitle-dough", "text": "expandedfoods:item-handbooktext-dough" }],
     "side": "server",
     "file": "itemtypes/food/dough.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/attributes/handbook",
+    "value": { "ignoreCreativeInventoryStacks": true },
+    "file": "game:itemtypes/food/dough.json"
+  },
+  {
+    "op": "remove",
+    "path": "/creativeinventory",
+    "file": "game:itemtypes/food/dough.json"
+  },
+  {
+    "op": "addmerge",
+    "path": "/creativeinventoryStacks",
+    "value": [
+        {
+          "tabs": ["general", "items"],
+          "stacks": [
+            {
+              "type": "item",
+              "code": "game:dough-{type}",
+              "attributes": {
+                "madeWith": [ "game:flour-{type}", "game:waterportion" ]
+              }
+            }
+          ]
+        }
+    ],
+    "file": "game:itemtypes/food/dough.json"
   }
 ]
