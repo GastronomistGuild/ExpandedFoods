@@ -146,6 +146,7 @@ GENERAL:
 
 REBALANCING:
 - Roasted grains REMOVED from soup recipe I am sick of this
+- Adds syrups to jam sweeteners (thanks to Lazula!) 
 
 BUG FIXES:
 - Liquid nutrition in meals corrected
