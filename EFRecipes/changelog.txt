@@ -135,7 +135,7 @@ MISC:
 2.0.0-dev.17
 EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2)
-- Pie toppings added (candied fruit, grain candy, syrup, honey) - DONE!!!
+- Pie toppings added (candied fruit, grain candy, syrup, honey, sauces, peanut butter, breadcrumbs, gelatin) - DONE!!!
 - Gelatin too, whoops - DONE!!!
 - Breadcrumbs (savory pies only) - DONE!!!
 - Soy/fish/peanut sauce; peanut butter; tree syrups
