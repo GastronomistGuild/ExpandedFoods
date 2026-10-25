@@ -37,7 +37,7 @@
       			"expandedfoods:foodoilportion-*" : { "saturation": 4.5, "health": 0.1, "foodcategory": "Vegetable" }
 			}
 		},
-        "inPieProperties": { "texture": "expandedfoods:item/food/candy/{type}", "partType": "Topping", "toppingShapeElement": "origin/base/topping candy/*", "foodCategory":"Fruit", "mixingCodes": ["nutpie",
+        "inPieProperties": { "texture": "expandedfoods:item/food/candy/{type}", "partType": "Topping", "toppingShapeElement": "origin/base/topping candy/*", "foodCategory":"NoNutrition", "mixingCodes": ["nutpie","fruit",
           "bellpepperpeanut","cabbagepeanut","carrotpeanut","cassavapeanut","fennelpeanut","olivepeanut","onionpeanut","parsnippeanut","pumpkinpeanut","turnippeanut","bellpeppernut","cabbagenut","carrotnut","cassavanut","fennelnut","olivenut","onionnut","parsnipnut","pumpkinnut","turnipnut","vegetablenut",
           "soypeanut", "soynut",
           "peanutapple", "peanutbeautyberry", "peanutblackberry", "peanutblackcurrant", "peanutblueberry", "peanutbreadfruit", "peanutcactusfruit", "peanutcherry","peanutcloudberry", "peanutcranberry", "peanutgooseberry", "peanutguava", "peanutkumquat", "peanutlychee", "peanutmango", "peanutorange", "peanutpeach", "peanutpear", "peanutpineapple", "peanutplumnatal", "peanutpomegranate", "peanutraspberry", "peanutredcurrant", "peanutsaguaro", "peanutstrawberry", "peanutwhitecurrant", "nutfruit",

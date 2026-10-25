@@ -22,6 +22,7 @@
             "partType": "Topping",
             "toppingShapeElement": "origin/base/topping syrup gear/*",
             "mixingCodes": [
+                "nutpie","fruit",
                 "cottage{type}","cottagefruit",
                 "walnut{type}", "peanut{type}", "nutfruit",
                 "bushmeat{type}", "poultry{type}","redmeat{type}","fish{type}","bug{type}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
