@@ -158,11 +158,11 @@
             "transitionRatio": 1
         }],
         "@*-(dried|sliced)": [{
-          "type": "Perish",
-          "freshHours": { "avg": 360 },
-          "transitionHours": { "avg": 12 },
-          "transitionedStack": { "type": "item", "code": "game:rot" },
-          "transitionRatio": 0.25
+            "type": "Perish",
+            "freshHours": { "avg": 360 },
+            "transitionHours": { "avg": 12 },
+            "transitionedStack": { "type": "item", "code": "game:rot" },
+            "transitionRatio": 0.25
         }]
     },
     "guiTransformByType": {

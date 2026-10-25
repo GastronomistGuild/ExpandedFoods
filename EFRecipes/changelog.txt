@@ -149,6 +149,7 @@ THE PIESPLOSION UPDATE (PART 2)
 - Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted) - DONE!!!
 - Oven transforms all reviewed
 - Liquid topping language text fixed - DONE!!!
+- Fruit leather shape changed to no longer throw supersecretvirus error - DONE!!!
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)

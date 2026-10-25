@@ -9,7 +9,7 @@
 	"textureSizes": {
 	},
     "textures": {
-        "fruit": "item/food/fakepath/dontlook/spyware/supersecretvirus"
+        "fruit": "item/food/fruitleather/blueberry"
     },
 	"elements": [
 		{
