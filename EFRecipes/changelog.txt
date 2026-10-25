@@ -137,7 +137,8 @@ EF: Preserves Module begins...
 THE PIESPLOSION UPDATE (PART 2)
 - Pie toppings added (candied fruit, grain candy, syrup, honey) - DONE!!!
 - Gelatin too, whoops - DONE!!!
-- Breadcrumbs (savory pies only)
+- Breadcrumbs (savory pies only) - DONE!!!
+- Soy/fish/peanut sauce; peanut butter; tree syrups
 
 - Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
 - Liquid nutrition in meals corrected - DONE!!!
@@ -146,6 +147,8 @@ THE PIESPLOSION UPDATE (PART 2)
 - Adds syrups to jam sweeteners (thanks to Lexical) - DONE!!!
 - Washed soybeans can be made in the mixing bowl and barrels - DONE!!!!
 - Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted) - DONE!!!
+- Oven transforms all reviewed
+- Liquid topping language text fixed - DONE!!!
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)
