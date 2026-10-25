@@ -120,9 +120,10 @@
 				"initialCode": "expandedfoods:breadedmeatnugget-{type}-{meat}-syrups"
 			}
 		},
-		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": 0, "z": 0 },
-			"scale": 1 
+		"onDisplayTransform": {
+          "translation": { "x": 0, "y": -0.05, "z": 0 },
+          "rotation": { "x": 0, "y": 45, "z": 0 },
+          "scale": 0.9
 		},
 		"satMultByType": {
 			"@*-(partbaked|syruppartbaked)": 0.5,

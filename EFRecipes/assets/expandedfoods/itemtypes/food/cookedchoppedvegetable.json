@@ -33,10 +33,42 @@
         "extraSections": [{ "title": "expandedfoods:item-handbooktitle-cookedchoppedvegetable", "text": "expandedfoods:item-handbooktext-cookedchoppedvegetable" }]
       },
       "onDisplayTransformByType": {
-        "*-cabbage-*": {
-          "translation": { "x": 0, "y": -0.125, "z": 0 },
-          "scale": 0.75
-        }
+          "@.*-(cabbage|pickledcabbage)-.*": {
+              "translation": { "x": 0.05, "y": -0.25, "z": 0 },
+              "scale": 0.5
+          },
+          "@.*-(carrot|pickledcarrot|parsnip|pickledparsnip)-.*": {
+              "translation": { "x": 0, "y": -0.05, "z": 0 },
+              "rotation": { "x": 0, "y": -45, "z": 0 },
+              "scale": 0.9
+          },
+          "@.*-(onion|pickledonion|fennel|pickledfennel)-.*": {
+              "translation": { "x": 0, "y": -0.125, "z": 0 },
+              "rotation": { "x": 0, "y": -45, "z": 0 },
+              "scale": 0.75
+          },
+          "@.*-(pumpkin|pickledpumpkin)-.*": {
+              "translation": { "x": 0, "y": -0.15, "z": 0 },
+              "rotation": { "x": 0, "y": -45, "z": 0 },
+              "scale": 0.7
+          },
+          "@.*-(turnip|pickledturnip)-.*": {
+              "translation": { "x": 0, "y": -0.22, "z": 0 },
+              "rotation": { "x": 0, "y": -45, "z": 0 },
+              "scale": 0.55
+          },
+          "*-cassava-*": {
+              "translation": { "x": 0, "y": -0.15, "z": 0 },
+              "scale": 0.7
+          },
+          "@.*-(cattailroot|papyrusroot)-.*": {
+              "translation": { "x": 0, "y": -0.25, "z": 0 },
+              "scale": 0.5
+          },
+          "@.*-(bellpepper|pickledbellpepper)-.*": {
+              "translation": { "x": 0, "y": -0.25, "z": -0.05 },
+              "scale": 0.5
+          }
       }
     },
 	"attributesByType": {

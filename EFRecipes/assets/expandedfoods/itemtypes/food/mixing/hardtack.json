@@ -79,10 +79,10 @@
 				"initialCode": "expandedfoods:hardtack-{type}-bake3"
 			}
 		},
-		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": -0.3, "z": 0.04 },
-			"scale": 0.4
-		},
+        "onDisplayTransform": {
+          "translation": { "x": 0, "y": -0.3, "z": -0.03 },
+          "scale": 0.4
+        },
 		"satMultByType": {
 			"*-bake1": 1,
 			"*-bake2": 0.8,

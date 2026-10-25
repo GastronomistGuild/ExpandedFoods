@@ -99,13 +99,14 @@
 			}
 		},
 		"onDisplayTransformByType": { 
-			"@*-redmeat-(cut|tenderpartbaked|tender|tendercharred)": {
-				"translation": { "x": 0.05, "y": 0, "z": 0.05 },
-				"scale": 1 
+			"@*-(bushmeat|redmeat|poultry)-(cut|tenderpartbaked|tender|tendercharred)": {
+                "translation": { "x": 0.05, "y": 0, "z": -0.025 },
+                "rotation": { "x": 0, "y": -45, "z": 0 }
 			},
 			"@*-(raw|meatballpartbaked|meatball|meatballcharred)": {
-				"translation": { "x": 0, "y": 0.25, "z": 0 },
-				"scale": 1.5 
+                "translation": { "x": 0, "y": 0.125, "z": -0 },
+                "rotation": { "x": 0, "y": -45, "z": 0 },
+                "scale": 1.25
 			},
 			"*": {
 				"translation": { "x": 0, "y": 0, "z": 0 },

@@ -147,9 +147,10 @@ THE PIESPLOSION UPDATE (PART 2)
 - Adds syrups to jam sweeteners (thanks to Lexical) - DONE!!!
 - Washed soybeans can be made in the mixing bowl and barrels - DONE!!!!
 - Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted) - DONE!!!
-- Oven transforms all reviewed
+- Oven transforms all reviewed - DONE!!!
 - Liquid topping language text fixed - DONE!!!
 - Fruit leather shape changed to no longer throw supersecretvirus error - DONE!!!
+- Currant texts fixed - DONE!!!
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)

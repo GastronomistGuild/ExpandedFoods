@@ -142,6 +142,9 @@
 				"initialCode": "expandedfoods:crabpemmican-cooked"
 			}
 		},
+        "onDisplayTransformByType": {
+          "*-raw": { "rotation": { "x": 0, "y": -90, "z": 0 } }
+        },
 		"satMultByType": {
 			"*-raw": 0.4,
 			"*-partbaked": 0.5,

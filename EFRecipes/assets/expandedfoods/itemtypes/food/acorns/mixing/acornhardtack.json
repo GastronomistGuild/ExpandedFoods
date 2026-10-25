@@ -80,7 +80,7 @@
 			}
 		},
 		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": -0.3, "z": 0.04 },
+			"translation": { "x": 0, "y": -0.3, "z": -0.03 },
 			"scale": 0.4
 		},
 		"satMultByType": {

@@ -81,10 +81,38 @@
 			"endScaleY": 1.0,
 			"resultCode": "expandedfoods:cookedchoppedmushroom-{type}-partbaked"
 		},
-		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": -0.125, "z": 0 },
-			"scale": 0.75 
-		},
+        "onDisplayTransformByType": {
+            "@.*-(flyagaric|fieldmushroom)-.*": {
+                "translation": { "x": -0.05, "y": -0.225, "z": -0.05 },
+                "rotation": { "x": 0, "y": -135, "z": 0 },
+                "scale": 0.55
+            },
+            "@.*-(beardedtooth|earthball)-.*": {
+                "translation": { "x": -0.05, "y": -0.25, "z": -0.05 },
+                "rotation": { "x": 0, "y": -135, "z": 0 },
+                "scale": 0.45
+            },
+            "@.*-(chickenofthewoods|dryadsaddle|reishi|shiitake)-.*": {
+                "translation": { "x": -0, "y": -0.25, "z": -0.025 },
+                "rotation": { "x": 0, "y": -90, "z": 0 },
+                "scale": 0.45
+            },
+            "*-tinderhoof-*": {
+                "translation": { "x": -0.05, "y": -0.225, "z": -0.05 },
+                "rotation": { "x": 0, "y": -135, "z": 0 },
+                "scale": 0.45
+            },
+            "@.*-(pinkoyster|whiteoyster)-.*": {
+                "translation": { "x": -0, "y": -0.225, "z": -0 },
+                "rotation": { "x": 0, "y": -135, "z": 0 },
+                "scale": 0.55
+            },
+            "*": {
+                "translation": { "x": 0, "y": -0.225, "z": 0 },
+                "rotation": { "x": 0, "y": -135, "z": 0 },
+                "scale": 0.55
+            }
+        },
 		"inPiePropertiesByType": {
 			"*-blacktrumpet": { "texture": "game:block/food/pie/fill-mushroomblack", "partType": "Filling","foodCategory": "NoNutrition","mixingCodes": [
                 "mushroom",

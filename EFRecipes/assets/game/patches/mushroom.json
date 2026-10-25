@@ -17,8 +17,8 @@
     "op": "addmerge",
     "path": "/attributes/onDisplayTransform",
     "value": {
-      "translation": { "x": 0, "y": 0, "z": 0 },
-      "scale": 1
+      "translation": { "x": 0, "y": -0.125, "z": 0 },
+      "scale": 0.75
     },
     "side": "server",
     "file": "blocktypes/plant/mushroom.json"

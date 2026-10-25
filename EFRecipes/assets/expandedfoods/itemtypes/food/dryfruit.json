@@ -28,7 +28,6 @@
 			"foodcategory": "Fruit" 
 		},
 		"bakingPropertiesByType": {
-            "@*-(guava|kumquat|plumnatal|gooseberry|cactusfruit)": null,
             "*":  {
                 "temp": 100,
                 "levelFrom": 0.5,
@@ -534,44 +533,26 @@
         },
 		"onDisplayTransformByType": {
 			"@*-(redcurrant|whitecurrant|blackcurrant|blueberry|cranberry)": {
-				"translation": { "x": 0.0, "y": -0.075, "z": 0.05 },
-				"scale": 0.8
+              "translation": { "x": 0, "y": -0.15, "z": -0.025 },
+              "scale": 0.7
 			},
-			"*-breadfruit": {
-				"translation": { "x": 0.0, "y": -0.1, "z": -0.05 },
-				"rotation": { "x": 0, "y": 45, "z": 0 },
-				"scale": 0.8
+			"@*-(saguaro|pinkapple|redapple|yellowapple)": {
+				"translation": { "x": 0, "y": -0.25, "z": 0 },
+				"scale": 0.5
 			},
-			"*-saguaro": {
-				"translation": { "x": 0, "y": -0.15, "z": 0 },
-				"scale": 0.7
-			},
-			"*-pomegranate": {
-				"translation": { "x": 0.0, "y": -0.15, "z": 0.05 },
+			"@*-(mango|pineapple|pomegranate)": {
+				"translation": { "x": 0.0, "y": -0.25, "z": 0.0 },
 				"rotation": { "x": 0, "y": -45, "z": 0 },
-				"scale": 0.7
+				"scale": 0.5
 			},
-			"*-lychee": {
-				"translation": { "x": 0.0, "y": -0.175, "z": 0.0 },
-				"scale": 0.65
-			},
-			"*-mango": {
+			"@*-(breadfruit|cherry)": {
+				"translation": { "x": 0.0, "y": -0.2, "z": 0.0 },
 				"rotation": { "x": 0, "y": 45, "z": 0 },
-				"translation": { "x": 0.0, "y": -0.11, "z": 0.0 },
-				"scale": 0.8
-			},
-			"*-pineapple": {
-				"translation": { "x": 0.0, "y": -0.15, "z": 0.0 },
-				"scale": 0.7
-			},
-			"*-cherry": {
-				"translation": { "x": 0.0, "y": -0.1, "z": 0.05 },
-				"rotation": { "x": 0, "y": 45, "z": 0 },
-				"scale": 0.8
+				"scale": 0.6
 			},
 			"dryfruit-*": {
-				"translation": { "x": 0.0, "y": -0.1, "z": 0.05 },
-				"scale": 0.8
+				"translation": { "x": 0.0, "y": -0.2, "z": 0.0  },
+				"scale": 0.6
 			}
 		},
 		"inContainerTextureByType": {

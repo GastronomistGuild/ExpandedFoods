@@ -15,6 +15,44 @@
         "startScaleY": 1.0,
         "endScaleY": 1.0,
         "resultCode": "expandedfoods:cookedchoppedvegetable-{type}-partbaked"
+      },
+      "onDisplayTransformByType": {
+        "@*-(cabbage|pickledcabbage)": {
+          "translation": { "x": 0.05, "y": -0.25, "z": 0 },
+          "scale": 0.5
+        },
+        "@*-(carrot|pickledcarrot|parsnip|pickledparsnip)": {
+          "translation": { "x": 0, "y": -0.05, "z": 0 },
+          "rotation": { "x": 0, "y": -45, "z": 0 },
+          "scale": 0.9
+        },
+        "@*-(onion|pickledonion)": {
+          "translation": { "x": 0, "y": -0.125, "z": 0 },
+          "rotation": { "x": 0, "y": -45, "z": 0 },
+          "scale": 0.75
+        },
+        "@*-(pumpkin|pickledpumpkin)": {
+          "translation": { "x": 0, "y": -0.15, "z": 0 },
+          "rotation": { "x": 0, "y": -45, "z": 0 },
+          "scale": 0.7
+        },
+        "@*-(turnip|pickledturnip)": {
+          "translation": { "x": 0, "y": -0.22, "z": 0 },
+          "rotation": { "x": 0, "y": -45, "z": 0 },
+          "scale": 0.55
+        },
+        "*-cassava": {
+          "translation": { "x": 0, "y": -0.15, "z": 0 },
+          "scale": 0.7
+        },
+        "@*-(cattailroot|papyrusroot)": {
+          "translation": { "x": 0, "y": -0.25, "z": 0 },
+          "scale": 0.5
+        },
+        "@*-(bellpepper|pickledbellpepper)": {
+          "translation": { "x": 0, "y": -0.25, "z": -0.05 },
+          "scale": 0.5
+        }
       }
     },
 	"attributesByType": {
@@ -39,10 +77,6 @@
         },
         "*-carrot": {
             "nutritionPropsWhenInMeal": { "satiety": 150, "foodcategory": "Vegetable" },
-            "onDisplayTransform": {
-                "translation": { "x": 0, "y": -0.125, "z": 0 },
-                "scale": 0.75
-            },
             "inPieProperties": { "texture": "game:block/food/pie/fill-carrot", "partType": "Filling","mixingCodes": [
                 "vegetable",
                 "carrotpeanut","carrotwalnut","carrotnut","vegetablenut",
@@ -64,10 +98,6 @@
         },
 		"*-cabbage": {
 			"nutritionPropsWhenInMeal": { "satiety": 450, "foodcategory": "Vegetable" },
-			"onDisplayTransform": { 
-				"translation": { "x": 0, "y": -0.125, "z": 0 },
-				"scale": 0.75 
-			},
             "inPieProperties": { "texture": "game:block/food/pie/fill-cabbage", "partType": "Filling","mixingCodes": [
               "vegetable",
               "cabbagepeanut","cabbagewalnut","cabbagenut","vegetablenut",
@@ -131,10 +161,6 @@
         },
         "*-parsnip": {
             "nutritionPropsWhenInMeal": { "satiety": 150, "foodcategory": "Vegetable" },
-            "onDisplayTransform": {
-                "translation": { "x": 0, "y": -0.125, "z": 0 },
-                "scale": 0.75
-            },
             "inPieProperties": { "texture": "game:block/food/pie/fill-parsnip", "partType": "Filling", "mixingCodes": [
                 "vegetable",
                 "parsnippeanut","parsnipwalnut","parsnipnut","vegetablenut",

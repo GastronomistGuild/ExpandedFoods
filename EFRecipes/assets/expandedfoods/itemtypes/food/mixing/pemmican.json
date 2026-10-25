@@ -72,17 +72,17 @@
                 "expandedfoods:dryfruit-strawberry" : { "saturation": 55, "foodcategory": "Fruit" },
 				"expandedfoods:dryfruit-whitecurrant" : { "saturation": 55, "foodcategory": "Fruit" },
 				"expandedfoods:dryfruit-yellowapple" : { "saturation": 55, "foodcategory": "Fruit" },
-              "expandedfoods:fruitleather-sliced" : { "saturation": 20, "foodcategory": "Fruit" },
-              "game:pressedmash-breadfruit" : { "saturation": 65, "foodcategory": "Fruit" },
-              "game:pressedmash-cherry" : { "saturation": 0, "foodcategory": "Fruit" },
-              "game:pressedmash-cranberry" : { "saturation": 8, "foodcategory": "Fruit" },
-              "game:pressedmash-lychee" : { "saturation": 0, "foodcategory": "Fruit" },
-              "game:pressedmash-saguaro" : { "saturation": 8, "health": 0.5, "foodcategory": "Fruit" },
-              "game:pressedmash-*" : { "saturation": 17, "foodcategory": "Fruit" },
-              "game:honeyportion" : { "saturation": 2, "foodcategory": "Fruit" },
-              "expandedfoods:fruitsyrupportion-saguaro" : { "saturation": 6, "health": 0.2, "foodcategory": "Fruit" },
-              "expandedfoods:fruitsyrupportion-*" : { "saturation": 6, "health": 0.1, "foodcategory": "Fruit" },
-              "expandedfoods:treesyrupportion-*" : { "saturation": 4.8, "health": 0.1, "foodcategory": "Fruit" },
+                "expandedfoods:fruitleather-sliced" : { "saturation": 20, "foodcategory": "Fruit" },
+                "game:pressedmash-breadfruit" : { "saturation": 65, "foodcategory": "Fruit" },
+                "game:pressedmash-cherry" : { "saturation": 0, "foodcategory": "Fruit" },
+                "game:pressedmash-cranberry" : { "saturation": 8, "foodcategory": "Fruit" },
+                "game:pressedmash-lychee" : { "saturation": 0, "foodcategory": "Fruit" },
+                "game:pressedmash-saguaro" : { "saturation": 8, "health": 0.5, "foodcategory": "Fruit" },
+                "game:pressedmash-*" : { "saturation": 17, "foodcategory": "Fruit" },
+                "game:honeyportion" : { "saturation": 2, "foodcategory": "Fruit" },
+                "expandedfoods:fruitsyrupportion-saguaro" : { "saturation": 6, "health": 0.2, "foodcategory": "Fruit" },
+                "expandedfoods:fruitsyrupportion-*" : { "saturation": 6, "health": 0.1, "foodcategory": "Fruit" },
+                "expandedfoods:treesyrupportion-*" : { "saturation": 4.8, "health": 0.1, "foodcategory": "Fruit" },
 				"expandedfoods:meatnugget-poultry-cured": {"saturation": 95, "foodcategory": "Protein"},
 				"expandedfoods:meatnugget-redmeat-cured": {"saturation": 130, "foodcategory": "Protein"},
 				"expandedfoods:meatnugget-bushmeat-cured": {"saturation": 55, "foodcategory": "Protein"},
@@ -156,6 +156,9 @@
 				"initialCode": "expandedfoods:pemmican-cooked"
 			}
 		},
+        "onDisplayTransformByType": {
+          "*-raw": { "rotation": { "x": 0, "y": -90, "z": 0 } }
+        },
 		"satMultByType": {
 			"*-raw": 0.4,
 			"*-partbaked": 0.5,

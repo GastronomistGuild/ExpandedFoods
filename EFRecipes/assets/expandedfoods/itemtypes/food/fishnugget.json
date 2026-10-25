@@ -83,8 +83,9 @@
 		},
 		"onDisplayTransformByType": { 
 			"@*-(raw|cookedpartbaked|cooked|cookedcharred|curedchopped)": {
-				"translation": { "x": 0, "y": 0.25, "z": 0 },
-				"scale": 1.5 
+                "translation": { "x": 0, "y": 0.125, "z": -0 },
+                "rotation": { "x": 0, "y": -45, "z": 0 },
+                "scale": 1.25
 			},
 			"*": {
 				"translation": { "x": 0, "y": -0.1525, "z": 0 },

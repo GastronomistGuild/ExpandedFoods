@@ -93,8 +93,8 @@
     "op": "addmerge",
     "path": "/attributes/onDisplayTransform",
     "value": {
-      "translation": { "x": 0, "y": 0, "z": 0 },
-      "scale": 1
+      "translation": { "x": 0.05, "y": 0, "z": -0.025 },
+      "rotation": { "x": 0, "y": -45, "z": 0 }
     },
     "side": "server",
     "file": "itemtypes/food/poultry.json"

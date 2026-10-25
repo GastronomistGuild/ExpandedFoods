@@ -53,10 +53,10 @@
     		"game:honeyportion" : { "saturation": 4, "foodcategory": "Fruit" },
 			"game:salt": {"saturation": 10, "health": 0.5, "foodcategory": "Grain"}
 		},
-		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": -0.175, "z": 0 },
-			"rotation": { "x": 0, "y": 115, "z": 0},
-			"scale": 0.65 
+		"onDisplayTransform": {
+          "translation": { "x": 0, "y": -0.3, "z": 0 },
+          "rotation": { "x": 0, "y": 115, "z": 0 },
+          "scale": 0.4
 		},
 		"bakingPropertiesByType": {
 			"@*-(raw|oiled)": {

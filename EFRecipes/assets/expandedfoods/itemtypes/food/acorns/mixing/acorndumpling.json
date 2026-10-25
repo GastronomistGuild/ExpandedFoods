@@ -84,9 +84,11 @@
 				"initialCode": "expandedfoods:acorndumpling-cooked"
 			}
 		},
-		"onDisplayTransform": { 
-			"translation": { "x": 0, "y": 0, "z": 0 }
-		},
+        "onDisplayTransform": {
+            "translation": { "x": 0, "y": -0.125, "z": 0 },
+            "rotation": { "x": 0, "y": 45, "z": 0 },
+            "scale": 0.75
+        },
 		"satMultByType": {
 			"*-partbaked": 0.5,
 			"*-cooked": 1,

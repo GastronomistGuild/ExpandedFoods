@@ -17,36 +17,27 @@
     "op": "addmerge",
     "path": "/attributes/onDisplayTransformByType",
     "value": {
-      "*-breadfruit": {
-        "translation": { "x": 0.0, "y": -0.1, "z": -0.05 },
-        "rotation": { "x": 0, "y": 45, "z": 0 },
-        "scale": 0.8
+      "@*-(redcurrant|whitecurrant|blackcurrant|blueberry|cranberry)": {
+        "translation": { "x": 0, "y": -0.15, "z": -0.025 },
+        "scale": 0.7
       },
-      "*-saguaro": {
-        "translation": { "x": -0.15, "y": -0.425, "z": 0.15 },
-        "rotation": { "x": 0, "y": 45, "z": 90 },
-        "scale": 0.75
+      "@*-(saguaro|pinkapple|redapple|yellowapple)": {
+        "translation": { "x": 0, "y": -0.25, "z": 0 },
+        "scale": 0.5
       },
-      "*-pomegranate": {
-        "translation": { "x": 0.0, "y": -0.15, "z": 0.05 },
+      "@*-(mango|pineapple|pomegranate)": {
+        "translation": { "x": 0.0, "y": -0.25, "z": 0.0 },
         "rotation": { "x": 0, "y": -45, "z": 0 },
-        "scale": 0.7
+        "scale": 0.5
       },
-      "*-lychee": {
-        "translation": { "x": 0, "y": -0.125, "z": -0.05 },
-        "scale": 0.75
-      },
-      "*-mango": {
-          "translation": { "x": -0.15, "y": -0.4, "z": 0.2 },
-          "rotation": { "x": 0, "y": 45, "z": 90 },
-          "scale": 0.8
-      },
-      "*-pineapple": {
-        "translation": { "x": -0.05, "y": -0.15, "z": -0 },
-        "scale": 0.7
+      "@*-(breadfruit|cherry)": {
+        "translation": { "x": 0.0, "y": -0.2, "z": 0.0 },
+        "rotation": { "x": 0, "y": 45, "z": 0 },
+        "scale": 0.6
       },
       "*": {
-        "translation": { "x": 0.0, "y": -0, "z": 0.0 }
+        "translation": { "x": 0.0, "y": -0.2, "z": 0.0  },
+        "scale": 0.6
       }
     },
     "side": "server",
