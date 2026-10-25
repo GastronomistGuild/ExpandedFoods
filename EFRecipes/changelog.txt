@@ -132,25 +132,34 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
-2.0.0-dev.17
+2.0.0-dev.18
 EF: Preserves Module begins...
-THE PIESPLOSION UPDATE (PART 2)
-- Pie toppings added (candied fruit, grain candy, syrup, honey, sauces, peanut butter, breadcrumbs, gelatin) - DONE!!!
-- Gelatin too, whoops - DONE!!!
-- Breadcrumbs (savory pies only) - DONE!!!
-- Soy/fish/peanut sauce; peanut butter; tree syrups
 
-- Roasted grains REMOVED from soup recipe I am sick of this - DONE!!!
-- Liquid nutrition in meals corrected - DONE!!!
-- Roasted grain now expires (whoops) - DONE!!!
-- Soy milk changed back to dairy. Gameplay over realism here, sorry! - DONE!!!
-- Adds syrups to jam sweeteners (thanks to Lexical) - DONE!!!
-- Washed soybeans can be made in the mixing bowl and barrels - DONE!!!!
-- Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted) - DONE!!!
-- Oven transforms all reviewed - DONE!!!
-- Liquid topping language text fixed - DONE!!!
-- Fruit leather shape changed to no longer throw supersecretvirus error - DONE!!!
-- Currant texts fixed - DONE!!!
+
+
+2.0.0-dev.17
+THE PIESPLOSION UPDATE (PART 2)
+- Pie toppings added (candied fruit, grain candy, syrup, honey, sauces, peanut butter, breadcrumbs, gelatin)
+
+GENERAL:
+- Soy milk changed back to dairy. Gameplay over realism here, sorry!
+
+REBALANCING:
+- Roasted grains REMOVED from soup recipe I am sick of this
+
+BUG FIXES:
+- Liquid nutrition in meals corrected
+- Roasted grain now expires (whoops)
+- Bread/fruit bread nutrition fixed (previous expanded nutrition changes reverted)
+- Currant texts fixed
+- Liquid topping language text fixed
+
+MISC:
+- Washed soybeans can be made in the mixing bowl and barrels!
+- Oven transforms all reviewed
+- Fruit leather shape changed to no longer throw supersecretvirus error
+
+
 
 2.0.0-dev.16
 - Fruit no longer dries on its own (we'll focus on that in the Preserves module, sorry!)
