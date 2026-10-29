@@ -134,6 +134,8 @@ MISC:
 
 2.0.0-dev.18
 EF: Preserves Module begins...
+- Breadfruit fruit leather texture fixed
+- All dried fruits can be used in meat stew
 
 
 
