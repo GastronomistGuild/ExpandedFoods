@@ -134,8 +134,13 @@ MISC:
 
 2.0.0-dev.18
 EF: Preserves Module begins...
-- Breadfruit fruit leather texture fixed
+- Breadfruit fruit leather texture fixed - DONE!!!
+- Trail mix now uses mealSatLossDelay to mimic satiety delay from meals; nutrition slightly nerfed to compensate - DONE!!!
 - All dried fruits can be used in meat stew
+- Seaweed can be dried on the meat rack
+- Cheddar/blue cheese pies can be mixed with fruits
+- Egg pie mixing codes removed from ACA; added to EF via patches
+
 
 
 

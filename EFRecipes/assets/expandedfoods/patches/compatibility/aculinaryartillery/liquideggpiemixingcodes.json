@@ -1,0 +1,41 @@
+[
+  {
+    "file": "aculinaryartillery:itemtypes/liquid/eggwhite.json",
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties/mixingCodes",
+    "value": [
+      "cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+      "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+      "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+      "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+      "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+    ],
+    "side": "server"
+  },
+  {
+    "file": "aculinaryartillery:itemtypes/liquid/eggyolk.json",
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties/mixingCodes",
+    "value": [
+      "cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+      "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+      "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+      "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+      "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+    ],
+    "side": "server"
+  },
+  {
+    "file": "aculinaryartillery:itemtypes/liquid/eggyolkfull.json",
+    "op": "addmerge",
+    "path": "/attributes/inPieProperties/mixingCodes",
+    "value": [
+      "cottagequiche","bluequiche","cheddarquiche","cheesequiche",
+      "bushmeatquiche","poultryquiche","redmeatquiche","fishquiche","bugquiche","meatquiche",
+      "mushroomquicheblack","mushroomquicheyellow","mushroomquicheoffwhite","mushroomquicheorange","mushroomquichedevilstooth","mushroomquichered","mushroomquichegreen","mushroomquicheblue","mushroomquichelobster","mushroomquichebrown","mushroomquichewhite","mushroomquichepurple","mushroomquichepink","mushroomquiche",
+      "bellpepperquiche","cabbagequiche","carrotquiche","cassavaquiche","fennelquiche","olivequiche","onionquiche","parsnipquiche","pumpkinquiche","turnipquiche","walnutquiche","vegquiche",
+      "meatvegquiche", "meatmushroomquiche","vegmushroomquiche"
+    ],
+    "side": "server"
+  }
+]
