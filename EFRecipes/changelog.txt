@@ -139,7 +139,7 @@ EF: Preserves Module begins...
 - All dried fruits can be used in meat stew
 - Seaweed can be dried on the meat rack
 - Cheddar/blue cheese pies can be mixed with fruits
-- Egg pie mixing codes removed from ACA; added to EF via patches
+- Egg pie mixing codes removed from ACA; added to EF via patches - DONE!!!
 
 
 
