@@ -201,24 +201,27 @@
               "soycheesevegmushroom"]
             }
 		},
-        "*-turnip": { "texture": "block/food/pie/fill-turnip", "partType": "Filling", "mixingCodes": [
-            "vegetable",
-            "turnippeanut","turnipwalnut","turnipnut","vegetablenut",
-            "turnipmushroomblack","turnipmushroomblue","turnipmushroombrown","turnipmushroomdevilstooth","turnipmushroomgreen","turnipmushroomlobster","turnipmushroomoffwhite","turnipmushroomorange","turnipmushroompink","turnipmushroompurple","turnipmushroomred","turnipmushroomwhite","turnipmushroomyellow","turnipmushroom","mushroomveg",
-            "turnippeanut", "turnipwalnut", "turnipnut", "vegetablenut",
-            "soyturnip", "soyvegetable",
-            "blueturnip","cheddarturnip","cottageturnip","blueveg","cheddarveg","cottageveg","cheeseveg",
-            "turnipquiche","vegquiche",
-            "bushmeatturnip","poultryturnip","redmeatturnip","fishturnip","bugturnip","bushmeatveg", "poultryveg", "redmeatveg","fishveg","bugveg", "potpie",
-            "cheesevegmushroom","cheesemeatveg",
-            "soycheeseveg",
-            "meatfruitveg",
-            "meatvegquiche","vegmushroomquiche",
-            "soypotpie",
-            "nutmeatveg",
-            "nutfruitmeatveg",
-            "cheesemeatvegmushroom",
-            "soycheesevegmushroom"]
+        "*-turnip": {
+            "nutritionPropsWhenInMeal": { "satiety": 150, "foodcategory": "Vegetable" },
+            "inPieProperties": { "texture": "game:block/food/pie/fill-turnip", "partType": "Filling", "mixingCodes": [
+                "vegetable",
+                "turnippeanut","turnipwalnut","turnipnut","vegetablenut",
+                "turnipmushroomblack","turnipmushroomblue","turnipmushroombrown","turnipmushroomdevilstooth","turnipmushroomgreen","turnipmushroomlobster","turnipmushroomoffwhite","turnipmushroomorange","turnipmushroompink","turnipmushroompurple","turnipmushroomred","turnipmushroomwhite","turnipmushroomyellow","turnipmushroom","mushroomveg",
+                "turnippeanut", "turnipwalnut", "turnipnut", "vegetablenut",
+                "soyturnip", "soyvegetable",
+                "blueturnip","cheddarturnip","cottageturnip","blueveg","cheddarveg","cottageveg","cheeseveg",
+                "turnipquiche","vegquiche",
+                "bushmeatturnip","poultryturnip","redmeatturnip","fishturnip","bugturnip","bushmeatveg", "poultryveg", "redmeatveg","fishveg","bugveg", "potpie",
+                "cheesevegmushroom","cheesemeatveg",
+                "soycheeseveg",
+                "meatfruitveg",
+                "meatvegquiche","vegmushroomquiche",
+                "soypotpie",
+                "nutmeatveg",
+                "nutfruitmeatveg",
+                "cheesemeatvegmushroom",
+                "soycheesevegmushroom"]
+            }
         },        
         "*-cassava": {
             "nutritionPropsWhenInMeal": { "satiety": 120, "foodcategory": "Vegetable" },
