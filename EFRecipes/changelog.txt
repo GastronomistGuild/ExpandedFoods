@@ -140,6 +140,9 @@ EF: Preserves Module begins...
 - Seaweed can be dried on the meat rack
 - Cheddar/blue cheese pies can be mixed with fruits
 - Egg pie mixing codes removed from ACA; added to EF via patches - DONE!!!
+- Yogurt changed so starter & fermenting yogurt are no longer ExpandedLiquids, should hopefully prevent the infinite yogurt loop - DONE!!! 
+- Liquid peanut's portionSizeLitres for pie lowered to 0.1L - DONE!!!
+- Chopped turnip attributes fixed (thanks to Lazula!)
 
 
 
