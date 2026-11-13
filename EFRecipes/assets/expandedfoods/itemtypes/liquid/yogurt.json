@@ -1,6 +1,9 @@
 {
 	"code": "yogurt",
-	"class": "ExpandedLiquid",
+	"classByType": {
+      "@*-(starter|ferment)": "ItemLiquidPortion",
+      "*": "ExpandedLiquid"
+    },
 	"matterState": "liquid",
 	"attributes": {
 		"handbook": {
