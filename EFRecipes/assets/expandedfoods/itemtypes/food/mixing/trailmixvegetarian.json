@@ -26,17 +26,18 @@
 			"scale":  0.5
 		},
         "expandedNutritionProps": {
-          "expandedfoods:fruitleather-sliced" : { "saturation": 30, "foodcategory": "Fruit" },
-        }
+          "expandedfoods:fruitleather-sliced" : { "saturation": 30, "foodcategory": "Fruit" }
+        },
+        "mealSatLossDelay": true
 	},
 	"shape": { "base": "expandedfoods:item/food/trailmix" },
 	"textures": { "mix": { "base": "item/food/trailmix/vegetarian/{type}" }},
 	"creativeinventory": { "general": ["*"], "items": ["*"], "expandedfoods": ["*"] },
 	"nutritionPropsByType": {
-		"*-fruity": { "satiety": 150, "foodcategory": "Fruit" },
-		"*-nutty": { "satiety": 150, "foodcategory": "Vegetable" },
-		"*-beany": { "satiety": 150, "foodcategory": "Protein" },
-		"*-cheesy": { "satiety": 150, "foodcategory": "Dairy" }
+		"*-fruity": { "satiety": 0, "foodcategory": "Fruit" },
+		"*-nutty": { "satiety": 0, "foodcategory": "Vegetable" },
+		"*-beany": { "satiety": 0, "foodcategory": "Protein" },
+		"*-cheesy": { "satiety": 0, "foodcategory": "Dairy" }
 	},
 	"transitionablePropsByType": {
 		"*": [{
