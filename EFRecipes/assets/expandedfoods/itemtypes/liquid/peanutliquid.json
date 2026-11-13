@@ -37,6 +37,7 @@
             "texture": "item/food/peanut/{type}",
             "partType": "Topping",
             "toppingShapeElement": "origin/base/topping syrup gear/*",
+            "portionSizeLitres": 0.1,
             "mixingCodes": [
                 "nutpie","protein","grain","vegetable","dairy","mushroom",
                 "soypeanut", "soywalnut", "soynut",
