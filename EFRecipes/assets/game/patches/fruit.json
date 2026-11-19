@@ -77,7 +77,7 @@
     "op": "addmerge",
     "path": "/attributes/inPiePropertiesByType",
     "value": {
-        "*-pinkapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+        "*-pinkapple": { "mixingCodes": [ "blueapple","bluefruit","cheddarapple","cheddarfruit","cottageapple","cottagefruit","cheesefruit",
           "walnutapple", "peanutapple", "nutfruit",
           "bushmeatapple","poultryapple", "redmeatapple","fishapple","bugapple","bushmeatfruit", "poultryfruit", "redmeatfruit","fishfruit","bugfruit","meatfruit",
           "fruitmushroom",
@@ -87,7 +87,7 @@
           "nutfruitmeatveg"
           ]
         },
-        "*-redapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+        "*-redapple": { "mixingCodes": [ "blueapple","bluefruit","cheddarapple","cheddarfruit","cottageapple","cottagefruit","cheesefruit",
           "walnutapple", "peanutapple", "nutfruit",
           "bushmeatapple", "poultryapple", "redmeatapple","fishapple","bugapple", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit","meatfruit",
           "fruitmushroom",
@@ -97,7 +97,7 @@
           "nutfruitmeatveg"
           ]
         },
-        "*-yellowapple": { "mixingCodes": [ "cottageapple","cottagefruit",
+        "*-yellowapple": { "mixingCodes": [ "blueapple","bluefruit","cheddarapple","cheddarfruit","cottageapple","cottagefruit","cheesefruit",
           "walnutapple", "peanutapple", "nutfruit",
           "bushmeatapple", "poultryapple","redmeatapple","fishapple","bugapple", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
           "fruitmushroom",
@@ -107,7 +107,7 @@
           "nutfruitmeatveg"
           ]
         },
-        "*": { "texture": "game:block/food/pie/fill-{fruit}", "partType": "Filling", "mixingCodes": [ "cottage{fruit}","cottagefruit",
+        "*": { "texture": "game:block/food/pie/fill-{fruit}", "partType": "Filling", "mixingCodes": [ "blue{fruit}","bluefruit","cheddar{fruit}","cheddarfruit","cottage{fruit}","cottagefruit","cheesefruit",
           "walnut{fruit}", "peanut{fruit}", "nutfruit",
           "bushmeat{fruit}", "poultry{fruit}","redmeat{fruit}","fish{fruit}","bug{fruit}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
           "fruitmushroom",
