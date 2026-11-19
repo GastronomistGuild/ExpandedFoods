@@ -132,20 +132,19 @@ MISC:
 - Pickled cabbage transform reviewed
 - Aged spirit/cider text and visuals revised and updated
 
-2.0.0-dev.18
+2.0.0-dev.19
 EF: Preserves Module begins...
-- Breadfruit fruit leather texture fixed - DONE!!!
-- Trail mix now uses mealSatLossDelay to mimic satiety delay from meals; nutrition slightly nerfed to compensate - DONE!!!
-- All dried fruits can be used in meat stew - DONE!!!
-- Seaweed can be dried on the meat rack - DONE!!!
-- Cheddar/blue cheese pies can be mixed with fruits - DONE!!!
-- Egg pie mixing codes removed from ACA; added to EF via patches - DONE!!!
-- Yogurt changed so starter & fermenting yogurt are no longer ExpandedLiquids, should hopefully prevent the infinite yogurt loop - DONE!!! 
-- Liquid peanut's portionSizeLitres for pie lowered to 0.1L - DONE!!!
+
+2.0.0-dev.18
+- Breadfruit fruit leather texture fixed
+- Trail mix now uses mealSatLossDelay to mimic satiety delay from meals; nutrition slightly nerfed to compensate
+- All dried fruits can be used in meat stew
+- Seaweed can be dried on the meat rack
+- Cheddar/blue cheese pies can be mixed with fruits
+- Egg pie mixing codes removed from ACA; added to EF via patches
+- Yogurt changed so starter & fermenting yogurt are no longer ExpandedLiquids, should hopefully prevent the infinite yogurt loop
+- Liquid peanut's portionSizeLitres for pie lowered to 0.1L
 - Chopped turnip attributes fixed (thanks to Lazula!)
-
-
-
 
 2.0.0-dev.17
 THE PIESPLOSION UPDATE (PART 2)
