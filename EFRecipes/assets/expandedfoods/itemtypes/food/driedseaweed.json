@@ -38,7 +38,28 @@
         },
         "handbook": {
           "extraSections": [{ "title": "expandedfoods:item-handbooktitle-driedseaweed", "text": "expandedfoods:item-handbooktext-driedseaweed" }]
+        },
+        "meathookableByType": {
+          "@*-(sheet|dried|edible)": true,
+          "*": false
+        },
+      "meatHookTransformByType": {
+        "*-sheet": {
+          "translation": { "x": -0.1, "y": 0.4, "z": 1.9 },
+          "rotation": { "x": 90, "y": 0, "z": 0 },
+          "origin": { "x": 0.5, "y": 0, "z": 0.5 }
+        },
+        "*-dried": {
+          "translation": { "x": -0.15, "y": 0.5, "z": 1.8 },
+          "rotation": { "x": 90, "y": 0, "z": 0 },
+          "origin": { "x": 0.5, "y": 0, "z": 0.5 }
+        },
+        "*-edible": {
+          "translation": { "x": -0.15, "y": 0.4, "z": 1.9 },
+          "rotation": { "x": 90, "y": 0, "z": 0 },
+          "origin": { "x": 0.5, "y": 0, "z": 0.5 }
         }
+      }
     },
 	"nutritionPropsByType": {
 		"*-edible": { "satiety": 30, "foodcategory": "Vegetable" }
