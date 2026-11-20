@@ -134,6 +134,7 @@ MISC:
 
 2.0.0-dev.19
 EF: Preserves Module begins...
+- Cooking 104 updated to show soy milk is protein and not dairy - DONE!!!
 
 2.0.0-dev.18
 - Breadfruit fruit leather texture fixed
