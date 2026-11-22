@@ -135,6 +135,8 @@ MISC:
 2.0.0-dev.19
 EF: Preserves Module begins...
 - Cooking 104 updated to show soy milk is protein and not dairy - DONE!!!
+- Aged sake & rice whiskey text fixed - DONE!!!
+- Alcohol text standardized to match vanilla
 
 2.0.0-dev.18
 - Breadfruit fruit leather texture fixed

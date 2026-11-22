@@ -816,7 +816,7 @@
     "item-strongwineportion-cassava": "Strong cassava ale portion",
     "item-strongwineportion-mead": "Strong mead portion",
     "item-strongwineportion-rye": "Strong rye ale portion",
-    "item-strongwineportion-rice": "Strong rice ale portion",
+    "item-strongwineportion-rice": "Strong sake",
     "item-strongwineportion-spelt": "Strong spelt ale portion",
   
     "item-potentwineportion-apple": "Fine apple cider portion",
@@ -849,7 +849,7 @@
     "item-potentwineportion-cassava": "Fine cassava ale portion",
     "item-potentwineportion-mead": "Fine mead portion",
     "item-potentwineportion-rye": "Fine rye ale portion",
-    "item-potentwineportion-rice": "Fine rice ale portion",
+    "item-potentwineportion-rice": "Fine sake",
     "item-potentwineportion-spelt": "Fine spelt ale portion",
   
     "item-strongspiritportion-apple": "Aged apple brandy portion",
@@ -881,7 +881,7 @@
     "item-strongspiritportion-amaranth": "Aged amaranth whiskey portion",
     "item-strongspiritportion-cassava": "Aged cassava vodka portion",
     "item-strongspiritportion-mead": "Aged double mead portion",
-    "item-strongspiritportion-rice": "Aged sake portion",
+    "item-strongspiritportion-rice": "Aged rice whiskey portion",
     "item-strongspiritportion-rye": "Aged whiskey portion",
     "item-strongspiritportion-spelt": "Aged vodka portion",
   
@@ -914,7 +914,7 @@
     "item-potentspiritportion-amaranth": "Vintage amaranth whiskey portion",
     "item-potentspiritportion-cassava": "Vintage cassava vodka portion",
     "item-potentspiritportion-mead": "Vintage double mead portion",
-    "item-potentspiritportion-rice": "Vintage sake portion",
+    "item-potentspiritportion-rice": "Vintage rice whiskey portion",
     "item-potentspiritportion-rye": "Vintage whiskey portion",
     "item-potentspiritportion-spelt": "Vintage vodka portion",
   
@@ -946,7 +946,7 @@
     "incontainer-item-strongwineportion-amaranth": "Strong amaranth ale",
     "incontainer-item-strongwineportion-cassava": "Strong cassava ale",
     "incontainer-item-strongwineportion-mead": "Strong mead",
-    "incontainer-item-strongwineportion-rice": "Strong rice ale",
+    "incontainer-item-strongwineportion-rice": "Strong sake",
     "incontainer-item-strongwineportion-rye": "Strong rye ale",
     "incontainer-item-strongwineportion-spelt": "Strong spelt ale",
   
@@ -978,7 +978,7 @@
     "game:incontainer-item-strongwineportion-amaranth": "Strong amaranth ale",
     "game:incontainer-item-strongwineportion-cassava": "Strong cassava ale",
     "game:incontainer-item-strongwineportion-mead": "Strong mead",
-    "game:incontainer-item-strongwineportion-rice": "Strong rice ale",
+    "game:incontainer-item-strongwineportion-rice": "Strong sake",
     "game:incontainer-item-strongwineportion-rye": "Strong rye ale",
     "game:incontainer-item-strongwineportion-spelt": "Strong spelt ale",
   
@@ -1010,7 +1010,7 @@
     "incontainer-item-potentwineportion-amaranth": "Fine amaranth ale",
     "incontainer-item-potentwineportion-cassava": "Fine cassava ale",
     "incontainer-item-potentwineportion-mead": "Fine mead",
-    "incontainer-item-potentwineportion-rice": "Fine rice ale",
+    "incontainer-item-potentwineportion-rice": "Fine sake",
     "incontainer-item-potentwineportion-rye": "Fine rye ale",
     "incontainer-item-potentwineportion-spelt": "Fine spelt ale",
   
@@ -1042,7 +1042,7 @@
     "game:incontainer-item-potentwineportion-amaranth": "Fine amaranth ale",
     "game:incontainer-item-potentwineportion-cassava": "Fine cassava ale",
     "game:incontainer-item-potentwineportion-mead": "Fine mead",
-    "game:incontainer-item-potentwineportion-rice": "Fine rice ale",
+    "game:incontainer-item-potentwineportion-rice": "Fine sake",
     "game:incontainer-item-potentwineportion-rye": "Fine rye ale",
     "game:incontainer-item-potentwineportion-spelt": "Fine spelt ale",
   
