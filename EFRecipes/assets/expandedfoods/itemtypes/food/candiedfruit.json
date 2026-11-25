@@ -71,7 +71,7 @@
           }
         },
         "inPieProperties": { "texture": "game:item/gelatin/{fruit}", "partType": "Topping", "toppingShapeElement": "origin/base/topping candy/*", "mixingCodes": [
-            "cottage{fruit}","cottagefruit",
+            "blue{type}","bluefruit","cheddar{type}","cheddarfruit","cottage{type}","cottagefruit",
             "walnut{fruit}", "peanut{fruit}", "nutfruit",
             "bushmeat{fruit}", "poultry{fruit}","redmeat{fruit}","fish{fruit}","bug{fruit}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
             "fruitmushroom",

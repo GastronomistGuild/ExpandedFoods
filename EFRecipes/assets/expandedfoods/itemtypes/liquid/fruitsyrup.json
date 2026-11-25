@@ -23,7 +23,7 @@
             "toppingShapeElement": "origin/base/topping syrup gear/*",
             "mixingCodes": [
                 "nutpie","fruit",
-                "cottage{type}","cottagefruit",
+                "blue{type}","bluefruit","cheddar{type}","cheddarfruit","cottage{type}","cottagefruit",
                 "walnut{type}", "peanut{type}", "nutfruit",
                 "bushmeat{type}", "poultry{type}","redmeat{type}","fish{type}","bug{type}", "bushmeatfruit", "poultryfruit","redmeatfruit","fishfruit","bugfruit", "meatfruit",
                 "fruitmushroom",

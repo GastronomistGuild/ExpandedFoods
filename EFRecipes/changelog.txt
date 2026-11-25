@@ -137,6 +137,8 @@ EF: Preserves Module begins...
 - Cooking 104 updated to show soy milk is protein and not dairy - DONE!!!
 - Aged sake & rice whiskey text fixed - DONE!!!
 - Liquid text standardized to match vanilla - DONE!!!
+- Meat hook transforms updated again; some items can be hung multiple times from a single hook
+- Cheddar/blue cheese pies added to more toppings (whoops!) - DONE!!!
 
 2.0.0-dev.18
 - Breadfruit fruit leather texture fixed
